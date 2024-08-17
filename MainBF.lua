@@ -161,7 +161,7 @@ function Bring(mob)
     for r, v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
         if v.Name == mob then
             if IsAlive(v) == "Is Alive" then
-                if GetDistance(v.HumanoidRootPart.Position) <= 230 then
+                if GetDistance(v.HumanoidRootPart.Position) <= 250 then
                     v.HumanoidRootPart.Size = Vector3.new(30, 30, 30)
                     v.HumanoidRootPart.CanCollide = false
                     v.Head.CanCollide = false
@@ -209,7 +209,7 @@ function KillMob(targetmob, valuestop)
             EWeapon()
             EBuso()
             Attack()
-            Bring(path.Name)
+            Bring(targetmob)
             task.wait()
         until IsAlive(path) == "Is Not Alive" or not valuestop
     end
