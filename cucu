@@ -94,22 +94,28 @@ function GetDistance(cc)
 end
 
 function Tweento(TargetCFrame)
-    local tweenservice = game:GetService("TweenService")
-    local Distance = (game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position - TargetCFrame.Position).Magnitude
-    local info = TweenInfo.new(Distance / 120, Enum.EasingStyle.Quad)
-    local TargetWithY = CFrame.new(TargetCFrame.Position.X, TargetCFrame.Position.Y + 80, TargetCFrame.Position.Z)
-    tween = tweenservice:Create(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, info, {CFrame = TargetWithY})
-    if Distance <= 250 then
-        tween:Cancel()
-        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = TargetCFrame
-    else
-        if game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Y < TargetCFrame.Position.Y + 80 then
-            tween:Cancel()
-            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.X, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Y + 80, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Z)
+    pcall(function()
+        local tweenservice = game:GetService("TweenService")
+        local Distance = (game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position - TargetCFrame.Position).Magnitude
+        local info = TweenInfo.new(Distance / 120, Enum.EasingStyle.Quad)
+        local TargetWithY = CFrame.new(TargetCFrame.Position.X, TargetCFrame.Position.Y + 80, TargetCFrame.Position.Z)
+        tween = tweenservice:Create(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, info, {CFrame = TargetWithY})
+        if Distance <= 250 then
+            pcall(function()
+                tween:Cancel()
+            end)
+            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = TargetCFrame
         else
-            tween:Play()
+            if game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Y < TargetCFrame.Position.Y + 80 then
+                pcall(function()
+                    tween:Cancel()
+                end)
+                game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.X, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Y + 80, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Z)
+            else
+                tween:Play()
+            end
         end
-    end
+    end)
 end
 
 spawn(function()
