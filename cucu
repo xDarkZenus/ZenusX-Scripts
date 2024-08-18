@@ -97,23 +97,15 @@ function Tweento(TargetCFrame)
     pcall(function()
         local tweenservice = game:GetService("TweenService")
         local Distance = (plr.Character.HumanoidRootPart.Position - TargetCFrame.Position).Magnitude
-        local info = TweenInfo.new(Distance / 180, Enum.EasingStyle.Quad)
+        local info = TweenInfo.new(Distance / 180, Enum.EasingStyle.Linear)
         tween = tweenservice:Create(plr.Character.HumanoidRootPart, info, {CFrame = TargetCFrame})
         if Distance <= 250 then
             pcall(function()
                 tween:Cancel()
             end)
             plr.Character.HumanoidRootPart.CFrame = TargetCFrame
-        else
-            if plr.Character.HumanoidRootPart.Position.Y < TargetCFrame.Position.Y + 80 then
-                pcall(function()
-                    tween:Cancel()
-                end)
-                plr.Character.HumanoidRootPart.CFrame = CFrame.new(plr.Character.HumanoidRootPart.Position.X, plr.Character.HumanoidRootPart.Position.Y + 80, plr.Character.HumanoidRootPart.Position.Z)
-            else
-                tween:Play()
-            end
         end
+        tween:Play()
     end)
 end
 
@@ -369,7 +361,7 @@ kkii:Stop()
 
 function KillMob(targetmob, valuestop)
     pcall(function()
-        local path = GetMob(targetmob)
+        local path = GetMob(targetmob, true)
         if path:FindFirstChild("Humanoid") and path:FindFirstChild("HumanoidRootPart") and path.Parent and path.Humanoid.Health > 0 then
             repeat
                 task.wait()
@@ -486,25 +478,32 @@ function StartMethod()
         CFrameNPC = CFrame.new()
     end
     if Config["MethodFarm"] == "Bones Farm" or Config["MethodFarm"] == "Cake Prince Farm" then
-        if Config["Claim Quest Cakes + Bones"] and not plr.PlayerGui.Main.Quest.Visible or not string.find(plr.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, MobQuest) then
-            if GetDistance(CFrameNPC.Position) <= 10 then
-                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest", NameQuest, QuestLevel)
-            else
-                Tweento(CFrameNPC)
-            end 
-        elseif Config["Claim Quest Cakes + Bones"] and plr.PlayerGui.Main.Quest.Visible and string.find(plr.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, MobQuest) or not Config["Claim Quest Cakes + Bones"] then 
-            if GetMob(MobFarm) then
-                for r , v in pairs(game.Workspace.Enemies:GetChildren()) do
-                    if table.find(MobFarm, v.Name) then
-                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Parent and v.Humanoid.Health > 0 then
-                            repeat wait()
-                                KillMob(v.Name, Config["Auto Farm"])
-                            until Config["Auto Farm"] == false or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or not v.Parent or v.Humanoid.Health <= 0
+        if Config["Auto Farm"] and Config["MethodFarm"] == "Cake Prince Farm" and GetMob("Cake Prince", true) then
+            local v = GetMob("Cake Prince", true)
+            repeat wait()
+                KillMob("Cake Prince", Config["Auto Farm"])
+            until Config["Auto Farm"] == false or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or not v.Parent or v.Humanoid.Health <= 0
+        elseif Config["Auto Farm"] and Config["MethodFarm"] == "Cake Prince Farm" and not GetMob("Cake Prince", true) or Config["MethodFarm"] == "Bones Farm" then
+            if Config["Claim Quest Cakes + Bones"] and not plr.PlayerGui.Main.Quest.Visible or not string.find(plr.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, MobQuest) then
+                if GetDistance(CFrameNPC.Position) <= 10 then
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest", NameQuest, QuestLevel)
+                else
+                    Tweento(CFrameNPC)
+                end 
+            elseif Config["Claim Quest Cakes + Bones"] and plr.PlayerGui.Main.Quest.Visible and string.find(plr.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, MobQuest) or not Config["Claim Quest Cakes + Bones"] then 
+                if GetMob(MobFarm) then
+                    for r , v in pairs(game.Workspace.Enemies:GetChildren()) do
+                        if table.find(MobFarm, v.Name) then
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Parent and v.Humanoid.Health > 0 then
+                                repeat wait()
+                                    KillMob(v.Name, Config["Auto Farm"])
+                                until Config["Auto Farm"] == false or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or not v.Parent or v.Humanoid.Health <= 0
+                            end
                         end
                     end
+                else
+                    Tweento(CFrameMob)
                 end
-            else
-                Tweento(CFrameMob)
             end
         end
     end
