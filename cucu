@@ -158,9 +158,8 @@ end
 function EWeapon(WP)
     if Config["Select Tool"] == nil or Config["Select Tool"] == "" then
         Config["Select Tool"] = "Melee"
-        WeaponChoose = Config["Select Tool"]
     end
-    WP = GetWeapon(WeaponChoose)
+    WP = GetWeapon(Config["Select Tool"])
     local nigger = plr.Backpack:FindFirstChild(WP)
     if nigger then
         plr.Character.Humanoid:EquipTool(nigger)
