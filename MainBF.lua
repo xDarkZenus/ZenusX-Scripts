@@ -39,14 +39,14 @@ function Save(valuefunction, value)
     if not isfolder("ZenusX") then
         makefolder("ZenusX")
     end
-    writefile("ZenusX" .. "/" .. plr.Name, HttpService:JSONEncode(Config))
+    writefile("ZenusX" .. "/" .. game:GetService("Players").LocalPlayer.Name, HttpService:JSONEncode(Config))
 end
 function Read()
     local s, o = pcall(function()
         if not isfolder("ZenusX") then
             makefolder("ZenusX")
         end
-        return HttpService:JSONDecode(readfile("ZenusX" .. "/" .. plr.Name))
+        return HttpService:JSONDecode(readfile("ZenusX" .. "/" .. game:GetService("Players").LocalPlayer.Name))
     end)
     if s then
         return o
