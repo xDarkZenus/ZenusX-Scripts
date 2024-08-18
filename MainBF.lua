@@ -94,10 +94,10 @@ function GetDistance(cc)
 end
 
 function Tweento(TargetCFrame)
-    local Distance = GetDistance(TargetCFrame.Position)
     local tweenservice = game:GetService("TweenService")
-    local info = TweenInfo.new(Distance/ 120, Enum.EasingStyle.Quad)
-    local TargetWithY = CFrame.new(TargetCFrame.Position.X, TargetCFrame.Y + 80, TargetCFrame.Position.Z)
+    local Distance = (game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position - TargetCFrame.Position).Magnitude
+    local info = TweenInfo.new(Distance / 120, Enum.EasingStyle.Quad)
+    local TargetWithY = CFrame.new(TargetCFrame.Position.X, TargetCFrame.Position.Y + 80, TargetCFrame.Position.Z)
     tween = tweenservice:Create(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart, info, {CFrame = TargetWithY})
     if Distance <= 250 then
         tween:Cancel()
@@ -105,12 +105,22 @@ function Tweento(TargetCFrame)
     else
         if game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Y < TargetCFrame.Position.Y + 80 then
             tween:Cancel()
-            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Z, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Y + 80, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.X)
+            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.X, TargetCFrame.Position.Y + 80, game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position.Z)
         else
             tween:Play()
         end
     end
 end
+
+spawn(function()
+    while task.wait() do
+        if tween and tween.PlaybackState == Enum.PlaybackState.Playing then
+            NoClip = true
+        elseif tween then
+            NoClip = false
+        end
+    end
+end)
 
 function GetCakePrinceSkills()
     for i, v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
@@ -181,7 +191,6 @@ function Bring(mob)
         if v.Name == mob then
             if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Parent and v.Humanoid.Health > 0 then
                 if GetDistance(v.HumanoidRootPart.Position) <= 250 then
-                    v.HumanoidRootPart.Size = Vector3.new(30, 30, 30)
                     v.HumanoidRootPart.CanCollide = false
                     v.Head.CanCollide = false
                     v.Humanoid.WalkSpeed = 0
@@ -309,20 +318,22 @@ spawn(function()
 end)
 
 function KillMob(targetmob, valuestop)
-    local path = GetMob(targetmob)
-    if path:FindFirstChild("Humanoid") and path:FindFirstChild("HumanoidRootPart") and path.Parent and path.Humanoid.Health > 0 then
-        repeat
-            task.wait()
-            local hmo = path.HumanoidRootPart
-            LockPos = hmo.CFrame
-            Tweento(hmo.CFrame * CFrame.new(0, 15, 0))
-            EWeapon()
-            EBuso()
-            Bring(path.Name)
-            NoClip = true
-        until not path:FindFirstChild("Humanoid") or not path:FindFirstChild("HumanoidRootPart") or not path.Parent or path.Humanoid.Health <= 0 or not valuestop
-        NoClip = false
-    end
+    pcall(function()
+        local path = GetMob(targetmob)
+        if path:FindFirstChild("Humanoid") and path:FindFirstChild("HumanoidRootPart") and path.Parent and path.Humanoid.Health > 0 then
+            repeat
+                task.wait()
+                local hmo = path.HumanoidRootPart
+                LockPos = hmo.CFrame
+                Tweento(hmo.CFrame * CFrame.new(0, 15, 0))
+                EWeapon()
+                EBuso()
+                Bring(path.Name)
+                NoClip = true
+            until not path:FindFirstChild("Humanoid") or not path:FindFirstChild("HumanoidRootPart") or not path.Parent or path.Humanoid.Health <= 0 or not valuestop
+            NoClip = false
+        end
+    end)
 end
 
 spawn(function()
@@ -350,13 +361,109 @@ spawn(function()
     end
 end)
 
-NoClip = true
+GeneralTab:AddDropdown({
+    Name = "Select Tool",
+    Description = "Select Tool For Farmming",
+    Options = {"Melee", "Sword"},
+    Default = Config["Select Tool"],
+    Callback = function(Value)
+        Save("Select Tool", Value)
+    end
+})
+
+GeneralTab:AddSeperator("Farmming")
+
+GeneralTab:AddDropdown({
+    Name = "Select Method Farm",
+    Description = "Select Tool For Farmming",
+    Options = {"Level Farm", "Bones Farm", "Cake Prince Farm"},
+    Default = Config["MethodFarm"],
+    Callback = function(Value)
+        Save("MethodFarm", Value)
+    end
+})
+
+GeneralTab:AddToggle({
+    Name = "Auto Farm",
+    Description = "",
+    Default = Config["Auto Farm"],
+    Callback = function(Value)
+        Save("Auto Farm", Value)
+    end
+})
+
+GeneralTab:AddToggle({
+    Name = "Claim Quest Cakes + Bones",
+    Description = "",
+    Default = Config["Claim Quest Cakes + Bones"],
+    Callback = function(Value)
+        Save("Claim Quest Cakes + Bones", Value)
+    end
+})
+
+function StartMethod()
+    local MobFarm
+    local QuestLevel
+    local NameQuest
+    local CFrameNPC
+    local MobQuest
+    local CFrameMob
+    if Config["MethodFarm"] == "Bones Farm" then
+        MobFarm = {"Reborn Skeleton", "Living Zombie", "Demonic Soul", "Posessed Mummy"}
+        QuestLevel = 1
+        MobQuest = "Demonic Soul"
+        NameQuest = "HauntedQuest2"
+        CFrameMob = CFrame.new(-9503.9921875, 272.1305847167969, 6250.5703125)
+        CFrameNPC = CFrame.new(-9514.78027, 171.162918, 6078.82373)
+    elseif Config["MethodFarm"] == "Cake Prince Farm" then
+        MobFarm = {
+            "Baking Staff",
+            "Head Baker",
+            "Cake Guard",
+            "Cookie Crafter"
+        }
+        MobQuest = "Cookie Crafter"
+        QuestLevel = 1
+        NameQuest = "CakeQuest1"
+        CFrameMob = CFrame.new(-2280.569091796875, 89.83930206298828, -12041.4326171875)
+        CFrameNPC = CFrame.new(-2022.3, 36.9276, -12031)
+    elseif Config["MethodFarm"] == "Level Farm" then
+        MobFarm = "nil"
+        QuestLevel = "nil"
+        NameQuest = "nil"
+        MobQuest = "nil"
+        CFrameMob = CFrame.new()
+        CFrameNPC = CFrame.new()
+    end
+    if Config["MethodFarm"] == "Bones Farm" or Config["MethodFarm"] == "Cake Prince Farm" then
+        if Config["Claim Quest Cakes + Bones"] and not plr.PlayerGui.Main.Quest.Visible or not string.find(plr.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, MobQuest) then
+            if GetDistance(CFrameNPC.Position) <= 10 then
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest", NameQuest, QuestLevel)
+            else
+                Tweento(CFrameNPC)
+            end 
+        elseif Config["Claim Quest Cakes + Bones"] and plr.PlayerGui.Main.Quest.Visible and string.find(plr.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, MobQuest) or not Config["Claim Quest Cakes + Bones"] then 
+            if GetMob(MobFarm) then
+                for r , v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if table.find(v.Name, MobFarm) then
+                        if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Parent and v.Humanoid.Health > 0 then
+                            repeat wait()
+                                KillMob(v.Name, Config["Auto Farm"])
+                            until Config["Auto Farm"] == false or not v:FindFirstChild("Humanoid") or not v:FindFirstChild("HumanoidRootPart") or not v.Parent or v.Humanoid.Health <= 0
+                        end
+                    end
+                end
+            else
+                Tweento(CFrameMob)
+            end
+        end
+    end
+end
+
 spawn(function()
     while wait() do
-        if GetMob("Bandit") then
-            repeat task.wait()
-                KillMob("Bandit", NoClip)
-            until NoClip == false
+        if Config["Auto Farm"] then
+            StartMethod()
         end
     end
 end)
