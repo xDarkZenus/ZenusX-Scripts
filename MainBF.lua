@@ -1,5 +1,21 @@
+getgenv().LoadUi = true
+getgenv().IslandCaller = true
+getgenv().SettingManager = true
+getgenv().Setting = {
+    ["Kill Aura"] = {
+        AnchorPosition = 0,
+    },
+    Mastery = {
+        Health = 0
+    },
+    ["Collect Chest"] = {
+        LimitChest = 0
+    },
+
+}
 repeat wait()
 until getgenv().LoadUi and getgenv().IslandCaller and getgenv().SettingManager 
+pcall(function ()
 local Title = "W-azure" .. (getgenv().Premium and " [Premium]" or "")
 local SubTitle = "True V2 discord.gg/w-azure"
 local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/xDarkZenus/ZenusX-Scripts/main/Source-Library.lua"))()
@@ -37,15 +53,6 @@ local UiIntilize = {
             pcall(function ()
                 getgenv().Setting["Kill Aura"].AnchorPosition = tostring(game.Players.LocalPlayer.Character.HumanoidRootPart.Position)
             end)
-        end},
-        {Mode="Dropdown",Title="Distace From Anchor",Table = (function ()
-            local Table = {}
-            for i=400,4000,400 do 
-                table.insert(Table,i)
-            end
-            return Table
-        end)(),Default=getgenv().Setting["Kill Aura"].DistanceFromAnchor/400,OnChange=function (state)
-            getgenv().Setting["Kill Aura"].DistanceFromAnchor = state
         end},
         {Mode="Toggle",Title="Use Sword",Args = {"Mastery","Sword"}},
         {Mode="Toggle",Title="Sword Switcher",Description="Switch Sword When Have Enough Skills (Default) or Max Mastery",Args={"SwordSwitcher","Enable"}},
@@ -1885,3 +1892,4 @@ for _,Name in pairs(UiOrders) do
     end
 end
 return Title, SubTitle, ElementsCollection
+end)
