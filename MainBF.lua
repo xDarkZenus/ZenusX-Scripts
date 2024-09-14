@@ -11,11 +11,23 @@ getgenv().Setting = {
     ["Collect Chest"] = {
         LimitChest = 0
     },
+    BossSniper = {
+        SelectedBoss = "1"
+    },
+    ["YoruV3"] = {
+        SelectedPlayer = false
+    },
+    GetFruit = {
+        Enable = false
+    },
+    Fruit = {
+        AutoStore = false,
+        EnableSnipeFruit = false,
+    },
 
 }
 repeat wait()
 until getgenv().LoadUi and getgenv().IslandCaller and getgenv().SettingManager 
-pcall(function ()
 local Title = "W-azure" .. (getgenv().Premium and " [Premium]" or "")
 local SubTitle = "True V2 discord.gg/w-azure"
 local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/xDarkZenus/ZenusX-Scripts/main/Source-Library.lua"))()
@@ -110,7 +122,7 @@ local UiIntilize = {
             Mode = "Dropdown",
             Title = "Select Boss To Snipe",
             Multi = true, 
-            Table = AllBoss[tostring(game.PlaceId)],
+            Table = {"1", "2"},
             Default = getgenv().Setting.BossSniper.SelectedBoss or {},
             OnChange = function(state)
                 local Values = {}
@@ -1892,4 +1904,3 @@ for _,Name in pairs(UiOrders) do
     end
 end
 return Title, SubTitle, ElementsCollection
-end)
