@@ -2,7 +2,7 @@ repeat wait()
 until getgenv().LoadUi and getgenv().IslandCaller and getgenv().SettingManager 
 local Title = "W-azure" .. (getgenv().Premium and " [Premium]" or "")
 local SubTitle = "True V2 discord.gg/w-azure"
-local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/vinhuchi/rblx/main/FixedFluent.lua"))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/xDarkZenus/ZenusX-Scripts/main/Source-Library.lua"))()
 local UiSetting = Fluent.Options
 local IslandCaller = IslandCaller or getgenv().IslandCaller
 local SettingManager = getgenv().SettingManager 
