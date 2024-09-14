@@ -14,9 +14,6 @@ getgenv().Setting = {
     BossSniper = {
         SelectedBoss = "1"
     },
-    ["YoruV3"] = {
-        SelectedPlayer = ""
-    },
     GetFruit = {
         Enable = false
     },
@@ -24,7 +21,7 @@ getgenv().Setting = {
         AutoStore = false,
         EnableSnipeFruit = false,
     },
-    
+
 }
 repeat wait()
 until getgenv().LoadUi and getgenv().IslandCaller and getgenv().SettingManager 
@@ -156,9 +153,6 @@ local UiIntilize = {
             IslandCaller("YoruV2")
         end},
         {Mode="Toggle",Title="Yoru V3",Description="Auto Upgrade Yoru V3",Args = {"YoruV3","Enable"}},
-        {Mode="Dropdown",Title="Select Player",Description="Select Account to upgrade together",Table=IslandCaller("__StrGetPlayers"),OnChange=function (state)
-            getgenv().Setting["YoruV3"].SelectedPlayer = state
-        end},
         {Mode="Button",Title="Refresh Players",Callback=function()
             ElementsCollection["Sub Farming"]["Select Player"]:SetValues(IslandCaller("__StrGetPlayers"))
         end},
