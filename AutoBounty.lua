@@ -5,6 +5,13 @@ getgenv().Setting = {
     ["Kill Aura"] = {
         AnchorPosition = 0,
     },
+    Mastery = {
+        Health = 0
+    },
+    ["Collect Chest"] = {
+        LimitChest = 0
+    },
+
 }
 repeat wait()
 until getgenv().LoadUi and getgenv().IslandCaller and getgenv().SettingManager 
@@ -102,7 +109,7 @@ local UiIntilize = {
             Mode = "Dropdown",
             Title = "Select Boss To Snipe",
             Multi = true, 
-            Table = AllBoss[tostring(game.PlaceId)],
+            Table = {"1", "2"},
             Default = getgenv().Setting.BossSniper.SelectedBoss or {},
             OnChange = function(state)
                 local Values = {}
