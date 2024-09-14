@@ -1,1 +1,4706 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _OmGRMwwfMVCl = a; end)); return(function(h,...)local b;local d;local t;local z;local a;local f;local e=24915;local l=0;local n={};while l<995 do l=l+1;while l<0x30f and e%0xca6<0x653 do l=l+1 e=(e-855)%33438 local r=l+e if(e%0x4828)>=0x2414 then e=(e+0x1c7)%0xb76f while l<0x28d and e%0x3396<0x19cb do l=l+1 e=(e+757)%49876 local d=l+e if(e%0xe10)<=0x708 then e=(e-0x241)%0x7f21 local e=95731 if not n[e]then n[e]=0x1 b={};end elseif e%2~=0 then e=(e+0x3d9)%0x8be0 local e=72789 if not n[e]then n[e]=0x1 z=getfenv and getfenv();end else e=(e*0x165)%0x8ee3 l=l+1 local e=88557 if not n[e]then n[e]=0x1 t=string;end end end elseif e%2~=0 then e=(e-0x136)%0xa9f4 while l<0x3b2 and e%0x2842<0x1421 do l=l+1 e=(e+222)%48516 local f=l+e if(e%0x4cc2)>=0x2661 then e=(e-0x313)%0x5993 local e=50301 if not n[e]then n[e]=0x1 end elseif e%2~=0 then e=(e+0x1db)%0x6037 local e=39384 if not n[e]then n[e]=0x1 d=function(n)local e=0x01 local function l(l)e=e+l return n:sub(e-l,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=t.byte(l(0x01))local e=l(e)if n=="\2"then e=b.FDpdbBSa(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then z[e]=function(e,l)return h(8,nil,h,l,e)end elseif n=="\4"then e=z[e]elseif n=="\0"then e=z[e][l(t.byte(l(0x01)))];end local l=l(0x08)b[l]=e end end end else e=(e-0x2c5)%0x6951 l=l+1 local e=969 if not n[e]then n[e]=0x1 end end end else e=(e-0x395)%0x47d2 l=l+1 while l<0x7d and e%0x33b8<0x19dc do l=l+1 e=(e*798)%41849 local d=l+e if(e%0x4b72)<=0x25b9 then e=(e-0xd4)%0x9567 local e=27016 if not n[e]then n[e]=0x1 z=(not z)and _ENV or z;end elseif e%2~=0 then e=(e*0x72)%0x639a local e=70536 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\70\68\112\100\98\66\83\97\0\6\115\116\114\105\110\103\4\99\104\97\114\119\110\85\90\122\122\120\97\0\6\115\116\114\105\110\103\3\115\117\98\69\66\68\106\82\67\86\75\0\6\115\116\114\105\110\103\4\98\121\116\101\107\68\115\103\110\115\119\84\0\5\116\97\98\108\101\6\99\111\110\99\97\116\69\107\116\119\76\82\122\121\0\5\116\97\98\108\101\6\105\110\115\101\114\116\74\97\100\101\81\108\103\72\5";end else e=(e+0x288)%0xbf02 l=l+1 local e=6643 if not n[e]then n[e]=0x1 a=tonumber;end end end end end e=(e*701)%23213 end d(f);local e={};for l=0x0,0xff do local n=b.wnUZzzxa(l);e[l]=n;e[n]=l;end local function r(l)return e[l];end local t=(function(f,d)local h,n=0x01,0x10 local l={{},{},{}}local z=-0x01 local e=0x01 local t=f while true do l[0x03][b.EBDjRCVK(d,e,(function()e=h+e return e-0x01 end)())]=(function()z=z+0x01 return z end)()if z==(0x0f)then z=""n=0x000 break end end local z=#d while e<z+0x01 do l[0x02][n]=b.EBDjRCVK(d,e,(function()e=h+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 b.JadeQlgH(l[0x01],(r((((l[0x03][l[0x02][0x00]]or 0x00)*0x10)+(l[0x03][l[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return b.EktwLRzy(l[0x01])end);d(t(185,"Yl2J=q^/K;Ny*OpZ=*"));d(t(7,"OUb)Q>_zd ,nS2-## #d>->dQ#)#)2b#S>U-bdU U>- 4,xwS#Sz2)SUn2_,_QSdnQ,n,#,d,_,Qzd_S_>> >2_ #-#n>#>,Q,QdQzU-b#)dU2b>-#%-2# Q )# #)-,2,2dS,_USb,#nn,),Uz_zb_Sz#zSd__Uzb#,#z> Q_>b)#2>)>b_bsbSU2*SA_-)#)#)#d->S zbz)2)n-S_nd, nU z,)d d)d_zd>#z,_zQb__Q#bzbb2d2QUSbQUnb>U U>S#2_#d#.S,2,- nQnz_U>,S_, ,,,- # )zddddddbQ#>_#2#>b_Q >zU-)bU>/_b_U2nb,#UQZd{>###_-_-Q2_S-2_n2S> Sn2 z,,)+b- _zSz_z _nG>_2>#>,QQ)#Qv)TU,bSV)bay2<SUG , >#2-#-,2QS#2P2dnS n,L,- QdV _b,bQddd)z)zUzhQ2_!Qd>Eb)Uz)#XSSUnSbbw2B2###_KC-z2Un#S#nQnb,d -Q2Q,,S  ,> bbddbdUz2z_zb_z)#>-)d)SQ UU)dS_"));local e=(-18345+(function()local n,l=0,1;(function(e,l)e(e(e,e),e(e,l))end)(function(z,e)if n>354 then return z end n=n+1 l=(l-984)%36426 if(l%1614)>807 then return z else return e(e(e,z),e(e,e))end return e(z(e,e),z(z,e and e))end,function(e,z)if n>206 then return e end n=n+1 l=(l*741)%27277 if(l%1734)>=867 then l=(l*758)%39401 return e(e(e,e),z(e,e))else return z end return z end)return l;end)())local s=b.zeKWlYLi or b.bSlJnbhs;local te=(getfenv)or(function()return _ENV end);local z=2;local f=4;local d=3;local m=1;local function de(k,...)local r=t(e,"!>i-l*AzT{=VW<F(V**E(T=:lV(V{Tl+FT<W=zl-F{{WiTFWT{l{<<{iWVz<>TW)ATA(azW<l(oi=*zz>(VAl*(ATV*W{Vl{FT{e-Ti>FW{liAF({W-{<F{{WVTf>TWQATA*iVW*z=({WAzR><WllVO*V=AA0>=-l<{-*(F?TT-8iWFT{>l-{TTA-><Wz<Fs<(z>iVT.zTiiWzzl?<V-AWw*=W>dX(={*W(T*Ti<(z{(lA<-T<--{TzA(Vz-ilWBAT>}Z(W>z>il{FA(>={-A S{Vl*l{Vl{FT{x-Ti>FW{li(F{{A-lFz{zWVzW>TWIATAli(W*A<>F=VA*>=WAA>.-=<(-{WluFT{j{(l>(*{*<VT{iT<xzTz_-l<>{>i*<=*zi<W{yVV=*T+j=T{z*<>l{V**S=VA*>(-{<F-=>-K<TT}z*-(FzTF>V<*zV>(VVTli=W{zA>zWVlT>>Vl*W+*VA->fWVl*={--(FETT- iTFWT{l{<<{i-V{z>TWYAT>)V>A oTV#*{)s=T*Bu==VlT(}{TlWFT{Z-T(iT<-Q<TTKi=<LzTipFFz<>TW%AT>AVTA>rTV**T;lVz*X(T=olF(7{{lrFT{V-{F7TT-><TTSiTFi>_i;WTz+i>WSAT>g<TFW_TVf*T1y=T*V(TViA>(N{=la(*{+-TF0TT-T<TTbiT<izTiiWT{QiVWDAT>PVTAE3{VQA=rT=T*>(T={lT(N{TAy(A{Z-{FvT{-_F-TX-=F-zTi-WTzT>TW&AT>H<lAu){Vf*VMg==*m,=*TlT(i{Tl{FT{3-TSc=*-d<=TPi=<ST-ip<=z=>TWlAT>lVTA&tTVbAF+N==*E(W=2l=(SVT*<FT{--TFKTT-A<T{i-F<9z<iJ<izQ>TW1AT><VTA-MTV**T8i=T*oTW=IlW(r{TlEFT{x-F{lTT-*<TT>iT<>zTiiWTz;lWW)AT>2V{A4ZTV;*T-l=T*U(T=ilT(J{TlA{W{_-FF6T=-X<{T}i=<YzT*lWTzE>TW-AT>sVTAE-WV *T,:={*d(T=L*T-z{TllFT{--TFATT-ATWTOiF<kzTitW{z9><W%ATllVTAbeTV-*T#v=T*&iW=qlT(5{<lkFT{j-T>lTT-;<TTwiT<szTi9(Wz_>TW:A{>vVTA_RTFl*TvC=T*i(T=,lTUx<(lHFW{p-(FKTF-y<TV-iT<lzTiiWTzq>TW?z->>VTAcL{V%*T#&=V*U(T=d=W(Z{TlmF{W-AV>-VVA-uV*-Az<>zTiIWTz%>TWoVr<xV{AgJTV^*TrxiT=e-T=-l<(_{TlM-V(W=>l-F<--F<T_iT<cVVT(-l<(T=>-W<T>i<W*zA>-V<lV)<W{AT_(V>*F?Wl-FW{j-TFw<={*-V(li=<>zVi=WTzo>T.>WWzl.lW(A{>l{(**(>*-QA=)lT(aFV=-*=((=llW(>{F-(WA{=->F*T*WVzl>TWgAT*<>{W{zAV-A-bj=T*ulVKWV>*-(<T-l<(F=Wl*(=--<WTCiT<gWAT>-*<*>VWAAT>pVT=-zz>WWzzi<V*>(T=)lT(_{TlXi<<f-{F TT-h<TTHiTV?Vzi-WFz2>TWNVTz>i=W*zAil*VKz=T*J(TF<={*{%ATz-<<{-VFlTT-4<T<-{>l=<<i>WTzY>TW:AT{H((=Ox{Vh*T J=T*_(T<TTT(-=llMFT{gT<i{<l{{lV(lzl->(>T(-<Fl>VWWAT>1VTV0A{>lVWA{>AVzl=e{=(*TYWl-(({,-TF_(={i*nF>{Vl-<<{l-><l*iF({zlAFT{>-WFiTF->F>T{iV=ilT(-=mlEFT{}T<i{WV{(l=FFT<liz{iYWTzw>TWIAT? (zA-Y(Vn*T_eF<VF*{/iVl**(Wl-FW{p-TFUW<{Fl<F<i{zT<=<Viz{V-z{(=z>-W>Ap#TVg=VA->=V**<LFT(A*3>l-F<{f-TF1WF=i-{F<T<<-T-ikWTzoATi>WWzli>WFA((WV<AA>W*- i=,lT(1FT=>lW(l=>lFF(Tllz(;iV<-zTihWT<Fz<-zAV>{VTAmkT6-VVA>>lV*lW>{VT**{VllFT{:-T->(<{>-WT>iT<wzTAq(V=-fV((A{>qVTA ?TV6<Tl{FT*-M-=clT(_F>=<l{(z{<i-(z{Wlz(i*V<>zTiIWTzB>TWCzT*_VVA{3TVQ*T*l>(V**<BF{W*{o*=*F{{r-TFdTT-B<TzTAz<-T-i8WTzn*<i><Vz{iAWz*Vil<>AWy<*-Gi=YlT(yFW=>l=VUT+l((l{l-<(iiV<AzTiSWTW=A>iFWWz*-4A->iVw*T^t(VV*AlX*=VAl({=i*l(*-{F7TT-r<TT7FTi.VTi-<TzU>TWR==z>>VWVA(iiWzz*>AVl-Vj(Vl*(#=z-FV{W-TFuTTz-lz(i{A-*F=zii{<lT>-*<V>-WTABYTVk{Wzi>zW4lV:T={*lEzVz-P((=lllF<=i<VTAiT<tzTA>iW<lAWi>W=>-WiA6BTVu=<l{F(Wi*{2lV>**XAVlFV{=-TF8TTzTlz(i{>l=FzTF-W<>TlW-zi>RVTAQ*>><V{AzP<{W*{Ii=<*W{{V*.{-WVz><{i(z>zT-iV<CzTiC>W<>z=W-z->aVTA.l{>FVVAT>zWilTY(V>*FeWl-(,{j-TFJ<<z{iV(l{=-(F-T*WVzF>TWgAT*-iDW>zA>FV<AWWT{W*{>{=<Ai&Vl-(*{n-TFrWV{(llF({=i-<<{>-<<*TAi-W<>>VTAyETV8*TowVO{f({=7lT(&{Tl54T;WzTF-{=-S<TTczV--F=T(-l<W*=i><=Ali5W{AV>VWAA*>VW-(VVKlT(n{TT-*l({=T*-WW{*lVF-T<-F<WT>-AFlTVW-z->,VTA,*l>><>A(><Wllz>i=W**s=l-(i{t-TFYWV{>lA(AT{l-WVT{li<*>{WdAT>LVTANFT>({T)-V>*1(T=t{W*T,>=-*-(F{<*-(V--FiT)iT<bWlT>l><*T=--V*z>i>WF){V?*T&Q=T*H(ai>TT(-=llyFT{vT<i{<T{>-(F*zl->(>T(-<Fl>VWzAT> VT=-zL>>WAAFK<VW({=/lT(h{Tl/FT{I-TF-{R-U<TTtz>-FFV{li{<FzVi*A{-ViAi=Tzzil<FTFz*>(T=1lT(/{TlX>F<_-VF{TT-5<T<-{zliFWA(-=<lz<-iAV>=VTA ZT(lW=A(>T=-A9U>=W*(E(l>FT{k-TFUTT-9->WwiV<*zTi:WTV{T*i>W(z*VVA-HTVe*Tzl>zWe(V={lT(+{T{*->F#{{llFW{{lAFziV<*zTinWTV-TziW<zTiVVATyTVu*T*U>zW-A>>lV>*(:Al-F({M-TFLFF=ilzF<z=>zV=i>WTzD>TW3AT>B({=tsVV<*TQ =T=.*{1l=W*{CA=zi=((=W*l(z{<<VTziT< zTzAi<<-TWi(<=liVVz>XTV&*Tl{>*V>*(?*{WAi({=F*VE%{{*iF<{F-V({iV<lzTiCWTW**Wi{<*>>VTA9mTVm*TTnF{{_(VVAlT(D{TTil{(-=-lz(={(l<FFTWilF=T>-AF-TTi><=z*iAW-T>V-*FSs=T*S-FJ(Vl*l(<ViFV{W-TFMTTzilz(iTW-*F=A--z<WTz-i{V>-W*A?HTVe{FA{>lVW-W.{V=**(VVl*>((=AF-T(-g<TTxzT-><WTl-><Fz(W>AT>2VTA6^TVj*Tl}={*3(T=qlT(y>TTTiT{--<F,TT-}i<Wl{>-<==i-<zzr>TWQ==z(i=WlA<ii=VA{iiV*lT:{W9**,li-F{{x-T(iA--R<{Txzi<RzTihFTTl>TW>AT>>VTTi9TWi*W_a==*4>A=&lT(Z{Tl(FT{>-TFiTT-i<T{i--</z=iy>izq>TWxTT>*VTAiITVi*Tii=TAi3i=alV(mVzlNFT{x-T*{TT-i<TTiiT<izT-i=-z2>VWbVi>uVTAciTW-*Th-=T*-(TWilTyi{Wl.FW{N*>FQTT-)<TTziT<-zTiiWTzi>T<iTl>CVWAQ*iV^*Tc8WT*T(T=llT(l{TAiFT=il(F?T<-b>iT0iT<pzT{{WTzl>TWiAT>iVTziF-Vp*<XN(i*b(T=yATr*{Tl*FT{*-T#iTTliFWT5iF<O=WisWTzq>T<lAT>*VTAi6TVi*T>iV**R(F=a{i(O{Tld4T{(-TFATT-A<T=iiTFiz{iqW(z6-zW AT>}VT<{%TVA*TJi=T*i(TVii-(P{(l:-i{;-TFa=Tli<TTziT<zzTliWTTi->WczN>pFFAMJTVa*T>i=T*z(T=ilT(i{T*i(r{ElZFj<i-0<TT0lT<-zTiTWTzT>TFiATiiW>At>>Vxzzqa=T*x(T>{lT(T{TliFT{i-T(iA--fF>T_zi<tzTi7FTTT>TW{AT>{VTTioTWiAz34Vi*H>z=flT(0{T*<FT{{-TFiTT-i<T{ii(<dTiiv>iz5>TWwTT>VVTA=mTV=*Tii=TAio^=R*-(fV>lhFT{K-T*{TT-=<TTiiT<izT-i=-zYi-WCVi>gVTA)iTV=*T)V=T*V(TWilT3i=Wl4(l{qziF)TT-K<TT{iT<VzTiiWTzi>T<iz(>MWlAm*iVu*TurWTAA(T=WlT(W{TAiFT=il>FM{*-kF>TwiT<ZzT{{WTzW>TWiAT>iVTziF-VrA*8k(i*s(T=&AT5V{Tl<FT{<-TKiTTliF>T8-A<UW=iMWTzc>TW=AT><VTAi)TVi*T>i=V*^4A=_{i(^{Tl4_T{*-TFFTT-F<T=iiTFiz(iy<zzai<W0AT>0VT<{ETVF*Tni=T*i(TVii-(x=zlP-i{:-TF%=TlA<TT(iT<(zTliWTTii{W#zT>k<zAQYTVd*T>z=T*((T=ilT(i{T*iFV{GlTF7<i-Q<TTolTFWzT-dWTTm>TFiATiiWWA^>{Vpz>#Y=T*a(T>{lTQB{TliFT{i-T(iA--:F{Txzi<mzTivFTT8>T<>ATi>VTTi)TWiA4_SV=*r-i=HlT(%{Tl{FT=>-TFiTT-i<T{il><;T=ip>iz7>TWMTTizVTzirTWi*Tii=TAipW=k*V()VzlYFT{q-T*{TTli<TTiiT<izT-i=-z:iVWjVi>OVTAXiTV**T>-=TA-(TWilTviV*lc(W{7{*F5TT-Q<T{>iTF-zTiiWTzi>T<iA{>7WWA:*iVG*TJOWTAa(TVllTEl{TAiFT=il*Fq{<-K>(TmiT<PzT{zWTTl>TWiAT>iVT{:#{V&*{vaVl*tZ{=RzT(({Tl>FT=V-T(TTT-C<<Tp-<<6zTiLWTzyiT<^AT>>VTzbeTW**T-/=(*v(==n*l(G=ilD(T{(-TFiTTlL<TT>iTFi=TiX<<zUz/WgAT>H<TAVITW**T>*=Tzi(TViAi(a=FlX(z{7-TFS{=l*<T{ziT<(zTicWTz.>(Wrz<>3W(Anq=VfATy<=T*i(T<{lTC*{T*i(T{Kl<Fs{*-y<TT0lT*azT-*WTT*>T>*ATiiFAAv>FV+{V9t=T*HB==(lTqz{TT-FT{+-T(i{z-#(sTtAV<gzTiIWTzl>T<*ATiTVTAi3TWOziq8==*1iT=q*<(v==*iFT=*-TF<TT-r<T=jlJ<aT<iC<<zXA<W5z=A*VTzAuT({*T#4=TAiuF=E*((YF>lEFT{_l=(=TTlT<TW{iT<+zTic<>zei<W4Ta>YV=AL>TW**T1i=T=F(TV*lTi+=ll&F={8{WFL<>-jF={*iTF*zTT-WTzG>TFPT>>QW<Af><V4z=PeV=*W(TVAlT9<{TltFT=ilAFM{(-Qi>T#iT<GT=i>WTTT>TW(AT>#VTzi_=V/z>9X(>*?(T=4lT(*{T**FT={-TFiTTlqF*TNi=<BWWi,<<z:i=*TATi*VTW-MTV}*TiLW>*p?<=U*<(KV=l8(==*-T(ATTz{<TT?iTFiT>iL<(zd*FWPAT>_W=zv.TWT*Tl{=T*h(TVi*<(NV>lJiA{G-TFXTT-A<T{*iTF{zTiiWTT9iiWCA=>KW=AZ><VwAT>A={*-(TVSlT(i{T*i9i{fl<FY{*-9<TT}lTF%zT-*WTT*>T>*ATiiWWAY>FVaTzjS=T*L/==<lTcz{TA(FT{y-T(i{l-)(^T/*z<gzTiIWTz=>T<*ATiTVTAikTWojl/M=W*xlV=8*<(6WTl-FT{l-TilTT*=<T{o-T<+zWi3<Tzj>=W}z=>(VTz*7TFW*T8c=Tzp>l=L*<(D=<lSY={4-T(WTTlA<TT>iT<RzT-i<-z8i(WoA<>CVTA_iTW-*T>z=TAz(TWilTyi==lv+g{/T>FkTT-qF=TWiTF{zTi<WTz_>TFbFT>%<>Ami>VM=<B_V=={(TV=lT(F{TlBFT=il*Fk=--OiFToiT<xT=i=WTTW>TWFAT>SVTAM>{Vkz>+KWl*y(T=rlTH*{T*zFT{1-TFiTTli(>TylB<wz<iKWTz3-T<VATiTVTzTRT<i*T>iV<*}>>=DAi(v{TlE(==<-T(=TT-<<TTeiT(0TViMFizy-iWZV<>OW=>(^TWV*T>-=T*+(TVi-{(.Vll}(V{?-TF_{=lT<T{<iTF-zTi,WTz/-lW/Ti>2<*A8.TVK*T>l=TAT(T=ylT(7{TlS(l{HlFF8TT-S<{TZiTl{zT-*WTzi>TWiATiDT(A/X<Vy=V/4V<*&4T=zlT(*{T*5FT{i-T>a=>-#<FTU-l<L==io<Tz{>TWAATi^VTAixTFpAWBu=F*b*l=?Ai(hWT(<FT{A-TllTTz{<T{ii<<NT<i0iVzx>TW;TT><VTz*4TW**Tii=TAi((=t*F(xVilRFT{al=(WTTlz<TW{iT<HzT-i<lzI-0W_Ti>,VTA7>=VW*T>{=T{{(T=XlT(2=ilC(<{#*>F)T=-_FT=Vi{<AzT-iWTT*>T(Qz<>8VFAP-*Vf=>sv<TA=(T=zlT(W{TTFFT=Xl=FcT(-_FTT_iF<uT=-{WTT*>T>TAT>_VTTs>-V7A<X%V<*_>==0*=G-{T*AFT{(-TFSTTliiiTP-(<0TzijWTz >T<{ATi*VTzzLTVi*T>dVV*/((=kT>(O=<lX>T{--TFzTTTW<T{=iTRR{*i#W(zYzWWpV>>_W=zi^TW**TA-=T*G(TWZ*{(_=<lS(<{6*=FQ{=l<<{{AiT<(zTiBWTTi-lWhz(>7U>A%cTV)A=qW=TAT(T=(lT(C{T*i(W{p*>Fr<>-t<TTQiT<TzT-*WTT{>TWiATi+<lALB(V0=WOvV<*&r==WlTx*{T=-FT{B-T:%=>-&F<T^-<<2{=iu<=zz>T<AATi=VTAh)TWizi QV(*U>F=OlT(S==l=FT=T-T(=TT-E<T{ii=<+{>i2FFz)>TWZATilVTz*OTW{*T?i=TAu>-=Cl((g==l_(<{5AT-WTT-z<T=<iT>{zT*tiWz#>(WZVT>yW(Ap>=Vz*T>*=T*<(T=olT>k{=lf(<{Pl<Fq<<-ZF={liTFAzTA{WTz;>T<izF>KW(A%*>V}*TcxV=**(TVTlT-{{TltFT{C-(F,{<-p(}Toi=<eTTAzWTzz>TFzATi*VT{UAlVI*(qJK>*Euz=Y*=TT{T**FT=W-TF4TT*C*TT+-<<gT<iJFVzG-T(=ATi*VTz*BTVl*T>yVW*o((=yAV(7=<lf(==*-T(*TT-A<TT8iT(3T-ip<<z&i<WDT=>aW=z&YTWA*TAi=T*L(TVi**(+=(l^l={h-TFD{=-><T{TiTRFzTiZWTTi<zWXT>>6(AADBTV6*T}==TA*(TV{lT(i{T*wi({}-(F){--1F<TP*T?AzTiTWTzW>T>>ATiNWAAm>RVXAT3^==*}4=VllTQ*{Tl<FT{k-Th:=y-HF<TC-<<.W<io<=TT>T<AAT*-VTA#RTWi*WD7V(*,-V=1lT(8==l-FT=T-Ti-TT-L<TTQiF<0T<ibF,z9>=WxzTiAVTAT+TF5*T>*=TTL>l=7*4(5(ll8Mi{Rl=F>TTl*<TT<iT<MzTlnF*zyi<Wbz<>?Z<AY>=VA*T>A=T{{(T=nlTei{=lu(({DT>F:TT-RF==<iTFTzTA{WTz#>TWZz{>?W<AbiaV8*=O?VTA>(T=TlTlF{T**FTWm-FF7{f-_-WTEz><_T=i<WTT*>Ti-AT>JVTTU>WVDA<&8V<*q>==0*=_l{T*AFT==-TFGTTlii{TB-(<LW>ifWTz_i=<<ATiTVT={:TVO*T>iVi*o>>=C{z(Q{TlvFT={-T(*TTl{<TTiiTFhT-iq<}zhi=WJz<>ZFTzA0TV{*TtW=TTT(TVX*T(j=>ld(T{)lUFj{=(=<T{*iT<<zTi^WT{}>=W}z<>YW<Aa*<VIA=^l=TAA(TF-lT(R{T*i1>{2l(F3WV-&<TT3-=FWzT-TWTV->TWyAT>KVFAu><Vtzx/m==*eBTVAlT({{TzXFT=*-T>uFW-3F>TqTl<8{ii,<=zi>T<*AT><VTAjKT<hAz/3V<*26<=3{<(G==*VFT=A-Ti{TT-B<T{i-{<fT(i.>>zJ>TW^z=>*VTzT9T({*T)p=T*M((=G*<(_VLlQF={5lTlzTT-{<T<FiTF*zT*:W=z1i>W5WW>85>Ar>=Wl*T>*=TV-(T=SlT>Q={lu(<{bl<F/==-tF=TliTFAzTA{WTzv>T<izl>BW(Ar>WV?*T08V=*T(TVTlT-{{TlIFT=i<iFL=>-QilT3iT<#zTi(WTT*>T<{AT>iVTz&i-VsA>K%(W*:k<=R*=f{{T**FT(--TFdTT*+FFTY-<<fT<i%F=z:i=WzATiAVTz=#TV1*T>iV/*:o(=7l=(R{TlN(=l(-T(TTTz{<TTKiTFi>iiXF>zqz-W4AT>:VTz{HTW**T>{=T*i(TVD**(3=>l_(={Ll<F}{=--<T{*iTi=zTi6WT{ui=WNz<>QW<Adi=VCA=>{=TAA(TF{lT(t{T*i(<{Cl(F6W*-Y<TTxiT<=zT-*WTTz>TWiATi_((Ax>iVdT{%6V<*7STVAl{(={T*JFT{{-T(iTW-uF<T,-*<vzTi6FTz->T<*ATi*VTV*MTWiz_Z_VF*hiz=/lT(S==lFFT=z-Th(TT-#<T{i-z<.{biB(zzB>TWwATizVTz*ITWT*TRi=TAo(W=>*-(3FVla(<{cAT(-TT-V<TWliT(*zT-u<=zyi-W+zT>MW>AC-TVT*T9W=T*W(TWWlTUI=Als(l{plTFs{>-:F=T<iTF*zTi<WTzS>TFqzF>;W<AP><VD=<+_V==*(TVAlT--{Tl/FT=ilFFv{(-t>VTmiT<:T=-AWTTT>T,-AT>KVTA6ilV#A<OeWa*r(==P*T(F{TlWFTW1-T(*TTA&FlTI-l<5<li.Fizei=<AATi*VTA<wTVg*Ti8<T*>.<=D*<(PF<lQ(={{-T(ATTz{<TT4iTFizViL<(zrA>W:AT>&W=z*bTWT*Tl{=T*q(T=YAl(;=<l1N/{^-=F7{Tli<TTWiTiFzT-*WT=2i<WKzl> >WAr*>V)TTV<=T*W(TWFlTwT{T*i(*{al<FGFV-j<TTvlT<=zT-*WTT*>TFiATiiW<AR>FVBziHC=T*Uh==FlTkz{TT{FT{^-T(i{=-x(QTIli<RzTiB<=z*>T<{AT*{VTALfTV,lV24V<*2>>=+l=(?=T*{FT{W-T(iTTl*<T{iiW<yT<i9iVz5>TW9TTiiVTz*XTW**Tii=TAi9V=N*F(_({lcFT{6l=FzTTlz<TW{iT<czT-i<zzj-MWmV>>7VTA?>=zF*T>{=T{{(T=vlT(;{WlD(<{N*>F,T=-QFTT(iT<WzTAiWTT*>T(gzl>OWlAUlzV)=>x&VTAA(T=<lT.9{TlWFT=iATFg{<-J-iTmiT<H{T-lWTT*>T<*AT-iVTzi>lVjAFKI(>*L(T=+*=(={T*zFT(>-TFeTT-YFAT2-<< T(ixW=z9iT<WAT><VTVztTW**T>iVl*;9<=y=i(q{TlJ5T*{-T(*TTl*<T=iiTFiTzis<Fz5A>W&AT>NW=zi^TWz*TA>=T*R(T=Ll((%=<lB(({_-=F%{T-l<TT<iT(pzT-*WTTii=WMz<>?>iA%9TVwzTR==TA*(TV*lT>i{T*i=z{ulFF+<>-w<TTE-=A=zT-zWT<>>TWuAT>}W-AQ><V#A(bg==*}pTV=lT(<{T*AFT=*-T(i=>-HF<T_Ti<RzTioFTTz>T<*ATi*VTTioTWi*<x_VF*Il>=?lT(2==*iFT=z-T TTT-;<TTb*z<>T<iJ<(zr>=WCzT>WVTA<HT<>*T>*=TAfa{=%*A(:=TlX(l{#l=(=TTl*<T{WiT<?zTl}<Wz)i<W%z<>.>zApiTWl*T>*=TA*(T<*lT)5{=lk(A{.{zFQ{<-pF=T-iTF*zT-WWTz4>TFMTl>RW<AI><Vb=*sJWTA*(TV*lTX*{TT>FT=rz(F+{A-ei*T4-<<JT=VTWTT*>T>=AT>CVTTMTTVjA<6.V<*4>==j*=>z{{*AFT<{-TF.TTli(-T/-(<C=fiaWTzI>T<TATi*VTzz%TVi*T>jWi*#:A=C=T(3=<l:>T{T-TF(TT-W<TWTiTFdTFi9<zz,iTW8A=>?W=A<.TW**TQ<=T*d(TW zT(>=<lC(<{;T<FB{=-l<T{AiT>-zTi^WTTiiiWyz(>y(VAEPTV A=dz=TAT(TF-lT(/{Tlefi{tl<F3=e-e<=T_-TF{zTi(WT=Y>T<*ATlgWAA?>zVuVl78Wi*6p=A=lTP*{Tl<FT{^-Teh{(- F<TP-<<,W<i.<=zz>T<AAT*{VTA9BTWiz*KOV(*fl>=KlT(^==lAFT=T-Ti{TT-f<TT:-=<sT<irF?z1>=W.zT>lVTA(}T.F*T>*=TTKV*=3*z(:(Wl1->{rl=FlTTl*<TF-iT<QzTl/<=zKi<WCz<>,<=AH>=W{*T>A=T{{(T=SlTci=Zld(({klWFyTT-xF=T*iTFTzT*zWTz4>T<izV>h<>AP*>VJ*TI}=Tl-(TV*lTY{{TliFT=mlkFB{z-.iWTh-<<uT=-TWTT*>Ti-AT>GVTT}>zVuA<Z,V<*J>==#*=Bi{T*AFT==-TFGTTli<FT)-(<0z=i&WTzxi=<<ATiTVT=V;TV9*T>i<**.>>=k{>(1{Tl}FT{(-T(*TTl{<TTiiTFOz=iJ<zz/i=WKz<>sFTz* TV(*TlR=T*z(TVi*z(3=<lRli{B-TFt=TlA<T{*iTF*zTliWTTi-*W8zF>Dc>AX;TV_A=V(=TAz(T<<lT(w{Tl (i{cl<FD{(-h<=TG-T>zzT-cWT=>>T<*ATivWFA>>TVOATMwVz*.x==VlTY*{Tl<FT{ -TX2{i-BF<TK-<<?W<ij<=z{>T<AAT-(VTA)XTWi*<bPV(*v(V=0lT(n==lFFT=T-TN(TT-f<TTbi(<ST<i Fsz_>=WkzT>lV{z>JTo-*T>*=TTp>i=;*{(n<Wle?<{ylT(-TTl><T{diT<(zT*7WFz8i=Wtzl>y(<Ac>TV>*T>i=TAH(T=(lTDi=(l6(<{rl*FQTT-j(TTAiTF*zT-*WTW*>T<iV<>jWFA:lVV6*T_GV=A<(TVzlT--{Tl:FT=ilVFS=u-f>VTEiT<,zTilWTT*>T<TAT>iVTz2NWVXA=6_<T*QH<=fzT(F{T*iFTFW-T(=TTliFlT7-<<5T*iQWTz6-T(mA{i*VTz*hT?**T>iWu*fZF=_{>(P{Tl?(==--T(zTTz{<TT)iTFiT<iEF zDA>WwAT>aVTz{gTW**T>T=T*i(TVE*=(R==lOlA{_l<F/VT-W<T{iiT-lzTA{WTTiVwW5z<>m>VARgTV&zT>{=TA*(TV*lT>i{T*i(z{elFFm=i-&<TTs-=<(zT-zWTV{>TWyATiiWAA+i/VJziP/=T*Bf=VilTU{{TT{FT{O-TF}=l-qF<Tql><pz=iC<TzF>T<iATiiVTz*bTFJ{{7gVV*&Ll=RT-(P=Tl{FT=--T(uTTli<T{jly<gTWiC<Tz1iVW&z=i*VTz*LTWW*T8.=TzR(W=p*<(e=<l?-*{U*T(TTTl*<T{*iT>>zT-?W<zniWWNV*>eW<A2>=W=*T>*=TAW(T=flT>,Vil0(<{#l<FrV--?(T{liTF*zT-*WT{l>T<_=(>uWWA5--V9A<0_<TVA(TVllT>{{Tl>FT{XllFu{<-J<{TfiT<szTi*WTTA>TWTAT>UVTA0>zVgA(Z;==*?(T=tlTGA{T**FT=z-TF>TT- <VTI-<<GzTi6WTzgi=W-ATiAVT={/TV6*TvA*W*Qo(=jlT(k{{ljFV{8-T.9TT-K<TTRiT<;zTi.FTzB>TWOA=>.VTAwtTFl*Tb}=T*>(T=NlT/f<(ls(<{ql^Fk{(-t<F-liTFzzTi>WTz>>TWAAT>uFWAuqTVMAlp#=T*s(T<llT(y{T*-FT{;-TFfVW-3<TT4-F<vzTi4WT=l>TWrATilVTA5mTV^zTk}=T*v(V=KlT(Q{TA)FT{_-TFlTT-:<T{dA(<IT<i9(Vz_i(W9ATl-VTz*QTVi*T0#=T*Z_-=>lT(m{{lNFT{C-=F0TT-a>fT,iT<+zViAWTzq>T>sW{Ti><WFzWV-AiES=T*Sllp(={*l}>=Fl(<zT<i{TVl><TTfiTi=<<TF-<F-zYFaVlz(>{Wlz>>FV(iF<AzF(V=llT(_{TT**AH*=*F>TT-N<TTpiT</VFAhW{=-lV(-{Vl-FV--lzV>*TP^=T*6(T=6zWVr{VlzFT{O-T-AF<{-lWF({=3iz{iEWTzs>TWjATl{(TA->KVX*T6p(>VFAV>l={*F(V=*FV{l-TFUTTTl-<(T{W<-T>i6WTzG*Vi(<*TDilW*zW>*VWB-VF*Y(T=mT=*>(V=Vl(Di=z**(A{liW(iT{-FFV{)i{Fiz<iFWVT{VVA(/TV *Tli>zWi*W^*V=l-:>V=l<FH=>*TF<{W<{T9iT<4zTi9lTVl*TW>AT>tVTA_cT<bVFlP={*o(T=/lT(H{TiLiz{--TFhTT- <VTWiT<hzTAi-zFizWi*<=*-izWWzziiTVa>=T*G(T=rlT<uozT%F{{Z-TF;TT-6<TVWAT<>zTiUWTzd>T=&<**}VVAl#TVy*Tl<6{V{AA=-l<(x{TlK-<<l=>l<V=-><TTviT<szTAhlzVw>{WcAT>+VTAZWT+<{T:>=T*&(T=_lTz1<FT9FV{z-TFyTT{Al=F({*iiV(AiW{zm>TWsAT>RVTAy?TV-AiOX=T*?lWn*W5Al<V=(*l((==>-TV-{<TT2iTi-<V{ii<<*TADz<<z{VVAlUTVO*TlFU{V<*<=-*G(1{TlM-W(*Vu*l<V{{*iF*iV<zzTi WTW-z<-l=Wz*iVW-_{VH*T0t=T*u(TF{TT(-=>laFT{ITWl*v)=lilF>T=-*Fli-W<z&>TWr=FTi>{W<A<V-A4x8=T*alTU(VV*{cW={*z(F-{F0TT-h<TT%iT_iVTi>WTzJ>TW#AT>yi>=9NVVA*Tk8=T{-AzjWVzAiWVl-(T{h-TF+W={>-VFVT(liFz{*-A<l*Vi(<lz(i={-1{V?*Tqf=T*+(T<lTT(-{VlsFT{h=Al*((--F>T;iT<vWAT>-*<*-T0W<zz>>WA-jFV#*TK_(VWl*{>lV<A-{VllFT{:-T--(>==-<T--i<kzTice(<(TWiTW{z<(=W(zl>l*V V=T*o(TF>VA*-1m=(*=Fc=zl{(A=l<{T6iT<pzTiCWTA_*zW>AT>5VTAE7TVvT{l9=V*T(T=OlTl*1V=**=(F{{l<F<--<(TeiT<kWVT{i=<WT>iFW(>-WAAu?TVIVil{>AVl*<>TT=**e7=>*F({=z*iTV-l<TT1iT>AFzTF-Wz-i-W_AT>+K<<-A<iiWAA>>*V*>T<=ATFX{TlgFT=i>-FfT{-wFiTmiT</{Ti{WTz>>TW>AT-WVTzi>WV.*=j4Wz*^(T=OlTxT{Tl>FT{i-TFiTTli(-T3i=<4Tii6WTzP-TW(AT>iVTAiyT<W*T>i=W*Q(V=gA<(L{TlqFTd{-TFiTT-i<TTiiTFi*-iPWVzXiiWSAT>2<Tz-JTV-*TJ-=TzW(TVi*A(+{Wl9 W{P-TFLTTl{<TT-iT<izTiiWTTi-*WEAW>OWiAcnTV}zT>l=T*l(T=llT>W{T*i1i{u-<FQ=W-%<TTRiTl{zTilWTzi>TWiATii=zAtJ<V_AieB=T*m>TVVlT(*{Tl*FTVW-T(i{=-K<FT)lW<UzTiOWTzi>TW*AT>iVTAiyTFnAidB={*J>T=Ql=(b{T*lFT{A-TFoTT-h<T{Q--<#z{i^W{z;>FW?z=-*VTAAITVl*TRZ=Tz8g{=nlF(5{Fl7>F{h*TFTTT-A<TTAiT&*zT-sWFz6>{W?{F>&VFA)-TVi*Twi=Tzy(TVzlTpn={l0F={s-{F3T{-yF=VSiT<AzTiTWTz%>TFbz=>LVFA eFVsTlPcV=*F(T=zlTH>{Tl6FT=il{FH{y-MF{TQiT<OzTiiWTzA>TWTAT>iVTz5>zVE*=89<{*E(F=s*=Yi{TlAFTV{-TFZTT*PsTT>iF<9zFipFlzGi=WAAT>zVTA{dTV;*T>iV{*bRj=1*z(j{Tl_(={--TF{TT-*<TT/iT<6T>i.WFz,i>WpA=>:WTAWmTVi*Ti==T*A(T<Xl{(y{=lG(*{c-FFB{=(=<TTAiT({zTiXWT{a->WRAF>uVFA#ilVCA=hz=T*z(TV<lT(h{T*i(={Bl1FJ=*-2<TT7-=<=zTi{WTT<>TW.AT>3<GAG8FV.A>Ne==*SyTVllT(i{T*-FT{A-T>xl*-r<=Tr-A<u{*ix<=Tz>TWAATiTVTA4;T<dA<XB=F*Y(F=,zl(;==l*FT{z-T(>TT-m<T{i-F<tTPiPF*zX>TW;z=iqVTA{%TW>*Tm_=TAi>%=f*i(#V*l^FT{3-T<-TT-A<TT=iT<izT-6<AzC>=WGTF>OVFA2>=V**TqA=TAT(T=8lT>3VllBFF{E-FF#Vl-uF={>iT<zzT*iWTzM>T<izF>SW#Aji*VL*T;4V=*A(T={lTii{TleFT=inAFI{i-s(*T3iT<rzTi=WTzA>TW=AT>iVTzY>xV#*=jd<z*_(F=QzT(i{Tl-FTVp-T.<TTlo<{T iV<5z{i:W=z#i=(+AT>AVTATdTVq*Ti&=W*5(F=?lF(BWllx(==A-TFzTTl><TTwiTFiTliI<Lzoi{WdAT>/VTzVJTVA*TLT=T*i(TVI*F(d{VlK>{{s-FFR{=-W<TTAiT({zTiMWT{rlTW>AF>NVFAxilVLA=bV=T*z(TVllT(;{T*i(T{+lvF#{W-t<TTH-=FizTi{WTTl>TW4AT>uWVA%jFVZA>kp==*n9TVilT(-{TA=FT{A-T>yT=-a<VTZ-*<6==iU<=-=>TWAAT-{VTAJHT<fz*XH=F*Q(F=LAl(c==**FT{z-T(<TT-4<T{i-T<wTcimF*zE>TWdz=>>VTA{MTW<*TON=T*J>*=xlF(J=>ljF={JlT(WTT--<T{-iT<AzT*?T*zh>VW&zA>4<*Af>=V{*T}A=TAT(T=slT>UV>l+FF{3-FFjVl-3F={+iT<zzT->WTzd>T<iz<>EWCAji*VB*T2GV=Al(T={lTe>{TlSFT=i*-F_{i-u<(T?iT<}zT>-WTzA>TW=AT>iVTzZ>VVP*VQNWF*h(F=Q*=(({TlAFT=T-TFoTT* F{T&iF<2zFi&(lzOi=WzAT>zVTz<9TVZ*T>i=F*3Yf=dA>(w{Tlb(={*-TF{TTl<<TTYiTFi-zic<iz5l2WfAT>DVTA=LTVA*TH==T*i(TVni((7{Vlc>z{J-FFk{=lT<TTAiT<lzTibWT{tiWW?AF>4VFA5-(VNzT>i=T*A(T=AlTi+{T*^(l{%-VFEV(-n<FT/*TF-zTi-WTzV>TW-ATii<*ACLFVfT>KG=T*f>T<Ul{(A{TlAFT=W-T(iTW-4<(Td-W<xzTij<=z(>TWTATilVTARnTWi*WcGV>*)KW=IlT(B{Tl(FT{A-TF{TT-i<T{JiW<yzVikFAzX>FWE{TiVVTA-pT<>*T>*=TTm*l=plW(KVTld>W{HlTizTT-l<TT>iT<izT-i(TzZ>FW}zJ>wVTAKiTW-*T4A=T*A(TWWlToiV-l2F({?l{FMTT-)F={>iT<TzT->WTzI>TW.z(>2VFA#>kVK*=D6VT*{(T=llTi>{TlAFT=ilzF.TF-tk>TMiT<%{T*HW{zA>TWAATiWVTzib(V)*(&fVW*e(T=5*=#*{TlTFT=l-TFCTTli<(TX-><ZTWiaWTz)>T<{AT>AVTA{jTVi*T>?V-*P(W=Jzi(O{FlN>T{<-TFlTT-<<TViiTFilii:WFzNl>WSAT>f<TzWSTVA*TPA=TAW(TVi*-(;{(l&L*{Y-TFc{=-<<TTTiTF<zTibWTTii*Wcz>>q<*A?YTVw*T>W=T*A(T={lT(i{T*rci{X-WFJ{V-Z<FT,*TT<zTilWTzF>T<<ATiiVVA%uFVfzUcg=T*/>T=llT(A{TlAFTVW-T(i{l-R<(Th-{<HzTiU<=z>>TWTATi<VTA?5TWiA<:6V>*tk{=dlT(f==*zFT{=-TQVTT-c<TTh>V<pzFij<izy>=W6zTi*VTAlMT<A*TJA=TAi({=alF(yV/l9FT{k*T(>TT-A<TTAiT(WzT-i<(z^>(W&T*>7VTAf>=Vl*T2T=TzT(T=PlTYi=*lB(>{0**F6TT-?F=iiiT<=zTl-WTz/>TWsz=>XVFAI>iV5*= 9VT*T(T=llT>({TlAFT=i*>FdTF-k<WTyiT<U{TiTWTzA>TWAATlzVTTY>=V:*F3g=F*hiT=O*T(l{TllFTWz-TFATTli<FTuiF<9V6i_WTzc>TW(AT>zVTA>YTVp*Ti8VF* ((=)l((oVTl_FTVT-TFATT-A<TTziTF^TFi>WWzBi-WcAF>tW=zVQTVA*Ti{=T*v(TW&Aa(t{FlIFF{x*lF6{=lW<TTziTFRzTi&WTTiiWW3zk>gWTAqkTVXA=>{=T*{(TVklT(:{TlE/>{0-FF1{>-m<=T&-T(Vz{ilWTTF>TWAATlnWAAb5WV8z{_PW(*QiTVzlT(*{TAQFTVF-T(8T{-g<<TEi{<Jz=im<=zA>TWAAT>TVTA.dT<S*WB0=F*k(F=Izl(m==l{FT{z-T(>TT- <T{iWi<^T%iL<{zU>TWRAT>iVTAA%TVT*Toi=TAUt<=nl<(:W{l0FF{.l=(_TT-A<T={iT<QzTlpW(zt>FW.AF>a<lAP>=Wi*Tqz=TAl(T=0lTGi=WlD(o{flWFJTT-^F==<iT<{zT-lWTz9>TW0zT>NVFA}>>Vx*=nJVTA>(T=*lT>={TlAFTWu-=FUT<-dF*T4*=<HT=i(WTzA>TF{AT>uVTTL><V8*F2D=F*n>l= *=Oi{TlzFT=<-TFtTTlil<Tm-^<f{*ieWTz)i=WlAT>{VTz<&TV^*Tr#VA*j(F=w*>(y{=lb(T=*-TF*TTl-<TTAiTcr{liXW<z3iAWJT*>QW=z*qTVA*T>T=T*u(TWBA-(&{Fl/FF{BAlFd{=l<<{TziTF>zTiOWTTii*W_zJ>0<*A?dTV3A=>A=T*{(TV>lT(L{T*i({{DliFt=--c<TTCiT<-zTiAWTz=>TWiATiRW(AK+<V3zFK4=F*}c=V{lT(A{T*TFT{?-Te#=>-g<FTKiF<%=liY<=z->TWzATi<VTAc;TWi*FB,VQ*n>>=UlT(k==*=FT{{-T(<TT-}<T{i-l<OTii#F-zE>TW+AT>>VTAAeTV=*T%i=TAN F=hl<(gWzl8FF{)l=zTTT-A<TTliT<fzTlelTz8>FW_AF>,F(AfiT-O*TxA=T*A(T<:lTjx((l,F<{+A(FHTF-J.TT(iT<*zTiVWTTi>T<iz->oVFA.->Vk*T:fWT**(T=AlT(A{T*WFT=il*F#T(-Q(iTZiT<OT=-VWTzT>T<lAT>6VTziy<V,A>b.VF*1(T=jlT(={TlAFT{{-TFiTTlC>(THi<<5{Ai?WFzKlT>WAT>*VTT>wTF-*TY7-W*;(F=_lT(.{TlkFFll-TFzTT-U<TT>iT<>zTiU(Wz >TWUA<>yVTA^>T(z*TBA=Tzi(T=zlT(AlWlaF({2-{FqT{-I<=TviT(ZzTibWTzi>TWtAT>/FWA7KTV,*{2p=T*6uTFzlT(A{TlWFT{z-TFeVV-I<FT+i=<fzTi6WTzV>{WcAT>>VTAw;TVi*Tb;=T*>(T=tlT(-{WlqFT{2TWl*6Z=l<VTBiT<JzT-*W{zi>TWtAT>GVTzol(VO*=6D={*6({=wlT(V{{l,FT{>-TFDTT-0<TTaiT<izVi.WTz}>VWzAT>0VT=*zA>>V=AWn<Vl(==>lV(z{TljFT<l{<*-(W=ilz({iF<^zTi;WTW->TW>AT>xVTAQGTF:AT/e={*7({=bl=(E{TlAFT{>-TF>TT-j<T=ei(<Mz{ivW{z)>VWgATiTVTA>%TVi*TJ>=T*%S6=_lT(C{{lwFT{9-TFNTT-w<{T>A=<KzTiEWVzV>TW4AT*W>{<{zzi*WWl(>=Vl*<>ilV(({TlrFT<i=z*iFW{*l=<-{>l=<<zX->FTz<iWAV>=VTABjT(>VWAl(VV**V>lV>*(XAl>FT{f-TFqTT-OVTV(i{=z>V{Zx*z=F(=V=z>-WiAa TVy{(A(>WVT*{K<T=*(/l=lFV{l-TF_TTT*>WF{{*<-T>i_WTzLAWi*FETlJlW>A=>*Wl5-Vx*K(T=K{W**>CVl-V({Vil*TV-W<TT6iT>-Fz{i-A<*T=>iW{zli><*zVV-*<Dh=T*R-VyWV>*-X-l-(-{O-TFJ<W{>-==aAW-{FVT>i=<Wz<W-AW>jVTAP*V>{<iA*=V*z(T=nlTlQ({=llW({=AlzTV-*<TTXiT>AF=T>-*<*>{WUAT>eVTAp.T<W{Tn>=T*h(T=7lT(DWiT8FV{=-TFjTTT--<FWT<--FWT>i=<Wz<W>AT>dVTA&OTV8AWl)=V*W(T= lTl^({=llW({=Alz<={{-(FT{W<-T>i6WTz8*{i-<Wz{iFW>zW>*VWP-Vi*K(T=S{V*(%<VilV(*TVl>(A=-<VTFiT<3zTz-iVFiTziW<lz{iAWzlFiiV{A<Q<*-S>=+lT(sF<T{-T(>{Wll(>{F-(T-iW<&zTigj<<FT<i<AV>TVTAfvT({WAz->WV>AA)-=<(-{<l:FT{bT=l{F({TlWT-i(<^zTimwV<(TAiFW<z-iWA>hTVJ*TbI=T*0qTFsl{(q{TlnFT{B-T<xWz-i<TT--i<QzTiE>W<*{g-l==T*iW<lzz>F*{T{>F_*<z(>7/WF<zl-F<{f-TFy<<zll>F<*=<iz{i-<nzM>TWQVTz(iVW{zW>{WzAF={*B(T=+lT(?{T{{iT{--WF0TT-1iWF*=vllzVilWTzS>TqWW<zAiWA->iVb*Ted(TV>*W.lV>*F(({l*z+,-V(eTT-8<TWiT{--F-Tz-=<(T<iFWW*-izWWzziiTV+>=T*_(T=7lT(U{TlaF{{H-TFmTT-%<T{WAT<-TFi^WTz0*=i>WVzV>(<izzi*WAAl(WWi*{YFVVA_({Vil<(F{V*{TV-W<TT6iT>-F6T>-A<Fz<iWTTAi><W>zlV-ATL0=T*x-V%WV>A)KVTll<N-{Vl*(A{l-{FF{Wl-zViWWTz0>T8i<zTi>WW*z=(-WzAW>zWiiV=-lF(.{Tlm-T(>==l*(A=l<VTliT<jzTAFi{<<z<W-AF>hVTAtlV>(WlA(>=T-(V=zlT(9{T=A*=((=*-iW(zi<VTWiT<IzTz*>>VWT>--<W*W>{<{zzi*WWR-V**,(T=.{T*>(W=l*>(F{(ii(z=llWF({*<-T>iBWTzYAVi(<=Tlgz<iAW>*W=d>=T*u(T=7lT-7FVTsFV{T-TF:TTzF-{F<T<(tWWT>i=z>>TW0AT>}VTl}zz(4*VfT=T*L(T(*{>--fzVi*A(*==F>TT-U<TT;iT<5F>AOWVzV>TWsATA+>{WlAW>{WAAz(lV**F>ll{(M{TleFT{4-T>WWT--<WT5iT<gVFT(-AFl>VW-AT>oVTWFA<iz*VXo=T*R(T=-*i(P{Tl&-W(*Vd*lWV{(llF({=P-zV-iWTzp>T>-WVTiizWWzl(iV{zi(WVTA>D-V-*F(<V-*Vw=-{FBTT-A_lToi{<?zWi?W{z8>{W2AW>(VTAOuTVl*T:>=T*JTW=?l=(0{TlYFT{/-TV<TT-><TTiiT<szTlalTzZ>=WOA{>eF{Aw>T(z*T1>=TT>(T=ilT_iz-l7F={o*iF:TT-E(T{AiT<izTiiWT=(>T<iz*>gVVA4>zVX*TNf=TA<(T=ilT(i{TliFT=ilSFaTV-o(iTjiT<h{T-lWTz->TW-ATl(VTzii*VP*W2GWq*R(T=&lTA{{Tl-FT{i-TFiTTliV-TdiW<H{ii}WTzu-TWiAT>lVTAl TF(*T>i=V*X(<=Q*((;{Tl_FT{(-TFlTT-i<TTiiTFiz(iXW<zE-iW AT>X<TA*0TV**Tq*=TT((TVi*>(U{Fl%JX{R-TFUTT={<TT*iT<izTiiWTTi(-WyAF>k<iA7HTVpzTPl=T*A(T=AlTi({T*i(A{4-(F^VW-D<TT}iT<FzTiAWTzi>TWiATiiW(A1D(VezivQ=T*d>T=VlT(z{TlzFTW(-T(i{l-CFRTK-(<LzTiCWTF{>TWzAT>iVTAi/TWi--HrVa*I>i=klT(wVT**FT{T-TFTTTA(<T{i-W<2T>ir(Wz2>TWbAT>FVTAT0TVi*Tgi=TAi>*=9*>(dVil^FT{K*T(iTT-{<TT{iTB(zT-i<<z8iiWcTe>yVTA?mTi{*Tf{=T*i(T=ilTUiz-lL(i{D*iFrTT-8(TT{iT<=zTi=WT=(>T<iz>>8W-A6>zV}*T^d=T*>(T==lT(i{TliFT=ilTFG{--}(iTpiT<X{T->WTzV>TWVATl(VTzi>lVhAl_MFi*m(T=)lTA{{TlVFT{i-TFiTTliV-TL-l<D{ii&WTzk-T<zAT>WVTAW9TF(*T>iVi*I8*=M*E(e{TlUFT{<-TFWTT-i<TTiiTFi{Gi&<*zB-iW3AT>0<Tz{ZTV<*TR<=TT((TVi*%(5=Al}dT{6-TFRTT{-<TT<iT<izTiiWT=_iWWZzi>_F{Af>lV1*T>l=T*F(T=+lT(Y{T*cF({NliF}VT-)FATD-=F*zTiFWT=i>TWSAT-hW*AU>AVGAA d<V*KB=V=lT(({TzzFT{p-T(i(<-XFTT^*(<ezTiy<=TV>T<>ATlzVTAXKTVxAl.xVA*:u{=Pl=(d=Tl-FT{=-TR{TT-F<TVb-z<GTii_(lzB-AWDz=izVTAFDTFi*T8_=Tz./V=a*A(f=Alx>V{;l=-*TT-(<T==iT<ezT-iFlz5iTWI{i>BVTAd>=V>*T>>=Tz=(T=ulT(5=Vl_(A{Cl{F8T=-gFT{WiT<=zTl(WTzF>T(tAF>8WiAQs=V.TiH6V=AA(T=FlT>i{TlfFTV^*>F6{A- FATyAz<KT=iiWTz(>TF=AT>.VTziilV5ATq^W<*)(T=h*=%-{T*>FTV=-TFsTTliF(Ty-=<vV*iNWTzh>TW{AT>FVTzicTVi*T>RVT*y7i=v**(U=Al.(=iT-TFFTT-z<TTGiT(v*zin<AzUiAWG=z>UW=A> TV(*Ti==T*u(TVi*V(k=Tl0L*{)-TFrTTlV<TTFiTF/zTiiWTT,>VW?z->kWiA6>AVpAT1W=T*V(T<clT(={Tzk(<{,llF;V{-X>BT3-TFAz{iWWT=U>TW=ATiiW*A8>AV)T=ya=T*I>TVAlT(F{TlFFTW--T(i{T-3FzTOA><rzTiE<=TA>T<IATl{VTAEkTWiAW)4V{*O->=slT(H{T*=FT{F-T(>TT-i<T{UT(<OTlin(>zmiAWX{T>zVTAW,T<W*T>F=TAi1T=w*A(YW=lUFT{a*T(zTT-F<TTFiTm-zT-iFlzmizW%{i>}VTAE>=V{*T>m=Tz=(T=7lTxi{Vl?({{tAiFgTT-9<TTAiT<FzT->WTzi>T<hz<>NWlAh-zVBAAL <T*F(T=WlT(i{TA=FT=ilVF9{A-f(=TCiT<P{Ti-WTzF>TWFATl(VTzi>zVdAzweWA*K(T=4*=vW{T*.FTV=-TFrTTli-*Tt-{<2{AiYWTzri=W>ATiiVTT=CTV1*TCLV**_vA=:*=(w{=lP(T{<-TFWTT-<<TTFiTFi{-iv<Azy->WvAT>q<TA-CTVF*TxF=TTF(TWtl{(v=Ale(A{a-FFr{T-<<TTWiTDFzTiFWT{)iAW8zA>DV{AB-{V)AT><=T*W(TWAlT(F{T*iFW{clAFZV=-m<TTLlT<-zTiFWTzF>T(-ATiiW=A0>zVj{-K7=T*1j=V-lT10{TzVFT{t-T(ilz-CF{TaA-<IzTi0WTz=>TWFATi>VTAi#TW,T-N>Vl*m-{=f*A(2WTl(FT{W-TF{TTl><TVCl-<MT*i2({zGi-WfzT>TVTA<YTF%*T_==TAi3>=/*A(}W=l1FT{k*T({TT-F<TTFiTX-zT-i<{z izWv=>>#VTA+>=i**T>2=TT{(T=ZlT6i{Flr({{vz>F;TT-D<T{*iT<FzT->WTzi>T<^zA>7W*A)->VtAAC;<T*z(T=<lT>W{T*FFT=ilFFv{A-4G=TBiT<+{Ti-WTzF>TWFATl-VTzi*<V;AzGp<i*P(T=e*=(>{T*cFTV=-TF:TTli(9Th-{<X=ii7WTz&>T<iAT>FVTz>0TVi*T>RV**1.*=vzz(G=Al.>T=W-TF<TT-i<T==iTFiz{iY<Azd-=W4AT>;<Tz{YTVF*TvF=TT((TVi*i(:=zlZfA{_-TFQ{=li<T{,iT(=zTiJWTTiiVW:z{>w<AAbpTVIA=>l=TAi(TW=lT(n{TlY(V{ZlAFy{=-k<=TD-T<WzTi<WTz<>TWFATii*:AX>AVpz>/Z=T*Z>Ti3lT(F{TlFFTWF-T vXT-yFATQ-A<#TFiD<T<z>TW<ATlFVTAFBTFwAlyXV**H>F=oTT(+==*lFT{F-T>iTT-N<T=Q-i<_TAi&<Az4lVWMz=ilVTA(aT<=*T;9=TAi>i=o*T(jWil4FT{xl=F{TTl><T==iT<1zTi+<izqiAW6z{> V=AH>T(z*T%<=T{>(T=FlTiQ(llU(*{}l>FN{T-ZYT<WiT<izT*>WT{<>TWKF<>^WAAkj{V;*TL2VT*A(T=ilTi&{TlFFT=iliFt{A-ya=T1iT<H{TiTWTzF>TWFATl-VTzii-V.AzD1F>*j(T=m*=(<{T*#FTW{-TFvTTliF{TU-{<GV>i#WTz0>TWAAT>FVTz>9TVi*T>XW** (==cz>(d=Aly>T{z-TFiTT*W<T{FiTFiz<iP<Azql=WwAT>U<TA>qTVF*TPF=TT-(TVi*A(Z=zl%>i{p-TFX{=-T<T{2iT(=zTiIWTTi^iWKz{>_FiA4sTVX*T>l=T*F(TV>lT(i{T*em-{o-=FnVz-+FATpiTF{zTiFWTzi>TW ATi,W(A_p=Vw*{kLVA*JiTVilT(i{TliFTV=-T>El*- <=TG*A<y{Vi/<=zV>TWFAT-iVTA6_T<6AWgnVA*ttA=xTz(;==llFT{(-T(FTT-%<T{i-{<gTTiu(iz4>TWdz=i-VTz>jTWF*Tu_=TAi>i=;*=(9WilgFT{_-TF=TT-F<T{iiT<izT-Ut(zS>=Wbz*>DWAA >T(z*T8-=TTc(T=ilT3iWTl+(A{:-(FITT-t(TT{iT<FzTiFWT=(>T<iz=>pWzA.-iV6*T9?V=Al(TVulTJ-{Tl)FT{0lAF8{A-PFTT2i=<7TTi=WTz->T(*AT>FVTzi#WVhAAxK=(*0(T=RATV{{TlFFT{F-T>(TTliF-T}-z<:=iiOWTzOi=<TATicVTz-_TV_*Ty6Vi*;.A=0*T(d{=lS(T{F-TF-TTAW<TTFiTFiT>i&<Az6>(WsAT>9<TAVNTVF*TrF=TT((TVi_z(X=zl1>i{U-TF6{=W=<T{7iTF-zTixWTzOi{W4zA>^WTA1n=V+AT>l=T*-(TVllT(F{T*in*{GlAFuT(-X<TTslT<WzTiFWTzF>T((ATiiW<AZ>zVoTi01=T*Y_==>lT57{TAVFT{y-TFs{i-oFAT%-T<,z=io<TVz>TW-AT-TVTAF&TF+TFJt=W*,i{=1A((Q=Tl<FT{l-T>jTT-i<T{i-=<RTAiy(=zq>TWkTT>zVTAF,TVF*T--=TAiQ-=r*z(}Wil2FT{Kl=(ATTlx<T==iT< zT-iF>zni{WE{i>eVTA/rTVA*T8F=TA>(T=ilTn;={l_FW{1A>Fg{A-u/T{ziT<lzTlWWTz*>T<iA{>_WAAL-=V *T+nWT*>(T=FlT(F{Tz-FT=illFj{z-S)iTxiT<NT=i(WTT?>TF=AT>/VTzi*iVuA{.L<i*}(T=hlTfl{TlFFT=>-TFiTTlHF(TniW<,=zi?<AzdlT<iAT>lVTAiHT<=*T-NVi*1(W=%*=(PVzlE(={i-TFFTT*i<TTciT(Q{li_<Az#iAWv=z>eW==W)TV(*Ti>=T*r(TViAi(6=TlL>i{g-TFX{=l*<T{>iTFFzTi8WTTii<W4z=>NFiAx0TV,*Tel=T*F(TVilT(i{T*/({{4-WFP{*-ZFATS*T<-zTilWTVi>TF=ATi?((A#;<VoTTs4=W*bm=<7lT(F{TlzFT{a-T;k{W-_FAT,-A<+VziM<=T*>TW(AT-=VTAXCTWiziyNVT*h>*=BlT(+{T*iFT{F-T(BTT-i<T{K-F<uz<iN(<z4iAWGz=>FVTAFXTVz*Tv+=Tz_W>=y*A(9=AlEiz{tl=FWTT-(<T==iT<HzT-i<>z%iTW1T*>wVTA/KTWA*TBF=TA5(T=ilTQR=Al3F<{9zlFv{A-qF=TWiT<FzTizWTzd>TFsTl>,WAAs>AV3{z6uV=H((T=(lT>={Tl8FT=i<iFg{T-s(*T^iT<xzT-zWTzF>T<,AT>iVTzw>iVE*<D+VW*gIA=4*=(-{TlFFT{z-TF)TT*t(LTn-A<8TAi6Dzz9i=<AAT>(VTT=BTVX*T>i={*#uT=IA*(5{TlnFTii-TFFTTl%<TTiiTF&TAi5W<zcl:W0zA>CWTzTZTVA*T-?=T*l(TVi*((4=Aly_>{}-TF;=Tl-<TTFiT<FzT*AWT{%izWuzA>^WAA/6{VQAT>w=T*A(T<AlT(F{T*i(z{dlAF#T(-.<TT0lT<<zTiFWTzF>T((ATii<(A>>zVPTiRx=T*Jb==-lTP%{T*<FT{)-TFX{W-GFAT+-T<Bz=i#<TzV>TWAAT>FVTAFLTF4AFqR=(*?i{=xA-(}=T*=FT{z-T>hTT-i<T{ii(<NTAiq(=z_>TWmTTl8V{AFsTVF*T--=TAi>i=m*z(LWiljFT{El=FlTTl.<T==iT<9zT-iFczai{WE{i>fVTA5dTWl*TQF=TA>(T=ilTa}{<ltF({fA>F1{A-E_TTiiT<zzTlWWTz*>T<i-i>kWAA1-=Vg*TDOWTAV(T=FlT(F{Tz-FT=il*FY{z-2ZiT%iT<dT=iTWTTE>TF=AT>qVTzii-VgA{ts<i*j(T=vlTwT{TlFFT=>-TFiTTl)<(TKi(<Y=zit<AzOlTz<AT>zVTAi+T<=*T>i==*vbA=}A=(Y{TlcUT{l-TFFTT-F<TV(iTFi{-i^<zz/>WW;AT>yW=A-5TWn*Ti==T*p(TVi*-(H={l#>i{c-TF7{=-W<T{iiT(=zTiXWTzI>FW9zA>%W=A.2=VpAT>i=T*z(TWllT(F{Tz1J-{?-(Fe{=-9(zT_-=<VzTiFWT{i>TWaAT-5WTAn>AVRAAu8Fz*JR==TlT(({TllFT{k-T(i{V-jFTTU*i<JzTiw<={z>{<>ATiFVTA79TWiA-#1V=*?ii=ulT(Q{TllFT{F-T(iTT-i<T{E-F<^z(iG<*zviAW;{TiEVTAzcT(i*Ti==TAGRF=?*N(HWTlBF({6l=(TTT-F<T{{iT<%zTl0Alz iAWMzA>xFFA^iTWz*T?F=T*F(T=>lTKbV>lp(L{yAFFM{A-.F=TTiT<FzTizWTz9>TF6z=>LWAA >AV,{zDxV=AT(T=(lT>={TlPFT=i*iFv{T-2(*TYiT<NzT-TWTzF>T<XAT>iVTz;0{VQAU}_VA*5pA=8*T({{Tl{FTW.-TFzTTlipTTc-A<vz(iSWTz)-TW(AT>FVTAFsTF(*T>i=V*x%z=Mzi(C{TlQ(={=-T(RTTl<<TTciT<rT-iN<AzZiTW4A=>ZWTAlpTV{*T-*=T*F(TVi*<(L=Al:F({u-TFH=T({<TTFiT<FzT*(WTTi>=W7zz>+FiAL,TVCA=Z*=TAg(TV<lT(S{TlS1*{wlAFf{T-L<=TY-TF zTi{WT=W>TWFATiiWVAY>AVt*(2r=T*M>TVzlT(F{TlFFTW(-T(ilz-1FzTu*i<mzTiL<=j=>T<_ATi<VTAt%TVxA( UVA*;1T=Ml=(g=TlTFT{{-T(lTT-F<T{i-l<&TAijW(zv>TWDTT>FVTAF9TVF*T-(=TAinW=3*z(^WilEFT{ul=FlTTl/<T{<iT<wzTie<iz4iAWezT>4V=AI>T(z*TM{=TzT(T=FlT>m>TlJ(A{/l*Fs{<- (TDViT<FzTiFWTTW>TWA>W>,WTAQE{Vj*{SQ=W*r(TWhlT(%{TltFT{9-TFyVW-?<TTs-i<4zTigWT{;>TWvAT>-VTA;sTVvTWJ2=T*M(==tlT(.{TFFFT{F-T(;TT-><TTt-F<OTAiqW=zn>TWETT>TVTAFjTVF*T>F=T*MCl=G*A(,{=lNFT{8-TF(TT-F<TT0iT<3zTiAzWzIizWgAT>:V{A.,WVk*T-l=T*r(T=llT(Z{Tlq>W{H-TFnT(-a<TTHiT(uzTigWTzl>TWnAT>C<TA5NTVR*<;N=T*ZNTFzlT(F{Tl-FT{(-TFHVV-.FAT1i=<HzTicWTzV>{WsAT>>VTAujTVi*T:h=TTF(T=)lT(-=lljFT{4z=l((={l-<(iAV-(FlT(-==->VWTAT>+VTVlA<iTWW*->>W=*<=-lW(p{TlDiF((=A*lTV-z<TT_iTi-<<T--W<{TziFAV>lVTAYcTRlV<zT>W*>(T=0lT(7{TlGiT<Y-VF-TT-c<TFFT<lzzVi*WTzt>T>*=Wz{i*{iu{VD*TaR=T*4(TV?TT(>{TlHFT{y-TFj{T(0<VTWiT<ozTA>iW<lATi><=z>>(<iA{iOWj?>=T*c(T=qlT(vf>TdFV=1-TFaTTzi-{F-{--zF=T(-<<FzW_-<zzWiz<i-VV-*(+6=T*C-Vm(VA*F(<=-*W{-l>FdTT-e>{FlTWilFzTzi(<Wz<W>AT>NVTAYjT-R{Tlu={*r(T=9lT(O>TTAiT{>-TF#TT-m<TAu{z>6zVi=WTzD>T>&W{zl>WW{zA>z=WA(>T*>(T=UlT(o{Tlv>W*y-VF=TT-y<TW>TW-lWWT*lJFlz=i(F6>-V<A&ZTVg==A{w(VTAW=-*a(%{Tlf-T((=Vl{(W{{lzFFiV<=zTi%WTWlz<-T<W*-izWWzziiTVj>=T*_(T=KlT(nWiTnFV{l-TFQTTzW-<FA{W<-TVi_WTzC*{ii<Vz(il<*zW>*{VA(>AWl*<BFVWl-f>V=l<{-liF6TT-G>(F({W-T<{T<%=<(TlilAV>*VTAu,T(AW=A>>*V*({A<>lVWAl6WVlzlzzF-{z-p<TTsA=-(F=Tli<FiAVi{Fiz*UTW{Ts>*WlO>=T*D(T=RlT(uF{TCFV{{-TF5TTz>-WFlzV-WF>Tli<Fi>TW-AW>_VTA%*<(lW>A<=V*z(T=;lT*Af==(**Fiz(iiTV-V<TT&iT>W<{{{-zF*TWs(<=zl><<i?VVA*TBJ=T=Z*{>i=<*FHWl-FW{G-TFy<A{>l*F*iV<WzTiaWTW*A>MW<>T-iW=WA{i{Wzz*>W*-(W=UlT(S<<=F*<(<-VFTTT-)<T<*z>>-Fz{i-A<*T=W-AW>9VTA:*l>{WVzl=VAA(T=plT-i({=-*-(z==l((<{F-W<l{=->FA{--T<>T=i*<Az-->A->>VJ*TBu(WV*z}>l{l*>(==**l{>-TF1TT-h<TT:T>>pzVilWTzJ>T>-<>T=><A-pFVa*TCsFVV(AlP(V=i-{{l.FT{B-TFcTT*l>TT-lQ<BzTi/7(<*TW>K<=z(iTW*z=il<>l->pV>AAmz=<*lFV={l((F{{lWT{-J<TT9iT<qzTiKWTz-i-W1AT> ({WlAW(lW=A(>TVlAz>zVA(-=Jl6FT{MT>lF(V=l-{FFTV-*zViWWTz+>Tp-<zTiiAW*z=6iV{Al>>W*AV=>lT(N{TlvFT{%iT>(TV-{<TT4iTi*W>z+i{<lzWi{<AzzVVA*mTV *T*l>>WlAlv*lV({{TloFT<>{WllW==*lW(l{z-FzVi{WTz#>T>-<zTiiW=(z=>lV<zi=V*z(T=&lTl?({=llW({=AlzTV-l<TT+iT>WF>TFi<z>>TW?AT>pVTFc*-zclW7q=T*1(FWWlT(i{TllFT{>-TF>TT-lFzTmiT<_zWijW{z)>T*lAT>-VTAqsTVo*THGT**k(==:lV(U{Tlh&T> -TF-TT-i<T=ziT<Ai=i;WVzGiSW2A{>GVTAK&WV(*TtZ=T*T(T=>lT(l=zljFT{sl>F?T{-uF=-(iT<-zTilWTzC>T<y=(>ZV=ADi(VS*VoJ=T=:(T=-lT(-{Tl9FTVA*VF:T{-}FTTmi{<y{iisWWz(>TW_ATi;VTA>:T<AzVgQ={*;?T=kl{(MV=lCFW{(-TF4TTlE<TT>iT<lTzicWTzJi=WOA{>LVTz*L{V-*T_P=T*0(T=l*z(}{Tlb(<{P-{Fj=FA{<TT>iTF*zTi>WTTA>TWlzz>/VTA3><Vy*{2&=TA*({=-lT(>{TlSFT=i<MFPTW-bu<T5iT<y{TB>WTzl>TWlAT>zVTzii*V:*<)^W**b(T=nlTnl{TllFT{i-TFiTTli<{T:i<<L=<ieWTz&-TW(AT>*VTA*0TVz*T>iV**c(F=Uzi(s{Tl8FT=V-TF*TT-i<TTiiTFi*-i)WFztl<WmAT>f<TzVxTVA*TDA=T*z(TVi*z(m{(lv>*{N-TFMTTll<TTAiT<izTiiWTTiibW5A(>:F<AQ4TVwzTU-=T*z(T=zlT(z{T*i(<{fl/FJ=*-}<TTMiTl{zTizWTzi>TWiATii{-AP>mV;T<JX=T*S>TV{lT(T{TlTFT{z-T(i{V-tF>Ttl*<JzTihWTTT>TWTAT>iVTAihTWiATHZV>*ui<=MlT(BVTlzFT{{-TF{TT-z<T{i-W<%Tii4(Rzn>TW4ATzDVTA{0TVi*Tai=TAi0-=7*i(8W<lSFT{m*T(>TT-=<TT=iT<zzT-i<*z4i-WS=N>yVTA8JTVW*T0==T*i(T=ilTisWFl_FW{:*(F_TW-yFTT=iT<lzTlAWTz->T<izV>IW-A9-TV9*TMgWTAV(T=VlT(V{TAlFT=ilWF_{l-+(TTxiT<^T=i=WTz<>TFRAT>^VTzii*V8AAnXWT*#(T=nlT(A{TlVFT{F-TFiTTlLF=TKiW<LT*iO<-zYlT<zAT>lVTTWBTWF*T>iV(*OH-=OzT(v{TlPKT{A-TFVTT-V<T=liTFizFiM<lzslVW4AT>6W=A{CTV<*T--=T*u(TViz*(R=AlY>V{)-TFJTT-F<TTViT<FzTiiWTTS>FWgAW>jV{Ak>-VDTT>l=T*l(TV(lTi-{T*iF={Il-F){H-_<TTvlTFWzTiVWTzV>TWzATiiW-AX>lVOT(Mw=T*ay=WFlT(<{Tl=FT{Z-T(i=>-^FATP*V<RzTir<=TT>TW(AT>WVTA}tTVtAlHbV-*nXz=xl=(y=Tl-FT{l-Tr(TT-V<T{i-l<xT-iPFVz;>TW.TTiVVTAVpTVV*Tpz=TAiTF=o*l(5WVl0FT{Nl=FWTT-<<TT{iT<#zTiH<(zwi-W}z*>rV=AK>TVT*T_*=TTA(T=VlTCE{VlUF<{X*FF,TW-avTVAiT<AzTlzWT={>T<MAF>8VFA5iFVG*Wu7V=*W(T=VlTiw{TluFTVIlWFy{--hF-T;lW<?T=i{WTzW>T<iAT>uVTziilV7A*:nV=*B(T=O*=(T{TlFFT=i-TFNTT-p<FTp--<2TAihW=zbiT<AAT>AVTA<%TVV*T-OV-*;(F=_zl(SW(lQ(={A-TFVTTAn<TTtiT(OTAiw<-z9i-WeTW>KW=zW%TVW*T--=T*}(TVil((P=*lS>V{6-TF.{=*<<TTFiTK-zTitWTz+iFWGz->KWAAU6=V;ATa(=T*A(T=>lT(V{TzJF={q-FFR=z-5_VTt-=FTzTiVWTzT>TWcAT-I<*Ar>-VdA-)B=(*&_=VTlT(W{TzzFT{y-T(iVA-5F*T;*V<_zTi&<=TW>TWFATl-VTA_DTWiA(wLVz*e(F=7lT(X{T*iFT{V-TF(TT-i<T{yli<1zFi}(zzsi-Wsz=iTVTAVLT<{*TR4=TzP>*=v*-(G=-l4FV{c*TliTT-V<TTViTFWzT-xW(zb>FWdAV>xW-AfiTW{*TtV=T*i(T<{lTrN=vlLFF{O-<FH{--MF=TWiT<VzT*uWTz6>TFCz*>mW-AO>-VgzW;5V=Az(T=WlT;i{TlaFT=i(zFH{*-+F=T iT<kT=<(WTzF>T<iAT>uVTA?>iVtA-^vVA*#(==a*T>V{{lAFT=T-TFVTTAn<WTniF<hz=iMF>zolTW(AT>zVTTz:TF<*T>}=(*,((=?AF(v{Wld(==W-TFVTTAC<TTLiT(d{-iv<-zdi-W7TW>/W=z<fTVW*TiF=T*5(TVigz(v=*l3>A{C-TFO{=W=<TTFiT(FzTidWTz#>{W:z->:WAAy?=V9ATCz=T*z(T=<lT(V{T*iFV{xl-F_VT-H<TTclTF*zTiVWTzV>TFlATiiV(AZ>lVhTVd5=T*8e==*lT(<{Tz-FT{:-T(iV*-jFAT7*V<xzTi.WTTA>TWVAT>FVTAi+TWbA{7.=(*6({=%*-(3WTl-FT{z-T((TTA-<T{i-=<1T-ix<Lzt>TW}TT>TVTAV2TVV*T.z=TAi ==P*l(HWVltFT{0l=tFTT-<<TV>iT<OzT-iF_z.iAWc{V>IVTA;>=Wz*T0(=TAt(T=olT(6=zlv(-{mlzF,T=- FT{WiT<zzT-zWTzV>T<izF>9W-AY>7V&*T3_WT*l(T=VlT(V{TlzFT=iTlFf{l-No(T+iT<ET=i-WTz<>T<lAT>cVTzi>(VhAA99<V*L(T=f*=(>{Tl(FTWz-TF6TT-7<FTe--<sTzi3W=zEiTW>AT>zVTT(XTVV*T-x={*8%&=_A((jW-le(T=A-{FTTT*A<TTliTFiTBi,<-z3lTW^AT>m<TAlQTVV*T_V=Tzl(TViAi(q=ll8(={/-TF^{=l<<TT<iTFizTiYWTTii<W8zA>}W=A9DTV)*T>-=T*V(T=FlT(i{T*4l({DlMFg{*-sF-TM*TFlzTiTWT{W>T(zATii<iAH>-V6TT1c=T*m>TV-lT(V{TlVFTVl-T(i{V-.FlT3*V<EzTi;<=T->TW<ATl-VTA,GTWiA(NmVA*piV=flT(D{TlAFT{V-TFFTT-i<T{7-F<IT.i W{zgi-WI{TilVTATYTW(*T--=TAi(<=a*-(?=olnFT{:*T({TT-V<TTViT<zzT-i<-z_ilW8{V>UVTA&>=VW*Ta<=TT>(T=elTvi*zlX(A{nAVF5TT-gF=>=iT<(zT->WTzy>TW4T*>sW-A%>zVP*=QqVT*T(T=TlTSz{TlVFT=i-FFx{--UFcTIiT<y{T-TWTzV>TWVAT>zVTzixVVaAln5<(*P(T=G*=(>{Tl<FT=l-TFKTTliAFTt-A<Q=(i6WTzCi=WWAT>(VT{F/TVv*T^aVk*&H-=y*z(2{=ly(T{W-TFTTT*(<TTViTFXT=i#<>z,-FWCz,>}W=(THTVV*Ti{=T*O(TW3Fl(v=-ls(-{Oz-Fh=T-F<TTViT<VzTl*WTTn>VW0z>>C(-Ad>-V8A=>i=T*V(TW-lT(^{TAmFW{8l-FN{--:<(TG-=F>zTiWWT=->TW;ATiiW<Aq>*VSA>_x=T*I(T=-lT(V{Tl<FT{i-T(}{W-rF>TRAl< T-iS<TT*>TW=AT-AVTATnTWi(RdHV-*B>V=:lT(HVT=VFT{V-TFVTT-z<T{il-<vTliD(Vzd>TWjz=iiVTA<7TV{*Tda=T*I>*=R*-(R=*lvF={PlTFWTT-=<T{-iT<VzTiAzWz7i-W:A=>,V{AhN=V?*T-l=T*u(T=llT(/{Tle>W{R-TFR{>-e<TT4lTiAzTiWWTz{>T(iATiiVFAh>AV_z-Iy=T* (TVVlT(W{TlFFT{i-TE4{<-EFlTQ-l<gTAihWTzA>TWFAT>VVTAjSTV2z-gcVl*&3A=cl{(_{Tl-FT{W-TFVTT-.<TT_V<<XTliEW{zr>{WKAT=lVTAW%TVR*T6m=T*A=W=#**(q{{leF{{y-=F?TTAl<TTPiT<TzTi+WTzg-TWYAT>0V=Ad5TVJATlz=T*W(T<=lT(<{TlA{W{Gl*FGTF-1<{T4i=<MzT*lWTz}>TWTAT>mVTAgiTVn*T7c==*9(T=v*T-z{TlWFT{(-TF<TT-ATWT4-*<4zWi2W{za>=WDATllVTAOxTVT*T1x=T*q>T=7lT(m{=luFT{NlTizTT-W<TVliT<<zTiAzWzPi*WYAT>UV{AxvVV&*T-l=T*k(T=TlT(4{Tl%eT{I-TF5T=-L<TTHiT(9zTiQWTz->TW3ATiM((A6>lVaz{RNV**j(F*llT(<{Tl-FT{>-TF>TT-9dWT?iT<ZTLioWTzRiT}zAT>WVTAVKTV<*TYA*W*w)*=^l<(#{{lCF{{ -T>lTT-j<TTTiT<9zT-0y(z&ilW%z<>PW*A:MTF-*T)W=T*i(T=#lT(6=-l>FT{f-{FsTT-/<(ToiT<%W{iyWTzx>VW=AT>3VT=zzzilWJA>>*{iAzqW=W(-{WlSFT{^z<lF(<{<<VTAiT<fzTA--z<WTz-i{V>-WkA.OTVb=<l{(VWlA=N(V-**{{z->VW-AV>-VVf->zT--i<IzTif>><FTT-*<W*i><WzA{>F*V_T=T*^(TF{VAA-oW=>*A(-{<F-{i-R<TTYz>-FFT{*-WV*TAilW<zlVVA*nTVj*Tl->zVWAz>ilV(A{TlMFTF-=ll{FW{*l=T>iT<%zTi.WTzX-WfcA{>OVTAuGTV#*TiiFT*>(T=3lT(P{TlY>A<D-VFTTT-s<TW-T{-WFlTii{<-T-W>AT>9VTAnrTV_*TlP=VAA(T=_lT-i({=-*-(z==l((<{F-W<l{=->FA{--T<>T=i*<Az-->A-1VVU*T0I(*V{AA=-*i(a{TlM-W(*VO*lWV{(llF({=O-zViWWTzJ>TBi<zTi>WW*z=(-WzAW>zWiiV=>lT(h{TA_A<zV>{>(TV--<TT6iT-F<<{zWVzl>TWkATAl><<TzWV>*T?y=T*:(T=Q*W-#{{lXFT{X-TF}TTz{>TT--l<YzTiX>WFiz{iF<VTN>{<iA<>FVVz{=VAT(T=2lT-z(<Vl-TDi=z*vF<=ilW({AV-T<{TFi(<*zW>-<>zziAW>zlV>*TD?=T*h(TFH{W-){{lcFT{B-TFh#TzA>TT>iT<wzTi:WTzG*A0DAV>lVTA2eTB-W>z=^<*-vl=xlT(O<V=(*=(F{<*i<={>-WF{{<l-z{i}WTzQ>TWCAT>;VTA->lV/*Te8(>VFAT>*VW--0h=>*A(z{<llT{-?<TTfiT<7zTl=9Tz-iTW}AT>+(=W>AV>VV(zi>zW*AAblTV*(Sl=(*=W--{F}TT-Z<TTUiTWEVzi-W(zh>TW^WFTiizW<*=(z{=Y>=T*p(T=XlT(3VlT/F{{d-TF:TT-,<TTTAT<-T>iKWTzpA<&{VTz>>WWlz>>FV(N-Vh*P(T=G{W**>0Vl-V({Vil*TV-*<TTyiT>AF=T>-*<*>{WJAT>jVTAKsTWJ{TI-V>*/(T=N{W**>tVl-l(>{=l*(l-><TTBiT<4zTF}iTVC>VW-AT>&VTV-A<il*V5l=T*K(TFAVz*FSWl>FT{t-TFXTT-q->W9iV<*zTioWTWlT>-l<lz*VVA-DTVd*Tl<&{WT(V=*lT(B{T{Al{(W=<l*TV-T<TT%iTi*W>A--zFiTAi*<=>>VTAjqTVY*Tl/>*{2({_A=F*A(F=AlFzAzzF>TT-Q<TT#iT<t=lFZWVzz>TWbAT*-izWFzA>*VVzl={*_(T=ClT(&{Tijiz{-l>FDTT-K>W(iT{-zVF{ii{<<z<W-z->_VTA2l{>FVVAT>zWilT)(V>*FvWl-F({_-TFqWW{*-FF>{<-WFWi>WTzJ>TWsAT>./Ai5aVVl*TJp=T{F*{R<=<(-{Fl_FT{CTTl>(={*lA(liV<zzTiPWTWlz<-T<W*iiz<TKVV**TZ)=T=*-W2{V*ii{{l0FT{o-TF.TT*W>TT--></zTi}oWFiz{izW(z>>=WWA<V>*Th =T*h(Ti&{{-L{VllFT{4-T-*WW{{l*T-i{<nzTi^>Fz-i&WvAT>R0TW(zV>{WWA{>zVF(V=llT(_{TTWl<(A=WF-T(-E<TT6zF-*<V{l-zFil=W>AT>2VTAxUT{PWzlb={z>VlV*TTi-WVi-iz{-lAF#TT-0iWF*= ll<pA>-l<{z(iF<*z*iA<lSVV(*T:B=T{iAz>i=W**/={-*>2={<-H(>=T-<FWiV<TzTiQWTFlTziF<<z<>=W*z=V>*T}u=T*a(T=4{A-.{VlVFT{I-T-uF{{l-WF{{A-zWlT*iFFl>VW{AT>_VT=Azz>-W<z-(lV(AV>lFA(>{TlOFFli-TF>TT--<TT>iT<^zTil<zzX>TW2AV>hV{A4LWV(*T?x=T**(T=>lT(.iWl;F={&-TFxTT-j<T*<iT<>zTiiWTzm>TFgFT>hV=A 2{Vw{AJg=FzW(T=ilT({{Tl>FT{>-TFl{z-L<TT_-><yz{i.<=i(>TWiAT>=VTAKMTWY{(bq={*Q-A=wl=(MVTW0FT{i-TF>TTAi<TTA<=<Hz=iy<Az:>{WZAT>tVWA(5TVw*TdF=T*>(T=l*z(#{Tl3(z{_-{F5{=F(<TTiiTJMzTi4WTTN*(W.A{>RF=A4w=VuzTTy=T*i(T=>lT#>{TlA{={+-=Fs{W-n<{T%iT<kzWi(WTz,>T<lAT>>VTAl>zV_*TRZV<*H({=k*==({TliFT{V-TF%TTl7>(Tfi{<hT{i%W=z5-TlmAT>iVTA>;TFW*TDA<l*B(==bAi(&{{l F{{ -WF(TT-n<T{=iT<>zT-iTzzS>=WyT:>6VTAK>T(z*TM>=TTW(T=ilT>v>TljF={q-{Ff{A-N<F=WiT<izT-(WTz>>TW>AT>lWzAo)TVxzz9U={*5(=(ilT(i{Tl-FT{n-T(fW(-.<{T:-A<vz=iH<=lV>TWiAT>zVTAS T<XzlpI==*r(==a*<(R==l{FT{--Tm=TT-%<TT%li<kz=iOW=zU>=WKz=>zVTA-2TVz*TRv=Tz^({=elV(:{Vl5(<{+l=(<TT-l<T=WiT<PzTiLl>zU>VWrA=>sV=Ac>=TV*TGl=T*z(T=4lT>EViloFW{P-WFj{<-7F=T-iT<*zTlTWTz_>TWRzT>/VWA7M=V+*=jcV=*W(T=*lT(z{Tl3FTV7-VFOT<-0<<TQ-<<cT=iiWTzA>T(lAT>+VTAYT>Vw*<uD==*K(==w*=WV{TlAFT{z-TF9TT*D<(T1iF< zFi1<<z7i=WiAT>zVTAl^TV_*Tf1W-* (F=ol=(E{=l9(==*-TFzTT-z<TT iT(IzFiZW(zv>(Wqz<>_W=zAvTVT*Ti==T*Y(T=QW>(:{(leF={)-=F {=%V<TTTiT<zzTiUWT{fi>W1z}>SW.AM><V&A=&-=T*{(T<llT(8{TlN(<{ClEFHT=-C<=T6-=FlzTi{WTzz>TWOAT-M<-A;>>VkA>%:V<*m+==*lT(={TA=FT{Y-TF%N>-KF>Tei=<3z=i^<=lV>TW=AT>zVTA97T<;zu00Vi*6Oi=O*<(s==liFT{V-T>lTT-q<TTXi{<PTiiDW=zb>=Wjz=i{VTAV_TVz*T?x=TzxvA=}*-(X=-l0(<{Pl=FVTT-W<T==iT</zTirl>zai-W&A=>rV=Aw>=TV*TDW=T*z(T=?lT>h=<lJ(l{KllFY{<-xF=T(iT<<zT*lWTzC>TW5zF>QWlArv=V#*=SpV=**(T=<lT(z{Tl)FTVq-FF6{*-IF*T:-<<+T=-=WTzF>T?DAT>xVTAuATVcA*;D==*9(==+*=(({TlFFT{z-TFXTT*CFVTs-A<tTAiQ<<z}i=WiAT>(VT{lkTV3*T%_Wi*x5A=hl=(#{=luFTil-TF(TT-Q<TT>iT(?(Tig<Tzh>{W =l>2WT=zjTV(*T--=TAh(T<y=l(d{=l/iA{9liF}TTV*<T{aiT<tzTiUWTTBi-WLA=>p(zAM>TVmA=3(=TAX(T=-lT(r{TAd(l{KlTF7{T-p(<TM-=<FzT->WTV(>TWPATiiWzAB>=VE=zNw=T*NK==(lTG-{TT(FT{d-TFqTF-_FTTv-V<vz=i9<Tzl>TWiAT--VTz/KTF_AFsD==*HuT=GzF(E==*<FT=2-TF-TT-q<T=M-=<vTTi5<Tz8-<W,z=i<VTz>aT<.*T2U=TAi>i=G*=(KVTlaFT{xl=N<TTl-<T=HiT<LzTi_<{zaiTWnzV>EV=Ad>TVA*T3i=TA-(TV#lTi&=>lPF={PT*Fo=T-bF={{iTFJzTA>WTzU>TF#Ti>oWTAn>TVLA<cgV=AA(TV>lT>l{TlYFT=iT{FY{=-c(TTMiT<%T=iiWTT->TFxAT>_VTzi>WVQAWouWl*x(T=KlT2W{T*2FT=l-TFiTTldF<Tki=<3{AiI<Tz^lT<WAT>-VT{FCTF>*T>RVz*u(V=UTz(a{=l9(=*=-T(RTT--<TTciT( TiiB<TzsiTW.T<>?W=zzdTW>*Tl==T*h(TVi*T(5==ls-i{;-TFS{=-=<T{-iT>=zTiGWTz,i<WqzT>bWVALd=VeAT>l=T*-(TW-lTHx{TzLlW{r-VFH{T-t(WT_-=F*zT-_WTz->TWSAT-+WkA;>TV1ATHfW<*;}==AlTN>{TA_FT{j-T(i{*-LF=TolT<BzTi,<=Tl>T<-AT-;VTAhsTV}zl&OVT*5HV=rl=(r=T=zFT{--T(-TTlE<TV7iV<+zVi?>*z6-TWqz=>WVTz20T(>*TDQ=Tz?>i=a*T(,=Tl2(<{hl=(iTTl><T=;iT<ozT-i<TzSi=WZTT>4VTAP>=V(*T>-=Tza(T=GlTHi-ilt(W{fl(F%TT- <TTAiTF.zT-lWTzi>T<8Ti>NVVAHl(V?AT%qV=*T(TVylT->{TlwFTV7l*FD{T-BFTTo-<<LT=iiWTT>>TFlAT>LVTzii*VpA=wKWT*d(T=g*=l<{T*-FTVL-TF)TTliF{Th-W<xT*i.WTz8>T<lATiKVTzl7TVi*T>mVz*e(V=PAA(N=Tlg(==<-T(3TT-i<TT5iT(IT(iC<TzqiTWP{z>8<TAA_TW6*T>^=T*>(TVq**(1{Vl:>z{^lTF =T-z<T{?iT<>zT*FWTTxiVWQAV>KWFA >TVRA=>V=TAc(T=-lT(3{TA^(i{slTFX{T-D(<Tu-=<-zT->WTV=>TW2ATiiVWAM>=V;=iY}=T*vt=*(lTR-{TT=FT{3-TFU{i-0FTT1-V<uz=ib<TVz>TW-ATiiVTzE4TFwVla;=V*hi>=KA=(h==iTFT=4-TFiTT-X<T=;l*<NTTi^<TzHAlW2TTi=VTzBsTWn*TlT=TA}(F=_lV(&Fllf(T{+lT(WTT-l<TV(iT<-zT-i<WzJiTW7=<>UVTAKiTWA*T>E=TAN(TV*lT&i*zlm({{P*TFMTT-5F=>=iTFizTiWWTz#>TW;TG>;WTAC>=Vd*=JBVT*V(T=llTlZ{T*kFT=i-FFU{T-w><TJiT<O{TiFWTTQ>T<hATi*VTziw{VIA{8fWT*P(T=w*=oU{T*iFTVz-TFkTT-nFiTX-T<8T=iIW=zyiTuzAT>*VTz(cTW *T>CVF*>(<=CTz(3{=l5(={(-T(aTT--<TTBiT(OzVip<Tz8iTWHT<>IW=AT5TW>*Tll=T*,(TVi*<(#==l3iW{0-TFb{=l<<T{-iT>lzTiZWTz}>(WmzT>vWVAEN=VBAT7l={*A(T={lTXp{TzG(({R-FFe=>-QFWT2-T<zzTiAWT=(>TWiATl9WWAw_(V&{AvuFi*_+T=(lT(z{Tz(FT{i-T(i{=-IFTT4iV<mzTiYFTT{>T<XATinVTT*fTWi=<UDV{*7iT=8lT(Y==l(FT=i-T>fTT-,<T{i-{<OTViu(Tz;>TWgATi;VTzDmTW-*T}i=TAM,l=wl((RVVl,(T{_ATF*TT-z<T{2iT<*zT-i<TztiTWLAV>tVTA}iTF6*{>}=TAs(TW*lT2i=<ly({{2*TFGTT-aF=T=iTFizTlBWTz >T<iz(>xWVA4iTV,*TXe=T*=(TVKlTG-{TliFT=)l-F7T(-oFVT8-T<d=T-=WTzz>TG<AT-jVTzi=YVsATrRF{*I(T=RATm{{T*YFT=}-T(*TTliFATJ-{<u{Ti2WTzti=W>ATiiVTTAtTVN*T>iW**jgV=j{-(B{Tl#(={z-T(lTT*a<TT)iT<yTFi?<TzMiWWwA=>aWTz{fTVz*Tlz=TAQ(TViF:(?=TlBi{{p-TF4=Tl{<T{RiTF/zT-*WTTii-W%z{>q<WA+uTVUA=)A=TAi(T<zlT(q{T*i(i{glVFm=T-9<TTc-=F{zT-lWTTz>TWnAT>8V=A+>TV#AW+K==*C#TV>lT(z{T*FFT=H-T(iiq-cFTTBA<<xzTi9FTl(>T<9ATi2VTz*,TWi*F%EV{*_>W=qlT(Z==**FT=i-T_mTT-e<TTm-i<RTTix<=zR>=WBzTi{VTAT_TW(*T>f=TAHM>=#*t(D<zl2F({:ATF*TT-{<TVFiT>-zT-8<Fz>i>WU=z>9V(A)>=W{*T>C=T*-(T=blT>cVbl7(T{clTF%=<-tF=T{iTF>zT-VWTzE>T<izA>:W=As-*Vp*TMuV=*A(TV-lTi*{TlsFT{Bl<Fs{T-7FVTfi=<vTT-AW{z{>TF-ATi}VTzi>iVpAT47=V*J(T=tAT#W{T*aFT=}-T)*TTliF-Ts-{<o{Ti0WTz+i=WlATiiVTTe1TVM*T>i={*1xV=;AT(D{TlYFT=i-T(xTTl-<TTiiTFs<(ip<>zRiVWqzT>;FTAThTV{*Tl<=Tzj(TVi**(L=Tl1i{{r-TFC=TlA<T{;iTFmzT-*WTTiiFWsz{>h(>A+_TVQA=>*=TAi(TWmlT(j{T*iF={KlVFL=W-7<TTo-=A=zT-lWT{,>TW4AT>fW;Ad>TVXAWsN==*a/TVllT({{T*FFT=X-T(i{i-%FTT8A<<4zTi,FTTi>T<4ATiJVTz*jTWiA(d3V{*j>W=%lT(C==l*FT=i-TDmTT-t<TTR-i<RTTit<=zy>=W?zT*zVTA=MTW(*T>w=TAo-(=r*i(}<zl;(>{glTizTT-V<TV(iT<{zT-i(TzuiTWhV>>%VTA:iTW<*T>L=TAL(TV*lTGiV-lQ({{Z*WF+TT-UF=T>iTFizT*{WTzx>TWSA(>gWTAo>=V3*=:7VTA-(T=VlTiV{T*dFT=il-FD{T-Y<VTqiT<t{T=&WTTI>T<qAT-*VTzi-AV4A{,D(i*/(T=/*=2A{T*iFT<=-TF6TTliFzTj-V<3Wii3WTzy>TWiATigVTz-oTVi*T>8={*1;-=RAV(S=Tl;(==l-T(^TT--<TTIiT(mT(iY<Tz7iTWjT<>6W=V*OTW>*Tih=T*^(TViA>(6==l7;T{v-TFn{=-A<T{-iT(UzTiXWTz^-%W,zT>EWVAhx=VkATrF=T*V(TV-lT%H{Tz/u>{Gl-FU<*-H(TTY-=<(zT-)WTV>>TWBAT-K<>AK>TVvATOOV<*_Q=VWlT_>{TAlFT{E-T(i{=-,F=T,lT<ozTi}<=zl>T<-AT-^VTAPhTWi*(eSVW*BQz=ElT(q{T*{FT=r-T(lTT-i<T{gl*<kT-iDy(zfiTWDz==TVTzkmT(>*TP6=TzS>>=%*T(#=Tlk(<{ol=FFTTl><T=piT<ezT-i<<z0i=WUz*>}VTAg>=W**T>-=Tzo(T=PlTBi{=l4(W{Gl*FfTT-s<T{*iTF:zT-lWTzi>T<?AF>cW-AoiAVnATc6V=FT(TVklT-*{Tl}FTVI>zFq{T-7FTTy-<<ET=-VWTT>>TFlAT>sVTziq<VyA=:DWT*2(T=.lT(({T*cFT=i-TFiTTlIFWTQ-l<:{zio<Tz)iT<WAT>WVT{(5TVV*T-ZW**#w*=STA(f<Fl}(T=A-{F<TTA(<TTiiTFiTliE<Tz?>VWZAT>b<Tz*aTWY*T>e=Tz*(TVilV(:={lsJ*{&-TFb{=lW<T{iiTF<zTiZWTTiiVW+zV>)<*AbYTV6*T F=TAh(TV-lT(i{T*vl({Ol*Fu=V-#FTTk*TF=zTi<WTTt>TW*ATii<>AU>TV1*VP;=T*x>TVAlTm_{T*hFTV*-T(i{>- F{TOlT<nzTi_<=zW>T<iAT-PVTAq&TWi*=:2VV*.>T=JlT(U{TlAFT=O-T(-TT-i<T{3-(<rT*ip<VzciTW4{TizVTA<ZT(<*Ti2=TAiE-=.*T(O<{lMFT{q*T(-TTle<T{;iTF*zT-iW(zwi{WxTW>aVTAy>=VA*T>i=TT<(T=xlTGi*zla(V{+*TFgTT-;F=>=iTFlzTlVWTzB>TWRz(>&WTAn>WVm*=YjVTA<(T=<lT-z{T*hFT=iliFN{T-H>{TEiT<+{TiFWTTg>T<PATi*VTzi>-VgA{_NWT*+(T=4*=(({T*iFT=T-TF TTli-*TZ-V<J{TicWTzwi=<*ATilVTA<ZTVP*TGX=<*u)T=e*W(y{=l)(T=j-TF<TTlF<T{DiTFi{>iI<Tz&>=WPAT>1<Tz*vTWp*T>m=Tz((TWx*i(I=TlQ(T{f-{F4{T-<<TT<iT((zT-^WT{}iTWKzT>}V{AOllVMATgA=T*<(TVAlTj8{T*i({{7lTFSTV-M<TT_lT<WzT-/WTTL>TF*ATii<lA5>{V)=ink=T*,2==TlT#i{TT=FT{M-T(iV*-.FVTwzi<?zTiGWTTW>T<BATi-VTAiyTWyAl/ZV**dR==&*T(^WT*lFT{<-TJ{TTzi<T{i-W<:TTiJn<zI>TW TTiTVTzInTWw*T>*=TAi+V=9*{(IVTlSFT{xl=YWT{li<T=ziT<6zTitW{zaiTW2z=>_V=A9>TWz*TSF=TA((TVBlT_8{FlL(A{4zzF_{*-o<TTiiTF;zTicWTza>TWiV=>1W{A_n(V}*T%+=Fcl(TVilT(l{Tl>FT{A-TF2VW-s<TTg-{<MzTidWT=l>TWDAT>>VTA63TV%TWXM=T*E:z=mlT(:{TzlFT{S-TF<TT-,<TTulT<&zTigW{z,>TW.ATllVTAGrTV{*Tev=TAN-(=U*z(}WAl.(={K*TAoTTli<TTziT<AzTla*-z;i=W0z=>Y(^A}xFAl*T>l=T*7(T=>lT(>{Tl1>W{I-TFu{T-e<TTQiTF(z{-iWTTl>TW>AT-E-TAb>=V#*(46VE*S>TiVlT i{T*iFTWT-TFA-W-EFWTni{<6z{iCWVz9>T(lAT>PVTz##TVO*T9_<W*7(T=Yl{(7{Tl FTWl-TFnTT-(<TTbiT</{zi><=z3iWW%A{>BVTz*h{Wi*Tci=T*X(TWQWT(X==lZ(={;*{F%=TVV<T{iiTFizT*TWTzAWWWQzW>^VFAn.{Vo*W)Y=TTl(T=}lT^S{TlgFT{mAWFrTT-n<(TciT<fzT*lWTz5>TW(AT>:VTAx-WVb*TmJ={*u(T=nlT*={T*iFT=l-TF>TT*%F(Tp-=<rT*i2Fizxi=<>ATilVTzAoTVv*T_,VF*66==f*W(n{=lepT{W-T(iTTli<TVTiT<AiWiu<Wzm><WUA{>HV=ArCTFl*TaU=T*<(T=&lT(0WWlsFT{x-{FBTT-j<T{(i{FizT-lWTz>>TFUFT>sW=A&>*VP={06WT<V(TVilT i{TzTFT{AFWFS{W-E<=TYi{<Oz=ioWT=l>TWbAT><VTAY7TVsTW4_=T*}Zz=qlT(;{T*-FT=i-T(lTT-><T=.-(<;T=i2<zzClAWmz=i=VTzlCT(F*Td2=Tz2&A=Z*<(L{{lcil{C-T(ATTll<T{*iT<uzTiNFlzbi=W5AT>kV{AI;TW<*T1(=T*i(T=5lT(,=-l>FT{j-{F&TT-bFET.iT<mzViQWTz3>VWlAT>qVT=*zAi*W*O-V**b(T=){<A-(<Vi->(F=T**(WTl*>(IT<<-TlikWTzJA*i(<<T-><=iz<ilWWA(>AT>pi=flT(nVTlTF{{>-TFQTT-i<T{i-W<Xz=iOW{z%>TW7TTiTVTAiaTVi*T8i=Tzg>-=nl=(+{=lcFV{K-F(ATT-><TTziT<>zTiiWTzlizW AT>}V(A_6{Vb*WJ(=T*j(T={lT(>{Tl/6W{O-{FsT{-H<TTniT*>zTi>WTz&>TWjAT>sW-A>tTVw*{m0=T*y(T=YlT(U{{l*FT{a-TF-T<-x<TTmzF->Fl{*i<z->WWBAT>3(<WFz<><*Va<=T*J(T(*VV**0=T{*ADH=<*l<W={lTF*iV<WzTiIWTV<Tz-*<Vz*(=<*zWilWzAF<{*-OY= lT(m<V=>*l(W{=l>FV{VFzT&iT<0{TiTW{z>>TW;AT>-VTziiiVQ*=s#==*f(T=#ATaW{TliFT{i-TF-TT*pF=T6i=<Mz=i7WWzj>FW<AT>>VTAzsTV>*Txi=T*laz=QlT(a{(lYF{{Z-WF(TT-;<TTFiT<>zTi)FWzu>{WQAT>mVTAOXTTl*T >=T*}(T=klT(M=FlsF{{N-{FhTT-n(TT*iT<>zTi>WTz*>TW2zi>BV=AqJ=V2*Tm5WT*>(T=ilT(i{Tl>FT{QliF:T{-K<=TYi{<CzTiVW{zj>TW>AT>uVTAw5TVq*TQ>=<*M(T=)lV(-{Tl9FTF-{<*lTV-N<TT iT<-zWi}WTzdAWi*FHTlVVAT#TVQ*Tzl>zVFA<;<==**g=l>FT{x-TFsTT-;<TT#-{<szTiHWTT*>{WgAT>NVTAQuT<_<Txk=T*/(T=,lV(%VFA-FT{v-TFWTT-><TTiiT<lTziMWTzNilWrA{>JVTz*_{V *Tb>=T*g(TWjAi(>{TlNFT{o-{Fp{=lW<TTiiT<lzTixWTzU>{WKAV>EVTAHyTVqzTB-=T*-(T=-lT(-{Tls/Y{M-=FxTV- <TTYiTFWzTi;WTzB>TW>AT>lW(Am8TV,ATYy={*w(TV*l{(B{Tl>FT{?-TXR>--a<TTUiT<Kz{i5<=i(>TWiAT>*VTA_4TVEzz5>=T*Z(==jl{(}{TlVF{{H-TF>TT-G<TT?iT<7zTi3WTz_>TWyA{>bVTAy_TVV*{mm=T*>(T=PlT(+{TlJFT{hl<FNTT-e<VT-iT<azTTFi<Fz>VWlAT>)VTV-z>i=V<X-V>*.(T=X=FAi_z=<-V(-{{lWF<--<<TriT<M<VTWi{<<TTW-zz>?VTAJl<>>WVA{>AVz-WZ{V=**(VVl*>((=AF-T<-}<TT}zF->Fl{*i<z->VW%AT>Z%*W{zAV>(i{{l>F{{>-{>>i({VllFT{%-Ti*(A=*l*T-iV<mzTiq>zF*TWW-AW>cVTAw*T>WV{z{={*p(T=RlT(d{T-Qiz{-l-FJTT-}><F>{V-{FATz>VFl{>iWW<>-VWA51TVp={z*p{Vl(V=-lT(M{TT<l{BT-VFATT-}<TW-{=-*<{{li<z-i>WgAT>vtW<zA<>*WAl{>AVAAz=-*Z(.{Tl1*W((=V*l(={{lAFziV<lzTi}WT<<z{-l<k>-V<A7LTVN=<ll>>V<i==-lW(h{Tl;-W(*VH*lVV-_<TTN-=l=zTiiWTT->TW AT-qV<Aqf=V0*=7s=W*d(TV{lT(-{TlmFT{6-TF/=7-B<WTYi{<szTi#<=Te>TW*AT>WVTA0RTVpAlJ9=V*U(<=9l=(R{Tl(FT{l-TF>TT-_<T=wi(<}zWiKWWzw>(WHATiTV{A*kTV>*Thk=Tzk7l=Kl<(x{<l}(z{y-T(iTT-i<TT*iT<izTi3<{z&>{WuA=>&VTAq?TV**TIi=T*i(T=PlTu+=Fl9F={;-FF8T{-R<TT=iT<izTi-WTz8>T<i&J>1VVA%>=V8*T.m=T*<({=llT(>{TlNFT{jliFmTV-P<=T^i=<nTT-=WTzi>T<*AT>-VTAo>{Vo*=g_=W*7(T=jAT(i{TliFT{i-T(yTT-_F(T_iW<Sz<i;WTzXi=<=AT>*VTz>fTVL*TiDiT*_(<=2l<(G{{lq(=T<-TFATT-T<TT^iTFiz(iwW(zvi>WQAT>L<Tz<ITVz*T_z=T*<(TWk*W(P{(l6F({,lAFx{=lW<TTTiT<{zTiOWT{ i=W6zg>;WRAd)<V%zTj-=T*T(T=TlT(={Tlf(i{:-<F,{3-9<=T_iTV*zTiAWTzd>TW>ATiiW>A?:(VoAW^b=T* >TV-lT(z{TlzFT{--TFj{W-%F_TBi{<yzTigFTT*>TWTAT>TVTAz0TVHA-Z,Vj*c({=C*o(p{T*WFT{{-TF>TT-Z<T=k-l<>T>iS<>z_izWgATiVVTA=YTV>*T+n=TzUUV=v*i( =il#F({?-T(VTT-{<TT{iT<=zTi9<{zZiPW9z >?W>AE>=V>*Tt{=T*W(T=MlT(8=FlOF({+l>FDT=-GFTTWiT<AzTiiWTzz>TW1A=>GV=AHvFVU*=67WT*<(T=ilT(i{TlVFT{S{<FOT=-1<=T7i{<QzTiVW{zQ>TW>AT>aVTAurTV?*TgiV>*5(T=%lV(l{TlIFT(z=V**F=--<TToiT<XzVi*WTzk>T>VWA-*>WV<CVVT*TnM=TWlAzEFV<*<(==**={--VFRTT-Il*F{{A<-zWiyWTzRAWi*F&TlVVAlwTVb*TA<_{WlA}=-lV(0{Tlm-*(>V%F-{Z-n<TT8{W-(FV{l-=<{TAizT*>IVTA2YTgl*T7:=T*P(T=flT>uV-lBFT{+-TF6TF-M(TTiiT<.zTisWTz>>T<iT->ZV=A5gVVK*Te0V=Az(T=-lT(i{Tl^FT{L-FFJTT-h<VT.i=<d{Fi(WTzk>TW{AT>>VTAi?TVlAz&o=T*q7>=8l{(w{Wl(FT{u-T(zTT-><T{iWt<9z{iDW(zY>TW#TT*yVTA>;TV>*TM*=TAi(W=2l=(5{WlSFT{,-TF(TT--<TTIiT<hzTia<FzY>=W5A=>pV=A7NTV=*Tb-=T*>(T=_lT>1=(leFV{J-VFh{I-a<T{*iT<>zTi-WTzi>TWEz{>SV=A;HTV_*T8EV=*>(T=-lT({{Tl,FT{D-WF5TW-o<{T?iT<%zT{{WTz->TWiAT>iVTz%l(VL*=yp=F*x(V=ClW(({TlQFT=W-TF>TT-mF<T>i{<CzTi4WTz%i=*TAT>iVTA{0TVv*T^gT**7(V=QlT(}{TlJFTS{-TFiTT-i<TTiiTFLV(ikW{zs>FW6A=>2VTAVe{Vb*T+>=T*b(T=/lT(0{Tl1(A{g-TF}TV-<<TTKiT><Fz{*-V<*A*i(<Fz*i*W*zAil*Vjl=T*?(TF*VAA*#*l-(*{y-TFP<<=--<(iz>-FFT{*-WWl{>-4W<>-WlA#MTVK{{Ai>VV(Al>*VW**FV={Ai(*-VFTTT-9<T<H{zl-F>{l-><(TAW-A{>sVTAhAeV-*W&e=T*wA*J>VW*T{Vl*FT{7-Tl-(l{>l*(ui{<IzTiuWTz9>TWyAT>-VVAyjTVD=*A{>A*-(V=2lT(&FV=**W{--VF4TT-+i*F>=S<>zTiRWTzt>TW1*Tl(VVzhOTVZ*Tl>3=W-AzKWV<Al(<{S*zR-=>*l(>{(lA=ziT<NzTi,<<z>>{WcAT>^VTA8HF<W*TL>=T*l(T=>lT(>{Tll(z{Z-TF%TW-c<{TyiW<(zTiDWT{A>TW>AT-4-TA4D{VZ*T k=V*c)=-TlT(i{TliFT{}-TUg,T-/<=T7i=<wzViUFT(K>TWiAT>iVTA>QTVAT=O>={*EO-=2l{(Q{=leFW{(-TF+TT-V<TT>iT<lTzicWTzw-FW1A{>nW=(TwTV>*Tuz=T*c(TWmi%(q{{l,F{{Gl)FZ=Tli<TTiiT<MzTi*WT{tiTW?A=>KV=AtHFVn*T,{=T*-(T=>lT(0{TAQFV{3-VF6TV-sFAT%lTF{zTi-WTz->TWAAT>CW=A71=VL*=Q)=V*L(TV-l{(-{Tl>FT{7-TabT=-N<VThiV<}zWiQFTTz>TW-AT>-VTAA1TV:A=t)==*B(==_lV(^==*kFT{--TF{TT-M<T{ill<bzWip<*zI>TWsATi{VTA>nTVl*Twi=T*Ix*=5l=(){=lPFT{B*TF{TT-i<TTiiT<VzTiCFlz8>WWsAV>wVTA iT-7*TGl=T*l(T==lT(+dzl/F<{}-VFCTT-;(TTViT<*zTi*WTzW>TW.AF>3VFApeVVs*TP2WT*T(T=AlT(A{Tl=FT{b*fFLT<-g<<T.iF<YzT-9WTz*>TW*AT>>VTA,>(V%*W3D=W*b(<=flT(T{TliFT{l-TF>TT-NF-T>iT<jz{i&WTz%>TWCAT>BV{A*STVq*Tm-=<*c(T=P=F*Wsz=(*={>-TF%TT-x<TTYiT<7z{ijWTzy>TWCAT(j(zA-IWVj*TxY>VV{*(3FlV(l{TluFT(<{{*l(Ql><TT:iTFiX(i W=zh><WrAT>m<TAVxTVi*Tyi=T*>(T=H*T(t{VlbFT{n-{FJ{=--<TTliT<*zTi_WT{)iVW;AW>#VWA1:WV6*T9F=T**(T=JlT(%{TlI(F{%-WF,T=-9<=T_lTF>zTilWTzl>TW-AT>nVVA}gVV?*VQo=W*C(T==lT(i{TliFT{i-TFnl>-m<=T7i=<az{i_FFl->TWiAT>FVTA>bTVi*TwlVz*_(T=}*A(/{{lMFW{(-TF6TT-(<TT>iT<x><iDW=zg>=WmA{>RVT{-5TVi*T9i=T*d(T=d*-(>{Tl/F{{n-TFQTT-u<TTgi=<iV(iKWTz_>VWTAT>BVTV**>)-WWzi>zVV*<=-*-(H{Tl;-T(>{Wll(>{F-(WWT<-AFWi-<iza>TWeVWz*-b<llV>(WlA(>=T-(V=TlT(Y{T{+*zH-=>*l(>{(lAT>iT<4zTiDWTz:AAC.AV>=VTAS5T&-Wzz*>=V-*<(-={*FBVl-FT{7-TF9TV-*<TTbiT>AF=T>-*<*>VWTAT>+VT={zAi-WWA>>AV-*<=>lT(X{TldFT{_-TiaTV-z<TTPiT-AF=T(-*Wi*(0iAV>=VTAH9T(zWzzl>OV>A*FiVz*W(Wl>lF(A{FlAFF{AVFV(i{<%zTixWTzw>TF==T>-VWA2yTV?{<AF><V<(V=*lT(C{TT-*z(W=z*iTV-W<TTyiTilF=T>-AF-TTi><=z*iAW-T>V-Au?G=T*/lW0*WQAlFV={Ai(*-VFVTT-a<TWlT<l-<V{i->FJTWi{<zzFV{A.MTVc*TaP=TlR-z=-*>(H{Tlj-W(*V4*l<l{>-=F*{l<-TFi.WTzJ*=i>WVzV>(<izzi*WAAl(WWi*{QFVVA^({Vil<(F{V*{T{-/<TTRiT<ezTlAETz->WWRAT>+PlW*AFil*VO-=T*_(TmF=<Az{V*kFT{9-TiiF{{-l-Fz{=-(F<TFiWV-TziW<zTiFVA>V**{i><(=zl(Fz<(l{(Y{Tl)FT{fVTiAWT-><TT_iT<:zTiZ(WV/>VWlAT>YVTV*lW>{W*N-=(*G(T=oTV*(uA=Fl<(-=WF-T<-N<TT;z>-<<{Tzi<z-><WgAT>M/<=lz>><T=;-Vj*w(T=uTV*>vl=Wl=(>{VlVT{-a<TTjiT<QzTlFsTz-i>WRAT>G^<={*T>>VWAl>>VF*(=-lW(3{Tl2->(-=zlFTV-F<TTjiTil<<{T-WW{*{iW<>zziAW<A<>FWW8-=W*o(T=4{W**>JVlFV{*-TFjTTTll>(l{l-*zVilWTzY>T7lW<T->VA>i{AWA<lu<VT-F-<(l{(N{Tl:FT{3-T>{WT--FiTtiT<oW>T<i{<zz<,WW{zi><WWNVVT*TYE=T=*l>F-VzAi+A=**={>-TFXTT-#<TTe*l>8zVi(WTz_>T7i<zTi>WW*z=R-W>z=2<=hA>>T=<*W{{lLFT{e-TFyTT-X<TT>iT<ZzTiKWTz,i8R#AV>lVTAXmT(AWzAF>W*->l=flT(/3==iAc(>=V*-F<=ll>FlAi((=z*>({=Tl((*{VllF({k-TF-TT-><=T*(V=AlT(s{TTi*<wl=Wl((A--<WT3iT<YWVT{li<*>VW=AT>JVTV A{>lVWA{>AVzlWq(VT(>{Tl FT{d-TF7==z8<{T iT<dzTi:lTW>*TW-AF>8VTAo*T>>W=A*>AWl({V>iA(=-T<{T>*{zzF-TV-y<TTRzW-(FTi-<lz4>TWU==z(i=WlA<ii{VA(>lV(A=<-lV(A{TloFT<-=zlW(z=isVT>iT<KzTihWT*%TzuLAV>WVTA?dT(-Wzzi>AV*A=(i={*ls>V**V{>-TF3TT-9<TTCT>>Jz{iBWTzf-Tl**-(>(zA- WV_*T;e(AV>A*4*l{(C{TldFT{E-T(lWT--FiT%iT<8WWT*lwFl*=-*<WTlizWF:VV{*TPt=T{>*V>lV>AA({Vll<(l-VFzTT-8<TW-{l-{<VTVi<<l>VWFAT>sVTVlA<iTWW*TF{VWA> zVA*<(<=F*WW*-{F/TT-A1lT0i{<OzWiNW{zZ>{WaAW>(VTAcdTVl*TH>=T*;TW=4l=(;{TlkFT{B-TV<TT-><TTiiT<yzTl_lTzp>=WbA{>Y(=A)mF<W*TUi=T*T(T=>lT(>{Tll(z{0-TF7{Q-X<{T5-=T(zTiiWT=l>TWHATiy((Aqo{VZ{=q&==*L>TiBlT(i{Tl>FT=--TFAVl-_<=To-*<6z{iLW{z_>WW(AT>CVTA<5TV>*T>iAz*s(==bl((&{Tl&(T<z-TF>TTl-<TTiiT(v(TiBW=z?>{W,T=>ZVFTW%TVi*T>i=T*>(T=>lT(l=zl7FT{cl=FET{- <=<iiT<izTinWTzp>T<;=(>hV{A_i=V9*=EBV=iV(T=ilT({{TlsFTV%l<FbT=-q<=TQl><0T=ilWTz->TWTAT>0VTAfiiV.*=7N==*n(==H*=D-{Tl-FT{{-TFJTT*/(>TGiV<_zVibF>zri=<AAT>lVTz*OTV&*T3bi>*6(V=Nl=(g{=l;(=AV-TFlTT-{<TT8iT(kz<i0WWzL>WWLT>>HW=z=4TV**Til=T*0(T=v*i(k{WloF={_-=F.{=l<<TT*iT<{zTidWT{}i*W A<>GV<A2i>VdA=?*=T*A(TW<lT(G{Tl7A>{D-<F)T=-Z<=Tj-==VzTiAWTz{>TWeAT-YW=A? FV3*FBZW>*2y==AlT(z{Tl>FT{G-TF7=w-/<FT0i=<Kz=iK<=T->TWzAT>{VTAnsT<HA<Gp=(*t((=,A>(3==lTFT{T-T(*TT-?<TT4=><xz(iUW=zf>=W0z=FVVTATJTV{*T8_=Tzj>-=m*I(y=blyY>{6l=FiTT-{<T=liT<_zTi8F-zoi_WEA=>wV=Ad>=Wl*Te{=T*{(T=2lT>D=llj(>{ul>F3=>-2F={:iT<=zTlWWTzO>TWNF>>rW>A d=Vq*=XtV=-((T==lT({{Tl2FTV;-FFk{i-PFiTIl><4T=i<WTzV>TxlAT>1VTAq><V8AiIs==*6(==XzTqh{TliFT<i-T>lTT-_<<T3--<dzTijWTzdiT<<AT>iVT{{gTVV*T>izi*_%-=oT*(E{Tl;QT=z-TFVTT-V<TTViTFiTziu<lzu><WwAT>.W=z<rTV<*T}*=T*t(TVi*V(}=AlyF<{P-TF?TT-F<TTViT<FzTiiWTT8><WHA=>G<iAq>-V7TTAl=T*i(TVAlT(<{T*iRl{Sl-F)W*-&<TTLlT<zzTiVWTzV>TWVATiiW-A_>lV6TTj^=T*c/=VVlT(<{TzXFT{5-T(i{V-bFATf*T<3zTi5WTT->TWVAT>FVTAi#TW?V(#:==*K-l=w*-(eWTl-FT{i-TE(TTAo<T{iiV<5T-igF{zo>TWuTT>(VTAVDTVV*T>{=TAiZW=e*l(?=WlfFT{Pl=FlTT-<<TVJiT<8zT-i<<z)iAWf{T>9VTA/>=A(*T9(=TAW(T=?lT(2=ilR(-{+lzF_T=-oFTWziT<izT**WTzV>T(N{F>3VVAXl=V/Tuq_VT*z(T=-lTi{{TliFT=i-(FR{--Z>*TsiT<d{TiTWTzV>TWVAT>VVTzi>iV+Al_3FA*P(T=N*=eW{Tl<FTWF-TFUTTliF(Tj-A<6VAiNWTzv>TWAAT>VVTAF,TVi*T>3=<*n(V=_Ai(6=-lQ>T=T-TF-TTlA<T{liTFi{>ia<-z9**W AT>v<TAFjTVV*T4V=T*V(TVi*T(R=lle>T{,-TF%{=li<TT<iT.GzTibWTTil*W5zA>.FTAMUTVY*TdA=T*V(T=FlT(i{T*+FF{O-VF3Wl-/F-T:*T<AzTi-WT{(>T(UATiiWTAS>-VRz{g7=T*D>T=*lT(V{TlVFT={-T(iT=-cFlTn*T<4zTiv<={F>TW<ATl8VTAIaTWiA<.YVA*CiT=UlT(x==*<FT{(-Ti-TT-?<TTfi=<LT-iG<zzG>=WSzTiAVTA-ETVl*TeV=TAiRz=.*-(bV{lpFT{}*T(*TT-V<TTViTF{zT-iF*z>ilWfzW>kVTA1>=WW*T)<=TTJ(T=OlTri{=l5(A{kATFbTT-EF=TWiT<(zTl-WTzP>TW1z*>,W-Aa>zVx*=K0VT*=(T=-lTi*{TlVFT=il*FJ{--kFzTwiT<o{T=UWTzV>TWVATliVTTsA=V)A-1%V-*+#l=w*T(T{Tl-FTWi-TFVTT*mFVT0--<?z{iR?=zkiT<lAT>-VTTzdTVV*T>iV<*3_-=wT*(d{TlhYT{F-TFVTT-V<TTViTFi{li_<lz7*AW4AT>HW=<*CTV<*T-F=T*7(TVi*l(?=Al}iA{.-TF^TTl=<TTViT<FzTiiWTT ilWBAV>5VVAN>-VDTT >=T*-(TVilT(F{T*i(T{Ll-FB{z-s<TTwlTFTzTiVWTzV>T8zAT-:-TAQ>-V?A-RwW7*3ITFzlT(-{TTzFT{V-T(7W(-m<WT#A></zViB<==H>TWVATiFVTAp+T<xz-7CV-*8o-=UA>(t==*WFT{W-T>^TT-_<T{i-T<XT*iY((zS>TW3AT>-VTAVhTV<*Tbi=TA >*=qlW(x{=l.(-{Jl=(VTT-V<T{FiT<kzTl8--zOi-W z->N<>Ad>=VT*T+W=TTf(T=4lT)i=Ald(*{7A{FxTT-e<TT-iT<VzTi<WTzi>T<rA{>JV<AGlzV2A-/bVTAA({=*lTi{{TliFT=i-FFk{--;>*TBiT<n{Ti(WTzV>TWVAT>VVTziiPVsAlR?F2*.(T=C*=(T{Tl<FTWT-TFfTTliFWTX-A<HVIipWTzI>T<AAT>VVTAFCTVi*T>a=W*>(F=}*T(X=-l/>T{W-TFATTl><TW>iTFNTli_WFzs*>WvA=>jFTAl)TVz*Tli=Tz{(TV7lV(^{(lfi>{7-=FU{=-i<TTViTE<zTidWT{j->Wxz->7W-Ac>-VaA=**=T*W(T<FlT(%{T*i(T{2l*FhWA-8<TTw-=<FzTiFWT=F>TW0AT>cVVAN>-VJAA.5==*.DT=AlT(z{T*=FT{V-T>,=--C<(Tc-F<uTWi%<=z=>TWVATl<VTA5wT<4TTH>V-*Sy-=L*-(K==*>FT{W-T>^TT-t<T{ii{<jT*ip(Tz)>TWbz=>zVTAFhTF *T4S=T*IJ<=B*-(d=Al1F={UlT(TTT-z<TVWiT<VzT*oWFze>(WB{z>cFTAn>=lT*TPV=Tz>(T=_lT>.V>l3(-{Il-F2=>-oF={giT<WzT*tWTzd>T<izi>5W*AU-TVI*TtrV=*<(T=FlTim{TlsFT=il*F3{z-G(*TJiT<DzTiAWTzV>TW(AT>iVTz_>lV2*(/J=W*7C-=q*=TT{TlVFTV>-TFUTT*a(>TR--<ET-ieF>zwi=<{AT>WVTzVyTVv*T>iV**dy*=fzT(c{Tl3(={>-TFFTTAS<TT&iTFiT<if<zzQl-W5AT>eVTz{qTVV*T+(=T*i(TV4*F(_{(l8><{5l-F_{=WT<TTViT<(zTi_WT{Z{TWNz->5W-Av-=VbzTAi=T*V(T=VlT(W{T*h(F{7-(F_V=-%F-T&lT<=zTiVWTz>>T<-ATiP<*Adx(V;z(_8V-*qC=V*lT(V{Tz<FT{o-TP {2-ZF-Ta--<UT-i.<=zV>TWWAT*PVTAgmTWiW<EaV**v-T=clT(x==*{FT{F-TiUTT-D<TTp-i<?T-i_<Az7>=W,zT>AVTAz_TV-*T1V=TTE_W=Bl((?==le(({3l=FlTT-V<TT(iT<,zTlN<Wzci-W%z->t((A_iT-G*T4V=T*V(TVTlTZ_<(lRF({Cz(F_{--gF=ATiT<VzTi(WTzd>TFmzw>,W-A >-VnzF7&WT*l(T=VlT(V{TzVFT=slAF%T(-9(FTJ--<6TTiFWTzT>T({AT>zVTzi>FV1A-rEWA*^(T=9ATc>{TlVFT{V-T({TTli{zTk-l<R=TiNWTz:i=*=AT><VT{zPTVr*TK)Wl*KP-=_**(a{=la(T=*-TFTTT-i<TTViTFi{iie<-zP-AWDAT>1<Tz-BTVV*T_V=TA{(TVil=(?=llC>T{.-TF7{=l*<TT<iT<=zTiaWTzPiiWZz->LW*AZH=V/ATlz=T*T(T<AlT(V{Tzt>F{6l>FaW=-g(<TE-T<FzTi{WT={>TWiATiiWlA^>-VK{*RL=T*N>T==lT(V{TlVFT{V-T(iT<-xFlTOAA<EzTik<=zV>TW<ATlFVTAmnTWi*=MbVA*Y-A=dlT(e{TlAFT{V-TFFTT-i<T{Ni=<1T>idFizSi-Wf{TicVTA{sTWA*T>l=TAix*=)*-(K<*l#FT{o*TF<TT-V<TTViT<VzT-i<(zNilWs{T>^VTA0>=V**T3<=TTZ(T=_lT4iW*lY(A{qATF2TT-x<TT*iT<VzTiFWTzi>T<qz(>nW>A%llV#A-9.<T*{(T={lT>({TzqFT=ilTFe{--j({TZiT<n{TizWTzV>TWVATi{VTzi>TV4Al1G<i*q(T=x*=>F{Tl<FTWo-TF7TTli(lTX-A<qViiQWTzgi=<>AT>(VT{N#TVD*TbCWl*NB-=k*z(G{=lK(T{T-TF{TT-l<TTViTFiT<i <-z,-{WYAT>_<TA>PTVV*TbV=TA{(TVi{l(p=ll,>T{m-TFN{=-<<TT<iT(VzTi,WTTiiiW4zA>}FTAB TVcA=>-=T*((TWVlT(I{Tlx({{+l-Fc{z-b<=T_-T<TzTi{WT=*>TWVATl#<*A%>>VZzT#o<V*ZiT<AlT(={TTiFT<A-T(yT{-xFiTbA><0z=i2<=zi>TWVATl<VTA&5T<5Ai8oV-*+^-=&*-(N==liFT{W-T>FTT-S<T{i-*<CT*isSAz0>TW#z=>lVTAFnTFF*Tht=T*d(F=n*-(o=AleF={7lT(*TT-=<T{=iT<VzT*1W{zZiiWrzF>DWWAe>=W**TOV=TT<(T=BlT>4==lh(-{,l-F1{--3F=TWiT<WzT*GWTz}>T<iT->kW*Aj-TVO*T1IV=z<(T=FlTiS{TltFT{tl*Fm{--0FAT}i=<fTTiVWTz=>T(WAT>VVT{o>lV}Air6<z*IiT=?*=S;{TlVFTV>-TF3TT*b(lT3--<wT-iJF>zji=WlAT>WVTzl1TVJ*T>i<A*cv*=DzT(,{Tlk(={<-TFFTTll<TTUiTFiz=i2<zz}lTW_AT>bVTA<ZTVV*TE(=T*i(TV_*i(+=ily><{rl-FN{=-><TTViT<(zTi&WT{h-%W/z->yW-Ax-=VuzTTa=T*V(T=VlT(A{T*Sl({/liF%V=-uF-Tc*TF=zTi=WT{z>TWzATii<>Ac>-Vp{*DP=T*?>T=*lT(V{TlVFT{V-T(i=2-dFlT,*T<4zTiC<=T*>TW<ATl)VTAkgTWi*F87VA*eiT=5lT(y{T-AFT{V-TFFTT-i<T{t-l</TiicWVzMi-W;{T>zVTA=eTWi*TiF=TzN(<=r*-(2=ilvi<{P*TF*TT-V<TTViTF(zTiAzWzLi*WDA{>rV{ADsWV2*T-l=T*v(T={lT(+{Tlh>W{2-TFrT=-%<TT^iT(?zTiLWTz>>TW:AT>LFWA}kTV9*{tL=T*H(TV(l{(V{Tl<FT{>-TFJ{--><TTai{<0zTiHW=zk>TWQAT>%VTAL0{V.*Tam=T*V({=3lT(>{TlSFT{K-TF,TT-6F<TSiT<dzVi-WTzM>Tr(<<TlV{A12TVL*T:xTTV(-T=-lV(y{Tlw*A(*=(F-TW-j<TTMzT-W<{{{WVzV>TWjAT**>{<-z>>FV(*->WW{Als*lV(V{Tl0FT<{=*l>F({*>VF({l-(F=*-WVzA>TW1AT*-i=W*A{ilV<O-Vz*j(T=sT<*>xV={*A(zzWl{(={*-V(l{>-(FAi-WWz9>TWdV{T*>{WlQVWA*Tnr=T{i*{}-V-*zb==(*<(F{W-l(={>lA(-{T->F=T*-A<-{>W>{Vl-FV{--VF-iV-(={*f(T=UlT(kVT=iiT{-l;F,TT-r>VF>{l-W<=T>iV<V>{iAWFzA>FWAAF{A{zn-=W*&(T=+T<*Fn<=<FV{A-TFKTTz-lzFW{zli=Vi-<>zd>TWcVWTz><W*zA({WAAA>z*-((=SlT(_(FVi*z(<T=izW=--FoTDiT<jFWT(-AF*T*iiW<TiV{i<<lzWilWWzlll-z=>lT(u{TlGFT<0T<inWl-1<TT7iTF*z{igWTzL>TWZATiiTiAI0{VjATN%=T*8>T=FlT(>{Tl>FT=i-T(iT(-w<=TJ-<<&zTi.<=z->TW-AT>WVTArfTWi*WP%=W*Y(==rlT(P{T*TFT{>-TFlTT-i<T{:i=<.zTi,WFzC>{WoATi*V{A6^TV>*Tq,=TTo*l=vlT(_=ilY(-{e-T(*T{-G<TTiiT<szTlEl*z}>TW&AT>YV(AX_TW=*Tyi=T*o(T=3lT3i=-lhFV{Ql{F,TT-D(T{=iT<-zTi-WTz->T<iz(>^VWAE>VVo*Tn9V=A{(T=*lTal{TlGFT{;l=FjTW-}<=TEi=<KT=lTW{z*>TW(AT>)VTT)>>VN*<Bf=<*M(<=UAT;*{Tl*FT{*-TF{TTliFAT5iF<#TziDWTzD-T<iAT>AVTAA)TVT*Tir=W*C(F=XlF(S{{ltFTz--TF-TT-A<TTiiT<_{-igWWzr>TWkA{>nW=Al#TV**T>H=T*5(TW2*=(k{<lXF<{Yl=FK{=-l<TTAiT<izTi.WTTi>VW2A(>7V=A_dTVRA=hi=T*T(T=ilT(X{TlI>i{>-<F,{;-P<=T)-TF=zTilWTzA>TW*AT>+W(ALOTV,*WD,==*j>T=(lT(6{Tl8FT{l-TFw{*-c<TTLi=<vz{i+WTzW>TW6AT>iVTApCT<o<*pO=T*g(T=Cl((J{T*iFT{i-TF>TT-_<T{il*<jzVis<{zt>TWsTT>iVTA-ETV-*Tu-=TAisV=ylW(X=VlOFT{7l=FWTT-*<T{liT<3zTiRF>z6>WWKA=>MV=Ay>=<T*{R*=T*((T=+lT>)=FlZF<{h-<F#T<-S(TT<iT<*zTi*WTz{>T<iTt>nVFA%>zVZ*TX1WTAz(T=AlT(A{TlTFTVO*>F6TF-:<FT?i{<GzTi=WTz->TWAAT>iVTAh{WVN*W.K=T*_({=?zTlW{TllFT{=-TFFTT-rFiT_iT</zWiXW=z3-TlVAT>NVTAJGTVl*TRdA(*^(T=}l=(N{{l5FT{V-TF TT--<TTniT(Yz=iqWTz2>TWxz*>SVTz*YTVS*T >=T*>(T=0*<(6{TlXF{{n-TFhTT-1<TTkiT<iT}i#WTz5>V<-AT>EVT=>A=i-WzAW><Wl*<F-Vz*FcW=**A3lTVl{:i{*<VT>iT<wzTz{WVz->TWXATzF><<zt{V3*TrS=T*M(T=rlT(>{TltFT{X-TFDzTA(<VTliT<&zTz-->F=z<W-A<>yVTA_*<(lW>A<<=*>(T=PlT(E{TW8-W<Sl*FtTT-/<T*WiT<XzTi:WTz2>T<izV>eV{AdQ(V4*T} WTAi(T=>lT(>{Tl-FT=ilVFDT=-P<<TPiT<xT=i<WTz->TWlAT>IVTzi =Vf*WrJ=W*g(T=0lT(T{Tl*FT{>-TFuTT*+<VT)i<<0z<i_W{zn-T<zAT>*VTA*?TVi*TiRVl*f(<=vl<(:=+ltFT{=-TF>TT-*<TTiiTFrV(ipWTzr>FWDA{>1VTAVX{VC*TJ>=T*&(T=tlT(U{Tl8i={5-TFmTV-W<TTSiTilF=T>-AF-TTi><=z*iAW-T>V-*F_u=T*hlTE>V=**sAVlF{{t-TFJTT-_<T<{AT<-T>i6WTz2ATi><=z>>(<iA{ixW_S>=T*I(TWPW<<Vz{z(FV{A-TFOTTz-lzFW{zli=Vi-WWzX>TWM=<zFi<W<aVWA*Trk=T{i*{^-V-*zS==(*<(F{W-l(={>lA(-{T->F=T*-A<-{>W>AT>wVTA#LTVa=Alx={*J(T=flT(){T-Xiz{-l;F8TT-Ci<W{AV-(F=TFi<Fi>VW=AT>6VTVlA<iTWWl->zVWAz>izV(-{Wl8FT{mTll*FF=l<{TniT< zTiOlTVA*TW-zi>sVTA7*T>>VWAl>>VF*((lVzAJ{{A>=l=*zT>-VV>V>zT>iT<JzTi^WTz2-=4kAV>FVTAH%TslV<zT>W={-{XWV>*zpA=<l<(F=WF-TW-x<TT;AW-*FVT-WVzl>TWOAT*AizWFzWV-A9PM=T*+l>uFVVAl({=FlV(*-VFFTT-k<T<lT<lTFWzTN{<WT>iz<Az<><WFzWV-*<qZ=T*}-F>i={*<(<l-(O{+-TFQ<T{(lVF{{W-{FzTFWVzl>TWbAT*F>{W<A<V-*Woh=T*alVH{Wi**{Vl*FT{}-Ti-(z{Wlz(iiVFZzTi3WTViz{i-<-zzi=W(z<>FVWl->zVWAz>izV(-=ilIFT{7T>l<F{{z-<WWT{-i<<TWW{<AzFiAWFzA>FlAlzV-*TIg=T*7(V=zlT(;{T{-l<RlzWl*(V{-<{TYiT< zTiClTW>*TW>AT>CVTANYTV;zFl_={*Z(T=wlT(f{TA=iT{>-TF6TT-s<TTm-W>.z{i}WTzQ>TWuAT>?(TA->-Vr*TL3(TV>*WglV>*F((TWl<(A=WF-{H-Q<TTkz<>{WV{l-=<(T-i*A{>YVTALmTVy*TR8=T*-(W=jlT(uF>=-*z(F-VF*TT-H<TW{{*-><(T*WVzl>TWXATAl><<TzWV-Air%=T*5-(:(VW*T({=<i=((=lllTV--<TTniT-F<<{zW{zd>TWJAT>tVTTFlTV-Alj+=T*f-VP(V=*F(<Vi-=(>{Wl{(<=-<VTliT<JzTz*tW<{T*W>AT>5VTA5hTV_A#lm=V*{(T=DlTl*F>{5l{(l{Wl{(A{z<VT{iT<ozTzli<FTTWmWW{zi><WW0{Vx*Tvm=T*D<Tt(TT(-=?l8FT{%TVl*(WTll>(l{l-*zViWWTzy>TXi<zTi>WW*z=(-WzAW>zWiiV=-*-(G{TlqiW(*=Vl-(={{lT(l{>-(FAi>z*>{F>{(Az%(=z{(NVVz*Tub=TVAA=8(V*li<(TiFV{*-TFfTTT*>WF{{*Diz{->=Az=VT*{,><{(zA->zV.*T;pF=V(A=ql=<AiFV={Ai(*TTl{b+{*llT--Y<gzTie>W<*{2-lVVz{-iW*8{VP*TJ,=T*4(T<{TT(-{<l#FT{qTWl{(W{W-<T-iV<IzTi6>W<(TTW>AT>1VTAyNTVxTWlE=VAV(T=vlTAi(=VTl{#-=Vl*(W{{-WV=*z((=(*AQ2=AlT(Z{<l{F<{i-FFlTV-zV2*>(T=IlF=i{Tl>FT{--TF>TT-B<TTl-z<LzTiRWVz5>{WcAW>(VTAwgTV**Tu>=T*xTW=kl=(^{TlDFT{r-TV<TT-><TTiiT<LzTl4lTzU>=W_A{>S<>AhkFAi*TOi=T*{(T=>lT(o{Tll(z{H-TFB{>-r<{TLiW<(zTiMWTz=>TW>ATiizzACR=Vf*WQH=T*9QTFzlT(>{T*{FT{i-Ta 7T-)<=TGi{<N=(i+WFii>TWiAT>(VTA>hTVX*TNlVz*c(T=6*z(r{{l_FW{(-TFsTTlx<TT>iTFi-ziLW=zd-zWaAT>MWT=z;TV>*T-z=T*i(TVii-(Q{=l,(<{_-TF)=Tl{<TTiiT<izTl<WTTii=W+AV>cW(AKCTV3*T?l=T*i(T=ilT(i{T*i(F{e-VFY{<-X<TTtlTFVzTi-WTz->TF<ATii<iA4vWV0TV2I=T*n(T>{lT(-{TliFT{i-T(iA--o<WTI-<<_zTigFTTT>TWlAT>lVTT<7TWiAzx)=<*si==8lT(N{TliFT{l-TFiTT-i<T{i-z<8z<io<<za>TWRTTiWVTA*}TV**Ti<=TAi>>=3lF(f=-l FT{+-T*{TT-*<TTiiT<izT-i=-zd>FWyz<>LVTAGiTW=*T,A=T*A(TW<lTuiVllOF({Q*(FSTT-j<T{<iT<AzTiiWTzi>T<iz(>:V(AP><Vg*T+hWT*=(T=zlT(z{TA<FT=i-=FC{.-3mVT_iT<vzT{{WTzz>TWiAT>iVTziF-VYAuKjV<*D(T=#AT({{TlTFT{T-Tq<TTli<{Tt-><h==i1WTz6>T<1AT>TVTAitTVi*T>iV<*ru>=D*<(_{Tl,5T=A-TF{TT-{<T=<iTFiT(iU<iz#-*WrAT>5VT<{qTV{*Tei=T*i(T=^>*(v=il4FT{_-TF:VT-<<TTiiTF{zTilWTz ><W/z->yVTAc+TV;AT>-=T*i(T=ilT(V{T*iF<{ l-FsTF-k<TThlTFlzTiVWTzV>T({ATiiV=Av>lVkA>ap=T*)O=>*lT(<{Tl{FT{8-T(i=J-5FAT3-><3zTi7WTz*>TWVAT>FVTAiaTWo*{Rf==*w>l=n*-(8WT*AFT{i-TFTTTlF<T{i-V</T-iRWFz5>TWvTTi{VTAVdTVV*T-{=TAil<=1*l(yW^l?FT{sl=FFTT-<<T=TiT<ozT-i<(zSiAWU{D>MVTA7GTVl*T+V=T*F(T=ilT^kV*lJF={SAFF?{-- CTTFiT<izT*WWT{T>T<iA{>#W-A_liVE*T:_WTA{(T=VlT(V{TA<FT=i-VFE{l-+FiTUiT<uT=i*WTz<>TFTAT>vVTzi>AV^AAd&<1*o(T=G*=(*{Tl(FT{F-TFMTT-g<WTp--<%TziaW=zRiT<TAT>iVTz=bTVV*T-J<F*9(V=/A>(Y<zld(T{i-TF-TT-i<TTiiTFiT*ie<-zR>FWeAT>X<Tz<5TVV*TXV=TT{(TVil<(v=ll8>W{B-TF%{=-A<TT<iT}lzTi)WTTii-WvzA>9FWAjoTV,*TNA=T*V(T=FlT(i{T*??i{O-VFJ=l-&F-Ts*TF=zTi-WTzT>TW=ATii<>AU>-Vw*Fdc=T*m>TVVlT(V{TlVFTW{-T(i{F-/FlT+*2<:zTim<=z=>TW<AT-TVTAsBTWiT*u7VA*pi9=KlT(8{T*VFT{V-TFFTT-i<T{#i(<#zViv(Fzai-Wc{T>*VTA-uTFW*TiT=TAitz=e*-(D<ilxFT{4*T(WTT-V<TTViT(<zT-iFlzBilW?{O>GVTA+>=<F*Tw<=TzT(T=#lTsiV-l1(A{DA/F0TT-/F={>iT<(zTllWTz#>TW:A(>_W-AO>zV1*=&EVTAA(T=-lTGT{TlVFT=il(Fe{--b>iTZiT<#{T->WTzV>TWVAT-<VTzii*V>Al.wVi*N(T=7*=r*{Tl<FTVT-TFkTTliFzTt-A<b=:iuWTzDi=WiAT>(VTTF?TV5*Tc.W>*d_-=P*z(n{=l3(T{z-TF-TTl=<TTViTFiz=i#<-zI>(WmAT>n<TFnGTVV*TwV=TAl(TW+==(_=-lc(-{IAlFd{T-*<TT-iTFlzTiVWT{/-iWCz->_V{A0i>VeAT>o=T*-(TWVlT(V{T*i(+{xl-FDTF-P<TT}lT<AzTiVWTzV>T({ATiiV(AZ>lVjTW Q=T*J}=>*lT(<{TzlFT{9-T(i=l-/FATK*W< zTiGWTzz>TWVAT>FVTAi0TWx*(Zh=V*DIl=8*-(aWTl*FT{--T><TT*-<T{i-U<IT-iSW(zh>TW.TT>-VTAVsTVV*T>A=TzYzT=#*-(e=-lU(*{MlTizTT--<T{AiT<VzT-4x(zd>WWHA=>_VVAq>=Fm*TwV=TTU(T=}lT>M{{lI(-{,l-FsV*-yF={WiT<WzTlTWTzX>T<iAF>EW*Ah>{V)*TLk=T**(T=VlT(<{TliFT=pl>FkTW-2(FTd--<0T=-VWTzV>T(;AT>3VTT8z-V7A- :V-*fi*=%*=.T{TlWFTVT-TFoTTli(lTD-*<N={i#WTzq>TWTAT>VVTA<rTVi*T>aVW*P(<=Qzz(_=-l0(T=A-{F*TT-i<TTiiTFiz(iC<-z,>FWXAT>G<TAT1TVV*TKV=TT{(TVi*-(h=ll.E{{?-TF7{=l-<TT<iT(>zTihWTTi>VWkzA>M<{AwcTV2*T>W=T*V(T=FlT(i{T*bFW{>-FF#=--?F-Tt*TFTzTiAWTz>>TW*ATi8<*Ab:FV3*=Na==*CiTVllT(z{T*{FT=--T(x{W-_<(TZi=<?z=io<=T<>TWVAT>AVTAdkT<2A=fQV-*5a-=DT>(x=={*FT{W-T>lTT-d<T{i-W<qT*iq(Wzs>TWmz=i=VTAFwTFl*T;?=T*dqi=O*-( =Al?F={KlT(ATT-z<T{WiT<VzT*Y<-zN>(WKzk>yWiAP>=W>*TIV=T*A(T=KlT>6WTl>(-{hl-F3W>-.F=T=iT<WzTlTWTzQ>T<iAV>9W*A4-OVd*TU8V=*((T=FlT>T{Tl+FT{Ml<Fj{--+FATSi=<kTT-*WTzz>T(AAT>VVT{y>NVK*(IUFl*uip=I*=TT{TlVFTW=-TFDTT*Y(>TL--<)T-i^(*zqi=W{AT>WVTTT6TV&*T>iW-*B3*=%zh(U{TlZ(==>-TFFTT*T<TT&iTFiT>iC<zz_*{W?AT>1VTzi/TVV*T;(=T*i(TV%l<(y{(l.# {0l-F%{=WT<TTViT.=zTi4WT{O->W5z->?W-Aa-*V^A=>K=T*W(T<TlT(Q{T*iZ-{Il*FxV2-:<TT2-=<*zTiFWT{T>TWoATiiV(A;>zVa{ANU=T*}(TVTlT(V{Tl(FT{i-T(_{(-M<(TNli<yT-ic<=PT>TWVAT>zVTA+jT<D<T,^V-*9p-=}*W(SVT=iFT{V-TFVTT*W<T{Q-T<Mz(iY<Wzqi-W)TTi>VTAVuTV>*T-z=TAo(<=6l((oW-lJ(-{%l=(-TT-V<TTAiT<0zTl^W=z;i-W,z->U(>Ao>=VA*TQW=T*-(T=#lT3ij<l+(*{&-VFxTT-^F={-iT<FzTi-WTz;>TWgzA>^W-AB>AVN*=oMVTAT(T=zlT(W{TlVFTW4l<FdT(-M>*Tyl=</T=izWTzV>TWzAT>KVTTGSWVHA-SEV-*LOF=OATz1{TlVFT{V-TF<TTlh>(TXi(<vTFiI<-zDi==TAT>VVTAzfTV/*TixV(*D}-=9*-(f==l}}T=l-TFVTT-V<TWbiTFs{-iRW(zsi=W4z->,WTz{mTVT*Tyi=T*z(TVil((B=-lS>T{G-TF+=T-l<TTViT<VzTl<WTTi<zWozl>vFJAgpTV+A={==T*<(TV>lT(o{Tl:(*{0l-F6{*-g<=Tr-T<VzTiTWT{A>TWVATiiVVAL>-VbTTt,=T*6>TVTlT(V{TlVFTV<-T(i{F-hFlTB*p<NzTiM<=z(>TW<AT-*VTArhTV AiyRV-*JI*=5l=(;=TTzFT{T-TF(TT-V<TVB*F<}T>i%F>z5l>WnzTiAVTA{_TVi*Tdi=TAi(W=H*-(h{Fl6FT{.*T(VTT-V<TTViT}{zT-i<=zdilW3{W>gVTA_>=W-*TH<=TTl(T=NlTRi{<l9(A{vAWF,TT-a<TTAiT<VzTiFWTzi>T<5T->EW>AyilVhA-f3<TA{(T={lT(T{Tl=FT=ilVFg{--J<FTciT<#{Ti(WTzV>TWVATl{VTzi7<VPAlkM<d*N(T=e*=(l{Tl<FTVT-TFBTTliD*Tv-A<e=^i&WTz&>TW-AT>VVTAFpTVi*T>SW>*n/>=)zF(2=-l,>T{i-TF{TTAW<T=TiTFiTAiO<-z?*iWUAT>N<TA>LTVV*TyV=Tz<(TVilW(m=ll1(T{L-TF {=*F<TT<iT(TzTimWTTi-*WYzA>;(-AumTV2A=0==T*((TWTlT(k{Tl g*{xl-FN{z-Y<=Tr-TF*zTi{WTTT>TWVATii<>Ap>-VH{ia2=T*D>TVKlT(V{TlVFTV<-T(i<l-nFlTN*a<;zTiI<=z(>TW<ATlFVTA?NTWiA-1MVA*UiC=ClT(5==*VFT{(-T>FTT-v<TTC-T<jT-i)<zzK>=W^zT><VTA{HTW=*TbV=TTP)-=X*>(IWil+i={p-F{lTT-V<TT>iT<>zTi>WTzdlWWEAT>,V(A&bTVdATlz=T*=(TW lT(V{TlA{W{Il-FXTT-q<{T0i{<SzT*lWTzS>TW-AT>jVTz l(VYAinK<<*DD-=7lTi-{Tl=FT{i-TFmTT-;F-T>iT<Mz{iMWTzu>=W1AT>wV{A/)TVD*Vvl=T*B(T(l=<ATYWl-FT{c-TFY{<-><=T^iT<ZzTik<TVz>TWiAT>>VTA>sTV5A-)>=T*1({=9lT(){Tl#FT{8-=F>TT-d<TT-iW<nzTi3>W<*{b-lAV>6VTA)qTW**{wi=T*)(T=YlTr5<(lrF={f-{F%T{-S<TTVi{<%zTi>WTzE>TWPAT>,VTAiq=_(*TmC=T*-Mg=jlT(PF<T{-Vyl==l((-{*<VTAiT<bzTAW->F-TWi*WW>-WiA%_TV%=VA(><Wi*V7*{V*>DAV-FV{z-TFXTTT^-{FlTW-{FATzW{zb>TWOAT>U-TV>lTV>*TLs=T*Y(TT0Vz-K{{lKFT{6-TF2TTT{>TT--A<ozTir>V<-T=i(<lzWi>WFA((AW=A>>*V*(V=WlT(r{T{*-><W=>*-(WzW-{({{zl*FWi-WTzH>TWjA{>;VTA;mTV *TfDFT*-Ml=LlT(O<==(*=(l{<*iWV{(llF({=.-zViTWTzb>TS{<AT-iWW>zA>-V<h-Vu*6(T=D{T*(9V={*W({=zlFTV-=<TT)iTil<<{T-WViT<-l<Wz(iAA->iVx*T.2(WV*zs>lTV*(?l=(*=W--VFATT-s<TW-{z-WFz{i(Vz>>TWnAT>7VTFqlF(u*{AApFVA*FfA=F<A<zl-(-{1-TFo<l{>*>F({<llWz{iiW<*T=W-z>>rVTAL*W>*</zl(lV>*=9*Vl(>{TltFT{X-TFQVWz_<VTTiT<?zTz*>>V-Tz-i<Az*i=A-,WV2*Tv5(VV{zif*l{(h{TlsFT{ -T>VlT--FATsiT<8WWT*lgFlz>^><lz{>(WFz*>*WAzl=V*-(T=XlTllozVKFV{T-TFeTTz--{FW{l-i<{T---z->VW6AT>I({WlAWV-*<yY=T*Ul>g<={*z(<l-(={y-TF#<V{-l=F({l-WV=T>-=WlTri{WVzViAW*zVi-*VQ{=T*X(TF>=VAla>VAl{,l{<llTV--<TTmiT>zV{z{W{zv>TWxAT>JVTzTlTV>*Tq6=T*f(T=szi-j{VlzFT{8-Ti-(l{{-VFVT<-lzVi<WTz?>T>_W{zl>WW{zA>z{=A(>WWlAzu<l=(>{Vl*FT{_-T-l(>=lllF*iV<-zTitWT<Fz<-zA{>ZVTAnETVd*TiAFT*-((=olT(,(FVi*z(<T=izW=--F>T8iT<wW<A{>T<>zWil<>zF>(A->>Vo*Top(VV(A=>l{zAi(W=**={--VFJTT-^(TV=lT<>zTiRWTz_>TW&VA*KVVAz TV2*Tl(>TWlA>}(VAA-{VlzFT{Z-TilF<{A-{(*{lllz=i.WVzW>TWeATAli=W>zAi-WTA>>=V*AAO-W>(>{TlwFT{k-TF^VAz^<VTliT<vzTz*vW<{T*W-zi>BVTAj*V>*WlA*vVWl*{0iVl**{VllFT{y-TiWF<{AlWT>iT<BzTi WTzsiW90AV>lVTAfpT9lV<zT>W*-(W=slT(_<<=F*<(<-{T<->({Vzz(izV(Vzi-WWzm>TWU=Fz(iA<l/VVF*Txp=T=l*<>TVWlT<{=W*>(z=Al<F<{FlWT--l<ezTi?rV<(T=iFW<Ti =W>AW>{W<z-=V**(T=YlTl*<W={**Wi-{FMTT-p<TT#iT<ezTi-WVz;>TW9VVz*iWA>gTVB*T+Y=T*:>=FrlV(={Tl?FT<z=z*l(j{>l*Wi{z-W<Wi-W(zw>TW&=Vz(iAWFA<>-WWo-V/*2(T=O{W**>bVl-V({Vil*TV-V<TT?iTi+<{TliW<{TAizVlz*>F<lSVVl*TZN=T{F*{,<=<(>{TlcFT{w-TFu{Tz,<VT(iT<6zTAi-zFizWi*<=A-i><=A<bEW>zTn<VW(V=*lT(Q{TTA*=(>=*l*TVl5<TTeiT>-FlT{-TF-*Wi*<Vz-><WFAW>>WAzl>V*-((=wlT(/F1=>*V<l==l((T--<(TYiT<hW=T*iFFiz<--<&>-W-A#pTVB{WA*>VV-A=O{VTAlu>=(*A{-lTFcTT-.>=F>TV-V<({i-zF*TAil=Vz(ilW(z=F-*{.w=T*v(T=5lT>T*Tl-F<{;-TFnWV{(llF({=<>zTioWTzQ>TWyVV*eV{A}PTVL*TP/=T*T-T=>lT(M{TljFT{&z>iZTV-A<TT_iTi5<{{ii<<FTWW-AW>XVTAw*>>-WzAF=VAW(T=UlTAi(=VTl{#-=Vl*(W{{-WV=*z((={*Q(T={lW(z{{l>FT{-l;FNTW-TFb*-(W=0lT(x<W=**V(--VFWTT-e<T<NT{-l<WT{-A<zA=i{W(zTiWA->iVh*T0.(TV>*W0lV>*F(({l*zvQ-{F2TT-+<TTZiT(WVTi-<Fz.>TWS==z>>VWVA(iiWzz*>AVllW>i={*F8VV.l{Ci{<lFFV={<{TkiT<3zTiEWTAb*zW-zi>CVTAI*>><V{AzH<{W*{&i=<*W{VlTFT{u-Til(={(lTFl{zlzFAi>WTz >TF)F<(V{{{(FTV>*TqE=FzW(T=>lT(l{Tl>FT{>-TFl{z-m<TTEiW<3z{iyWT?l>TWiAT>CVTA%kTVO-*.M={*)(==alT(DVTW,FT{i-TF>TTzA<TTA<=<az=iM<Ezv>{W;AT>NVWA(XTVX*T.T=T*>(T=l*z(O{TlD(>{H-{F7{=F(<TTiiTiFzTinWTT_*(W,A{>8(FAp;=VOzTTf=T*i(T=>lT-<{TlA{={G-=FX{A-)<{TciT<7zWi(WTzn>TWFAT>>VTAl>zVX*T8BVz*O({=d*==({TliFT{=-TF_TTlS>(TQi{<mW*iRW=zm-TleAT>iVTA>BT<(*TMA<l*?(==7*W(G{{l9F{{5-WF(TT-C<T{liT<>zTi+*Wz?>=W AT>HVTAK>T(z*Tx>=Tz((T=ilT>6>TlJF={B-{F4VT-K<F=WiT<izT-{WTz>>TW>AT>lWzA0/TVhz> L={*t0=*(lT(i{Tl=FT{h-T(NW(-b<{T;*T<hz=inFT(G>TWiAT>>VTzW6TVATlu^==*I>A=Il{(3{{lNFW{(-TFgTTlF<TT>iT<iW=ixW=zJ>=W}AT>8WT=z6TV>*T>W=T*i(TVii-(:{=l,(*{?-TF4=Tl><TTiiT<izTlTWTTiiFWNAV>c_>AnhTVb*TM*=T*i(T=ilT(i{T*irl{}-VFG{*-+<TTflTFAzTi-WTz->TFTATiiWjA&QWVIA<;R=T*w(T>{lT(-{TliFT{i-T(iA--j<WT4-*<ezTi0FTzT>TWlAT>lVTTT&TWizZQZ=<*5i-=mlT(7{T*2FT{l-TFiTT-i<T{ii(<dz<i:<*zs>TWuTTilVTA*}TV**TiT=TAiIt=?lF(^=(l2FT{d-T*{TT-*<TTiiT<izT-i=-zG>FWcz*>#VTA iTV(*T7A=T*A(TWTlTMiVblPF({7-{FnTT-?<TT(iT<AzTiiWTzi>T<izT>EV(A >*VO*Tx3WT*<(T=zlT(z{TATFT=ilzFM{+-BF<TSiT<BzT{{WTzz>TWiAT>iVTziF-V?AKmaV**#(T=JATPl{TlTFT{T-T0TTTliF<T_-><C=-isWTzp>T<*AT>TVTAiXTVi*T>i==*UK>=.**(X{Tls.T{{-TF{TT-{<T=TiTFiT=iG<iz_z*W AT>LVT<{OTV{*Tmi=T*i(TVii-(s=ilD(*{R-TFR=T-A<TT=iT<=zTlTWTTii*Wbz->:WzA4sTVJ*T&*=T*=(T=ilT(i{T*i?i{nl-FJ{*-e<TT9lTFzzTiVWTzV>TFTATiiV(A&>lVO=>gB=T*b(T>{lT(V{TliFT{i-T(iA--uFlTj-*<1zTi?FTT7>TWWAT>WVTTT4TWiAWm^V**1%(=?lT(1{Tl{FT{W-TFiTT-i<T{ill<}T*i}<*zI>TW,TT>>VTA<5TV<*TiT=TAiRT=d*A(N=jl_FT{6-T*{TT-<<TTiiT<izT-i=-zZiAW^z*>QVTA5iTWW*TrF=T*F(TWTlT?i=ll^(z{gl>FSTT-&<TT=iT<FzTiiWTzi>T<iz*>9WzAu>*V5*TGXWT*i(T=(lT(({TATFT=ilxFa{T-Rp-TfiT<_zT{{WTz(>TWiAT>iVTA4<*VMATIX=T*J(T=rzT_{{TliFT<A-T-FTT-4(lT;-{< zTi9WTzfiT<TAT>iVTVlrTW>*T>iVF*g {=H*{(;{Tlp0T{A-T(>TTl><T==iTFiTViy<=zYlAW8AT>wW=<*MTW-*TiF=T*S(TVil=(Q=Wlh>A{s-TF8TT-l<T{>iTFlzTiiWTT:iWWuA=>1OAAh>{VHTT2l=T*i(T(VlT#-{T*i(<{al{FO{{-K<TT1lTFVzT->WTT>>TF=ATiizzAo>=VZ{z/ =T*_)==llTg-{Tz(FT{C-T(i{W-NFWTxAz<uzTioWTT->T<>ATilVTAi7TWpAA.K==*_2l=q*{()WTlFFT{i-TiTTTA(<TVviF<,z=i0>izN-FW7z=>VVTz>_TFF*T_Z=Tz,>>=C*{(K={lX>c{rl=(pTTli<T<WiT<vzT-i<{zhiVW_=z>_VTAL>=V(*T>l=TT((T=;lTGiV-ls(<{Ol=F0TT-_<T{iiTF>zT-*WTzi>T<nzi>2V=AZibV9A{fc<TTA(T=-lT-A{TAzFT=Cl-FKTV-hiWTSi=<8T=iTWTT>>T<>AT>)VTT8i*V A{JMV{*2ii=?*=(i{T*iFT{A-TFYTTliFTT&-V<}zFi0WTzRi=<*ATilVTAAjTV0*ToO=F*_M{=P*W(b{=lB(T=--TF-TTzF<T{>iTfgT*i/WVz0z-WYWl>PW=z*pTW>*T>>=T*h(TWSl<(L={l,({{NAiFe{=-V<T{iiT_(zTiDWTTi>{WKzV>s(zA)fTV_A=i<=TAl(T<(lT(Q{Tl#U*{1l{Fe{W-9<=T9-T<*zTi-WTzW>T<>ATl6V(A&+VV%=CuaFz*U?==llT9>{TzFFT{J-Ton{<-UF{Ty-{<w=gi4<=zz>T<iATl(VTAM8TWiTA7PVV*,-z=UlT(_==*WFT=l-T>(TT-u<T{ili<DT<io((zv>TW?AT>TVTz>%TW**T+i=TAan<=elV(n=Al/({{Nl=FWTTl><TVFiT<yzTlR<Tz?i{Wdz{>)FQAB>=W<*{>i=T=W(T=JlT)i=*lo(V{pzzFNTT-tF={=iTFlzT*(WTz:>T<iAW>cW<A1-VV1*TR_=TA{(TV>lTk*{TliFT=.l-FQTV-O(8T8-{<0T=iFWTT>>T({AT>jVTT?*-V)A{0dV{*M--=hATO*{T*>FT=>-TiiTTl%<VTpiV<gV-iN<{zX-T<VATi>VTA>QT(A*T>iW-*^k==dz*(v{Tl DT=A-T(-TT-><TVPiT<){iic<{zsi{WvzV>SWTzAI{V-*T-T=TA>(TVilW(P={l^({{B-TF.=Tli<T{>iTF>zTl=WTTii=WSz=>uVFA/eTV.A=B>=TA-(T=AlT(){T*i(<{_lWFETF-n<TTGiT<*zT->WTTl>TWiATi8((AqXVVkAT?vV{*QiT(WlT(-{TTlFTV--T(izD-8F{TqA><9zTimFTTV>T<>ATi>VT{WbT<vA>xYV{*LS{=tzF(B=Tl-FT{--T>WTTl><T{Ni<<6zWig>WzG>VWYz=iWVTz>%TFl*Tj/=TzU>>=Q*{(U={lE>y{.l={(TTli<TV(iT<NzT-iAizoiVWG={>qVTA)9TV=*T>>=TA-(T=ilT6q=llKFW{?z<FU{{-MF=TAiTF>zT*lWTzb>TFMzl>IW{Ay>{VjTtjXV=*>(TVilTi({Tl_FT=il>F2{V-%i=T4iT<NzTi=WTT>>T<-AT>iVTz,l(V9*<K8F**GK{=G*ToA{{l*FTFl-TFiTTli<{TR-{<DT{i9WTz/-TWTATi>VTz>nT<=*T>iVV*?5==Hl<(L{TlQ(={>-T(-TT-*<TTYiTFiTli7<WzM><WcAT>YVTzzgTW>*T>l=T*i(TVglW(>{Flr-T{gl{FrVT-{<TTAiTRizTz(WTT2->WXAF>vLWAx#=V0TT>z=T*z(TFAlTlz{T*E2i{:-(Fr<W-_<=TY-=<zzT->WTT>>TW.AT-6W>Ac>{VdA{%v<i*y4=(*lTji{TlAFT{I-T(i{{-hFVT,iF< zTiI<=zA>T<lAT>AVTAKjTV?AlnjV{*nBW=ml=(:=T*>FT{z-TiFTTl><TVCl*<kz(i3i-z/zlW4z=>WVTz>qTW>*TOY=TzfiT=>*{(y={lu>i{ml=(zTTli<TV(iT<bzT-iWVz}iVW;=z>dVTA}>=Wz*T>l=TT((T=;lT(n={lN({{wlWF8T=-HFTT*iT<zzTiWWTT>>T(cTl>aV(Ac*tVo{zR_V=FT(TV>lTiF{TlnFTV_*>FQ{{-9F{TZ*5<?T=-*WTTi>T((AT>IVTzi>FVqAV#BFz*2(T=:*=B{{T*lFTW(-TFNTTli<VT5-<<wTFiaWTz+>T<<ATi>VTz*7TVi*T>aWm*j((=C*A(?={lL(=iT-T(>TTAF<TTHiT(H{>iE<{zDi{W,{g>0W=zWnTWi*T-==T*_(TVi*{(m=Vl iz{j-TFy{=li<T{liT_(zTiIWTTi--Wsz<>+YVA18TVq*T}W=TA>(TV*lT(i{T*Djl{u-(F+=v-cF{TR-=ATzT->WT={>TW;AT-E-TAM>{VfA{6nF-*q>T3ilTE>{T*>FT<i-T(:{T-v<(T2A-<YT{i:FTzz>T<>AT>>VT=<jTW6zl/w=(*#-I=1*{(H==*-FT=>-T(>TT-M<T=Z-A<DT{in<{zCliW;z=iTVTzitTVz*Tv8=TAiA<=_*V(L{(l.FT{?l=(<TTll<TTziT<:zTiu<Vz:i{W8zW>nV=Ac>TV<*Thz=TAf(TV>lTiI==lKF({6zWFHV>-,F={-iTF>zT*{WTza>TFtz<>aW{AD>{VR{l/EWT<d(TV>lTB>{TzAFT=4z(FST(-G>lTC-{<eT=&TWTT>>T({AT>4VTT&>zVYA{bLV{*e>i=gAT(-{T*>FT=>-T(VTTl&(iT}i(<2{iim<{zqiTWFAT>TVTVlXTVz*T>iVF*jt{=6zW(O{Tl^_T{i-T(>TTl><T=TiTFi-ziK<=z *zW3AT>mW=(=aTW-*Tl>=T*B(T=bA*(n={lu(V{e-=Fk{Tl*<TTTiT>*zT->WTTi-iWmz{>BFWAymTVpzTX<=TA>(TV>lT>T{T*i(*{5l=FDWz-3<TT_-=<<zT--WTzV>TW3AT>dWiAm>{VJAV2C==*_3TFzlT(T{T{{FT=>-T>YVF-:F>T7AF<%W<i.<TT>>TW{ATAlVTAiPTWiAz&1V{*a9{=ZlT(qVTl*FT=>-T(>TT*=<T{ii{<CT=i6WFzS>TWJz=>VVTz-PTVA*TB#=TAi(W=o*W(2{FlEFT{1-TFATTl><T{liT<izT-}W<zMi>W0VA>IW{AH-TV**TP{=T=V(T(WlT&i{Wld({{1l{FDTT-c(TT=iTF>zT->WT{=>T<iTX>tW=AelzVH*T?HV=*i(TV-lTi({TlKFT=iA*Fo{W-f>zT.iT<:zTi=WTT>>T<lAT>iVTz_>3V:A>S&Vl*3j{=?zT(<{Tl{FT<T-T>(TTliF>TY-{<1VAi1WTz,-T<=ATi>VTz>rT<T*T>iV-*4.==2=l(y{Tlb(=VF-T(-TTl{<TTUiTFiT<i?<WzS*zWEAT>gW=A*aTW**Ti-=T*m(T=blF(.={l.(<{k-=FG{T-=<TT{iT<FzT->WTTiilW_z{>w(AA6.TV)zT:i=TA>(TV>lT>T{T*i-l{Pl=F,Wz-B<TT?-=<=zT--WT=->TW3ATiiWTAy>WV9{zxZ=T*p;==AlTO*{Tz-FT{/-TFKT=-xF{T^-<<?z=i9<TT{>TW{ATiTVTz>kTFcA{CLV>*y>A=c{F(7WTzAFT{=-TiATT*l<T{d-z<RTii)>Wzu>=W/z=>WVTz>/TW>*Tpr=Tz;np=X*{(B={lB>i{ml=(dTTli<TTAiT<.zT-iWWzZiVWrAF>mVTAa>=WA*T>l=T*A(T=5lT(D{Flo({{;lWFsT=-,FT{<iT<=zTAFWTT>>T(GzT>mWiAuA-V VlBfV=Al(TV>lTZ>{TlZFTVXl<Fp{{-qF{T+*i<cT=i>WTTi>T((AT>CVTzis(V_AVw8Fz*7(T=3*=><{T*lFTW(-TFcTT-+F4T?-{<}TWi1W=z,iT<>AT>=VTAWCTW>*T-kVT*&Ji=o{R(}<zlK(={--T(>TTAF<TTCiT(BTTin<{zUi{Ws{3>2W=ATNTWi*T*W=T*6(TVizA(_=Vl/iz{?-TFB{=-{<T{liT0(zTirWTTi-RW9z<>)W=AhUTV+*T>i=TA>(TV*lT(i{T*c(>{nliF6=X-xF{T:-=<{zT->WT={>TWvAT-/V(AH>{V}A{gEF-*7>TiGlTq>{T*>FT{--T(CF(-LFiTBA-<0T{is(TTW>TW=ATlTVTA=5TWi*V;0V{*2u{=tlT(CVTlFFT=>-T(>TT*=<T{ii(<5T=ifEzza>TWrz=isVTz-?TF(*Thj=TAid{=%*W(;<zl6FT{K-TF=TTl><T{liT<izT-)(-z>iiWnzT>)W{AI-TV>*Tj==T{l(T(=lTiHV-ls(-{3zFF_T=-UFTT*iT<VzTzlWTzi>T<iA<>9W{Ah>{Ve*TNbWT*>(TV>lTb>{TA=FT=i*iF4{=-mrAToiT<dT=<(WTT->TFFAT>YVTzi=iVqAWU8<A*8(T=glT(({T*>FT=l-TFiTTlfFzT&--<sWAiM<{zMi=W=ATi>VTz>}TVM*Tir=F*Y8{=Q*{(,WilO(={=-T(iTTA(<TTdiTFiT{i1<VzO*zW,AT>uW=T<)TWl*T-(=T*r(T=2A*()={l&(W{j-=Fs{T-l<TTViT<WzT->WT=_izW&z->psjAdlzVvA=>>=TA>(T<FlT(w{TAhF<{1l{Fr{{-v_aTx-=<AzT-iWT=(>TWvATiiFAAI>VV}z=hP=T*YJ=VTlT_l{Tz(FT{g-T(i=l-:F<Tt-=<jzTiuWTzT>T<>ATi*VTAi.TWkz-m0V-*4xA=;*{(4==llFT=>-T>FTT-E<T=%-l<uT{i_<{z4l_Woz=i<V{zigT+W*T9w=TAi(==&*V(EFzl_FT{El=F<TTll<TV(iT<:zT-iW<zUi<WCV{>&VTAw:TV<*T>>=TA*(T=ilT.x=>l6(-{3*eFu{{-2F={*iTF>zT*lWTzO>TFrlz>sW{Aa>{VcTf#XV=*<(TVilTi({TlSFT=illFU{V-Ri=TBiT<szTiiWTT>>T<-AT>iVTzO>VVEAl%2F**bN{=q*T(-{TlWFTFl-TFVTTA?(lTR-*<mVFidF{zIiT<AA{><VTVl+TVV*T>iVz*7O{=n*{(q{TlC)T{W-T(>TTl><T==iTFi{liI<=zy>FWMAT>HW=z*_TW-*T_A=T*n(TVi*A(w=Wl/FF{_-TFkTTl-<T{>iTFlzTiiWTT0z(Wtz*>7?AAx>{VbTT>>=T*<(T(VlTlW{T*iO-{3l{FK{{-v<TT5lT<-zT->WTT>>TF=ATiiWiAo>=V4{zC0=T*%P=VVlTy-{Tz(FT{d-T(iTW-pFWTUAz<^zTiJWTz=>T<>ATilVTAieTWq{(^/V**4ol= *{(LWT{WFT{<-TiTTTA(<TVjF*<0T*iy(<zml{W9z=ilVTz>nTFF*T1X=Tz9_6=8*{(m={lQ>;{Zl=FiTTli<T<WiT<}zT-i<=zMiVW,=z>/VTA.>=W<*T>l=T=W(T=RlTRi{VlN(<{rzzFPTT-#<TVFiTF>zT-*WTzi>T<GTi>LW*AOiRV?A{J%<TA{(T=<lT_({Tz(FT=ul&Fp{A-)iWTx-*<OT=--WTT>>T({AT>YVTTy>WVaA{bZV{*wil=XATwi{T*>FT=>-T(lTTl7<{T:-A<j=lih<{z8i=<{ATi>VT{lGTV?*TiE=V*mp{=I*{(YWsl7(=iA-T(iTTA(<TTOiTFiT>ia<Vzj*(WEAT>JVTzVZTW>*T>-=T*i(TVBA>(&=AlHFW{)l{FO{T-l<TT(iTilzTi<WTTilTWhz{>cFWAj9TVhzTR==TA>(TV>lT>T{T*ici{yl=FQWz-E<TTK-=FVzT--WTWi>TWtAT>EW=AR>{VeAV B==*a T=zlT(({TA*FT=>-T(i{i-gF{T/*W<rzTivFT-{>T<>ATi>VTTTGTWi*V 9V=*r-z=IlT(0==*{FT=--T-iTT-v<TTo-A<gT{ic<VzB>=W+zT>AVTA(oT(**T>>=TAiE-=s*{(wWWlMFT{9*TF*TTl><T{>iT(TzT-iTzzhi=W_=z>KVTA:>=l=*T>-=T=i(T=elT(^{{l ({{blVFXT=-0FT{miT<(zTzTWTT>>T<iz*>GW{AO-WVX*T7 WT*F(TV>lTG>{TATFT=il=F9{=-w>zThiT</T=i=WTT->T>iAT>tVTA4>iVuA{j?VV*N(==S*T-z{Tl(FTF{-T(>TT-ATWT.-{<EzTiaW{zy>VWuATllVTAeITV<*Th^=T*ZiW=+lT(f{VltFT{8-T>lTT-h<TT>iT<vzT-?S(z&iTW2T*>XW{Ao&T<l*T>>=T*y(T= lTniT(lk({{7T-F%TT-a<F-liTF>zTi-WTz>>TW*AT>DFWAa4TVhA*Et=T*J(TWolT(c{Tl>FT{x-TFqVW-^<TTri=<:zTigWT=l>TW%AT>-VTA7NTV}TWHn=T*J({=,lT(X=TTzFT=;-TiZTTl><TTA<W<GT{iwWWzu>{W_AW>_VT{lnTVQ*Tb<=T*1(T=bzW(p{Tl_(T{J-TF6TTAl<TT?iT<-zTiIWTzplWWmAT>_V{A}4TV)ATlz=TA_(TFWlTq>{TAdAT{Ul{Ft{i-r(TT#lT*VzT->WTT>>T3-AT>AAWAb>VVd*{f?={*I(==mlT>0{TlHFT{>-TFETT-ZfWTNiT<.z=i_WTzP>TAVATi>VTz-tTV>*Ti8V=*^%{=}*T(dFllE+T=<-T(-TT-><T=(iT<4{*iH<{zMiVWpA{>6<Tz=vTW>*Ts>=TAW(TWo*k(R==l:F{{0ATF}TTlI<T{>iT<izTi>WT{+iAWUz{>gV{AUlFVJA=TA=TAi(TW<lT(;{TAr(i{PlVFhT{-,0TTOiTF{zT->WTT>>T<-ATi9WTAvxVVd{1X.V{*U(T=*lTpw{TliFT{?-TFt{W-#<TTyi{<8zTinW<z3>TWoTF>;VTA)DVV(*TDj=T{iAz>i=W**k={-*>Y={<-s(>=T-<FWiVFBzTiYWTViz{i-<-zzi=W(z<>FVWl->zVWAz>izV(-=ilJFT{Ez(l((W{T-{F<A=-(FlTlW{zg>TW+AT>o<TWAlTV-A>Yj=T*,-{/-VW*{#F=>*W(*{WF-{l-E<TTpA=-(F=Tli<Fi*Vi(<lz(i={-4VVl*Tsj=T=l*<>TVW(-{WlDFT{N=Al*8J=l<VT=iT<czTzli<FTTW&-<zzWiz<i-VV-*FNY=T*4lT:>V=**9AVlF{{}-TFQTT-8<T==AT<-z(i7WTz%zF-i<zz<G==zl=V-*V:v=T*#AAM*V((-{Wl%FT{:TVl{,i{*<VT=iT<xzTz--zF*T=i-W<A->{WFzVV-A#eP=T*8AWN(VVAlC=={*A(z-V(ATT-^<TWiT{--F-Tz-=<(T<iFWWAli=W>zAi-WTA>>=V*AAh-W>(-=ilaFT{HTWl*Yx=l>=(*{WllFzTFWVzT>TWNATA*iA<-A<>WV<A->W*>(T=flT(S{Tl/<TW(-VF*TT-;<T<l{>llFlT*W{zp>TW&AT>8VT{{lTV>*TJ^=T*+(T=NlT(6{{l%FT{j-TFGbTTl>TT-i<<YzTi+><VlT>i<{=>-W>A_wTVy=WA*iQWlllD>==**ell>FT{c-TFhTT>olzWgiV<lzTiLWTVFz{i<W<>-V(A7QTVL{VA(>AVF*<n-VW(-=_lHFT{NTWl*4?=liVF{=i-*zViAWTzP>T7-<zzWiz<i-VV-*(%_=T*8-VdWV>*-%-=V*-{--WF2TT-#><FF{<-<zVi*WTzv>TwA<=z>i*W*/VV&*T+N=T*>(T=ylT(U{Tl&>l<0-VFTTT-Z<TW{{Al-FWT>-A<-z<W-AW>PVTA:lF>(WAzl->*K(T=^*=TT{TliFT{T-TF1TT-XV*TdiV<wz{iGWTz.>T>GAT>lVTAl_TVa*TClVz*u(T=SWF(f{{lb(=iT-TFzTT**<TTsiT(g*{ifW(zs>(Wxz*>%W=A*qTVT*Tii=T*B(T=o*i(D{(l%F={y-=Fs{=-<<TTTiT(*zTi?WT{NiWWszy>JWRA2>*VMA=><=T*{(TV=lT(c{Tl0Di{xl;FMT=-k<=TQ-=V(zTi{WT{*>TW8AT-PW=A4>>V)A>6EV**Sd==(lT(={T*iFT{t-TFO{--MF>TGi=<kz=in(TzF>TWzATiWVTz-STVg*WvPVi*/(T=qlT(0=Tl>FT{z-TF=TT-=<T{i(i<RTiiJFzzw>TWhTTiAVTA=STV=*T,W=TAig*=S*-(;Vvl4FT{)l=(VTT-W<T{TiT<pzT-iFlz8i*W5T_>dVTApjTWA*T5==T*<(T=ilT10=Fl3F({B-=Fa{i-Q:TFliT<zzT->WTTl>T<iAW>gWiAdizV;*Tx_WTAT(T==lT(={TlWFT=il{F8{--mF(TJiT<:T=i>WTzW>T<zAT>}VTzi>VVOA*vIV(*d(T=SlTyW{Tl=FT{<-TFiTTlq-(TZi(<_zFi1<izflTWFAT>zVTA>LTWz*T>iV-*I5i=hA>(P{Tl5 T=A-TF=TT-=<TT<iTFi{liE<-zOiWWvAT>.W=z>tTVW*T>z=T* (TVilF( =*lg(({0-TF1{=F(<TTFiTFAzTieWTzNiiW?zi>RWAA8/=V_ATlz=T*z(T=FlT(={Tz&>F{NlCFf=l-_F<T}-TF-zTiTWTz=>TWzATiiVFA2>iVKzznH=T*C>T=(lT(={Tl=FT{W-T(i{>-?F-T_l-<5zTig<=T=>TWWATiVVTA3mTWiA{8cV**Q>-=HlT(y{TlAFT{=-TF<TT-i<T{I-W<dTdiyW=z8iiWY{T>-VTAT1TW>*T>l=TAiui=+*i(QVzlSFT{j*TF<TT-=<TT=iT<WzT-iFizmi-W+z(>dVTAD>=Wi*TXW=TAz(T=GlTaiW*lg(*{Nl(FdTT-k<TT<iT<=zTi<WTzi>T<YTi>7W,A&XFVgAiaC<TAz(T=TlT(>{T*zFT=illFx{i-9(>TJiT<r{T--WTz=>TW=AT><VTzi>{VsA-;OVW*?(T=Y*=>F{TlWFT=z-TFLTTliF(Ty-*<^TWioWTz8i=W<AT>FVTzzKTVK*TEZ={*^vi=N*A(6{=lh(T{i-TFTTT-F<TT=iTFizFiQ<izt-{W5AT>+<TAi7TV=*Tw==TzA(TWDz((g=il}(i{n-VFM{T-A<TTTiT(AzTi=WTTi-lWjzi>wWTA%JTV *TST=T*V(T=AlT(q{Tl/(z{/liFBT=-Y<=TI-TFAz{iTWTzz>TW=ATiiWFA2>iVczzRf=T*d>T=WlT(={Tl=FT{W-T(i=--0F-TRiW<:zTi:<=TW>TWWAT>lVTAj+TWiA(q V**k(W=wlT(n{TllFT{=-TF<TT-i<T{J*-<>T&ip<>zgiiWd{TiWVTATQTWF*T%V=TTbM==)*>(XVll9pT{_lTF-TT-{<TT=iT<zzT-iWFzuiiWPTz>,VTAGiTW=*T3==T*=(T=WlTvi=-lK(-{%*-FhTT-gF=(*iT<WzT-VWTzx>T<izz>EW*A?i-V *TfZ=T**(T==lT(<{TliFT=H-<FX{>-Y<=TX-i<u=TiiWTz{>T<>ATilVTzi0FVmAitrWz*I(T=PAT(T{Tl=FT{=-TFWTTlii<T4--<OT(iQWTzji=<>AT>WVTzzaTVZ*T>iV-*54*=o*((t{TldFT{{-TF=TT-<<TTiiTFy{*iB<>z%>FW_zi>IFTzT,TV{*T.>=TAz(TVi*z(/=ilZ%>{6-TF5=Tl{<TT=iT<=zTi<WTTi><Wuz-> WWAJOTVGA=y<=T*W(TVzlT(7{T*iFW{Nl*Fn{W-R<TT%-=F{zTiFWTTz>TWUAT>pWiA+>iV1AA0^==*X.T=llT({{TlFFT{=-T(ii6-EFiTjl{<EzTi_FT(/>TW=AT>=VTTAnT<m<TYkVi*f/i=N*z(;=T=zFT{{-TEATT-=<TVoiF<hT>iNW(z8-VWbz=>VVTA=&TW(*T9n=Tz_CW=_*i(j=ilY(l{Cl=(ATT-V<T{ziT<.zT-iW{z#ilW3z(>;VTA}>=WT*T0<=TAz(T=LlT(,TFlR(i{%l*FXT=-rFTTFiT<{zTi{WTz=>T(NTl>LW>AQiAV7zWG6WT*W(T==lT({{Tl*FTVOlFF_{i-PFiTCl*<pzF<lWTzW>TWSAT>>VTA*kTV5zT,2=T*x(T=MlT(){TzlFT{O-TFzTT-.<TTN*W<LzTis<jz_>TW%AT-:VTA_jTV>*T?}=T*v>T=olT(6{=lIFT{;-T((T{-=<TTWiT<>zTi?A{z5>(W?AT>BVTAB9Fz**Tti=T*l(T=>lT(i{Tll(z{D-TFaTW-X<{T+iT<Vz{i3WTz>>TWOAT>>VTAOBTW:*Tqo=T*-(V=0lT(0VTz=8T{--(F+TT-M-F(i{z-<W=Azp=z>>TWLAT>_VTljzz(#*{dp=T*1(T= AT*A<Tl-FW{c-TF3(A{**K(liVFAzTiZWTViz{i-<-zzi=W(z<>FVW*l>=V>AA>-VT*>5==**A(-V>F-{--%<TTtA(-*FWA--K<{Tlil<=z*iAA-aWVZ*T#r(WV*z1>llV(l{Tl#FT<F{{l<F<-><TTfiT<BzTi3VT=(>{(-{Vl-FV{--VT-{z,-=F*k(T=0TV*(6l=(*=W--VFTTT-I<TW-T{-WFlTii{<-T-W-z/>;VTAg*<>FWVA*>lV**V>llV(={TlUFTFl{<*T(Wz-lzFW{zli=Vi-W<z9>TW&VWz{iWWWA<FA*T&k=TAi>h=7lT(S{<l%FT{H-T(TTT-><TTRiT<:zTl3<=z)>{WhA{>3V(AxJTWv*T}>=T*i(T=ilT(l=PluFT{SliFIT{-I(T/xiT<*zTilWTz{>TFATV> V<A1>>V_*{/rVA*H(W=(lT(a{Tl{FT{>-TFl{z-U<TTZ-i<dz{iN(TWW>TWlAT>AVTA=6TVA><x^=T*R(<=el{(j{=l+FW{(-TF_TT-*<TT>iTFi>0i5WTz:><W,AT>ZVTz*#{V>*Tb>=T*5(TWN<-(j{{lmF{{j-(FhTTl=<TT>iT<izTiiWTzlizWcAT>#<lA8G{V.zTT_=T**(T=llT({{TAAi>{h-<Fg=l-S<{Tf-T<KzWi(WTzZ>T<WAT>>VTAG><V>*<U2==*6(T=4*=V={TlAFT{W-TF4TT*a(iTCiF<_zFi/W=zgi=<iAT>zVTAl1TV4*T>iV>*t,N=OlW(J{Tlu(==W-TF{TT-l<TTuiT<4{>inWFzSi>WmA=>ZWTzV&TV**To(=T*A(T=AY<(R{Tln({{g-{FBT=-d<WT(iT<pzT->WTz>>TW3z<>>VTAxc=V;*TSuV=>=(T=>lT(W{Tl5FTVOlWFYT{-I<{TLi=<6T=iWWTzi>TW-AT>LVTziBWV+*VOM=V*3(T=6*=aV{TllFT{--TFHTT-r<WT&i{<OzWicW=ztiTWTAT>^VTA(/TV>*Ttfil*U(T=Pl{(S{Tl^>T=q-TFOTT-A<TTViT<fzWiPWTz,>VW0AT>wVTzE.TV>*T9l=T*/(TWLl<(p{{lYF{{Zl>F,{=-=<TTiiT<>zTiSWTzk>VWHAV>;V=AH/TVIzT%i=T*-(T=-lT(T{TlP(z{Q-{FbT{-t<VTd-TlFzTirWTzT>TW>AT>0WlA0vTV_*WPp=T*y>T=(lT(r{Tl7FT{<-TF6{A-y<{T9i=<pzTiXFTzT>TW>AT>>VTATXTV^zi.j=T*e(==pl{(G{T*AFT{p-TF>TT-,<TTXiT<ezTijW=T->TW1AT>>VTAE0TVm*TTOFF{,(V=llT(9{T{-*>N={<F-T<-9<TT&z<>lF>T<(=z>>TWeAT>EVTA,vTVB*VQz=T*e(TFT={A-<WVi*zUN-VF{TT-E<T<l{(-*<<TF>><FzFi(AV>lVTAL%T(*WAz*>**i(T=-*-(9{TlMi<(>=Vl{(A{ziV(l=>-W<<i-WVzU>TW9VzT*iWA-1FV6*TUBFVWi*<4>VW**{Vl(FT{X-Ti*F{=-l>FFT(>lF>{ii<<-TWi{<zzFV{(==>l{(>{{l>>{-z=>lT(K{TlkFT*o{ziCTV-T<TTriTllFzTF-<<<z=i*<=>-VWAHYTVp=TAW0{W{(V=-lT(Y{T=Fl<Oz-VFlTT-&<T<>{<-><Wi>WTzH>TWnAT>d=T{(lTVM*TUeV=FT(T=6lT(*{TlcFTVA*VF,TT-Z<WTXi{<eTdiuWWz(>TW.AT>lVTA>bTVlAz#3=T*t>==xl{(_{T**F{{m-TF)TT-S<T=w=*<0zTijWTzIi-W1AT>*VTAiETV>*TQ5=TAik>=jlV(9{Fl6FT{?*TFzTT--<TT-iTF>zT-i<lzp>WWOzz>sVTAG>=W{*TD*=T*<(T=MlT(#=VlPFW{5-=FsT=-,F==Ti{<*zTizWTzX>TF6zl>fV<A:h<VwA>4eWT*W(T=*lT(*{T*iFT=ilVFPTF-S<(TLiT<U{Ti(WTzA>TWAAT>WVTT)iiVU*Fxn=F*tJi=}lT<-{Tl-FT{A-TFiTT-4F-T7iW<%zTiHW{zDi=<>AT>*VTA-ETV&*TiBVF*8(<=Zl<(,={l7(==z-TFATTl-<TT5iTFizWiHW(zd>WW%AT>#W=z*qTVT*TYl=T*_(TVi-A(7=>ly(A{,-TFYTT-W<TT*iT<{zTiiWTT8iDW2AW>QV=A7p<Vh*T>W=T*C(T=llT(i{TA,(*{e-TFhTT-%FTT/iT<zzTinWTzi>TW>AT>SW(AQnTVb*{.Q=T*JO==*lT(Y{Tl*FT{_-TFl{z-Y<TTXAz<mz{ihWTT*>{WSAT>%VTA?%T<q<*gY=T* (T=m*-(s{TllFT{i-TF>TT-H<T{ili<&zVixWFzy>TWqTTiVVTA-}TV-*T>>=TAifA=RlW(;=zlmFT{ml=F(TT-*<TT<iT<3zTig<WzS>WWjA=>QV=A_>=<T*{I*=T*z(T=qlT>9=zl:F<{c-<F^{>-0(T{-iT<*zTi*WTTi>T<izz>2VFA7a(Vm*TSUWTAA(T=AlT(A{TlWFTV.-=FSTF-0<FT5-i<^zT6-WTz->TWAAT>iVTA6>{Vx*WvK=T*O({=0*=(i{Tl*FT{--TFCTT* FAT%i<<Hz<iY<{z8i=WAAT>AVTz-ITVS*T>iV-*b((=:lW(&{Tlg(==<-TFTTT-l<TTciTFiAAiy<>z3>{WaAT>rVTz-2TV**TU{=T*i(TV/*%(b{WlUF={?-<F2TTl><TTuiT<lzTiiWT{)->WrAT>xVTAE>TV9*TIz=T*P(T=ilT(>{Tl,F{{Z-TF^TT-w<TTc-=FlzTiLWTz*>TWoAT>#W-A>0TV7*{:%=T*Z(T=DlT(P{Tl2FT{X-TF>TT-t<TTx--<>zTi4W{zZ>TWeAT>kVTAm3TW{*TLk=T*-(V=olT(dFzV**W{-l>FkTT-.iW(zT<-*FAA{-A<ATzW>AT>%VTAhNT-m{FlY=V*V(T=olT-z(<VliV(T=>lWFW=i-<FFi{A=>>V{A>t{V>T{=z>>VTA_bTVk*T,+=T*f(V=TlT(O{TT-l{(W=lliF{{-l-T-iW<,zTid>V<{{ii*AV>lVTAPjTwlV<zT>W*-(<=ZlT(jFW={*W(W{<F-TV-B<TTQ{A-*F(i-<-z)>TWM=<z>iVW{zA>z=Vzli>VW*<=-l((c{Tlf-8(>=Vil(={(lTT--+<gzTi ><<FTVi*<lz*>V<lOVVl*TCe=T=>A<9>=W(-=Ul,FT{t=Wl((A=*l*FiT<lizVi*WTz4>T-?W{z{i=<-EVVl*Tb,=T{F*{?<=<(-{WlNFT{dTTlWF{={<VTAiT<,zTA--=<*z{-lW<>-VWA}6TVo{<AF><V<(V=(lT(X{TT*l{:-=>lFF(zll>(iT<--FWT{-z<F>{WrAT>LVTAG6T=%{z/-=V*Z(T=8ATi=VTl-F<{}-TF6<<zll>F<*=,=zTi8WTTi{=WkA=>aW{A7qTVv*T>A=T*-(T=vlT(c{TAsF={u-VFsTV-r<WT&iTFzzTi-WTzl>TW?AT>SWlA8v=Vm*Tv2=W*P(WV{lT(J{TzzFT{>-T2a8T-Y<(T2iF<ZT=i5FF={>TWzATlzVTA>RTVF*T.lVz*_(T=cz((Q{{l+RT>a-TFzTT-A<TT=iT(o(Ti?W(zQ>(WDz>>&VFA{f{Vz*T-z=T*>(T=>lT(l=zlBFT{+A(FcT{-?<T{*i{<zzTi>WTzj>TFqF*>NV(AkD(VQAW3a=TAT(T={lT(i{TlRFT=i-WFo{i-0<=T;iT<J{Ti(WTz=>TW=AT>VVTzi>lVxA-CgVT*/(T=j*=(i{TlWFT{*-TFQTT-_FlTa--<;z=ieW=zNi=FTA{>WVTz*eTVD*Ti,=W*sCl=j*l(h=llICT{l-TFWTT-W<TT(iTFi{liB<*zBi<WIAT>g<TAiyTV<*Tk<=TAA(TWc*z(d=*l6(*{g-{FoTT>-<TT=iT<<zTiiWTzsi(Wpz->wVTA6,{VYA=>W=T*W(TV{lT(m{TAbf>{JllFv{l-gF-T:-=<izTi<WTTz>TW ATiiW*A7>AV *FUZ=T*Gt=VWlT(({TlAFT{.-T(iF{-nFTToiV<_zTiGWTz>>TWWATiwVTAi0TWHA=05V-*bkG=#*l(a{T*lFT{z-TFVTT-i<T=}-i<Ez(i&W(zviVWtAT>WVTAz+TVi*T/>=T*t(<=7l((g{TlvFT{Ll=({TT-z<TT<iT<fzTi8<{zj>(W/AV>DVTAn7TW=*ThT=T*l(T=#lT>1>Tlk(n{_lYF%{=-bF=-(iT<{zT-TWTzp>TFr<{>9WiAS2FVJAitRWTAV(T==lT(={Tl{FT{Z-(Fp{n-xF4Tu-i<qTT->WTzz>TW{AT>TVTAPyFVP*(DY=W*C(T=tAT(V{TlzFT{z-TFzTT*MFVT%-U<KzFim<iz_-TlyAT>TVTATxTV{*TGZ <*b((=,l=(}{{leFF**-TFiTT-A<TT>iT<izTil<zzN>TWIAF>CV{A#?TVV*{ec=T*>(T= lT(C{TloFT{il>FZTT-/<VTViT<ZzTAzi<Fl*ViT<>zW>W<iA<>F*Vu-=T*r(TF>=W*l{Vl-FT{&-TgXWi*4<VTziT<bzTAli<F-TW-i<zT{VVAThTV9*T**>AW-*<vW=<*-wWl-FW{h-TFk<W{**j(liV<lzTiJWTVFz{i<W<>-V<AMcTVJWTA>>>WiAV=-l((j{Tlu-c(>=Vil(={(lT{ViT<QzT-il=z2>=W,zL>.VTA1dTW<*T%-=T*+(T=slT>_V*l1FV{Y-VFwT{-n<TTViT<-zTilWTz%>TWDzF>BV=A)QTV/*WK8=WA>(T=IlT(W{Tl>FTVKVTFRT(-_<FT?i(<u{Fl-WTzz>TW=AT>>VTA*hTVlAzJx=T*Jji=Nl{(w{Wl(FT{_-TFWTT-><T=CV-<_z(i3WFz5>WWmATz*VTAzhTVi*T3>=T*AV<=xl=(j{FlMF{{8-=FwTW-(<TT#iT<AzTi>WTzB-WW_A=>cVTANUTV/A=W(=T*i(T={lT(}{Tlx( {v-=F9T{-O<TTKlTF=zTiiWTzi>TWiAT>Y<lANaWVx*{yc=T*j(T=VlT(i{TllFT{>-TF.TV-,<=T:i=<%zTicWTTT>TW-AT>-VTAchT<5Alwg=V*N(V=Ml((J==*gFT{l-TF-TT-O<TTCl;<)zViMWVz_>WWozT*zVTAiETVA*TC-=T*d#-=>lT(R{{l/FT{?-TFhTT-0<=TiAz<_zTiUWVzW>TWXAT*iiz<iAW>*W=l->zVWAz>izV(-{Fl/FT{;zVl((l{(l=V-iV<lzTi_WTWlz<-T<W>-VVA.PTVfWAA*>(*-8l=OlT(%<V=(*=(F{<*i<={>-WF{{<l-zVilWTzy>TSWW<zAiWA>STVs*T,k=T<,l{F2l{(x{TlYFT{nVTiAWT--FYT2iT<nW<A{uV<(T=iFW<TiVVAlKTV#*TlF}{V<*<=-l<(U{TlYiV((=ll((=--<VTMiT<wWVT*-Wz-izWbAT>t(=W(z=>lV<zi(VV{zi3*{T*{>N=**l{>-TFfTT-?<TT_cTU(zVi{WTzG>T>*V>Ag>{WlAW>{WAAz={*v(T=plT(3{TAiiT{--(FDTT-I-F(i{z-<W=AzI=z>>TWPAT-%-<lVF{F(*Vk*=T*K(TFAV=*>s*=*F{{5-TFrTT-%<T=WFT<-TziUWTzIATiWW{z-><WTzz>WVWA*>==l*<>TVW(-=TlgFT{Dz=l>FV{V-((i{zl*FATlbV<(Tli(<=l-VVAzLTV2*Tl->zVFAA4*=VAl{VlAFT{4-T-oF{=i-<FF{W<>zTiQWTzg>T=r<z*,VVA{wTVo*TlA>zV-A<>-{l*( VVlFV{=-TF TTTl-<(T{W>-FzTW-zFilVW>AT>^VTArKTVe=Alr={*,(T=slT(d{T*WiT{>-TF,TT-S<TTE*i>IzV->WTz4>T>9<lz>>VW*z/>(WlAl#<Wi-V?(Vl*(u=z-FV{l-TFmTTT-l>(=T<<>zTiBWTz7>TW3*Tl(VVATjTVs*Tl-t{VWAl^i={*-r-l-F({u-TFs<W{**H(lT=-((Di>WTz1>TWKAT>aFl=p {Vy*Tsd=T*a(T<iTT(>WVz->VW-AV>-*VA(<VTWiT<jzTzl-=<>TA--<Tz>i=W*zA>-<>5-=(*H(T=sTW**(F=>*<(W=WF>TT-O<TTRiT<eTdAnWVz*>TWkATA*(WW{z*Fi*Vq#=T*?(T=-*o(){TlM-T((=Vl{(W{{lzFFiV<TzTi}WTW*A>>-<WTiizWVA<V-Aio:=T*x-(N(VW*T({=<i=((=lllT{-9<TT iT<gzT-l0Tz-imW.AT>S/WW*T)il=VA{iiV*(V=ilT(Z{T=-lV{-lFFbTT-)>=F>TV-V<({i-zF*TAilVWTi>{WFzVi5V{zin<VF*V>{lV(l{Tl1FTF*zWl{(*-><TTviT<.zTi?WTzZ>VWTAT>JVT={zAi-WWA>>AV-*<=-l((&{Tl_-W(*V5*lW={(*QT>iT<NzTiuWTzdlAERAV>{VTA5;TxlV<zT>W{W*{:i=<*W{{lHFT{w-TF6TTzh>TT-iW<dzTi6OF<(TA-lAV>*VTAEQTPlW>zl>lV*(V=llT(P{TT**AC*=*F>FF{A-FFATF-A*F*(WVzV>TW2ATAX>{WlAW>{WAAz(lV**F>llV(F{Tl^FTFl{<*T(WTT>{FW{>-zFAT<i<<FTW{TAT>/VTAA-lVf*{;n=W*p({=Ml{(}{Wl(FT{d-TFlTT-><TT}VW<&z=ipWTzy>TWPATF<VTA>rTVi*Td?=TzCzT=2l=(}{{ln(i{j-F.WTT-i<TTTiT<>zTi>WTzlizW8AT>PWXA98{VsA=V(=T*i(TW-lT(r{T*Ei({M-{FX{i-U<=TIlT*HzTiiWTz>>TFTAT>AA=Ae6=VYA*9t={*C(T=^lW(({TleFT{<-TF>TT-lFzTmiT<5TAi/W{z;i=z(AT>iVTTVhTV8*T>_F(*/({=Sz8(p{=lY#T>y-TFiTT-><T=iiT<Ai=ixW=zNiVW9A{>HVTAUwWV(*Tv5=TA-(T=>lT(l=zlOFT{ZlWF2T{-I<=<iiT<izTiiWTze>T<X=(>rV{A}i=VX*=CEV=iV(T=ilTi*{TlMFTVGlTFRT=-%<=TqiW<^T=izWTz->T<-AT>uVTAvHVV5*=Pp==*1(==X*=(-{Tl-FTW*-TF,TT*ZF-T_iV< zViOWWzri=WzAT>lVT{TGTVM*TaYi>*w(V=,l=(M{=l,(=AV-TFlTTA*<TT5iT(Dz{iMWWzv>WWIAW>2W=AWwTV**TO(=T*_(T=}*W( {Wl+F={j-=FB{=--<TT*iT_*zTi WT{;ibW0A<>&V<Ay0WVvA=>{=T*A(T={lT(}{Tl9A>{U-<F&T=-0<=Tk-==VzTiAWT=*>TW;AT-DWiAt3FVj*Ff:=W*hw=VilT(z{TA<FT{C-TF =U-x<FT^i=<)z=i0<=T->TWzATl*VTAB_T<}AV;a=(*U((=BlW(.==*zFT{T-T>ATT-#<TTB=><4z(ioW=z/>=WkAT<<VTAT1TVr*Twj=TT}(W=ul=(?=il_0V{c-TFATT-{<TT+iT<SzT-+<FzX>=W0Th>%W>At>=V-*TI{=T*i(T=}lT>c{{lH(>{,l>F1{{-_F=TTiT<=zT-WWTzn>T<i<<>#W-ApilV9*TOpV=AW(T=WlTXW{TlnFT{)-VFX{>-^FlTai=<6TTi-WTzi>T<AAT>{VT{_>(VH*=y:<=*_-*=E*=wi{Tl{FT{i-TFZTT*CF>T2-><#T>iK<{z_i=>*AT>=VT{l/TVX*T>iVF*:)-=azW(o{Tl9(==<-TFWTTAl<TTxiT<mzVih<>zYilWHA=>nWTzz9TVi*T7>=T*{(T<ulF(,{=l (*{tAWF.{=l{<TT{iT(=zTiBWT{h->W}z>>SW>AbNWVnA=>l=T*=(TW>lT(/{T*it-{Bl-F_VW-f<TTY-=<<zTiWWT=l>TWDATiiV{Ac>*V0AE g=T*O(TVWlT({{Tl<FT{i-T(u=>-X<=TblT<gT>iZ(T=A>TW-AT>=VT{VgTWbA{s4=V*m>M=2l=(C==l{FT{{-TFiTT-S<T=wl-<OT>i?<>zki{Wnz=ilVTA=HTW{*T?k=TAi>l=r*-(CV>lvFT{rl=FWTT-W<T{{iT<8zTi?WFzBi>W6zl>BV=A,>TVF*TS-=TAA(T={lTiHV*lZFV{2A=F/={-LF=TiiT<{zTiiWTz;>TF7AV>hW>A5>>V^A{B:V=Al(T==lTil{Tl&FT=i**FJ{--%RWT%iT<tT=l<WTzW>T(lAT>tVTAI>iVZA>M,Vl*R(==X*T}={Tl-FT{>-TF{TTARFzTtiV<GT*iJ(Wz:i=<<AT>{VTT=CTV+*TisWl*5 >=8*>(Z{Wlt(==T-TF=TTAl<TThiTFi=Aif<-zglWWCAT>QW=zmMTVW*T-l=T*O(TVil{(P=*lk>z{k-TF_TT-F<TT{iT<<zTiiWTT_-UWxAV>;FlA)>>VBA=UA=T*{(TW=lT(w{TAS(F{ml>F_{>-G<WTm-=F<z{i=WT{>>TW%ATiiW(A0>-V9TWEU=T*&a=VAlT(W{TzlFT{q-T(iT<- F*T}*(<yzTisWTz*>TW{AT><VTAi3TWQAl3,=V*f>T=.*>(.==*<FT{{-T>WTT-s<T=B=T<5T>ir<>zb*iWaTTziVTA{tTV{*TiF=TAo(F=LlV(Y<ilU(>{%*TF<TT-{<TT>iT<=zT-bFSzo>VWHAV>nW>AJ>=Vz*T5{=T*i(T=2lT>vVll}(>{Bl>F_{{-JF=TWiT<=zT-{WTzw>T<i<<>JW-A+i>Vo*TQyV=AV(T=WlTf{{TlYFT{:**Fj{>-CFlTMi=<+TTi-WTz->T<VAT>{VT{X7FVg*VK_<T*J>A=m*=4V{Tl{FTWW-TF?TT*ZF?T&-><KT>igpzz_-TlRAT>{VTA{mTVA*T> F(*e(V=OTz(k=>lM(T<z-TFlTTlT<TT-iTFi=Tix<>z lVW7AT>h<TA<rTV{*Tg{=T*l(TVi*A(m=ilx>W{U-TF/{=-i<TTViTFJzTi#WTz:>WWCz>>+W-A88=VbAT>O=T*l(T<FlT({{T*i(i{al>F.VV-1<TTclT-VzTi{WTz{>TWlATiiWiA)>iV_TW5J=T*m+=VWlT(V{TA{FT{B-TFL=>-oF>Tb--<dz=i#<TT->TW*AT>*VTA{KTWSAFg>=<*k>B=gl=(j==*TFT{{-TFiTT-p<T= iW<;T>ix<>zhi{Wez=>FVTA=STVz*Tf)=TAi((=B*-(0{(l_FT{+l=FATT-W<TTziT<szTiL<=zui>Wvzl>8V=AZ>TVl*{0A=T*V(T={lTiOV>l^FF{k*(Fa{=-EFT{ViT<AzT-TWTzi>T(Kz<>^V(Ay>iVnT{^wVTA*(T=zlT+T{TliFT=iliF3{>-H<=TMiT<v{T-*WTz{>TW{ATi>VTzi*<V}AiEMF>*n(T=_*=(i{TlVFTW{-TFQTTliF&T&-l<oV>iUWTzY>TWiAT>{VTAWITVi*T>0V{*n((=_*F(w=>l3>T{i-TFzTTAi<T=AiTFiTlig<>zB>=WmAT>X<T{K}{V{*TZ{=TA>(TViA-(a=ilm>W{_-TF5{=-T<TTViTPlzTieWTTi-iW&zl>rFWAKeTVg*T>V=T*{(T=WlT(i{T*#d*{o-(FuT{-5F>T,*TFTzTizWTz<>T(lATii*vA8>>V:Ti6o=T*t>TV{lT({{Tl{FT{l-T(i{<-0FiT}*W<0zTi_<=z>>TWVATi<VTAB}TWiAVhXVl*hLA=5lT(5==liFT{<-T>lTT-g<TTP-*<_T>ik<*z5>=WZzTi{VTAzfT<W*T,{=TAi{%=8*>(;Wil^FT{?*T({TT-{<TT{iT<lzT-iFlz5iiWGT{>RVTAj>=Wi*TQV=TAl(T=,lTKi{{l8(l{oAWF_TT-eF=TViT<<zTl*WTzO>TWxz<>7W>Aj>*Vh*=Q1VTAV(T=zlT>f{Tl{FT=i<pFe{>-#>lTRiT<e{T=9WTz{>TW{ATl=VTT3liVpA>NjV>*siA=)*T({{TlzFTW=-TF{TTliFlT#-><rz=i WTzG-T<=AT>{VTA{oTW>*T>i=F*?ci=+A>(H{Tlm(={V-TFVTTl{<TT,iTFiT<i4<lzZ->WLAT>CVTA=ZTV{*TPW=T*i(TV3T((G{(ls6z{Gl>FIVTTW<TTziT<-zTlVWT{J*iWwz>>qV{Ag-wVbATSW=T*z(TV*lT({{T*i(z{&l>F%T=-)<TT0lT<izTi{WTz{>T<>ATiiV<Ao>iVaz>cn=T*2R=VTlT(V{T*{FT{4-T(i{V-rFlTZl><^zTiyWTz=>TW{AT>WVTAi&TW^{(Pv=(*s>-=S*>(XWT{WFT{z-T>GTT*l<TTA<W<0T>i_WTzk>{WGAV>sVT{lQTV7*Tmz=T*o(T=xzW(,{TlK(8{e-TFSTTAl<TTdiT<>zTidWTTk*(W9z0>qWlAj>>V}zTT,=T*{(T=zlTB={TAxz-{gl>Ff{>-NF(TBiFTlzTiVWTz>>TW>AT>iVTA4-WV *TqeV)*y(T=;lTil{TlCFT{z-TF2TT-:(zT>-><.T-i2W{z+>TWVA{>?VTA>BTVr*T7-=T*S(T=-lT(9{Tl-F<{u-TF5<F{>ll(*T<<-T5iIWTzZ*Vi><lzW>=W>AV>V*VRl=T*X(T(l=<AT)Wl{FT{f-TF}-i-:<=TwiT<MzTiC<Tzl>TWiAT>-VTA>RTVgA,m.==*j({=nlT(s=T*=FT{i-TF>TT-><TTJl><oz=iwW=z5>TW7TT>(VTAiQTVi*T7i=T*tIA=jlV(H{{ltFT{R-TFATT-i<TTiiT<>zTiD<zz >TWnA{>nVTASeTVd*TH^==*i(T=4lT(-{Wl^FT{wTWl*hh=l<VT-iT<QzTz-i<Fl>FW?AT>BVTFFeTVa*TS/=T*n(TW%l((x{TlJFT{x-=FyTTl><TTiiT<>zTi_WT{8isWSA=>UV=AOy{V&*TfW=T*R(T=ilT(>{Tl0(>{o-TF8T{-7<TTBiT<^zTieWTzs>TW}AT>>VTA^wTVHA-v>=T*+({=8lT(o{TlYFT{H-TFi<z-t<TTwiV<WzTi3WTWlT=i><AT-iTW>z=>*WAA-i>*>(T=+lT(j{Tl,FT{O-{T<->({Vzz(izV(Vzi>WTzY>TWnAT>xFA=pKVVz*T6m=T=lAz9z=(*W(<=lFV{l-TFkTTT-l>(=T<<>zTiCWTz#>Tlp=F*PVVAl9TVH*TlWD<VAAW=-A-(2{TlC*=(iVLl>(V=--<(l{>-lVil((z=T*>(>{{l{F{{A-=Fl{>-iF>T*i(=-lW(4{Tlqi<(F=<l<T{-X<TTUiT<OzT*{kTz>zFiAWFzA>FWAFFF(*V2T=T*P(T(l=<ATHW{-*>e={<F-{A-m<TTezW-*(:{li>V>Tli{W(zFi*W*zAil*Vw{=T*I(TF>=VAlt>VAl{sl{<llT{W=z>>{W>A{>><{?zz->(W6AT>j>F<izz><==lzF=*>(T=XlT(Z{TlE(W<q-VFzTT-7<TW-{z-FFAT*iVFl>{WrAT> VTA,FT>({TR>=T*O(T=RlT(1V=T7FV{(-TFXTTzilz(iTW-*F=z-->F=z<>_<>TT><WWcVV{*T^}=T=l*<>TVW-W({=il<(W-VF=TT-+<T<lT<lTFWA--z<WTz-i{V>>VTA PTVY*TT%({{:(V=llT(^{T{*iW({=*F>TT-U<TT:iT<6=iA2WVzl>TW#ATAl><<TzWV-Ak/.=T*bl>)FVVAl({=FlV(*-VF*TT-s<TWA{=->F*T*W{T>(AW=GT={*>i{lzV-*WOb=T*s-Fj(VAAl{VlAFT{6-Ti-(z{Wlz(i*V<>zTi5WTz4>TWSW>*bVVzA5TVo*Tlik{V-A-9zV=*(c<=FlWFl==l>(A=-lTF>{=-*FAT-l>z-i>WnAT>:6<={*T>>VWAl>>VF*(=>lT(C{TlrFT{/*FiUTV-W<TTfiT>iFz{iiW<*T=O-<zzWiz<i-VV>*Tu_=Tz#z<TVi{i({VlzFT{P-Ti-(l{{-VFVT<-lz{ijWTzH>TW6AT-W(TA->SV+*TUM(<{{lV>lV=*(o-=*FV{=-TFQTTT-lz(*{=--<<z-i{<FTVW-A(>nVTAXlW>*VFA>><VWAW=>lT(E{TlbFT{MTAikTV-*<TTaiTilF>{l-l<*>VWmAT>XVTA>+TV_*TY+=T*_FT<(lV(={Tl%FT<z=z*l(C{>l*Wi{z-W<Wi>F{iWi<ZE{Vl-=-{(8VVF*Ty)=T=l*<>TVWlT<{=W*>(z=Al<F<{FlWT-i<<9zTix>><<z{izW<>-W{AwRTV_=>A<3{Vz*<(lV=*>dAV-*T(>==l*(A{-*>T>iT<czTibWTzN>TsqAV>*VTA;YTx*{WA{>*Ti({=ylT(N{Tl6FT{TzTF-{i-o<TT:z>-<<{Tzi<VWz{iiW<zWV{(lil{*(*{{l>7{-z=-lW(Y{Tl5-A(>=*l*TV-*<TT1iT>-FzTW-zFi>VW=AT>3VTVlA<iTWWli><WlAWm(VA(-{FlBFT{oTWl(F({zllF*iV<lzTi,WTVlz<--WV>-W9A2HTV1=<l{FVV(A=LF=<Ai{{lhFT{g-TFgTTT>>TT--T<.zTi u=<>zViVW(Tiiz<*zA>l{VA(>lV(A=<-l{(1{Tl4FT{k-T>iWT--F4TUiT<aVVT>-l<Wz=i>WVzVVVAV&TVa*T*nE{Vl*W,{VA*zFl=*lFcl-VF-TT-/<T<l{zlpzViAWTz_>T>KW{Ti><WFzWV-*Vhq=T*nlVg*VW(-{VlhFT{7=Al*((--FnThiT<XWTT(-V<{TWi{<zzFVVA=CTV8*T*at{Vl*W5{VA*zFW=(*T{--WF}TT-^i>F-{z-FzViVWTz7>T1lW<T->V<iz>i.WWA{>zVF({=2lT(o{Tl0FTWlzTF-{l-E<TTDAV-(F=TFi<FiA=i>WWz{i<<-TKV>*Ts^=Fmi(T=>lT(-{Tl>FT{e-TFl{z-H<TT_iV<Mz{i+WWz(>TWXAT>*VTA>0TVwFWED==*.(T=#lT(K{T><FT{>-TFiTT-;<T=s=T<^z=ipW{zm*-WeAF-WVTAisTV{*TP>=T*>(T=l*z(9{Tlj(>{&-{Ff{=F(<TTiiTBFzTidWTTj*(WDA{>_(-AX,=VjzTT;=T*i(T=>lT-<{TlA>l{8-=F5{A-,<{Tsi{<IzWi(WTzR>TWFAT>>VTziWzV4*=Ng<z*b(T=6*T-z{Tl>FT<<-TFiTT*1*TTbi=<kz{iG(lzS>FziAT>iVTz-cTV>*Tqr=T*lbz=_lT(3=VldF{{.-WF(TT-b<T{liT<>zTi6FWzd>=WCAT>EVTAX>T(z*T:>=TzW(T=ilT>;>TlJF={H-{F&WW-j<F=WiT<izT-{WTz>>TW>AT>lWzA&_TV}z>Dh={*+(=(ilT(i{TliFT{+-T(&W(-M<{TgAW<hz=i5<=lV>TWiATi<VTAH;T<sziOM==*/(==6{>(4==*=FT{--T(FTT-B<TT1li<.z=imW=zq>=Wdz=>AVTA-oTW<*TJQ=Tz7>x=?lV(v{Vls->{%l=(ATT-l<T{ziT<RzTiul>zY>VW9A=>4V=Au>=TV*TEl=TA<(T=elT>7=?lpFW{5-WFR<>-fF=T{iT<*zTllWTzx>TWtzF>NVWAI?=VI*=%:V=AV(T=*lTn<{TlRFTV:-FFPT<-r<<Tsz><GT=i>WTzA>T#RAT>GVTAkT>Vq*<&f==*o(==B*=WV{TlAFT=<-TF1TT*%<FTuiF<&zFi+>>zSi=<-AT>zVTT=)TVk*TBkVz*5(F=_l=(H{=lo(={W-TFzTTl<<TTHiT(^T<i W(zI>(W_V>>0W=zzwTVT*T>z=T*E(T=2W>(8{(lYF={r-=Fk{=JV<TTTiTF<zTi?WT{s>(WQz4>:W1AY*>V,A=g>=T*{(TWllT( {Tlq(F{MlJFZT=-%<=T}-=F-zTi{WTT<>TWjAT-NWkAo>>V1A>mq(>*hI==(lT(={Tz<FT{o-TFOU>-^F>T7i=<gz=iJ<=lV>TW=ATi<VTAcpT<Q*<a^Vi*0#i=J{>(B==l<FT{V-T(FTT-Z<TTE-<<0TiixW=z1>=Waz=i<VTAVQTW<*TD8=Tz%(F=M*-(}=-l1->{Ll=F-TT-W<TV{iT<gzTitiTzwi-WYA=>CV=Am>=W=*T W=TA<(T=qlT>t{VlD(l{UllFs<>-sF={iiT<<zTAtWTzn>TW7A=>kWlA+D=VY*=f;=T><(T=<lT(q{Tl#FTWYlAF/T=-5>-T/AA<SzT-lWTzF>TWkAT>IVTzXi*Va*=SqF(*wGA=E*=(l{TlFFTV>-TFtTT*wF*TB-A<UTAik<{zfi=<TAT>(VTT</TVG*T>i><*1kT=tz*(1{TlO(={W-T(>TT*<<TT.iT<oT<iE<Azpi{WdA=>4WTzWuTVi*Tli=T*F(T< l=(&{=la8V{mllF.{=l<<TTFiT(>zTi7WT{+iFW;zA>SWAA4>{VjA=**=T*((T=ilT(n{T*i(A{_lTFJT=-R<TT?-=FlzT->WTzi>TW?AT>X<-A^>AV4A{/&==*^DTV-lT(i{TAAFT{F-T>DT=-C<=TK-F<mz=i_<=T->TWFATlzVTAc^T<7z>cEVA*d_A=K{>(5==l*FT{(-T>dTT-u<T{i-2<STTifW=zt>TW#z=iWVTz>OTVi*T_g=TAiN>=X*=(Q{(lHFT{p-TFTTT-F<T{iiT<izT-wW{z8>=W0AF>OWAAm-TFA*T?-=TTV(TWFlTtE={lsFV{6z(FpT=-oF={ziT<FzTl>WTzr>TF3zF>kWAAk>AVCA{eXV=*l(T=(lTdl{TlPFT=i-=F2{T-rFWTYiT<LT=->WTT>>T<lAT>NVTA7,FVjAAXeV{*.(==w*T&l{Tl-FT<i-TFFTTAuFlTaiV<f{Vit(Tzqi=<WAT>FVTT>jTV9*TiBW-*SPA=4*A(,={lB(={*-TF(TT-i<TTRiTFiTliE<Tz3>=W2AT>YW=T<MTW>*Tji=T*S(T=9lV(#=AlE({{;-=FC{Tll<TT-iT(AzTiFWT=SiWWpAV>tWFAG}=VgA=6(=T*F(T<zlT(d{TA^({{}lAF.{A-Ri>T1-=<>zTi(WTzi>TWcATiiFAAt>TV%*=dJ=T*nH=V0lTL>{TliFT{m-T(iTV-oF=TS-=<DzTieWTTV>TWFATiiVTAi/TWwA{6n=V*&li=u*A(b==lzFT{F-T>zTT-K<T=)lU<2TAiD<AzBA>W/z=i<V{A(xTFX*TP7=TAiY<=E*T(d{=l5FT{%l=(*TTl><TTiiT<?zT-iFizhi=W2AW>fVTAX6TVW*T^F=TAi(T=ilT,:V*loFV{q-FFy{A-eF=TiiT<FzTi=WTzX>TFnFT>5WAAp>AVLzT?gWTVi(T=FlT(F{Tz>FT=h*lFgTV-,(TTX-A<_{T-TWTzF>TW>ATlVVTzJ_{V)*V9wWl*w+A=?*=(W{TlFFTV>-TFgTT*h<(Tq-A<^TAi}<{zCi=W{AT>(VTzlYTV5*T>i><*P5T=c*W(L{TlH(==*-T(>TTll<TTtiT< z{i9<Az2i{WoA=>_WTAFITV-*T>T=T*F(T<N*W(U{Vlm(*{d*-Ff{=--<TTFiT<=zTiIWT{5i(WtzA>#WAA+-VV?zTT6=T*F(T=FlT(T{T*fi({b-VF/VV-xFATh-T>zzTilWTVz>TW-ATiiFTAp>AVszi)k=T*o>TV>lT(F{TlFFT<{-T(i{A-BFzToi=<IzTi8<=TA>T<qATi*VTAv_TVN*(6}VA*ppT=2l=(_=Tl(FT{l-Ti*TT-F<T{i-><%TAi^FizQ>TWsTTzVVTAFGTVF*Tl{=TAig>=q*z(N{=lkFT{gl=FFTTlo<TVTiT<rzTif<FzKiAW+zT>MV=A_>TVF*T1*=T{((T=FlTkR=Fl>F<{^z(FyT=-^F={{iT<FzTl>WTzy>TFxA<>GWAAh>AVeA{C_V=AV(T=(lT+{{Tl4FT=i-(Fc{T-5(>TIiT<RT=iVWTT>>T<{AT>?VTA0iyV,AA6;V{*:(==y*T(l{{lAFTWW-TFFTTA/FTT,iF<5z{ikF(z#iT<fAT>AVT=z0TVi*T-uW-* ((=YT-(;<zlJ(T{l-TFzTTzz<TTiiTFiT(i <Azp-{W:AT> <Tz>0TVF*T:F=TA>(TVi{<(2=zla(W{E-TFr{=l-<T{?iTFlzTipWTTii>W3z{>gWWA;_TV^*TgT=T*F(TV>lT(i{T*c(+{p-(FPW=-dFATn*TFVzTizWT{->T(PATii<1Ap>AVxz{)L=T*5>T<)l{(F{TlFFT=>-T(i{V-6FzT.i=<RzTiU<=zT>T<2AT>iVTAu.TWiAA8.V{*P(==BlT(S{TlFFT{F-T(>TT-i<T{w-i<+z(iuFFzLiAWs{TilVTAz8TWA*Tbi=TAi{D=8*A(qW(ldFT{v*T({TT-F<TTFiT>{zT-iFlz}izWYA=>vVTA;>=W-*T>X=T*i(T=GlTRiV-l}({{7-=F#TT-wF={liTFizTAFWTz7>TW+z{>bWAA&>=VP*=akVTAz(T=zlT-={TlFFT=i<)FS{A-%S(TjiT<N{T-{WTzF>TWFAT*{VTzii-V?AzD2=V*M(T=q*=vT{T*MFT{i-TF.TTli<=TP-{<5z=iHWTzYi=W<ATiiVTAV^TV:*TvjVi*5%A=O*=(u{=lG(T=8-TFzTT-A<TTFiTFi>_i#<AzpiiW/AT>k<TF%kTVF*TSF=TzP(TWy==(u=AlD(A{rA{F3{T--<TTziT(JzTiFWT{Bi-WNzA>ZV{Aw**VuAT>==T*z(TVWlT(F{T*i(z{UlAFB={-^<TTglT<(zTiFWTzF>T<>ATii<iAM>zVvz=/P=T*L0=>*lT83{TAiFT{7-T(iT(-SF{T)l=<7zTiEWTzF>TWFATi>VTAijTWqAi#D=(*}>E=c*A(jWT**FT{z-TF<TT**<T{i-(<9TAiM<iza>TWSTTi=VTAFdTVF*T--=Tz6zT=)*A(5=Alc(L{2lTizTT-z<TV-iT<FzT-iV8z.iAW6zi>&VTA:iTW**TZF=T*F(T=FlT>5=AlP(A{7lAFeWF-OFT{=iT<zzTiFWTzF>T<YzW>wWRAul(Vn*(UuV=AO(T=FlTJ={TluFTVx-{F2{A-HFATGz><ET=<(WTz(>TWiAT>}VTzi=iVoAT#uV<*:(T=ZlT5-{TlFFT=%-TFiTTl FOTt-j<,V<i;<Az+i=<#AT>FVTz=hTV7*TiPW**otA=e*A(7F>lH(==z-TF(TT-i<TTfiTFiT-i&<Tz&lFW:AT>^VTA=CTVF*T>}=T*i(TVmT((r=Ql?--{%lAFGVTAA<TT{iT/VzTlTWTTy>(W/z>>b((AgR=VSA=>T=T*F(TW>lT(o{TAokl{LlAF^{A-gF{T5-=<WzTi(WTTl>TW#ATiiWVA3>TVxAWkC=T*qk==<lT}>{T*lFT{7-TF&TF-8FAT2-{<kz=iG<TzV>TW{AT*iVTAFNTF6zlQrV>* >V=pzT(n==*WFT{F-T_>TT-C<T=+-A<_TAiD<Azvi{Wxz=>WVTA(6TVi*TPo=TAi(==w*T(Q{=lHFT{ l=c<TTl><TTiiT<?zTir<iz4iAWSz{>aV=A,>TVA*T7{=TzA(T=FlTi0Vilh(>{klFFuT=-2F={*iT<FzT*zWTzE>TFqAF>?WAAc>AV^=>3HV=*-(T=(lTi1{TlgFT=iAAFP{T-a<=T3iT<CT=-VWTT>>T(_AT>^VTzi>-VUA=L:==*I(T=HlTDV{TlFFT=i-TFiTTlfF>Tj-><kzFi8<Azhi=<-AT>FVTA=_TVE*Ti_Vz*XRA=J*A(bVTlx_T>.-TFFTT-F<T=ViTF_<(i&<>zd-TWbzA>0FTzT:TV{*T>W=Tz((TViAi(6=Aly+{{0-TF:=TlA<TTFiT<FzT->WTTi>WWQzz>qV=APcTVdA=Ci=TAK(T=ilT(a{T*iF={wl{F&T=-Y<TTkiT<=zTiFWTT>>TWiATiEF-A>>>Vwz9uKVA*4iTVMlT({{Tl<FTV{-T>J=--gFiT A-</WliM<Tz->TW=AT*zVTAiNTWiA-K8VA*J>{=ZlT(oVT*iFT{F-TFFTTl><T{ii(<5Tzim7{zd>TWcz=T*VTzdtT(>*Thw=TAi_z=%*{(1<{lCFT{6-TF<TT-F<T{>iT<izT-o<>zPiiW&==>pWAA)-TV(*TC==Tz-(TVQlTwi=Tl3(A{x*{FHTT-E(T{iiT<FzTiFWTT>>T<iV<>kWzA^D=VN*TL;V=*V(TVSlT(i{Tl#FT=i*>F_{{-4<=TwiT<qzT-TWTzF>T<>AT>iVTzM>WV_Ai2hWF*_)A=_zThV{Tl=FT=A-TFiTTli(-Tp-A<_=(iRWTzw-T<{AT>FVTAFNT({*T>iW-*/Nz=:z=(_{Tl}(==--T(cTT-i<TTCiTFiTFiC<{z#-zW5AT>xW=AlHTWi*Tvi=T*j(T=&*=(f=Al^(={g-=Fr{T-<<TT=iT>=zTiFWTTiVcWXzA>RF(A6ZTVwzT>{=T*F(T=FlT-{{T*iF({plzFeT=-K<TTg-=FTzT-yWTzV>TWEATiiWlAh>{VE*= B=T*uX===lTqi{TlVFT{/-TFG{V-nFATv-=<%z=iX<TTV>TW=AT>AVTAFHTWSAFQ>V-*P-(=.*i(:==llFT{F-Tm>TT-n<T=g-T<NTAi3<Azdi{WGz=>-VTA(kTWl*TKH=TAi>l=y*T(7=WlxFT{Zl=FVTTl><T{liT<PzTi6F*z9iAWvz{>OV=AK>T>z*TJV=T{i(T=FlTiD{=ln(-{U*VF:VT-kF=TWiT<FzTl>WTzD>TFxzF>4WAAQ>AV?A{KSV=*i(T=(lT(i{TlsFT=i-=FM{T-2<=T iT<NT=iFWTT>>TWiAT>.VTAaLFVbAAUyV{*b(==d*T(-{TlVFTVA-TFFTTA2<=T9--<8TFiUW=zUi=WzAT>FVT{z3TV1*Tig=<*f^A=0*A(_F>l?(={A-TF(TTA=<TTMiTFiTziS<Tzp>=WtAT>8W=>(&TW>*T>(=T*J(TViFi(v==l2F={.-TFITT-A<TTFiTFizTiiWTT7-lWxz->EeiA1>AVrA=>z=T*F(T<zlT(8{TAyF<{7lAFJ{A-oi>TU-=FzzTi(WTzi>TWpATiiWzAY>TV,{VBL=T*s1==llT:>{TliFT{2-T(iT=-tF=T,AV<ezTiZWTT<>TWFATiiVTAifTWyz>csV-*^(F=#*A( WT*-FT{V-T>lTT-{<TVri(<PT-ib(<z9lTWOz=>VVTAF&TW=*Thq=TzSA-=_*A(S=Alw->{Yl=F-TT-(<TTiiT<qzT-iF>z iTWZ=e>8VTA24TV**T0F=TA;(T=ilTR}V*lb(l{hTzFQ{A-ZFTWziT<WzTAzWTz=>TF:FT>CWAA/j{VZTlpfV=lz(T=FlT(*{TlZFT{AFWF6{A-^<TTwi{<Bz<i3WT{)>TWkAT>>VTApUTV?TWDI=T*f(V=UlT(u{TzlFT{o-TF=TT-_<TT/*W<;zTiy<-z4>TWYATllVTAZpTV>*TsK=TAr,>=#**(aFQlo(A{+*T(*TT-F<TT<iT>TzT-iW<zjiTWKA<>sVTA,jTV(*T0F=TA9(T=>lT>Z==lo(A{sl>FG{z-G(TT=iT<FzTiFWTT->TWA>W>.WTAdv{VE*{KY={*%(T<llT(k{Tl<FT{7-TFJ=z->FATO-T<8z{i}WT=->TW<AT>iVTAabTVSA-g>=T*d({=wlT(g{VlcFT{C*-F3TT-#<VTAiT</zTA--z<WTz-i{V>-WiAjQTV&=WA*i&Wl-VY(Vl*(+=z-F={>-VFATT-q<TW-{=-*<{{li<z>>TW2AT>KVTAbpTVM*VmT=T*h(TF-={*W&l=il{(-=-F-{{-H<TT;z>-<<{Tzi<WlT=i><AT-iTW>z=>*WAA-i>*-(V=XlT(SFzV**W{--WF3TT-oiTFWT{l{z{i3WTz#>TWOlTz((TA->-Vn*Ts}F<V>AVt{VA*zFVVlA>(W{<F>TT-f<TToiT<tW{AhW{zR>TWJAT>gVT*2lzV-A;bL=T*^AWc(VAA*5*=il<ji-VFzTT-,<TFA{=-(F*zie(Vi>VW-AT>#VTWFA<iz*V/(=T*2(TF*={A-h>=Fl(<l=>*iF<{-lWF{{z-Fz{iSWTzv>TW0TTzi(TA>=il{(>{{l>F{W><(lV(l{TlaFTF>=<l>FW-><TT)iT<JzTAo><VO>{WkAT>xVTAqlT#z{T,-V>*X(T=s{WAz(<=**A<{=AlA(z--<WTyiT<:V<TF-<<<>{WpAT>&VTA iT>z{T^-VT*G(T=IT=*>(V=Vl(8i=z**(A{l>VF({l-(F=*-WVzz>TW/ATAlizWzA(>WV<Alli*H(T=eAF>-{Tl>FT{--TF>TT--<TTl-z<NzTi:WVzx>{WUAW>(VTAR/T(W*T}>=T*D+<=>l=(t{Tl.FT{J*T*<TT-i<TTiiT<lzTi0<Fz4>WWQA{>ZVTA3>=W=*Tb*=TAz(T=)lT>m=ilsF<{.-<FB{T-tF={WiT<AzTiFWTzD>T<iz*>1V(A3>VVE*T1)=TAT(T=AlT(i{TliFT=iA_F>T(-R(uTniT<E{TiFWTzz>TWzAT>VVTTL>zV_*(&G=(*42W=3*=(i{TlTFT=T-TFUTT*1F2TH-%<#Tfi,<{zR-TWzAT>TVTATSTVT*T eTV*^(<=^*u(e{=l)FT==-TFATT-E<TT>iTFiT<i+W(zc>{WHAT>,<TAihTVz*Tvz=T*((TVilW(a=OlP(F{)-TF^{=-F<TT{iTF{zTirWTTiilW?zi>+WiAvgTVx*Ti=={*z(T==lT(i{T*CF{{e-FF1T=-e<(T8iTF=zTiiWTzA>TWiAT-wVWA4s=Vy*=Y4V>*H(T=<lT(i{TliFT{>-TFST=-s<=TXiT<:zTiqFTF<>TWiAT>iVTAluTVHA=cL=W*X(==KlT(o==lTFT{*-T(zTT-k<T=di<<mz<iqW<zhiTW)z=>*VTAAwTVF*TNQ=TAi({=vl((Y=Vl0FT{/-TFATT-A<TTiiT<izT-i(gz>>(WZTo>OVTAPiTWT*T5z=T*z(T=VlT>}=llgF({#-(F_{W-RF=T>iT<TzT-TWTz6>TFuAV>GWPA?>}V^A{0OWTA{(T=TlT(T{TlTFT{M>VF_T<-_FXT#i=<4zT-AWTzA>TWdAT>>VTziilVd*(hq={*p(T=%AT(A{TlzFT{z-TF(TTli(>TZ-7<%T<iUWTzxi=W{AT>{VTzi&TV0*T>iV**HZi=.*i(s{TlmFTV=-{FzTT-=<TTiiTF,T>i3WFz5-iWuA(>PVTzA:TVi*TPA=T*i(TWKAl(Y{=lnF={6l>FvTT-l<TTiiT<izTi>WTz#i>WUA=>GVTAYBTVOzTz<=T*i(T=ilT(l{Tl1({{M-WFJTV-D<TTc-=<lzTi*WTTz>TW8AT-^<>A2c<V4*<^sVT*/%=V*lT(A{TlFFT{U-T(i{V-h<(TN-V</zTi WTzz>TWAAT>iVTAi7TWiT_f>=(*P>D=glT(oVTlTFT{z-TFzTT-V<T=0l><cz(iJW(z&iWWrz=>{VTATETWT*T}9=Tz}(<=L*%(k=Gl,({{v*TFzTT-T<TTTiT<TzTiU<izO><WRz^>qV=APpTll*T)A=T*K(T=>lTi?(ll_FF{U-(FJT<-_<TT=iT<izTiAWTzi>TFS(->eV=A,d=VqA>7x=TV*(T=ilT(i{Tl>FT{llzFvTT-IAWT)i{<gzT-*W{zi>TWmAT>BVTT#T*V,*=Qm==*y(W=2lTZA{TllFT{>-TFuTTliF>T_i<<5T(i&WTzw-T<*AT>*VTA*STWN*T>iVl*U(F=0*A(4{Tlc(==<-TFzTTl-<TT,iT<kz=idWFzu>=WcA=>)W=TT.{Vz*T>T=T*E(TW&**(1{(l7F({0l-FH=T-W<TTziT<zzT-lWTTii<WEzZ>&<fA.9TVgzTOT=T*T(T=TlTR>{TA#(-{Il}F7{7-eFQTdiTV-zTi*WTzT>TWiAT>/<iAvEFVm*Tse={*aZ=VllT(z{Tl>FT{U-TLU{W-C<(Tei(<STzi8<=zV>TWTAT>=VTAMnTWiAismV>*%ci=LlT(/==l-FT{=-TF=TT-B<TT&*i<>z(in<izs>=W^zT>=VTAAgTVi*Thz=T*_>N=1l=(E{FlqF={Z*T(VTT-i<TTiiT<{zTiY<wz8>=WYA=>mV{AGcTWi*TIi=T*_(T=%lT>g>*loF={v-=FqTW-G<T{{iT<lzTiiWTzB>T<izW>CV<AH>(V,*TkIWTA-(T=*lT(*{T*NFT=i-{FJTF-#FAT^iT<OT=iAWTzz>T<-AT>sVTAy^VV?*FXZ==*Y(==b*=>T{{lzFT=T-TFuTT*k<=Tui(<,z(is<-zM-TWzAT>zVTAzeTWl*T>iVT*h,0=9A7(x{TlwDT{>-TFTTT-T<T{>iT(3T(i2<azIi)W9zM>IVTl-tTV**TXT=T*i(T=}*<(j{FlrFT{N-{F {=-F<TTziT<>zTi9WT{JiVWCA(> V(A}>zVaA=><=T*T(T=WlT(R{T*i(<{Ml>Fk{l-r<TT6-=FWzTi=WTzW>TWuAT>^FiA>K(V_AiXe==*rOT=<lT(A{T*=FT{z-TFM=i-M<=TgiF<qz=iGFTT>>TWiAT>iVTA{jTVQ*FC1==*u(==ml{(m{T*{FT{i-TF TT-O<T=,=*</z=iRW=zx>WWcATi=VTAloTV-*TkU=TAip-=7l<(s=(l?FT{_*TF(TT-*<TT*iTF:zT-iW(z.>FWbzA>0VTAB>=Vz*T6z=TA-(T=HlT( =*luFF{^-=FQT=-5F==Ti{<zzT-TWTzZ>TFbTi>GV(AQY(V^A-C6WT**(T=zlT(z{T*lFT=il=FS{&-N(kThiT<M{T-zWTzT>TWTATi>VTT.>*VkAyEyV_*/xY=_lT(={Tl*FT{T-TFiTT-LAWTuiF<BzTiaW{zslT>WAT>AVTAzPTV<*TC3Vi*1(==hlF(X{=l+JT>V-TFiTT-i<TT{iT<4<<iBW=zj>=WGA{>ZW=*zyTV>*T>V=T*7(T=r>F(q{=lZFW{:-TFq=TlT<TTiiT<izTiAWTzd-MWNAV>LV{AZyTVj*T#>=T*i(T=ilT(>{Tl)(W{_-TFjT{-5<TTfiT<CzTi6W=zi>TW9AT>-VVAZoTV0=VA*>W*-((=4lT(8FW=(l((z=ll*FW-T<TTGiTFiTliwWTzM>=W#AT>9VTA=wTVe*TcL=T*b(TVi*>(U{TlMF={u-TF0TT-F<TT^iT<;zTimWT{fiiW6AT>cVTA_N{VwA=>l=T*i(T=ilT(b{Tlt(h{:-TF8T=-;<{TRiTFWzTi}WTz>>TWZAT>}VTA1XTVK*{;S=T*I(V=*lT(3{TV8*=({=A*lTW-Y<TTk-=ATzTi>WTz>>TWnAT>N{*Ag6=VX*Tkq=T*y(T#*lT(>{TliFT{>-TF}{--><TTGi{<uzTi_WTz >TWgA{>iVVA{XTV%*Tt-=W*3(T=v{A*>5*=*FV=A-TFUTTzi-{F-{--zF=T(-<<FzW>l<=z>iA<-zT>>W=A*>AV-z>=-*-(&{Tl/-W(>{=yhWW{{lVF>T=-W<<i>WTzt>TW AT>?=T{(_VVV*T2k=T{W*{>{VzA*aWT(*=(l{<*iTV-V<TTQiT>z<<{lXV<TT>iWWWTi><WFZVVl*T_t=TVF*<>TVW(-=-loFT{%Ti**(*=+iWF(z>-F<WT*lkz> l>>i_iF-<lV(>F(AVo?=T*^J=VTlT(G{TlzFT{:-TFC{A-&<{T5iT<7zTirFTTz>TW>AT>>VTAA#TV}AWn)={*c(==5l=(w{W*AFT{b-TF{TT-><T=q=T<)z<iaWWz/>{WvTFl{VTA*kTV{*TH>=T*-(T=l*z(+{TlJ(>{,-{FtVTTW<TTliT<izTilWTzA<<WLAT>^V<AI4{VJ*=vR=W*((T=LlT(*{Tl>FT{fl<F>TT-+<{T3iT<r=TzWWTzt>TWiAT>{VTAk{AVk*T??==*n(T=fAT(>{Tl&FT{M-TFTTT-D(lT%i=<%zVi}WTz)-T<=AT>iVTAi.TV**TafW**1(T=ql=(7{{l_FT=z-TF/TT-><TTRiT<xzTiaWTz%>=W>AV>%VTAn_VVW*TQ+=T{{AA>KV<Al<V=Tl{(F{(l*FW--FiT6iT<SW>TF-TF*TWwiW<zz>{WFLVVz*TqE=T{-Az&FVA**(VVls-{j-TF7TFFl<TTAiT<>zTi>WTzl>TWb{W>.VTA:XWVw*TNE=TTl(T=9lT(*{TloFT{h*TFSTT-.<TThiT<fzT*lWTzM>TW>AT>)VTTcTTV,*(K)=T*:(==kATzV{TlzFT{z-TF-TT-ATWT%-><uzViBW{zy>WWXATllVTAdyTVi*T&e=T*_iW=+lT(_{WlvFT{P-T>lTT-v<TT*iT<SzTiD(Wz5>TW,A{>MVTAuRTW(*{#z=T*{(T=>lT>w>TlaF({+-TF+T{-p(T5ViT<zzTizWTz->TWA>W>_W>ANc=Vq*{w6={*B(T<llT(:{Tl-FT{.-TF2=z-><(Tq-><}z{icWTT*>{WzAT>>VTA9}T<7<TY}=(*r((=nl{(BVTWVFT{z-TFzTT--<TTA<W<jT>iUWTz#>{WrAV>3VT{lgTVh*TP-=T*&(T=)zW(Y{Tl:F={M-TFjTTAl<TT1iT<AzTicWTzH-zW>A(>pW>AQZ{VX*TCV={*3(T=>lT(?{TllFT{/-TF+TT-a<TTViT<1zTi3<<z>>{W/AT>#VTAJ^FFi*{dL=T*l(T=>lT(>{Tll(z{y-TFETW-,<{T7iW<(zTi_WTz=>TW>AT>bW<A>x{V6*{wH=T*,(F*ilT(>{Tl=FT{>-TFHTT-lFzT&iT<)TiiXW{z)>T<*A{>>VTAiGTVC*TM1T**O(==QlT(8{TlfFT(*-TF>TT-i<TT>iT<uT-i>WTz,>{WkAT>YVTA;:TV}*{qV=T*v(T=-*>(Z{Tl?-W#z{<l*(Az{lAFA{z<-TZiwWTzZATi(<Vz{iWW{zz>F*Vp*=T*g(T(*TW*{H*ziFV{*-TF_TTT--VF>{l-*z{*-(V=-lV(-{V<-(zA-wFV}*TeUFVWi*<q>VW**{Vl>FT{d-T-TTV-l<TT;iTikFlT>l>z->FW_AT>3gzWAAFi-V<zl=V*-(T=2lT*F(<VzFV{>-TFBTTT{(VTaiT<K{Ti(W{z>>TW)AT>iVTA%>qV/*=7r=T*C(T=^lTt*{Tl>FT{>-TFiTTli(>Tqi=<5zVi?WTzr-TW*AT>iVTAiQTV=*T1RV-*Z(V=.l{(L{Tl,bT{T-TF-TT--<TTziT(3TzicWVz9>VWeAW>0VTAzZTVl*T0>=T*6(TW7*<(D{Wl3FW{I-(F5=Tl<<TTliT<lzTi{WT{ki/W7A<>mV{AYZ(Vb*T7V=T*l(T=llT(*{Tl;(V{a-<F4T{-O<TT?lTF{zTi*WTz*>TWVAT-?T)AUJ<V6*<9v=W*e(TVllT(A{Tl>FT{%-Tv1{{-S<FT7iF<RT-iCFTzT>TWAAT>AVTA{XT<7AWE1=(*u({=7*-(r{T*VFT{A-TFATT-z<TTqi(<cz=iuWFzv>=W}ATiWVTA-RTVi*Tg5=Tz25z=JlV(t{Vl}FF{9-TFTTT-*<TT-iT<IzT-iAQzO>FW}A{>8VTA_iTAz*TnA=T*A(T==lTni=6l_F({v-<FeTT-C<T{{iT<AzTiiWTzi>TWczl>/V(A)2TVg*{SLVT*V(T=zlT(i{TliFT{ClVF9TV-x<(TSi=<u{Ti-WTzl>TW-AT>TVTA}>FV/*WMa==*,({=4lT(i{Tl_FT{>-TFKTT-L<TTqiT<>zWiHWTz#>VW*AT>7VTVlzzi*VVAT=V*l(T=8lT-*yAV***{-l*FNTT-Zi<(-T<liW>TF-TF*TW>lF>Th><A->*Vn*T C(*V(A<>-=<-<?zVAl<(<{<lF(W-(<TT}iT(tTqi>W{z2>TWjAV>UW=z{hTVi*Tci=T*v(TW5*W(_{=lSF={y-VF2=T-A<TTiiT<izTilWTzAiAWZA{>4W*A9X{VY*=P9=W*((T=plT(<{Tl>FTVyVTF,T{-#<TTtiV<mT=VTWTzi>TWiAT>&VTT1TTV+*=,S==*R(V=8ATz,{TliFT{i-TF>TT-AI=T>i{<uT*i}W{z_>=WdAW>(VTAjeTV<*TB>=T*lIz=2lT(b=Al}F{{e-TA>TT-3<TTHiT<ezTiB<-z>>TWQA{>qVTAGGTV;*Tr8={*z(T=6lT(-=5lmFT{aTTl((V{{lWF{{z-FzVi<WTzL>T>*<Vz*i=={zAi9W<zl(WW{ATt*lV(l{TleFT<*=A**(*--<<T6iT<5WWT(-<<-TqW-zl>%VTAu**>(W<z-.<{iA<>lVW*(wAz>FV{z-TFkTTz-lzFF{A-*<V{lWVzz>TW,AT*-iUW>zA>zV<AlWi*S(T=#AT(T{{l>FT{Q-TFiTTli<FTji=<kzVi?WTzx-TWiAT>iVTAiGTVi*Tit=(*t(==dl=(m{<lhFF{T-TF>TT-W<TT>iT<izTil<zzO>TW2zl>_V{ASiT-k*T%>=T*^(T=ilT9i-cl%F={o-VF^TT-6(T_?iT<izTiiWTzi>TF.FT>?V=Ah)=VX*W8h=F*{({=>lTk{{Tl>FT{i-TFl{z-H<TT?l><?z{iDWT{l>TW>AT>>VTA .TV.=>0+={*J(T=_lT(LVT*-FT{>-TF^TT-><TTniW<pz{i_W{zn>TWqAT>WVTA>xTV-*Tp5=TzyE{=rl{(}{{lKF{{C-TFWTT-><TTiiT<czTl_<QzM>{WeAT>oV(ANiTW=*Tq>=T*>(T=AlT(AlWl)FV{Q-TFwT{-+<=TtiTQlzTi%WTzb>TWrAT>h<TAh;TVE*TUv=T*v(TV(l{(>{Tl-FT{>-TFI{--><TTBi{<2zTirW{zc>TWhAV>KVTAMaVVl*TyY=T{*AA>*V*(-{Vl7FT{fz<lFFW--FAT&iT<KW<{-i<FiA>iF<TT*iWV-zW>>WWA*V-*f(T=4lTh*{{laFT{c-TFkTT*fFeT>iT<?zTioWVz?i=<{AT>>VTA>hTV)*TiLW>*H({=ul{(){VlQ4T{l-TF>TT-><TTiiT<A{-iyWTzniyWIA{>BV{AP)WV(*Tcb=T*T(T=>lT(l=zl FT{,liFCT{-6<T=liT<fzTiXWTz;>TW#F{>eVTAq0{V9*TyI=T*V({=olT(>{Tl,FT{K-TF0TT-C<{Ti-w<NzTi;WVzG>TWJAT>-V<AkHTVq=WA{>WVW*<=-lW(8{TlR-W({=*l*TV-z<TTOiT>-FzTF-W<*TA-lAV>AVTA^YT)=V<AF><W-*_=-l<(r{Tl%*VYX{{*z(A-><TT:iT<ezTiJ<WVC>VWVAT>3VT=lA<i-VVzi>>WBAWm{Vz*FV{l#FT{0-F{iTT-><TT-iT<>zTi}WTzlizW:AT>KVVA8P{Vw*Wu(=T*Z(T=*lT(>{Tl0zW{j-=F7TT-^<TTXiT=<zTi>WTzi>TWOAT-/-TAcJ=Vf*{Eo==*g(FWWlT(i{Tl{FT{>-TF>TT-lFzTdiT<cT>ivW{z}i=z(AT>iVTA*2TVI*T>IF(*2({=.l=(#{=lqsT>H-TFiTT-><TTTiT<A=liuW=zqiAW}A{>bV{AusWV(*TGt=T*F(T=>lTri*zlUF={v-{F_TT-pFTWziT<>zTiTWTzi>TFJFT>MV=Ahv{Vx*W;D=FSi(T=ilTI-{Tl>FT{O-TFl{z-e<TTt-V<Uz{iKWWz(>TWSATilVTA>DTWi>z5a==*,({=nlT(4=TTzFT{>-TFlTT-i<T=g=T<Xz=iEW{ze>VW6AF-WVTAi8TW{*TK>=T*>(T=l*z(8{Tlw/>{0-{F1{=F(<TTiiT<zzTiMWTT.*(W?A{>CVVARY=VwA={T=T*i(T=AlT(X{TlA{W{,-VFZTT-L<{TCiV<yzTlZWTzN>TW:AT>IVTA8iTVw*Tmn={*r(T=hlTil{Tl3FT{>-TF^TT-o-<Tji=</z=i3W{zO>TWVA{>xVTA>ZTVe*Tr>=T*_(T(zlT(S{Tl-F({_-TF,WV{(lA(lT<-FFWi-WFzO>TW&=Wz*iVW-z=>**V_W=T*B(TFiVzAi(W=**=<-=zlW(z=i8VT>iT<HzTi8WTz_>TW:AV>{VTAxsTHlW(A*P<VFl>3F=F*({Vl=FT{X-T-lF<=TlWW-{z-WFz{i(Vz>>TWUAT>OVTAOlHzB*V}{=T*p(T(*{>lu({=llW({=AlzTV--<TThiT>(F<{lWVzT>TWGATAl><<TzWx-W>z=j<*-(V=_lT(IFW=(*T{--WF1TT-#iAF>{*-*zVilWTz5>T-zW{z{iWA>5TVL*TIh=T*ZiiFXlV(*{Tl5FT<A==l>(*{*<VT=iT<SzTAz-zFlT.i><**iizWWAWV-*W2k=T*_llE*=FAl{{lvFT{ -TFdTTAT>TT-iW< zTiG>{F*z{ilAV>lVTAJtT(*WAz*>**-(F=2lT(q<V=(*l((==>-T{W=z>>{W>A{>>({2zz-ihWJAT>Q6<={*VilW=A(>-V*(V=VlT(B{TT*l{f-=>lFF(T-lW({{l-*zViVWTzy>TyF<zTli>WAT>(AW=A>>*V*(V=WlT(.{TT-*Q({=lll<={*l*F({F-*<Wi>WTzk>TWOAT>;=T{(EVVW*Tx&=T{FAz>lV>*A>>TWl{/{=z**(W-><TTQiT<:zTi^i-V/>VWlAT>;VT<lA{i-W-f-=W*^(T=y{V*{>i=*FV{T-TFxTTT,lz(-{>llF>T(-Az-iiW}AT>_cWW*TXil{=A(><VF*W>-lV(T{Tl3FT<{=A*-(W{>lAF-T<<-T-i.WTzO*(i*<W*-ioW{zl>lW=A*>A*-Zi=tlT(KF>=<l{(z{<iWF{{i-<FWiV<lzTidWTVATziF<W>>VTAfXTV+*Tdv<t{/({=1lT(&{TlLFTVFzTF-T(-^<TTMAW-*FV{l-=<({>W-AW>BVTA5*T>WV{z{=V**(T=flTl*<W={**Wi-{FeTT-g<TTj=T>VVTi>WTzD>TW/AT>f>>=xhVVz*TfU=TVAA=M(V*li<(TiFV{*-TFuTTTll>(l{l-*zVi>WTzJ>T>TAViAVTAcoT(iV{A->-VzA=X(V<*F(W{l*=(>=A*-(T{>l=F*{A--(>i>WTzH>TWoAT>9FW=J6{V3*TH}=T*K(TFATT(-=AlsFT{aTWl*6h=l->W>{l-{<(TF-*<*TA-lAV>>VTA6HT;{*{:L=T*x(T=.lTiF<Tl-(i{x-TFI<A{(lWF{TFl{W=T*i{<W>VWAAT>BVTV1A{iiV<AF>W*>(T=,lT(c{TWE*+<G-VFlTT-:<T<lT<lTFWi>WTzu>TWKAT<K_=ieYVVA*TLn=T{-A=o*={Al(<l>FT{8-TFSTT-aFTW4i{<RzTi:WTzj>T-{=T>>VTA0uTV_*TF?>z{k(V=zlT(2{T{-*>(i=ll{(A{z<VT-iT<1zTTFi<Fz>VWFAT>gVT=Az>>FVWlA>>WiAV>lTV*Th>=WlW{-lzF5TT-R><F>{V-{FATz8W<{T=i*WVTli>W(zAV>*TSZ=T*O(T{+V<-o{{lHFT{9-TFMTT*W>TT-iF<EzTiv>z<AzF--W<TlVVAF#TV8*T*la<WTAW(TT{*WY>=z*A(<{<lF(W--F>TdiT<pWWT*loFlAli>W=z*ilA-1WVE*Tu4(WV{A*G*lV(l{TlcFTF*zWl{(*--F>ToiT<#WVT--=<*z<iF=(T*i>A>/TVZ*TrP=T*j-{FPlV(V{Tl6FTF0{{llFW{{lAFzzl-*<F{lWVzT>TWQATTlizWFz<><V=A*>=*>(T=MlT(I{T<O*F*/-VFTTT-8<T<*z>>-Fz{i-A<*T=W>{Vl-FV{--VF-lV-(=V*V(T=vlT-l(<V-lVai=>*r(W{{lzFFiV<zzTi^WTV-TziF<Az*>V<lPVV{*TgM=T{FAz>lV>*A>>Tz-<<{-V(cTT-N<TWiT{--F-Tz-=<(T<iFWW*-izWWzziiTVZ-VA*M(T=5=i-{kA=ll<LTz=l*(k{>lFF{{zliz{i4WTz2>TWjAT-A(TA->zVg*T}xF=V(A=.l=<AiFV={Ai(*TTl{.r{*ll*Ai{<tzTi%<=z>>TW+AT>8VTA_iTW-*TN?=T*X(TF>lTaiVil_F={4TVF/TT-/<T{ziT<%zTiiWTzi>TWAzT>+VTA#>{Vq*{n.={*R(W=(lT(+{T*>FT{>-T(iiy-j<TTRl=<BzTivFTzF>TWBAT>oVT=u:TWiA<BQ={*bli= lT(K{TlzFT{B-TFiTT-i<TVE--<GzTiY<lz0AVW_ATiWVTA>3TVZ*TxY=TAc((=rlT(rW(lQF{{xl=(ATT-><T{liT<NzTl.lTz0>{WbA{>s;<AUiT-g*Ta>=T*>(T<(lTQ1<(lIFT{mT<FvT{-w<T{*i{<LzTivWTz)>TFu-l>5VTAvETV.=V.JWT*z(T=MlT(Y{TT>FT=il{F}T=-;(lTgiT<uzT-<WTzU>TWiAT>iVTAAi*V_*T&tW>*?({=QlT(0{Wl(FT{J-T({TT-><TTl-z<JzTit>*ze>{Wpz==TVTA2;T<i*TdL=Tzkii=ylT(.{Tl iT{hl=FWTT-><TT(iT<:zTix<Fz:>TWoA=>0V=A4-TW=*T+K=T*W(TVWlT(m=(lJF{{f-TF4TT-u(TV=iT<>zTi>WTW->T<ET*>MVTAK-(Vt*{a7V=**(T=>lTv*{TloFTVK-FF)T{-o<{Tu**<_T=-AWTzi>T,VAT>pVTzi>=Ve*VoZ(-*3(T=f*=(F{TllFT<V-TF#TT-O<FTai{<)zWi:W=z_iT<lAT>vVTVlrTV>*T-1Ww*P(T=%zT(tV-l?(={T-TF>TTl*<TTEiT(PT;i4W{z%>{W+{*>OW=AV4TVi*Tdl=T*Y(TVi*W(C{Vl1FW{8-TF7{=*<<TTliT<lzTiIWTzbiiWtA{>.VWAjC=VgAT#==T*a(T=-lT(>{TzC(>{o-TFL<(-Z<WTy-=FizTi>WT{=>TWyAT-nV{Ajc{V1*{6mFT*Zr==ilT(i{T*VFT{r-T(iVA-&<VTyzA<MzTi&<=TV>TWlATiVVTAt/TWiAiw.=<*D-i=hlT(G{T*LFT{>-TF*TT-i<T{:ll<HzTiUFTzQ>{WQz=>AVTA>OT<=*Tro=Tz+>*=ul{(9{{ldiT{%l=(WTT-i<TTliT<}zT-i<zzy>VWh=V> VTA1>=Vz*TGl=T*l(T=&lTui=(l1F<{5A-F4TT-:<T{>iT<>zTi*WTzi>T<mAV>XVTAYizVO*{h.V=Ai(T=>lT(l{TlxFT{PlVFHT=-E<TTDiT<){TilWTzi>TWiATA-VTTIJVV_*=E.==*s>l=KATz6{TliFT{i-T(=TT*vA-T1i=<hz=iH>=z/>FzlAT>lVTA.HTV>*TD-=T*?iW=dlT(,{{lIFT{Q-TY0TT-/<TTSiT<ZzTiYFTzh>TWNA{>MVTArvTW(*{Oi=T*l(T=>lT(b-{lnFT{c-TFNTT-sF=-(iT<jzTilWTzG>TWQA<>>V{A;UTVn*Tc)WTAi(T=>lT(>{T{-FTVZl-FsT{-h<{TCll<?{T-WWTz>>TW>AT--VTAjIVV7*{x1==*K(V=2lW(*{Tl+FT(o-TF>TT*&*TThiF<dz<iD<lz+-FF-AT>AVTW)5TV>*Tl(=T*lbz=QlT(y(Tl#F{{v*TA3TT-A<TT*iT(jzTl5EWz;>FWIAF>nFWA?iTWz*T0A=T*A(TF*lT(q{Fl FF{1-FF:TT-}(T{iiT<zzTi*WTT(>TF)A=>mV(A2b(V?TWXIWTA*(T=zlT(z{TT*FT{3l<F^TF-w<FTJi(<){T--WTzH>TWAATl*VTAAW<VY*{^o(W*)({=5l=(^{Wl(FT{s-T-lTT-><T{iWu<oz{i1F=z}>TW2TT(>VTA>4TV>*TlL=TAi>-=1l=(o=(lZFT{h-TF<TT-><TTiiT<izT-i<*zg>=WZT=>#VTA0iTVl*TJi=T*i(TFclT3i=llvFV{tlzF)TT-0<TTAiT<izTiiWTzi>T<il->EVVA#i=V/*T6#WT*i(T=-lT(-{TT#FT=ilTF TW-NFzTpiT<#zTiWWTz->TWiAT>iVTzi>lVy*WKDW=*H(T=nAT8z{TllFT{l-TixTTliF*TBi<<8WziYWTz?>T-{AT>lVTAi7TVi*T>iT-*&(<=hA=(r{TlCYT=W-TF*TT-*<TWeiTFiT=i&WFz%*(WGAT>LVTA{ETV**Tui=T*i(TVi*T(N{Fl62={.-TFq=T-{<TTAiT<AzTADWTTi>VW1A(>RWbAx7TV5*Tz{=T*A(T=ilT(i{T*iW-{o-(Fa==-w<TTklTFWzTizWTzz>TDZATiiWFA6>dVt{(x4=T*O(TVVlT(z{TliFT{i-T(iT<-}FrTcl=<^zTi_FTT>>TWTAT>TVT=bkTWiA(J7V>*v-(=)lT(d{TV{FT{T-TFiTT-i<T{i6-<nT>iLF=zm>TWRTTi-VTA{jTV{*TlD=TAi((=m*i(r=7lmFT{q-T(0TT-{<TTiiT<izT-i<=zPiiWeT=>,VTARiTW**T9==T*=(TF2lTsi{<l2(-{mlzF2TT-,<T({iT<=zTiiWTzi>T<il->pW-Ati=VK*T 8WT*W(T=VlT(V{TTEFT=i-WF;{l-%(WTEiT<+zT-{WTzV>TWiAT>iVTzieFVtAl7HW=*&(T=}ATCz{TlWFT{W-TiLTTli<WTa-*<?WziBWTzo>T-{AT>WVTAi?TVi*T-gpl*g(==7*l(;V>lxFT=*-{F<TT-R<TThiT(J(Tic<*zHi*WrVV>j<T{=ZTV<*TS<=TAW(TVdAl(Z{=l9>({Hl*FG{=lV<TT<iTF*zTirWT{x->W:z*>&W*A)-*VjA=>i=T*F(T<FlT(9{T*iG-{blzF6WA-u<TTy-=<zzT-0WT=F>TWcAT>kVFAB>*V?ATx ==*b T=>lT(i{T{lFT{<-T>RT{-I<=T^*T<m{-ib<=Tl>TW<ATi*VTAOyT<3*WuSV**D6*=Kz*(K==*iFT{F-TFlTT-.<T{ilh<mTziyWWzZ>TWpz=-<VTz//TVl*TUw=T*vrz=)**(c=Tl.F={IlTFTTT-i<TT-iT<<zT*j<Tz9>=WrV(>DVWAS>=W-*T%<=Tz=(T=wlT>a=zln(*{Bl*F}WT-LF=T{iT<FzTilWTzt>T<iiz>cWzAP8WVc*T^dV=b((TVflT(l{TleFT{hAAF>{{-e<TT8iT<HzT>-WTz<>T<>AT>iVTz1i*VH*=3uWT*S^*=7*=ST{Tl<FTV=-TFxTT*YFWT}-*<.T*i#6Tz9i=<-AT>FVTzV6TVM*T>i=F*:dz=plW(D{Tl9(==A-T(LTTlV<TTjiTFi-zi?<{z5>WW3AT>RVTA=yTV<*T>>=T*i(TV8T((%{=l1Uz{2l*F^VTAA<TT-iT<WzT*AWTTYiFWgAV>tF(A36=VEA=Y-=T*<(TV*lT(1{TA4(F{yl*Fm{*-)o*Tj-=<*zTiFWT=i>TWuATiiW>Ac>zVdT=%/=T*;_==<lT2N{TziFT{n-TFKzV-MF*TK-T<mz=ip<TTV>TW-ATAlVTA<ZTWiAi)cV**_k<=JlT(MVTlTFT{<-TF<TT*<<T{i--<ITAi}WWzo>TW_z=>FVTA(qTVl*T7U=TAi5V=g*T(t{Wl^FT{t-TFATT-<<T{;iT<izT-C<TzQ>VWrAV>DW*A4-TVW*T#-=T=z(T=llTQi{{lO(*{MAiFnTT-f(T{=iT<<zTi<WTV)>T<iT*>4WAAMsWVf*T3;V=AA(T=(lTi<{Tl:FT=i(zFS{T-Q<WT&iT<bT=V=WTT>>TWlAT>PVTA5>=V+A*_RV{*S(==8*T(z{Tl-FTVc-TF<TTliF<T:-*<c=iiQWTzU-TW(AT><VTA<tT(Z*T>iV>*B+A=sA-(9{Tlr(==z-TF(TT-l<TT?iTFimFi}<Tz_--W6AT>dW=A{wTW>*TBl=T*k(T=y*l(%=*lU({{R-=F){T-V<TT-iTF(zTi<WTT2-lWKAW>PF(AuqVV;TT-A=T**(T=WlT>F{T*_F({H-<F3V(-a<VTQ-=<zzTi<WTT*>TWPAT-yWlAq>*VGA*hw<**KI==AlT(F{TzFFT{k-T(i{*-3FzT;AA<DzTir<=T>>T<BATlFVTAvdTV,*F&rV**8/T=;l=(D=TlTFT{*-T-lTT-<<TVe-z<6z<iq(TzP--Wyz=i{VTA<wTW**Thq=Tzc(<=U**(v=*lY>*{9l=(zTT-F<TTliT<1zT-i<6z:izW3AW>uVTA >=<<*T>y=T*l(T=+lT(3V*l.(*{xlTFRT=-CFTTAiT<*zTi-WTz<>T(HA<>.V<A?*(V/*WpKV=A{(T=<lT>={TlKFTVIlWF;{*-IF*TwAT<PT=i{WTzF>TWlAT>xVTzi-AVxAz:}=W*P(T=9*=Mz{T*yFT{l-TFjTTli(gT&-{<)Vli9WTz_>T<-AT><VTz>)TVi*T>NV**%(<=8AT(q=*lN(==i-TF<TT*=<TT4iT(EzFiY<*zsi*Wd=T>IW=z<p{VF*T^l=T*}(TVi*l(P=zl2>l{U-TF^{=-T<T{QiT<lzTi%WTTi-iWLz{>oF{A#QTV^*TH(=T*<(TV>lT(i{T*j(>{v-<Fh=z-6F*T}-=FTzTi<WTTl>TWBAT-s-TAC>*V&A*C&W<*c>TV<lT(<{Tl<FT=c-T(R=l-_<<T/l<<LT*iIWTz->TW<AT>iVTA1/T<,zlhCV**kg*=5zA(G=T*VFT{*-T>{TT-<<T{i-<<3T*ij<<zE>TW#TT>VVTA<HTV<*Ti<=TAil<=d*A(8<AlMFT{4l=(>TT-(<TVFiT<yzT-iF>zkiTWn=A>+VTA}6TVl*T3<=TA/(T=ilTr8=FlxF<{:-FF,{*-BGT{iiT<*zTi=WTVl>T<iA<>sW*Am>WV.*TS WTl((T=<lT(<{TTAFTVX**F1{*-MF*T+-{<5TTiAWTz*>TgAAT><VTzbi*Vs*F?y<(*4(<=k*=(z{Tl<FT<{-TFBTT*+FVTH-*<gT*i7tTz:i=FzA{>FVTAl/TVo*T>i==*/6z=rAF(S{TlSFT={-TF<TT-(<TTiiTF6{Ii%WFzIAlWez*>cFTz<nTVz*T_W=T*i(TVslF(t{(lR>({J-VFB{=-V<TT<iTF*zTiPWT{GlTW>z*>ZW*A4-*V:A=>i=T*F(T<FlT(4{T*i8*{ulzF8WA-7<TTf-=FizT-pWT=F>TWoAT>:V(A+>*VBAT&#==*PqT=>lT(z{T{lFT{<-T>x{T-y<(T_*T<Y{-iu<=-=>TW<ATi*VTA3GT<%AV:mV**b^*=Qz*(Q==l=FT{F-TFlTT-x<T{il><tTziOWWz?>TW9z=iWVTz9OTVl*Tn:=T*nR{=k**(#=TlbF={JlTFzTT-z<TT-iT<<zT*2<(zY>(WkV(>.VWAQ>=WT*Tf<=Tz=(T=dlT>MV>lw(*{%l*F#WT-cF=TAiT<FzTilWTzj>TFpz>>DWzADU<V?z{_PWT*-(T=(lT(({TA(FTVKlTFe{z-4FzT?l(<nT=-zWTTP>TWlAT>.VTzio<VbA{1,Fl*8(T=tlTtW{Tl<FT=>-TFiTTl#>(T,i(<q{Ti)<*z0i={>AT><VTT=9TV2*TinVx*:t*=C**(k<Tlr(={F-TFFTTlV<TThiT(_{>i;<zzE><WqT{>/<TA>0TV(*T/(=Tz((TWnAl(E=zlQ(z{_*(FcTT-A<TT(iT<(zTi7WTTiz*WgzT>qVWA)^TVrA=5T=TA>(T<>lT(f{TlC(R{Gl*F_{{-H<=TI-T<*zTizWTT(>TW<ATiiWiAw>*V_AW7P=T*C>T=TlT(<{Tl<FTV*-ThNT{-,F*TD-*<3TTim<TVz>TWzAT-*VTA<:TVdA<r>V**4(==ElT(DVTz=FT{<-TF<TTT><T{x-<<8z(iB#>z8i*Woz=i=VTA<5TW**TcU=Tzr>>=&**(P=*lp>*{gl=F<TT-F<T{<iT<CzT-i<(zRizWh=&>5VTAd>=V(*T>}=TTF(T=NlT(L{llG(*{qlTFDT=-7FT{TiT<zzTiAWTz<>T(vA=>%V(A%>iV)AApuV=A*(T=<lT&l{TlpFTVD*>F}{*-JF*T3AF<U{Ti*WTz<>TW<ATi>VTz1>AVe*(r7FF*}a*=xzTiA{TlTFT{W-TF>TTlCF*TB-n<2=(idWVz i=<=AT><VTz*9TVM*TiHV>*U5*=M**(mW*lq(==W-TFFTTAF<TTDiTFiT*iP<zzZ*AWgAT>PW=AlfTWv*T-F=T*4(T=4lF(K=*lZ(T{^-=FU{T-F<TTTiTilzTi<WT=fiFWBzO>QFTANi-V_A=>V=T*<(TV*lT(p{TAaFF{Sl*Fa{*-^U*Tk-=<VzTiFWTzl>TW7ATiiWlA5>zVJ*W8+=T*&P=W<lTxd{TllFT{K-TFR=*-?F*Tg-T<2z=i;<Tz*>TWTAT>-VTA<DTFS*F&dVI*nl(=?lW(2==lVFT{<-T5=TT-3<T=fi(<;T*it<*zM*TW z=>*VTAFrTVl*T)?=TAiiA=j*z(u{WlfFT{nl=(*TTl.<TTliT<_zT-i<zz%i{Wyz=>qVTA 8TWA*T4<=TA>(T=ilTZv{FlN(j{C*TF0{*-YF=TWiT<<zTl=WTzm>TF;z<>+W*Ah>*V3{TI5V=A<({=FlTQV{Tl/FT=i-<Fa{z-J<WTdiT<cT=i*WTTJ>T<VAT>0VTzi>*V1A{?H=(*y(T=BlT(({Tl<FT=>-TFiTTl4(lTR-g<j{zi^<*z}i=<1AT><VTzlsTV#*TiuiT*}3*= **(DV<lv^T=<-TF<TT-<<T{QiTF.z=ij<}z/-<Wjz*>:VTz=&TV<*TUi=T*H(TWC*T(b=*lS(*{x-{F,{T-<<TTTiTD{zTi<WTTiiRWpz*>mW<A,GTVYzTE<=T*<(T=<lT><{T*i-<{9lAFUVl-X<TTI-=<=zTi(WT{W>TWHATii<lAm>TVOTlsB=T*t(TVWlT(<{T*rFT{i-T(I=i-/FfThiF<)T*iM(TTz>TWTAT>=VTVAUTWizlQMV**wrW=PlT(SVTWUFT{<-TF<TTzA<T=k=T<oT*iI<*zBi{WtzT*zVTATmT(A*Tq<=TAiF,=b**(q=WlaFT{q*T(lTT-<<TT<iTN-zTlf<Azai*W:z*>kW-A;>TVA*TuT=TT-(T=<lTE%==l6(>{gA(Fr{a-ZF={*iT<<zTA{WTzv>TFeTi>MW*Af>*V,{T,2V=i1(T=FlT(l{TlsFT=i-WFt{z-1(FTJiT<UzTi-WTz<>TW(AT>iVTzB>{V3A>Kv(l*r.*=BlT1*{Tl<FT{t-TF7TT*^FlT_-*<tT*if>Vzr-T<TAT><VTA<XTWW*T>e-T*.sl=sz((Y=*l3FT=A-TF<TT-><TT;iT(eTWi7<*zti*Wv=->8VTzWCTV(*T:-=T*w(TVilW(,=TlGF<{b-TFE=T*l<{{biTFyzTADWTTii>W9z{>oH*ADtTV4A=:<=TAi(TVAlT(b{TlBF({Kl{F%T=-h<=Te-=FTzT-iWTTl>TWkAT-DW=Ap>=V1A=Z4Wv*g>T=AlT;i{T*iFT=--T(iiY-JFVTj-W<uzTi.FT(&>T<-ATi-VT=iuT<_<T%NVV*ERV=^*>(7{Ti-FT=C-T(-TT-i<TT/-=<%T{i}WTzy>{WDz=iAVTzimT<=*T^k=Tzv(W=?*=(_==lkiT{xl=(zTTl-<TTliT<vzT-i<Vz^iWWaAW>?VTAd>=V<*T>*=T*l(T=qlT(BWAl>(F{1-TFsTT-:<TT=iTFizT-AWTzi>T<8=(>7W{AtiTV:A=M5=TTl({=<lT+>{TliFTVSl{FQ{*-IF*TU*><qzT-{WTz<>TWiAT>>VTzi>*V&A*qtWA*G(T=YAT(<{Tl<FT{<-TF<TTli<FTX-A<fW*i)WTzn>TW>AT>(VTAi3TVO*Ti&F**d2z=a*z(ZFwlGFT=--TFFTT-(<TTsiT<XTliE<*z)>TW?A{>7VTzAmTV<*TR>=T*2(TWt*F(L=*l8(*{cz-FBTT-{<TT(iT<-zTi&WTTiiiWpzT>:V<AyPTVZzTil={AH(TV2lT-S{T*iQ*{Rl{F5<*-U<TTd-=FTzT-iWTTA>TWKAT>BW(AX>{V9*=R+==*e+==-lTDi{T*lFT{;-Ts6{=-rF=T0-=<D{9ikFTT->T<iATiiVTz-fTWi(H% VV*55W=qlT(7VTWmFT=--T(-TTzi<T=1=T<fTVi1<Vz0i>WsAT(-VTzCPTW-*T7i=T*_hi=E*{(m{TlKF{{Ll=({TTli<T==iT<IzTl1W=zKi=W;z=>/(TAE>=V<*T>-=T*l(T=RlTJi{Wls(W{Iz*FtTT-eF=TziTF*zTilWTzb>TWZ*<>sWFAUGTVI*T13=T*F(TVilT^A{TliFT=%-VF^{{-G(TTJ-=<GzTiiWTz<>T<>AT>iVTTY>5V8A*sHV**+i>=BlT3j{Tl<FT{i-TF>TTliF(T:-*<mT*i6WTzji=<=AT>FVTVJ,TVx*T;QW^*rk*=)l=(N{{ldGT={-TF<TT-i<T=TiT<,<<in<*zI>=W?A{>XVTAVy{V,*Ts>=T*t(T=>lT(;{T**FT{b-TF-{--R<TT0A<->FVT{-A<zAV-lF>zW><A-}WVa*Tba(VV{zic*lV(l{TlxFTF>=<l>FW--F-T4iT<OV(T*-WV-Toi{<lzli=W*zAV-*Vc7=T*cAA/*V((>{TlgFT{&-TFbTT-s<VT*iT<GzTz*fW<{T*(iAV>AVTAMXT(-W=A*Z{Wl*<=-lW(a{Tle-T(W{{*{TV-(<TTpiT>*<{{--><Fz(Ll<>Ti><W-zW>{WzAF={*N(T=YlT(B{T-6iz{-l>FGTT-YiAF({W-{<F{{)(W*A>W-z>>;VTAO*WizV<A*>A{{AAvAVz(-{{lNFT{}{>F-{l-m<TTdzA-(FWT{iFF{Ali>F>z(i<<ljVV-*T6Z=T{(A<>llV(l{Tl2FT<*=A**(*--<FTniT<aWzTAiFF-z<-lA{l-FV{--VF-TV<-Fz*-%_=7lT(.FT=(*V({=Wl{(z{F<{T&iT<fzTi6WT{T*TF<AT>NVTziiVV>*Tht=F*0(T=olT(={Tl8FT{+-TFGTT-I(*T+iT<wz{iMWTzP-TW(AT>YVTA_NTVW*TivWS*m(T=elT( =zlmKT{V-TF0TT-f<TTliT<B{-i)WTzN>=W&A=>cVWz?oTVh*Ti==T*>(T=v*<(>{<l9F={D-TFs=TVV<TT*iT<*zTiTWTzc(*WEA(>?VWAGZTVNA={T=T*T(T=<lT(p{TAYAT{kl/F&{,-9<<TZ-=W<zTi{WTT->TWoATiiW<Ax>iVqA{7k=T*Z>T=llT(={Tl=FT{>-TtS{Y-uFiT5-i<^zVi9<=T>>TWVATi>VTA2#T<nz>waV-*yx-=0*i(eVT*VFT{V-TFVTTlD<TTYjV<CTfiE<-z3>=W/AT>VVTA{1TV?*TX>=TAiCl=U*i(&{(lwFT{h*T(<TT-=<TT=iT<*zT-i</z;i-WqAF>BVTA;>=Vl*TOW=T*A(T=PlT)i=-lK(*{ul-FLTT-+(TT*iT<FzTilWTzi>TFXA=>mWAAC>AVNAAS5WT*=(T=FlT(F{T*iFTVClWFH{A-^FATI-<<dzTiFWTz(>TWCAT>JVTAG>VVtAAk7VA*vEz=4lT(*{TlFFT{F-TFjTT-&FlTY-i<oTAiuW=zkiT<=AT>{VTzltTV=*T7,VT*v(<=8*>(7{=l_yT>V-TF*TT-*<TT{iT<w<<iIW<z5>=W:A{>3VTz*m{V**T9Y=T*R(TWhF*(J{<lbF<{7l-FfTTV><TT*iT<dzTihWTzA<<W_AT>eWBAUU{V&*=,Q=W*((T=RlT(T{Tl>FT{xl-F>TT-/<{TKiT<SzTixWTzv>TWoA=>+");local l=0;b.qvQLLGRe(function()b.lgSjqrFT()l=l+1 end)local function e(n,e)if e then return l end;l=n+l;end local n,l,o=h(0,h,e,r,b.kDsgnswT);local function t()local n,l=b.kDsgnswT(r,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local u=true;local u=0 local function p()local e=l();local l=l();local d=1;local z=(n(l,1,20)*(2^32))+e;local e=n(l,21,31);local l=((-1)^n(l,32));if(e==0)then if(z==u)then return l*0;else e=1;d=0;end;elseif(e==2047)then return(z==0)and(l*(1/0))or(l*(0/0));end;return b.fgKbiuiT(l,e-1023)*(d+(z/(2^52)));end;local c=l;local function _(l)local n;if(not l)then l=c();if(l==0)then return'';end;end;n=b.EBDjRCVK(r,e(1,3),e(5,6)+l-1);e(l)local e=""for l=(1+u),#n do e=e..b.EBDjRCVK(n,l,l)end return e;end;local j=#b.fucrPxYs(a('\49.\48'))~=1 local e=l;local function ne(...)return{...},b.bSH_KPMJ('#',...)end local function de()local e={};local c={};local a={};local u={a,c,nil,e};local e=l()local r={}for z=1,e do local n=o();local l;if(n==2)then l=(o()~=#{});elseif(n==1)then local e=p();if j and b.DGHbfwYq(b.fucrPxYs(e),'.(\48+)$')then e=b.nMsT_sBp(e);end l=e;elseif(n==3)then l=_();end;r[z]=l;end;for b=1,l()do local e=o();if(n(e,1,1)==0)then local h=n(e,2,3);local s=n(e,4,6);local e={t(),t(),nil,nil};if(h==0)then e[d]=t();e[f]=t();elseif(h==#{1})then e[d]=l();elseif(h==k[2])then e[d]=l()-(2^16)elseif(h==k[3])then e[d]=l()-(2^16)e[f]=t();end;if(n(s,1,1)==1)then e[z]=r[e[z]]end if(n(s,2,2)==1)then e[d]=r[e[d]]end if(n(s,3,3)==1)then e[f]=r[e[f]]end a[b]=e;end end;for e=1,l()do c[e-(#{1})]=de();end;u[3]=o();return u;end;local function ze(n,e,l)local z=e;local z=l;return a(b.DGHbfwYq(b.DGHbfwYq(({b.qvQLLGRe(n)})[2],e),l))end local function c(j,o,r)local function ze(...)local t,_,p,ee,k,l,a,le,y,g,u,n;local e=0;while-1<e do if e<=2 then if 1<=e then if-3<e then repeat if e~=2 then p=h(6,38,3,19,j);k=ne ee=0;break;end;l=-41;a=-1;until true;else p=h(6,38,3,19,j);k=ne ee=0;end else t=h(6,39,1,63,j);_=h(6,48,2,47,j);end else if 4>=e then if e==4 then g=b.bSH_KPMJ('#',...)-1;u={};else le={};y={...};end else if e>=1 then for l=26,95 do if e>5 then e=-2;break;end;n=h(7);break;end;else n=h(7);end end end e=e+1;end;for e=0,g do if(e>=p)then le[e-p]=y[e+1];else n[e]=y[e+1];end;end;local e=g-p+1 local e;local h;local function p(...)while true do end end while true do if l<-40 then l=l+42 end e=t[l];h=e[m];if h<=154 then if h<=76 then if 37<h then if h<=56 then if 46<h then if h<=51 then if h>=49 then if h>=50 then if 46<h then for l=14,71 do if 51>h then n[e[z]]=n[e[d]]*e[f];break;end;do return n[e[z]]end break;end;else n[e[z]]=n[e[d]]*e[f];end else local s;for h=0,6 do if 3>h then if 0>=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else if h~=2 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end end else if h>=5 then if h<6 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n(e[z],e[d]);end else if h~=4 then s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end end else if 46<=h then for o=37,95 do if 48>h then local s;for h=0,6 do if 2>=h then if 0<h then if-3<h then repeat if 2>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>4 then if 2~=h then for r=36,58 do if 6~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);break;end;else n(e[z],e[d]);end else if h>0 then for f=15,88 do if h~=4 then s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];end end end end break;end;local o;for h=0,6 do if 3>h then if h<=0 then n[e[z]]=r[e[d]];l=l+1;e=t[l];else if h~=-3 then repeat if 2>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 5<=h then if h>=4 then repeat if h~=6 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];until true;else n[e[z]]=r[e[d]];end else if 2<h then repeat if 3~=h then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end end break;end;else local s;for h=0,6 do if 2>=h then if 0<h then if-3<h then repeat if 2>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>4 then if 2~=h then for r=36,58 do if 6~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);break;end;else n(e[z],e[d]);end else if h>0 then for f=15,88 do if h~=4 then s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];end end end end end end else if h<54 then if 50<=h then for o=24,59 do if h>52 then local h;for o=0,6 do if o>=3 then if o<5 then if-1<=o then for h=17,96 do if o>3 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if o~=4 then repeat if o<6 then n(e[z],e[d]);l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))until true;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))end end else if 1<=o then if-1~=o then repeat if o>1 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end break;end;n[e[z]]=n[e[d]];break;end;else n[e[z]]=n[e[d]];end else if 55<=h then if 52~=h then repeat if 55~=h then local o;for h=0,6 do if 3<=h then if h<=4 then if-1<h then for s=23,89 do if 4~=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 6>h then n(e[z],e[d]);l=l+1;e=t[l];else n(e[z],e[d]);end end else if h>0 then if 2==h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end break;end;local s;for h=0,4 do if h<=1 then if h>=-3 then repeat if h~=0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 2>=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else if 3~=h then s=e[z]n[s]=n[s](n[s+1])else n[e[z]]=n[e[d]];l=l+1;e=t[l];end end end end until true;else local o;for h=0,6 do if 3<=h then if h<=4 then if-1<h then for s=23,89 do if 4~=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 6>h then n(e[z],e[d]);l=l+1;e=t[l];else n(e[z],e[d]);end end else if h>0 then if 2==h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end else for h=0,6 do if h>=3 then if h>=5 then if h>=4 then for f=40,95 do if 5~=h then n(e[z],e[d]);break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);end else if 2<h then for r=23,52 do if h>3 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 1>h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else if-2~=h then repeat if 2>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end end end end else if h>41 then if h<44 then if h<43 then local r;for h=0,4 do if h<=1 then if-2<=h then for r=11,69 do if 0<h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h>=3 then if 2<h then repeat if 4~=h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];until true;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else r=e[z]n[r]=n[r](n[r+1])l=l+1;e=t[l];end end end else o[e[d]]=n[e[z]];end else if h<45 then if not n[e[z]]then l=l+1;else l=e[d];end;else if 41<h then repeat if 45<h then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);until true;else local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);end end end else if 39<h then if 41==h then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];else local b,o,s,h,r,a,t;local l=0;while l>-1 do if 2>=l then if 0>=l then b=z;o=d;s=f;else if-2~=l then repeat if l<2 then h=e;break;end;r=h[o];until true;else h=e;end end else if l>4 then if 3<l then repeat if l>5 then l=-2;break;end;n[a]=t;until true;else l=-2;end else if l>2 then for e=17,68 do if 4~=l then a=h[b];break;end;t=n[r];for e=1+r,h[s]do t=t..n[e];end;break;end;else t=n[r];for e=1+r,h[s]do t=t..n[e];end;end end end l=l+1 end end else if h~=36 then repeat if 38<h then local r,o,b,k,a,h,u;for h=0,4 do if h>1 then if 3>h then n(e[z],e[d]);l=l+1;e=t[l];else if 4>h then u=e[z]n[u]=n[u](s(n,u+1,e[d]))l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];end end else if h>-1 then for s=48,89 do if 0<h then h=0;while h>-1 do if 3<=h then if 4>=h then if-1~=h then repeat if 4~=h then k=r[b];break;end;a=r[o];until true;else a=r[o];end else if h>=4 then for e=10,98 do if 5~=h then h=-2;break;end;n(a,k);break;end;else h=-2;end end else if h<=0 then r=e;else if-3~=h then repeat if 2>h then o=z;break;end;b=d;until true;else o=z;end end end h=h+1 end l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else h=0;while h>-1 do if 3<=h then if 4>=h then if-1~=h then repeat if 4~=h then k=r[b];break;end;a=r[o];until true;else a=r[o];end else if h>=4 then for e=10,98 do if 5~=h then h=-2;break;end;n(a,k);break;end;else h=-2;end end else if h<=0 then r=e;else if-3~=h then repeat if 2>h then o=z;break;end;b=d;until true;else o=z;end end end h=h+1 end l=l+1;e=t[l];end end end break;end;n[e[z]]=n[e[d]]/n[e[f]];until true;else n[e[z]]=n[e[d]]/n[e[f]];end end end end else if h>66 then if 72>h then if h>68 then if h<70 then local o;for h=0,6 do if h<=2 then if h<1 then n(e[z],e[d]);l=l+1;e=t[l];else if h>=-3 then for f=46,61 do if 1<h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end end else if 4<h then if 2<=h then repeat if h~=5 then n[e[z]]=r[e[d]];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if h<4 then n(e[z],e[d]);l=l+1;e=t[l];else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end end else if 68<h then for l=30,81 do if 71~=h then n[e[z]]();break;end;n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]]();end end else if h==67 then local a=_[e[d]];local s;local h={};s=b.SuiKvfEG({},{__index=function(l,e)local e=h[e];return e[1][e[2]];end,__newindex=function(n,e,l)local e=h[e]e[1][e[2]]=l;end;});for z=1,e[f]do l=l+1;local e=t[l];if e[m]==52 then h[z-1]={n,e[d]};else h[z-1]={o,e[d]};end;u[#u+1]=h;end;n[e[z]]=c(a,s,r);else for h=0,7 do if 3>=h then if h>=2 then if 3==h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=-n[e[d]];l=l+1;e=t[l];end else if h>=-2 then repeat if 0<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h<=5 then if h>1 then for r=12,64 do if 5>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 6~=h then n[e[z]]=n[e[d]]+e[f];else n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];end end end end end end else if h>=74 then if 74<h then if 74<=h then for r=30,53 do if h<76 then local s,r;for h=0,6 do if 3<=h then if 4<h then if 2~=h then repeat if h<6 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;s=e[d];r=n[s]for e=s+1,e[f]do r=r..n[e];end;n[e[z]]=r;until true;else s=e[d];r=n[s]for e=s+1,e[f]do r=r..n[e];end;n[e[z]]=r;end else if h>=-1 then for r=41,97 do if 4>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h<=0 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if h>-3 then for r=24,81 do if h>1 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end break;end;local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];break;end;else local s,r;for h=0,6 do if 3<=h then if 4<h then if 2~=h then repeat if h<6 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;s=e[d];r=n[s]for e=s+1,e[f]do r=r..n[e];end;n[e[z]]=r;until true;else s=e[d];r=n[s]for e=s+1,e[f]do r=r..n[e];end;n[e[z]]=r;end else if h>=-1 then for r=41,97 do if 4>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h<=0 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if h>-3 then for r=24,81 do if h>1 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end end else local o;for h=0,6 do if h>2 then if 5<=h then if h>=1 then repeat if h<6 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if-1<h then for r=24,78 do if h~=3 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end else if 1<=h then if-1<=h then for r=49,66 do if h<2 then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end else if 69<h then repeat if 72~=h then local h,r;o[e[d]]=n[e[z]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];o[e[d]]=n[e[z]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];o[e[d]]=n[e[z]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];break;end;local z=e[z]local d={n[z](s(n,z+1,a))};local l=0;for e=z,e[f]do l=l+1;n[e]=d[l];end until true;else local z=e[z]local d={n[z](s(n,z+1,a))};local l=0;for e=z,e[f]do l=l+1;n[e]=d[l];end end end end else if 62>h then if h>=59 then if h>=60 then if 57<h then repeat if h~=61 then local h,r;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];break;end;local b,j,g,u,c,p,m,y,_,le,ee,h;for h=0,6 do if 2<h then if 5>h then if h>0 then repeat if h>3 then b=e[z];c=n[e[d]];n[b+1]=c;n[b]=c[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if h~=6 then h=0;while h>-1 do if 4>h then if 2<=h then if-1<=h then for e=33,70 do if h~=2 then _=n;break;end;y=d;break;end;else _=n;end else if h==0 then p=e;else m=z;end end else if 5>=h then if 5==h then ee=p[m];else le=_[p[y]];end else if h>6 then h=-2;else n[ee]=le;end end end h=h+1 end l=l+1;e=t[l];else n[e[z]]=r[e[d]];end end else if 1>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 2==h then b=e[z]n[b](s(n,b+1,a))l=l+1;e=t[l];else b=e[z]j,g=k(n[b](n[b+1]))a=g+b-1 u=0;for e=b,a do u=u+1;n[e]=j[u];end;l=l+1;e=t[l];end end end end until true;else local h,r;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];end else local e=e[z]n[e]=n[e](s(n,e+1,a))end else if h>54 then for s=20,85 do if 58>h then if(n[e[z]]==e[f])then l=l+1;else l=e[d];end;break;end;for h=0,6 do if h<=2 then if 1>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 2==h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 5>h then if 4==h then n(e[z],e[d]);l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 5~=h then n(e[z],e[d]);else n(e[z],e[d]);l=l+1;e=t[l];end end end end break;end;else for h=0,6 do if h<=2 then if 1>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 2==h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 5>h then if 4==h then n(e[z],e[d]);l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 5~=h then n(e[z],e[d]);else n(e[z],e[d]);l=l+1;e=t[l];end end end end end end else if h<64 then if 59~=h then repeat if 63>h then local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))until true;else local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else if h>64 then if 66~=h then for h=0,9 do if 5>h then if 1<h then if 3<=h then if h>0 then repeat if h<4 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if-4~=h then for r=49,67 do if 0~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 7>h then if 6>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if 8<=h then if 7<h then for r=17,53 do if h~=8 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end else local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])end else local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]];l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]];end end end end end else if 18<h then if 27<h then if h>32 then if h>34 then if 35<h then if 32~=h then repeat if 36~=h then for h=0,5 do if h<3 then if 1>h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else if h>1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 4>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if 4==h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];end end end end break;end;n[e[z]]=(e[d]~=0);until true;else n[e[z]]=(e[d]~=0);end else if(n[e[z]]~=e[f])then l=l+1;else l=e[d];end;end else if h>=30 then for a=18,56 do if h~=33 then for h=0,6 do if h>=3 then if h>4 then if h~=2 then for r=41,85 do if 6>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h~=0 then repeat if h~=3 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end else if h>=1 then if 0<=h then repeat if 2>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end break;end;local o;for h=0,6 do if h<=2 then if 0>=h then n(e[z],e[d]);l=l+1;e=t[l];else if h~=2 then n(e[z],e[d]);l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end end else if 5<=h then if h>5 then n[e[z]]=n[e[d]][e[f]];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>2 then repeat if h~=4 then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end break;end;else for h=0,6 do if h>=3 then if h>4 then if h~=2 then for r=41,85 do if 6>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h~=0 then repeat if h~=3 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end else if h>=1 then if 0<=h then repeat if 2>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end end else if 29>=h then if 29>h then local r;for h=0,9 do if h<5 then if 2<=h then if h<3 then n(e[z],e[d]);l=l+1;e=t[l];else if 0<=h then repeat if h<4 then n(e[z],e[d]);l=l+1;e=t[l];break;end;r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];until true;else r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end else if h>-4 then repeat if h>0 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end end else if 7<=h then if 8<=h then if h>=6 then repeat if h>8 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];end else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 3<=h then repeat if h~=6 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end else for h=0,6 do if h<3 then if h<=0 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 2~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end else if h>4 then if h>5 then n[e[z]]=n[e[d]][e[f]];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if-1<h then for r=42,53 do if h~=4 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end end else if 31<=h then if 28<h then repeat if 31~=h then n[e[z]]=o[e[d]];break;end;local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);until true;else n[e[z]]=o[e[d]];end else n[e[z]]=n[e[d]]-n[e[f]];end end end else if 23<=h then if h<=24 then if 22<h then repeat if h~=23 then local h,b,k,a;for s=0,4 do if 1>=s then if-2~=s then for f=38,59 do if 0<s then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 3>s then h=e[z];b=n[e[d]];n[h+1]=b;n[h]=b[e[f]];l=l+1;e=t[l];else if 3==s then h=e[z]k={n[h](n[h+1])};a=0;for e=h,e[f]do a=a+1;n[e]=k[a];end l=l+1;e=t[l];else l=e[d];end end end end break;end;local o,b,k,c,u,h,a;for h=0,9 do if h<=4 then if 2>h then if h==0 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>2 then if 3<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 6<h then if 8<=h then if 9>h then h=0;while h>-1 do if h<=2 then if h<=0 then o=e;else if h>=-2 then repeat if 1~=h then k=d;break;end;b=z;until true;else k=d;end end else if h>=5 then if 1~=h then repeat if h>5 then h=-2;break;end;n(u,c);until true;else h=-2;end else if 1<h then for e=26,80 do if 3~=h then u=o[b];break;end;c=o[k];break;end;else u=o[b];end end end h=h+1 end l=l+1;e=t[l];else a=e[z]n[a]=n[a](s(n,a+1,e[d]))end else n(e[z],e[d]);l=l+1;e=t[l];end else if 2<h then repeat if 5~=h then n[e[z]]=n[e[d]]+e[f];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end until true;else local h,b,k,a;for s=0,4 do if 1>=s then if-2~=s then for f=38,59 do if 0<s then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 3>s then h=e[z];b=n[e[d]];n[h+1]=b;n[h]=b[e[f]];l=l+1;e=t[l];else if 3==s then h=e[z]k={n[h](n[h+1])};a=0;for e=h,e[f]do a=a+1;n[e]=k[a];end l=l+1;e=t[l];else l=e[d];end end end end end else if h<26 then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];else if 22<h then repeat if 26~=h then for h=0,6 do if 3>h then if h<=0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if-3<h then repeat if h<2 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if 4<h then if 2<=h then for r=12,78 do if 5~=h then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if h>-1 then repeat if h>3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end break;end;local l=e[z]local d={n[l](n[l+1])};local z=0;for e=l,e[f]do z=z+1;n[e]=d[z];end until true;else local l=e[z]local d={n[l](n[l+1])};local z=0;for e=l,e[f]do z=z+1;n[e]=d[z];end end end end else if h>=21 then if 17~=h then for o=44,61 do if h<22 then r[e[d]]=n[e[z]];break;end;local h;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))break;end;else r[e[d]]=n[e[z]];end else if h>18 then for o=48,55 do if 19~=h then local e=e[z];local l=n[e];for e=e+1,a do b.JadeQlgH(l,n[e])end;break;end;local h,b,u,c,o;h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];b=n[e[d]];n[h+1]=b;n[h]=b[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]u,c=k(n[h](n[h+1]))a=c+h-1 o=0;for e=h,a do o=o+1;n[e]=u[o];end;l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,a))l=l+1;e=t[l];do return n[e[z]]end break;end;else local e=e[z];local l=n[e];for e=e+1,a do b.JadeQlgH(l,n[e])end;end end end end else if h>8 then if h>=14 then if 15<h then if h<17 then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];else if 17==h then if n[e[z]]then l=l+1;else l=e[d];end;else local e=e[z]n[e](n[e+1])end end else if h~=15 then local s;for h=0,6 do if 2>=h then if h<1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 2~=h then n(e[z],e[d]);l=l+1;e=t[l];else s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];end end else if h<5 then if h>=-1 then repeat if 4>h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else if 6~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];end end end end else l=e[d];end end else if 10>=h then if h~=5 then for o=11,72 do if 10~=h then local h,o;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];break;end;local l=e[z]n[l]=n[l](s(n,l+1,e[d]))break;end;else local l=e[z]n[l]=n[l](s(n,l+1,e[d]))end else if 12<=h then if h>8 then for a=40,68 do if h<13 then local h,a;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=(not n[e[d]]);l=l+1;e=t[l];r[e[d]]=n[e[z]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];do return end;break;end;local o,b,s,a,k,h;for h=0,6 do if 2<h then if 4<h then if h>5 then h=0;while h>-1 do if h>=3 then if 5<=h then if h>=4 then for e=15,90 do if h~=5 then h=-2;break;end;n(k,a);break;end;else h=-2;end else if 2~=h then repeat if h~=3 then k=o[b];break;end;a=o[s];until true;else a=o[s];end end else if h>=1 then if-1~=h then repeat if 1<h then s=d;break;end;b=z;until true;else s=d;end else o=e;end end h=h+1 end else n(e[z],e[d]);l=l+1;e=t[l];end else if h>=0 then for s=28,88 do if 4~=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 1>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if h>1 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end break;end;else local h,a;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=(not n[e[d]]);l=l+1;e=t[l];r[e[d]]=n[e[z]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];do return end;end else local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end end end else if h>=4 then if 6<=h then if h>6 then if h>6 then repeat if 7~=h then local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);break;end;for h=0,6 do if h<3 then if 0>=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];else if h~=-3 then for r=26,98 do if 2~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 5>h then if h>2 then repeat if h>3 then n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h==5 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];end end end end until true;else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);end else local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);end else if 0<=h then repeat if h>4 then local h;for r=0,9 do if 5<=r then if 6>=r then if r>3 then for h=18,78 do if 6~=r then n[e[z]]=n[e[d]]*n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=-n[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]]*n[e[f]];l=l+1;e=t[l];end else if 8>r then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];else if 6~=r then for o=43,96 do if r~=8 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))end end end else if 2>r then if r~=-3 then for h=10,74 do if r<1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if r>=3 then if r>3 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]]+e[f];l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end break;end;local o,k,u,b,a,h,c;for h=0,6 do if 2>=h then if h<=0 then n(e[z],e[d]);l=l+1;e=t[l];else if-3<h then for f=33,67 do if h>1 then c=e[z]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];break;end;h=0;while h>-1 do if h>=3 then if h>=5 then if h>4 then repeat if 5~=h then h=-2;break;end;n(a,b);until true;else n(a,b);end else if 1<h then repeat if 4>h then b=o[u];break;end;a=o[k];until true;else a=o[k];end end else if h<1 then o=e;else if h~=2 then k=z;else u=d;end end end h=h+1 end l=l+1;e=t[l];break;end;else h=0;while h>-1 do if h>=3 then if h>=5 then if h>4 then repeat if 5~=h then h=-2;break;end;n(a,b);until true;else n(a,b);end else if 1<h then repeat if 4>h then b=o[u];break;end;a=o[k];until true;else a=o[k];end end else if h<1 then o=e;else if h~=2 then k=z;else u=d;end end end h=h+1 end l=l+1;e=t[l];end end else if h>4 then if h~=1 then for s=15,82 do if h~=6 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];break;end;else n[e[z]]=r[e[d]];end else if 0<=h then repeat if 4~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end until true;else local o,k,c,b,a,h,u;for h=0,6 do if 2>=h then if h<=0 then n(e[z],e[d]);l=l+1;e=t[l];else if-3<h then for f=33,67 do if h>1 then u=e[z]n[u]=n[u](s(n,u+1,e[d]))l=l+1;e=t[l];break;end;h=0;while h>-1 do if h>=3 then if h>=5 then if h>4 then repeat if 5~=h then h=-2;break;end;n(a,b);until true;else n(a,b);end else if 1<h then repeat if 4>h then b=o[c];break;end;a=o[k];until true;else a=o[k];end end else if h<1 then o=e;else if h~=2 then k=z;else c=d;end end end h=h+1 end l=l+1;e=t[l];break;end;else h=0;while h>-1 do if h>=3 then if h>=5 then if h>4 then repeat if 5~=h then h=-2;break;end;n(a,b);until true;else n(a,b);end else if 1<h then repeat if 4>h then b=o[c];break;end;a=o[k];until true;else a=o[k];end end else if h<1 then o=e;else if h~=2 then k=z;else c=d;end end end h=h+1 end l=l+1;e=t[l];end end else if h>4 then if h~=1 then for s=15,82 do if h~=6 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];break;end;else n[e[z]]=r[e[d]];end else if 0<=h then repeat if 4~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end end end else if 1>=h then if h>-2 then repeat if h~=0 then local h,o;for r=0,4 do if r>=2 then if 3>r then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else if r>2 then for s=17,81 do if 4>r then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if r>-2 then for o=26,66 do if r~=0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end break;end;n[e[z]]=n[e[d]]+e[f];until true;else local h,o;for r=0,4 do if r>=2 then if 3>r then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else if r>2 then for s=17,81 do if 4>r then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if r>-2 then for o=26,66 do if r~=0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end else if h<3 then n[e[z]]=(not n[e[d]]);else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];end end end end end end else if 116<=h then if 134>=h then if h<=124 then if 120>h then if 118>h then if h>=113 then for a=23,71 do if h~=117 then local h,r;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];break;end;local o;for h=0,6 do if 3>h then if 0>=h then n(e[z],e[d]);l=l+1;e=t[l];else if h>-2 then repeat if h<2 then n(e[z],e[d]);l=l+1;e=t[l];break;end;o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end end else if 5>h then if h~=3 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if h>3 then repeat if 5<h then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];end end end end break;end;else local h,r;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];end else if h>=116 then repeat if 119~=h then local e=e[z]n[e]=n[e](n[e+1])break;end;local r;for h=0,6 do if 3>h then if 0>=h then r=e[z]n[r]=n[r](n[r+1])l=l+1;e=t[l];else if h~=1 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end else if 4>=h then if 1~=h then for r=12,88 do if h<4 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 6>h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];end end end end until true;else local r;for h=0,6 do if 3>h then if 0>=h then r=e[z]n[r]=n[r](n[r+1])l=l+1;e=t[l];else if h~=1 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end else if 4>=h then if 1~=h then for r=12,88 do if h<4 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 6>h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];end end end end end end else if 122>h then if 120==h then n[e[z]]=n[e[d]]*n[e[f]];else local e=e[z]n[e]=n[e](n[e+1])end else if 123>h then local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];else if h~=121 then repeat if 124~=h then if not n[e[z]]then l=l+1;else l=e[d];end;break;end;local s,r;for h=0,8 do if h<=3 then if h>=2 then if h<3 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if-3~=h then repeat if 1~=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end else if 5<h then if h<=6 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else if 3<=h then repeat if 7~=h then s=e[d];r=n[s]for e=s+1,e[f]do r=r..n[e];end;n[e[z]]=r;break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else s=e[d];r=n[s]for e=s+1,e[f]do r=r..n[e];end;n[e[z]]=r;end end else if h>1 then for r=26,90 do if h>4 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end until true;else if not n[e[z]]then l=l+1;else l=e[d];end;end end end end else if 129>=h then if h>=127 then if 128<=h then if h>127 then for l=36,85 do if 128<h then o[e[d]]=n[e[z]];break;end;n[e[z]]=n[e[d]][e[f]];break;end;else o[e[d]]=n[e[z]];end else local h;for s=0,4 do if 2<=s then if 3>s then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if s~=1 then repeat if 4~=s then n(e[z],e[d]);l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](n[h+1])until true;else n(e[z],e[d]);l=l+1;e=t[l];end end else if s~=1 then h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end else if 126~=h then local s,a;for h=0,6 do if 3>h then if h<=0 then s=e[z];a=n[e[d]];n[s+1]=a;n[s]=a[e[f]];l=l+1;e=t[l];else if h>-1 then for f=25,58 do if 2~=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if h>=5 then if 5~=h then s=e[z]n[s]=n[s](n[s+1])else n(e[z],e[d]);l=l+1;e=t[l];end else if 1<h then repeat if h>3 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end else local h;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];do return end;end end else if h>131 then if h<=132 then local h;for r=0,6 do if r>2 then if 4>=r then if 2<r then repeat if 3<r then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if 6>r then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]][e[d]]=e[f];end end else if r>=1 then if 2==r then n(e[z],e[d]);l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end else if 133~=h then local r,h;n(e[z],e[d]);l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];r=e[d];h=n[r]for e=r+1,e[f]do h=h..n[e];end;n[e[z]]=h;l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];do return n[e[z]]end l=l+1;e=t[l];do return end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);end end else if h~=127 then for b=21,60 do if 131>h then local h,c,p,_,b,u;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];c=n[e[d]];n[h+1]=c;n[h]=c[e[f]];l=l+1;e=t[l];h=e[z]u,_=k(n[h](n[h+1]))a=_+h-1 b=0;for e=h,a do b=b+1;n[e]=u[b];end;l=l+1;e=t[l];h=e[z]u={n[h](s(n,h+1,a))};b=0;for e=h,e[f]do b=b+1;n[e]=u[b];end l=l+1;e=t[l];l=e[d];break;end;local o;for h=0,9 do if 5>h then if h>=2 then if h>2 then if 4~=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 1==h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if 6>=h then if 3~=h then repeat if 5<h then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 8<=h then if h~=5 then for r=47,53 do if 9>h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;o=e[z]n[o]=n[o](s(n,o+1,e[d]))break;end;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else n[e[z]]={};l=l+1;e=t[l];end end end end break;end;else local h,c,p,_,b,u;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];c=n[e[d]];n[h+1]=c;n[h]=c[e[f]];l=l+1;e=t[l];h=e[z]u,_=k(n[h](n[h+1]))a=_+h-1 b=0;for e=h,a do b=b+1;n[e]=u[b];end;l=l+1;e=t[l];h=e[z]u={n[h](s(n,h+1,a))};b=0;for e=h,e[f]do b=b+1;n[e]=u[b];end l=l+1;e=t[l];l=e[d];end end end end else if 144<h then if h<=149 then if h<147 then if 144<=h then for o=19,60 do if 146~=h then local e=e[z]local z,l=k(n[e](n[e+1]))a=l+e-1 local l=0;for e=e,a do l=l+1;n[e]=z[l];end;break;end;local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;else local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else if 147>=h then local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);else if h>=144 then repeat if 148<h then n[e[z]]();break;end;n[e[z]]={};until true;else n[e[z]]();end end end else if h>151 then if 152<h then if h>150 then repeat if 154~=h then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];break;end;local o;for h=0,6 do if h<3 then if h<=0 then n(e[z],e[d]);l=l+1;e=t[l];else if 0~=h then repeat if h~=2 then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if h>4 then if 4<h then for f=46,95 do if 6>h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);break;end;else n(e[z],e[d]);end else if h>=0 then repeat if 4~=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end until true;else local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];end else n[e[z]]=r[e[d]];end else if 149<h then for o=44,98 do if h~=151 then local r,a,b,u,k,h,o;for h=0,4 do if 2>h then if h>-3 then for f=40,60 do if 0~=h then n(e[z],e[d]);l=l+1;e=t[l];break;end;h=0;while h>-1 do if 2>=h then if 1<=h then if h~=-3 then repeat if 2~=h then a=z;break;end;b=d;until true;else b=d;end else r=e;end else if 4<h then if 6~=h then n(k,u);else h=-2;end else if h>1 then repeat if h>3 then k=r[a];break;end;u=r[b];until true;else k=r[a];end end end h=h+1 end l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if 2<h then if h~=0 then repeat if h~=3 then n[e[z]][e[d]]=n[e[f]];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end break;end;local h;for s=0,9 do if s<5 then if s<2 then if-1<=s then repeat if 1>s then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if 3<=s then if s==4 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else n[e[z]]=n[e[d]]/n[e[f]];l=l+1;e=t[l];end end else if 7<=s then if s>7 then if s>=4 then for r=17,89 do if 9~=s then n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](n[h+1])break;end;else h=e[z]n[h]=n[h](n[h+1])end else n[e[z]]=n[e[d]]*e[f];l=l+1;e=t[l];end else if 2<=s then for f=33,64 do if 5~=s then h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]];l=l+1;e=t[l];end end end end break;end;else local s;for h=0,9 do if h<5 then if h<2 then if-1<=h then repeat if 1>h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if 3<=h then if h==4 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else n[e[z]]=n[e[d]]/n[e[f]];l=l+1;e=t[l];end end else if 7<=h then if h>7 then if h>=4 then for r=17,89 do if 9~=h then n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];break;end;s=e[z]n[s]=n[s](n[s+1])break;end;else s=e[z]n[s]=n[s](n[s+1])end else n[e[z]]=n[e[d]]*e[f];l=l+1;e=t[l];end else if 2<=h then for f=33,64 do if 5~=h then s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]];l=l+1;e=t[l];end end end end end end end else if h>=140 then if h<=141 then if 137~=h then repeat if 141>h then local h,o;h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))break;end;local e=e[z]n[e](s(n,e+1,a))until true;else local e=e[z]n[e](s(n,e+1,a))end else if 143>h then local h,r;n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];do return end;else if h~=139 then for b=38,79 do if 144>h then local h,c,p,_,b,u;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];c=n[e[d]];n[h+1]=c;n[h]=c[e[f]];l=l+1;e=t[l];h=e[z]u,_=k(n[h](n[h+1]))a=_+h-1 b=0;for e=h,a do b=b+1;n[e]=u[b];end;l=l+1;e=t[l];h=e[z]u={n[h](s(n,h+1,a))};b=0;for e=h,e[f]do b=b+1;n[e]=u[b];end l=l+1;e=t[l];l=e[d];break;end;local a,s;for h=0,4 do if h>1 then if 3>h then a=e[z];s=n[e[d]];n[a+1]=s;n[a]=s[e[f]];l=l+1;e=t[l];else if h>3 then n[e[z]]=r[e[d]];else n[e[z]]=n[e[d]];l=l+1;e=t[l];end end else if h==0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end end break;end;else local h,c,p,_,b,u;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];c=n[e[d]];n[h+1]=c;n[h]=c[e[f]];l=l+1;e=t[l];h=e[z]u,_=k(n[h](n[h+1]))a=_+h-1 b=0;for e=h,a do b=b+1;n[e]=u[b];end;l=l+1;e=t[l];h=e[z]u={n[h](s(n,h+1,a))};b=0;for e=h,e[f]do b=b+1;n[e]=u[b];end l=l+1;e=t[l];l=e[d];end end end else if 136>=h then if h>=134 then for s=45,63 do if h~=136 then n[e[z]]=(e[d]~=0);break;end;local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);break;end;else n[e[z]]=(e[d]~=0);end else if 138>h then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];else if 139==h then local l=e[z];local z=n[e[d]];n[l+1]=z;n[l]=z[e[f]];else local e=e[z]local z,l=k(n[e](n[e+1]))a=l+e-1 local l=0;for e=e,a do l=l+1;n[e]=z[l];end;end end end end end end else if h>=96 then if h<=105 then if h<=100 then if 97>=h then if 92~=h then repeat if h~=96 then local h,b;for a=0,9 do if 4<a then if a<=6 then if 2~=a then repeat if a~=5 then n[e[z]]=(e[d]~=0);l=l+1;e=t[l];break;end;h=e[z]n[h](n[h+1])l=l+1;e=t[l];until true;else h=e[z]n[h](n[h+1])l=l+1;e=t[l];end else if 8<=a then if 4~=a then repeat if a~=9 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];until true;else n[e[z]]=o[e[d]];end else r[e[d]]=n[e[z]];l=l+1;e=t[l];end end else if a<=1 then if a>-3 then repeat if a~=0 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end else if a<3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if a~=2 then repeat if 4>a then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;h=e[z];b=n[e[d]];n[h+1]=b;n[h]=b[e[f]];l=l+1;e=t[l];until true;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end end break;end;local h;for s=0,4 do if 2>s then if s==1 then n[e[z]]=r[e[d]];l=l+1;e=t[l];else h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];end else if s>=3 then if 2<=s then for f=11,78 do if s<4 then n(e[z],e[d]);l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](n[h+1])break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end until true;else local h,b;for a=0,9 do if 4<a then if a<=6 then if 2~=a then repeat if a~=5 then n[e[z]]=(e[d]~=0);l=l+1;e=t[l];break;end;h=e[z]n[h](n[h+1])l=l+1;e=t[l];until true;else h=e[z]n[h](n[h+1])l=l+1;e=t[l];end else if 8<=a then if 4~=a then repeat if a~=9 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];until true;else n[e[z]]=o[e[d]];end else r[e[d]]=n[e[z]];l=l+1;e=t[l];end end else if a<=1 then if a>-3 then repeat if a~=0 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end else if a<3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if a~=2 then repeat if 4>a then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;h=e[z];b=n[e[d]];n[h+1]=b;n[h]=b[e[f]];l=l+1;e=t[l];until true;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end end end else if h<99 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);else if h>=95 then repeat if h~=100 then local s;for h=0,6 do if 3>h then if h>0 then if h>=-2 then repeat if 1~=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];end else if 4<h then if 6~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n(e[z],e[d]);end else if 2<=h then for s=41,89 do if 4>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end break;end;local o,b,a,c,k,h,u;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if h>2 then if h>=5 then if 5==h then n(k,c);else h=-2;end else if 0<h then for e=47,82 do if h>3 then k=o[b];break;end;c=o[a];break;end;else k=o[b];end end else if 0>=h then o=e;else if h~=-2 then repeat if 1~=h then a=d;break;end;b=z;until true;else a=d;end end end h=h+1 end l=l+1;e=t[l];h=0;while h>-1 do if 3>h then if h>=1 then if-2<h then repeat if h>1 then a=d;break;end;b=z;until true;else a=d;end else o=e;end else if 4>=h then if 4==h then k=o[b];else c=o[a];end else if 6==h then h=-2;else n(k,c);end end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];u=e[z]n[u]=n[u](s(n,u+1,e[d]))until true;else local s;for h=0,6 do if 3>h then if h>0 then if h>=-2 then repeat if 1~=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];end else if 4<h then if 6~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n(e[z],e[d]);end else if 2<=h then for s=41,89 do if 4>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end end end end else if 102>=h then if 99<h then for r=29,97 do if h~=102 then local e=e[z]n[e](n[e+1])break;end;local r;for h=0,6 do if h>=3 then if h<=4 then if 2~=h then for f=40,80 do if h>3 then r=e[z]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]];l=l+1;e=t[l];break;end;else r=e[z]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else if h>3 then for f=17,68 do if 6~=h then n[e[z]]={};l=l+1;e=t[l];break;end;n(e[z],e[d]);break;end;else n(e[z],e[d]);end end else if h>0 then if-1<=h then repeat if h<2 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]];l=l+1;e=t[l];end else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end end break;end;else local e=e[z]n[e](n[e+1])end else if h<104 then for h=0,6 do if 3<=h then if h>4 then if h~=6 then n(e[z],e[d]);l=l+1;e=t[l];else n(e[z],e[d]);end else if h>3 then n(e[z],e[d]);l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h<=0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if 2>h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end else if 101<h then repeat if h~=104 then local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);break;end;local e=e[z]n[e]=n[e](s(n,e+1,a))until true;else local e=e[z]n[e]=n[e](s(n,e+1,a))end end end end else if h<=110 then if 108>h then if 106==h then local h,r;for o=0,4 do if 2>o then if o~=-4 then for a=29,83 do if o~=1 then h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];break;end;else h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];end else if 2>=o then n(e[z],e[d]);l=l+1;e=t[l];else if o>=-1 then for a=25,58 do if 3<o then h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end else local r;for h=0,4 do if 2>h then if h>=-1 then repeat if h~=1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 2<h then if h~=-1 then for o=14,67 do if h<4 then r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]][e[d]]=n[e[f]];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end else if h>108 then if 108<h then for o=20,68 do if 109<h then n[e[z]]=n[e[d]]+n[e[f]];break;end;local k,_,b,a,u,h,o,c;for h=0,8 do if 4>h then if 2<=h then if h>1 then for r=44,75 do if 3~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if h>-2 then for f=35,87 do if h~=0 then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;h=0;while h>-1 do if 2<h then if h>4 then if 2<=h then for e=22,90 do if 6~=h then n(u,a);break;end;h=-2;break;end;else n(u,a);end else if h>=1 then repeat if 4>h then a=k[b];break;end;u=k[_];until true;else a=k[b];end end else if 1<=h then if h>0 then repeat if h~=2 then _=z;break;end;b=d;until true;else b=d;end else k=e;end end h=h+1 end l=l+1;e=t[l];break;end;else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end else if 5<h then if 7<=h then if h>3 then repeat if h<8 then r[e[d]]=n[e[z]];l=l+1;e=t[l];break;end;l=e[d];until true;else l=e[d];end else n[e[z]]=(e[d]~=0);l=l+1;e=t[l];end else if 2<=h then repeat if 5~=h then o=e[z];c=n[e[d]];n[o+1]=c;n[o]=c[e[f]];l=l+1;e=t[l];break;end;o=e[z]n[o](n[o+1])l=l+1;e=t[l];until true;else o=e[z]n[o](n[o+1])l=l+1;e=t[l];end end end end break;end;else n[e[z]]=n[e[d]]+n[e[f]];end else local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];end end else if h>112 then if h<114 then local r,h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];r=e[d];h=n[r]for e=r+1,e[f]do h=h..n[e];end;n[e[z]]=h;l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];else if h>=112 then for r=42,67 do if h~=115 then local s,h,r,c,k,u,b,a,o;local t=0;while t>-1 do if 3<=t then if t<=4 then if 4>t then b=s[c];a=s[k];else o=b==a and h[u]or 1+r;end else if t~=6 then l=o;else t=-2;end end else if 1<=t then if-2<t then repeat if 2~=t then h=e;r=l;break;end;c=h[z];k=h[f];u=d;until true;else h=e;r=l;end else s=n;end end t=t+1 end break;end;local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];break;end;else local s,h,r,o,a,b,c,k,u;local t=0;while t>-1 do if 3<=t then if t<=4 then if 4>t then c=s[o];k=s[a];else u=c==k and h[b]or 1+r;end else if t~=6 then l=u;else t=-2;end end else if 1<=t then if-2<t then repeat if 2~=t then h=e;r=l;break;end;o=h[z];a=h[f];b=d;until true;else h=e;r=l;end else s=n;end end t=t+1 end end end else if 111==h then local h;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]-n[e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]*n[e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,e[d]))else local h;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))end end end end else if h<86 then if h<=80 then if h>=79 then if h>78 then repeat if 80>h then if(n[e[z]]==n[e[f]])then l=l+1;else l=e[d];end;break;end;for e=e[z],e[d]do n[e]=nil;end;until true;else for e=e[z],e[d]do n[e]=nil;end;end else if 78~=h then local s,u,a,b,k,h,o;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if 3>h then if 0>=h then s=e;else if 2==h then a=d;else u=z;end end else if h<5 then if h~=-1 then repeat if 3<h then k=s[u];break;end;b=s[a];until true;else b=s[a];end else if 6==h then h=-2;else n(k,b);end end end h=h+1 end l=l+1;e=t[l];o=e[z]n[o]=n[o](n[o+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);else local h;for s=0,8 do if 4>s then if 2>s then if-2~=s then for f=35,69 do if 1~=s then h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];end else if-2~=s then for h=15,72 do if 2<s then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end end else if 6<=s then if s<=6 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 7~=s then n[e[z]][e[d]]=e[f];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if s>1 then repeat if s<5 then h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];break;end;n[e[z]]={};l=l+1;e=t[l];until true;else n[e[z]]={};l=l+1;e=t[l];end end end end end end else if h>=83 then if h>=84 then if h~=85 then local h,r;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];if(n[e[z]]==e[f])then l=l+1;else l=e[d];end;else local b,u,k,a,c,h,o;for h=0,6 do if h>=3 then if h>=5 then if 2<=h then repeat if 5<h then n[e[z]]=r[e[d]];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else if 2<=h then repeat if h~=4 then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 1<=h then if h~=2 then h=0;while h>-1 do if h>2 then if h>4 then if 1<h then for e=43,53 do if 5~=h then h=-2;break;end;n(c,a);break;end;else n(c,a);end else if 2~=h then repeat if h<4 then a=b[k];break;end;c=b[u];until true;else a=b[k];end end else if 1>h then b=e;else if h~=-1 then repeat if 1<h then k=d;break;end;u=z;until true;else u=z;end end end h=h+1 end l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end else local h,r;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];do return end;end else if 79~=h then for o=28,56 do if 81~=h then n[e[z]]=c(_[e[d]],nil,r);break;end;local r,a,k,u,b,h,o;h=0;while h>-1 do if 2>=h then if 0>=h then r=e;else if 2>h then a=z;else k=d;end end else if h>=5 then if h>=2 then repeat if h~=5 then h=-2;break;end;n(b,u);until true;else h=-2;end else if-1<h then repeat if h>3 then b=r[a];break;end;u=r[k];until true;else b=r[a];end end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]]=c(_[e[d]],nil,r);end end end else if 90>=h then if h<88 then if h>=83 then repeat if h~=86 then local o;for h=0,9 do if 4<h then if 7>h then if 5<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>=8 then if h>6 then repeat if 9~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h<=1 then if-4<=h then for f=31,98 do if 1>h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if h>=3 then if h<4 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end end break;end;local r,o,h,p,j,c,h,h,a,y,k,u,_,b;for h=0,6 do if h>2 then if 4<h then if h>3 then for f=28,77 do if 5<h then n[e[z]]=n[e[d]];break;end;r=e[z]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]];end else if-1<h then for s=23,73 do if h<4 then r=e[z];o=n[e[d]];n[r+1]=o;n[r]=o[e[f]];l=l+1;e=t[l];break;end;h=0;while h>-1 do if h>=4 then if 5>=h then if h>=1 then for e=33,54 do if h~=5 then _=u[a[k]];break;end;b=a[y];break;end;else _=u[a[k]];end else if 7==h then h=-2;else n[b]=_;end end else if h<2 then if 1~=h then a=e;else y=z;end else if h~=-2 then for e=47,63 do if h~=3 then k=d;break;end;u=n;break;end;else k=d;end end end h=h+1 end l=l+1;e=t[l];break;end;else r=e[z];o=n[e[d]];n[r+1]=o;n[r]=o[e[f]];l=l+1;e=t[l];end end else if h>0 then if h~=1 then r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else h=0;while h>-1 do if 2>=h then if h<=0 then a=e;else if h==1 then p=z;else j=d;end end else if 5<=h then if 2<=h then repeat if h>5 then h=-2;break;end;n(b,c);until true;else n(b,c);end else if 0~=h then for e=22,75 do if 4>h then c=a[j];break;end;b=a[p];break;end;else b=a[p];end end end h=h+1 end l=l+1;e=t[l];end else r=e[z];o=n[e[d]];n[r+1]=o;n[r]=o[e[f]];l=l+1;e=t[l];end end end until true;else local o;for h=0,9 do if 4<h then if 7>h then if 5<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>=8 then if h>6 then repeat if 9~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h<=1 then if-4<=h then for f=31,98 do if 1>h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if h>=3 then if h<4 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end end end else if h>88 then if 89~=h then if(n[e[z]]==e[f])then l=l+1;else l=e[d];end;else local h,b,u,o;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]b,u=k(n[h](s(n,h+1,e[d])))a=u+h-1 o=0;for e=h,a do o=o+1;n[e]=b[o];end;l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,a))l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else do return end;end end else if h>=93 then if 94>h then local o,a,k,u,b,h,c;for h=0,6 do if 2<h then if 4>=h then if-1<=h then for s=45,75 do if h>3 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h~=1 then repeat if h>5 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h>0 then if-1~=h then repeat if 1<h then c=e[z]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];break;end;h=0;while h>-1 do if 2<h then if 4<h then if 1<=h then for e=28,83 do if h~=6 then n(b,u);break;end;h=-2;break;end;else h=-2;end else if-1<h then for e=36,75 do if h~=3 then b=o[a];break;end;u=o[k];break;end;else b=o[a];end end else if 1<=h then if-2<h then repeat if h~=2 then a=z;break;end;k=d;until true;else k=d;end else o=e;end end h=h+1 end l=l+1;e=t[l];until true;else h=0;while h>-1 do if 2<h then if 4<h then if 1<=h then for e=28,83 do if h~=6 then n(b,u);break;end;h=-2;break;end;else h=-2;end else if-1<h then for e=36,75 do if h~=3 then b=o[a];break;end;u=o[k];break;end;else b=o[a];end end else if 1<=h then if-2<h then repeat if h~=2 then a=z;break;end;k=d;until true;else k=d;end else o=e;end end h=h+1 end l=l+1;e=t[l];end else h=0;while h>-1 do if 3>h then if 1>h then o=e;else if 2~=h then a=z;else k=d;end end else if 4<h then if 6>h then n(b,u);else h=-2;end else if h~=1 then repeat if h~=4 then u=o[k];break;end;b=o[a];until true;else b=o[a];end end end h=h+1 end l=l+1;e=t[l];end end end else if h~=95 then local e=e[z]local z,l=k(n[e](s(n,e+1,a)))a=l+e-1 local l=0;for e=e,a do l=l+1;n[e]=z[l];end;else local l=e[z]n[l]=n[l](s(n,l+1,e[d]))end end else if 92~=h then local h,r;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];else n[e[z]][e[d]]=e[f];end end end end end end end else if 232<h then if 272<=h then if 291<=h then if 301<=h then if 306>h then if h>302 then if 303<h then if 302<h then for r=17,94 do if h>304 then local r,u,a,o,b,h,k;for h=0,6 do if 2>=h then if 0<h then if 2~=h then h=0;while h>-1 do if 2<h then if h<=4 then if-1<h then repeat if 4>h then o=r[a];break;end;b=r[u];until true;else o=r[a];end else if h>2 then for e=32,52 do if 5~=h then h=-2;break;end;n(b,o);break;end;else h=-2;end end else if h>=1 then if 0<=h then repeat if 2~=h then u=z;break;end;a=d;until true;else a=d;end else r=e;end end h=h+1 end l=l+1;e=t[l];else h=0;while h>-1 do if h<=2 then if 0>=h then r=e;else if-3<=h then for e=26,98 do if h<2 then u=z;break;end;a=d;break;end;else u=z;end end else if h>=5 then if h>=3 then for e=20,91 do if 5~=h then h=-2;break;end;n(b,o);break;end;else n(b,o);end else if 1~=h then repeat if 3<h then b=r[u];break;end;o=r[a];until true;else o=r[a];end end end h=h+1 end l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h>=5 then if h~=5 then n[e[z]][e[d]]=e[f];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if 2<=h then repeat if h~=4 then h=0;while h>-1 do if h>=3 then if 5<=h then if h~=4 then repeat if h<6 then n(b,o);break;end;h=-2;until true;else n(b,o);end else if 4>h then o=r[a];else b=r[u];end end else if 1>h then r=e;else if h~=1 then a=d;else u=z;end end end h=h+1 end l=l+1;e=t[l];break;end;k=e[z]n[k]=n[k](s(n,k+1,e[d]))l=l+1;e=t[l];until true;else k=e[z]n[k]=n[k](s(n,k+1,e[d]))l=l+1;e=t[l];end end end end break;end;local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];break;end;else local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];end else local o;for h=0,9 do if h<=4 then if 1<h then if 2<h then if h>-1 then repeat if h~=4 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if-1<h then repeat if h~=0 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if h>6 then if 8<=h then if h~=6 then repeat if h~=9 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>=4 then repeat if 5<h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end end else if h~=301 then n[e[z]]=-n[e[d]];else local t,s,h,f,r;local l=0;while l>-1 do if 2<l then if l<5 then if l~=2 then repeat if 4~=l then f=t[h];break;end;r=t[s];until true;else f=t[h];end else if l==5 then n(r,f);else l=-2;end end else if 1>l then t=e;else if l~=1 then h=d;else s=z;end end end l=l+1 end end end else if h>307 then if 308<h then if h~=307 then for l=16,75 do if 310~=h then n[e[z]]=n[e[d]]*e[f];break;end;local e=e[z]local z,l=k(n[e](s(n,e+1,a)))a=l+e-1 local l=0;for e=e,a do l=l+1;n[e]=z[l];end;break;end;else local e=e[z]local z,l=k(n[e](s(n,e+1,a)))a=l+e-1 local l=0;for e=e,a do l=l+1;n[e]=z[l];end;end else local h,b;for a=0,6 do if a>=3 then if 4>=a then if a==3 then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if a>4 then repeat if 6~=a then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if a>0 then if 0<=a then for r=39,72 do if a<2 then h=e[z];b=n[e[d]];n[h+1]=b;n[h]=b[e[f]];l=l+1;e=t[l];break;end;h=e[z]n[h](n[h+1])l=l+1;e=t[l];break;end;else h=e[z]n[h](n[h+1])l=l+1;e=t[l];end else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end else if 307>h then local b,h,r,c,u,o,a,k,s;local t=0;while t>-1 do if 2>=t then if t>=1 then if t>=-1 then repeat if 1<t then c=h[z];u=h[f];o=d;break;end;h=e;r=l;until true;else h=e;r=l;end else b=n;end else if t>4 then if 3<=t then repeat if t~=5 then t=-2;break;end;l=s;until true;else l=s;end else if t>=0 then repeat if t~=3 then s=a==k and h[o]or 1+r;break;end;a=b[c];k=b[u];until true;else s=a==k and h[o]or 1+r;end end end t=t+1 end else local o,u,b,k,r,h,a;for h=0,4 do if 2>h then if h>-4 then for f=17,87 do if h>0 then h=0;while h>-1 do if 2<h then if 5<=h then if h>=1 then repeat if 5~=h then h=-2;break;end;n(r,k);until true;else n(r,k);end else if-1<=h then repeat if h~=3 then r=o[u];break;end;k=o[b];until true;else r=o[u];end end else if 1<=h then if h~=-3 then repeat if h>1 then b=d;break;end;u=z;until true;else b=d;end else o=e;end end h=h+1 end l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if h<=2 then a=e[z]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];else if 3<h then n[e[z]][e[d]]=n[e[f]];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end end end end else if h<296 then if h<293 then if 288<h then for s=24,89 do if h>291 then local s;for h=0,6 do if h<=2 then if h<=0 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if h>-1 then for f=28,78 do if h>1 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if h>4 then if 5~=h then n[e[z]]=n[e[d]][e[f]];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if-1~=h then for f=24,71 do if h~=4 then s=e[z]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end break;end;local k,b,_,c,u,h,r,s,p,a;for h=0,7 do if 3>=h then if 2<=h then if h>=0 then repeat if h>2 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if-3~=h then repeat if h~=1 then h=0;while h>-1 do if 2<h then if h<5 then if-1~=h then repeat if h~=4 then c=k[_];break;end;u=k[b];until true;else u=k[b];end else if 3~=h then for e=12,73 do if h~=6 then n(u,c);break;end;h=-2;break;end;else n(u,c);end end else if 1<=h then if h>=0 then for e=32,97 do if h~=2 then b=z;break;end;_=d;break;end;else b=z;end else k=e;end end h=h+1 end l=l+1;e=t[l];break;end;o[e[d]]=n[e[z]];l=l+1;e=t[l];until true;else o[e[d]]=n[e[z]];l=l+1;e=t[l];end end else if h>=6 then if h>=4 then for s=28,69 do if 7~=h then r=e[z]p={n[r](n[r+1])};a=0;for e=r,e[f]do a=a+1;n[e]=p[a];end l=l+1;e=t[l];break;end;l=e[d];break;end;else l=e[d];end else if 2<h then for o=38,69 do if 5>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;r=e[z];s=n[e[d]];n[r+1]=s;n[r]=s[e[f]];l=l+1;e=t[l];break;end;else r=e[z];s=n[e[d]];n[r+1]=s;n[r]=s[e[f]];l=l+1;e=t[l];end end end end break;end;else local u,k,_,c,b,h,r,s,p,a;for h=0,7 do if 3>=h then if 2<=h then if h>=0 then repeat if h>2 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if-3~=h then repeat if h~=1 then h=0;while h>-1 do if 2<h then if h<5 then if-1~=h then repeat if h~=4 then c=u[_];break;end;b=u[k];until true;else b=u[k];end else if 3~=h then for e=12,73 do if h~=6 then n(b,c);break;end;h=-2;break;end;else n(b,c);end end else if 1<=h then if h>=0 then for e=32,97 do if h~=2 then k=z;break;end;_=d;break;end;else k=z;end else u=e;end end h=h+1 end l=l+1;e=t[l];break;end;o[e[d]]=n[e[z]];l=l+1;e=t[l];until true;else o[e[d]]=n[e[z]];l=l+1;e=t[l];end end else if h>=6 then if h>=4 then for s=28,69 do if 7~=h then r=e[z]p={n[r](n[r+1])};a=0;for e=r,e[f]do a=a+1;n[e]=p[a];end l=l+1;e=t[l];break;end;l=e[d];break;end;else l=e[d];end else if 2<h then for o=38,69 do if 5>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;r=e[z];s=n[e[d]];n[r+1]=s;n[r]=s[e[f]];l=l+1;e=t[l];break;end;else r=e[z];s=n[e[d]];n[r+1]=s;n[r]=s[e[f]];l=l+1;e=t[l];end end end end end else if 294<=h then if 294<h then local o,a,u,k,b,h,c;for h=0,6 do if h>2 then if h>=5 then if 4~=h then for s=25,62 do if h>5 then n[e[z]]=r[e[d]];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];end else if 2<=h then for r=28,89 do if 4~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 1>h then n(e[z],e[d]);l=l+1;e=t[l];else if-1<=h then for f=32,75 do if 1<h then c=e[z]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];break;end;h=0;while h>-1 do if h>2 then if h>4 then if 1<=h then repeat if h>5 then h=-2;break;end;n(b,k);until true;else n(b,k);end else if h~=4 then k=o[u];else b=o[a];end end else if 1>h then o=e;else if h~=-1 then repeat if 2~=h then a=z;break;end;u=d;until true;else a=z;end end end h=h+1 end l=l+1;e=t[l];break;end;else h=0;while h>-1 do if h>2 then if h>4 then if 1<=h then repeat if h>5 then h=-2;break;end;n(b,k);until true;else n(b,k);end else if h~=4 then k=o[u];else b=o[a];end end else if 1>h then o=e;else if h~=-1 then repeat if 2~=h then a=z;break;end;u=d;until true;else a=z;end end end h=h+1 end l=l+1;e=t[l];end end end end else for e=e[z],e[d]do n[e]=nil;end;end else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);end end else if 297<h then if h>=299 then if 295<=h then repeat if 300~=h then for h=0,6 do if 2<h then if 4<h then if 1<h then repeat if h<6 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h==3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if h<1 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if h==1 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end end end break;end;local r;for h=0,4 do if h<=1 then if-2~=h then repeat if 0~=h then r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end else if 3>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if 2<h then for r=20,75 do if h<4 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=(e[d]~=0);break;end;else n[e[z]]=(e[d]~=0);end end end end until true;else for h=0,6 do if 2<h then if 4<h then if 1<h then repeat if h<6 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h==3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if h<1 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if h==1 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end end end end end else local h,a;for r=0,5 do if 3>r then if r>0 then if-3<=r then repeat if 2~=r then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if 3>=r then h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];else if 3<=r then for f=40,69 do if 5~=r then h=e[z]n[h](n[h+1])l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];break;end;else h=e[z]n[h](n[h+1])l=l+1;e=t[l];end end end end end else if 297~=h then for h=0,5 do if h<=2 then if 0<h then if h>-2 then repeat if 2~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if 3<h then if 1<=h then repeat if h>4 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end else local o;for h=0,6 do if h>2 then if 4>=h then if 4>h then n(e[z],e[d]);l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end else if 1<h then for f=19,61 do if 6~=h then n(e[z],e[d]);l=l+1;e=t[l];break;end;o=e[z]n[o]=n[o](s(n,o+1,e[d]))break;end;else n(e[z],e[d]);l=l+1;e=t[l];end end else if h<1 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if-1<h then for s=10,86 do if h>1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end end end end end else if h>280 then if 285>=h then if h<=282 then if 279<h then repeat if 281~=h then local h,u,_,c,b;h=e[z];u=n[e[d]];n[h+1]=u;n[h]=u[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]_,c=k(n[h](n[h+1]))a=c+h-1 b=0;for e=h,a do b=b+1;n[e]=_[b];end;l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,a))l=l+1;e=t[l];l=e[d];break;end;n[e[z]][e[d]]=n[e[f]];until true;else n[e[z]][e[d]]=n[e[f]];end else if h<=283 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);else if 285>h then do return n[e[z]]end else local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];end end end else if h<288 then if h>=283 then repeat if h<287 then local z=e[z]local d={n[z](n[z+1])};local l=0;for e=z,e[f]do l=l+1;n[e]=d[l];end break;end;local l=e[z]n[l](s(n,l+1,e[d]))until true;else local z=e[z]local d={n[z](n[z+1])};local l=0;for e=z,e[f]do l=l+1;n[e]=d[l];end end else if 288>=h then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];else if h~=289 then local r;for h=0,6 do if 2>=h then if h>=1 then if-1<h then for f=28,87 do if h<2 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h>=5 then if 2~=h then for r=47,70 do if h<6 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];break;end;else n[e[z]][e[d]]=e[f];end else if h>3 then r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end end end end else local o,a,k,u,c,b,h;for h=0,6 do if 2>=h then if h>0 then if h>=-1 then repeat if h>1 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end else if 5<=h then if 1~=h then for f=42,54 do if h>5 then n(e[z],e[d]);break;end;h=0;while h>-1 do if h>=3 then if 5<=h then if 2~=h then for e=14,71 do if 6>h then n(b,c);break;end;h=-2;break;end;else h=-2;end else if 0<h then for e=21,55 do if h~=3 then b=a[k];break;end;c=a[u];break;end;else b=a[k];end end else if h<1 then a=e;else if 2>h then k=z;else u=d;end end end h=h+1 end l=l+1;e=t[l];break;end;else n(e[z],e[d]);end else if 1<=h then repeat if 3~=h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end end end end end else if h>=276 then if 278<=h then if h>278 then if h~=279 then local h;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]=n[e[d]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];else n[e[z]]=(not n[e[d]]);end else local o;for h=0,6 do if 2<h then if h>4 then if h>=4 then for f=11,62 do if h>5 then o=e[z]n[o]=n[o](s(n,o+1,e[d]))break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if-1<=h then repeat if h>3 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end end else if 0>=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if h==1 then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end end else if 274<=h then for a=28,87 do if h~=277 then local o,c,a,b,u,h,k;n(e[z],e[d]);l=l+1;e=t[l];h=0;while h>-1 do if 3<=h then if 4>=h then if h~=4 then b=o[a];else u=o[c];end else if 5<h then h=-2;else n(u,b);end end else if 1<=h then if h>1 then a=d;else c=z;end else o=e;end end h=h+1 end l=l+1;e=t[l];h=0;while h>-1 do if h<3 then if h>0 then if h>=-3 then repeat if h<2 then c=z;break;end;a=d;until true;else a=d;end else o=e;end else if h<=4 then if 0~=h then for e=28,94 do if 3<h then u=o[c];break;end;b=o[a];break;end;else b=o[a];end else if 6==h then h=-2;else n(u,b);end end end h=h+1 end l=l+1;e=t[l];k=e[z]n[k]=n[k](s(n,k+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];break;end;n[e[z]]=o[e[d]];break;end;else local o,c,a,b,u,h,k;n(e[z],e[d]);l=l+1;e=t[l];h=0;while h>-1 do if 3<=h then if 4>=h then if h~=4 then b=o[a];else u=o[c];end else if 5<h then h=-2;else n(u,b);end end else if 1<=h then if h>1 then a=d;else c=z;end else o=e;end end h=h+1 end l=l+1;e=t[l];h=0;while h>-1 do if h<3 then if h>0 then if h>=-3 then repeat if h<2 then c=z;break;end;a=d;until true;else a=d;end else o=e;end else if h<=4 then if 0~=h then for e=28,94 do if 3<h then u=o[c];break;end;b=o[a];break;end;else b=o[a];end else if 6==h then h=-2;else n(u,b);end end end h=h+1 end l=l+1;e=t[l];k=e[z]n[k]=n[k](s(n,k+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];end end else if 273>=h then if h==272 then for h=0,6 do if h<=2 then if h>0 then if h>-3 then for s=42,62 do if h~=1 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if h>=5 then if h~=3 then repeat if 6~=h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);until true;else n(e[z],e[d]);end else if h>=0 then for r=10,76 do if h>3 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end end end end else n[e[z]]=r[e[d]];end else if h~=275 then local h,r;for a=0,4 do if 2<=a then if a<3 then n(e[z],e[d]);l=l+1;e=t[l];else if 4~=a then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];else if not n[e[z]]then l=l+1;else l=e[d];end;end end else if-3<=a then for s=28,75 do if a~=0 then h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;else h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];end end end else local a,u,_,k,b,h,r,c;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]/n[e[f]];l=l+1;e=t[l];h=0;while h>-1 do if h<=2 then if h>0 then if h>1 then _=d;else u=z;end else a=e;end else if h>=5 then if h~=1 then for e=24,69 do if 6>h then n(b,k);break;end;h=-2;break;end;else n(b,k);end else if h>=1 then for e=33,90 do if h>3 then b=a[u];break;end;k=a[_];break;end;else b=a[u];end end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];r=e[z];c=n[e[d]];n[r+1]=c;n[r]=c[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];end end end end end else if h>251 then if h<=261 then if h>256 then if 259>h then if h~=256 then repeat if h<258 then local h;for o=0,6 do if 3>o then if o>0 then if 1==o then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if 5<=o then if 6==o then h=e[z]n[h]=n[h](s(n,h+1,e[d]))else n(e[z],e[d]);l=l+1;e=t[l];end else if o>2 then repeat if o>3 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end break;end;local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);until true;else local h;for o=0,6 do if 3>o then if o>0 then if 1==o then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if 5<=o then if 6==o then h=e[z]n[h]=n[h](s(n,h+1,e[d]))else n(e[z],e[d]);l=l+1;e=t[l];end else if o>2 then repeat if o>3 then n(e[z],e[d]);l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end end end end else if h>259 then if h~=258 then for s=40,67 do if h<261 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;local h,s,a,r;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z];s=n[e[d]];n[h+1]=s;n[h]=s[e[f]];l=l+1;e=t[l];h=e[z]a={n[h](n[h+1])};r=0;for e=h,e[f]do r=r+1;n[e]=a[r];end l=l+1;e=t[l];l=e[d];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else local o;for h=0,6 do if 3<=h then if 5<=h then if h>=1 then for r=23,89 do if h>5 then n(e[z],e[d]);break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n(e[z],e[d]);end else if 0<=h then for s=30,89 do if 4~=h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end else if 0<h then if-1~=h then for r=47,80 do if 1<h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end end else if 253>=h then if 250~=h then repeat if 252~=h then for h=0,6 do if h>=3 then if h<5 then if h~=3 then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 4<h then repeat if h~=5 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h>0 then if h~=-3 then repeat if 1<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end break;end;local o;for h=0,6 do if 2<h then if h<=4 then if h==4 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h==5 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];end end else if 0<h then if h>=-3 then for r=32,97 do if 2~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end until true;else for h=0,6 do if h>=3 then if h<5 then if h~=3 then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 4<h then repeat if h~=5 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if h>0 then if h~=-3 then repeat if 1<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end else if 255<=h then if h>251 then repeat if h<256 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else local z=e[z];local f=e[f];local t=z+2 local z={n[z](n[z+1],n[t])};for e=1,f do n[t+e]=z[e];end;local z=z[1]if z then n[t]=z l=e[d];else l=l+1;end;end end end else if h>266 then if h<269 then if h>=263 then for r=37,98 do if h>267 then local h,a;for r=0,9 do if 5>r then if r<2 then if r<1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 3>r then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if r>=2 then repeat if r~=3 then n[e[z]]=n[e[d]]/n[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]]-n[e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]]/n[e[f]];l=l+1;e=t[l];end end end else if r<=6 then if r>=1 then repeat if 6>r then n(e[z],e[d]);l=l+1;e=t[l];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end else if r>=8 then if r>=4 then for o=29,59 do if 9>r then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];break;end;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end break;end;do return end;break;end;else do return end;end else if h>269 then if 267<=h then for a=40,77 do if 271>h then local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);break;end;for h=0,7 do if 3<h then if h<6 then if h>4 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 4<h then for r=42,92 do if h~=7 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 2>h then if-2<=h then for r=15,58 do if h>0 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 2<h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]]-n[e[f]];l=l+1;e=t[l];end end end end break;end;else for h=0,7 do if 3<h then if h<6 then if h>4 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 4<h then for r=42,92 do if h~=7 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if 2>h then if-2<=h then for r=15,58 do if h>0 then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if 2<h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else n[e[z]]=n[e[d]]-n[e[f]];l=l+1;e=t[l];end end end end end else local h,a;for s=0,6 do if 2>=s then if 0<s then if s==1 then h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else n[e[z]]=n[e[d]];l=l+1;e=t[l];end else if 4>=s then if 3==s then n[e[z]]=o[e[d]];l=l+1;e=t[l];else h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];end else if s>=2 then repeat if 5<s then n[e[z]]=r[e[d]];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];end end end end end end else if h<264 then if 260~=h then for o=14,79 do if 263>h then local a,k,u,c,b,h,o;h=0;while h>-1 do if h>=3 then if 4>=h then if-1<h then for e=11,90 do if 4~=h then c=a[u];break;end;b=a[k];break;end;else b=a[k];end else if h~=5 then h=-2;else n(b,c);end end else if h<=0 then a=e;else if 1~=h then u=d;else k=z;end end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;for h=0,5 do if 3>h then if h>=1 then if-2<h then repeat if 1<h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if 3>=h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else if 2<=h then repeat if 4<h then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];end end end end break;end;else local a,k,u,c,b,h,o;h=0;while h>-1 do if h>=3 then if 4>=h then if-1<h then for e=11,90 do if 4~=h then c=a[u];break;end;b=a[k];break;end;else b=a[k];end else if h~=5 then h=-2;else n(b,c);end end else if h<=0 then a=e;else if 1~=h then u=d;else k=z;end end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else if 265<=h then if 265<h then local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];else if(n[e[z]]==n[e[f]])then l=l+1;else l=e[d];end;end else for h=0,4 do if h>=2 then if h<3 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if h~=1 then for r=17,67 do if h<4 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;if(n[e[z]]~=n[e[f]])then l=l+1;else l=e[d];end;break;end;else if(n[e[z]]~=n[e[f]])then l=l+1;else l=e[d];end;end end else if h>=-1 then repeat if 1~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end end end end end end end else if h>241 then if 246<h then if h>248 then if 249<h then if 247<=h then for r=46,96 do if 250<h then local r;for h=0,4 do if 2>h then if-3<=h then for f=31,53 do if h<1 then n(e[z],e[d]);l=l+1;e=t[l];break;end;r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if 3<=h then if h>1 then for r=29,89 do if h<4 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end break;end;local a,o,b,t,r,s,h;local l=0;while l>-1 do if l<3 then if l<1 then a=z;o=d;b=f;else if 0<l then repeat if l~=1 then r=t[o];break;end;t=e;until true;else r=t[o];end end else if l<5 then if-1<=l then for e=33,73 do if 4>l then s=t[a];break;end;h=n[r];for e=1+r,t[b]do h=h..n[e];end;break;end;else s=t[a];end else if 6==l then l=-2;else n[s]=h;end end end l=l+1 end break;end;else local r;for h=0,4 do if 2>h then if-3<=h then for f=31,53 do if h<1 then n(e[z],e[d]);l=l+1;e=t[l];break;end;r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if 3<=h then if h>1 then for r=29,89 do if h<4 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];break;end;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end else for h=0,3 do if 1<h then if h>=-2 then repeat if h<3 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;if(n[e[z]]~=e[f])then l=l+1;else l=e[d];end;until true;else if(n[e[z]]~=e[f])then l=l+1;else l=e[d];end;end else if-4~=h then repeat if h~=0 then r[e[d]]=n[e[z]];l=l+1;e=t[l];break;end;n[e[z]]=(e[d]~=0);l=l+1;e=t[l];until true;else r[e[d]]=n[e[z]];l=l+1;e=t[l];end end end end else if 243<=h then for l=46,83 do if 248>h then r[e[d]]=n[e[z]];break;end;n[e[z]]=c(_[e[d]],nil,r);break;end;else n[e[z]]=c(_[e[d]],nil,r);end end else if 244<=h then if 244<h then if h>=241 then repeat if h<246 then local h,a;for o=0,9 do if 4>=o then if 1>=o then if-1~=o then repeat if o>0 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]]=-n[e[d]];l=l+1;e=t[l];until true;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if o<=2 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if o==3 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];else h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];end end end else if 6>=o then if o>=4 then for f=28,69 do if o~=5 then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;h=e[z]n[h](n[h+1])l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if 7<o then if o~=4 then for r=44,94 do if o~=9 then h=e[z]n[h](n[h+1])l=l+1;e=t[l];break;end;h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];break;end;else h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];end else n(e[z],e[d]);l=l+1;e=t[l];end end end end break;end;local h,o;for r=0,4 do if 2<=r then if r>=3 then if 0<=r then repeat if r~=3 then h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else if r>-4 then for o=48,68 do if r~=1 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end until true;else local h,o;for r=0,4 do if 2<=r then if r>=3 then if 0<=r then repeat if r~=3 then h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];end else if r>-4 then for o=48,68 do if r~=1 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end else for h=0,5 do if h<3 then if 1<=h then if h>1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if 4>h then n[e[z]]=r[e[d]];l=l+1;e=t[l];else if 3~=h then for r=33,80 do if h<5 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];end end end end end else if 239~=h then repeat if h~=243 then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;local c,o,k,a,b,u,h;for h=0,6 do if 2>=h then if 0>=h then c=e[z]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];else if h~=-2 then for s=20,92 do if 1<h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 5>h then if 4==h then h=0;while h>-1 do if h<3 then if h<1 then o=e;else if 1==h then k=z;else a=d;end end else if 5>h then if h>0 then for e=14,66 do if h<4 then b=o[a];break;end;u=o[k];break;end;else b=o[a];end else if 6>h then n(u,b);else h=-2;end end end h=h+1 end l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h~=4 then repeat if 5<h then h=0;while h>-1 do if 2>=h then if h<1 then o=e;else if h==2 then a=d;else k=z;end end else if h>4 then if 5~=h then h=-2;else n(u,b);end else if h<4 then b=o[a];else u=o[k];end end end h=h+1 end break;end;h=0;while h>-1 do if 3>h then if h>0 then if 2==h then a=d;else k=z;end else o=e;end else if h>=5 then if 6==h then h=-2;else n(u,b);end else if 3<h then u=o[k];else b=o[a];end end end h=h+1 end l=l+1;e=t[l];until true;else h=0;while h>-1 do if 3>h then if h>0 then if 2==h then a=d;else k=z;end else o=e;end else if h>=5 then if 6==h then h=-2;else n(u,b);end else if 3<h then u=o[k];else b=o[a];end end end h=h+1 end l=l+1;e=t[l];end end end end until true;else local c,o,u,a,b,k,h;for h=0,6 do if 2>=h then if 0>=h then c=e[z]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];else if h~=-2 then for s=20,92 do if 1<h then n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 5>h then if 4==h then h=0;while h>-1 do if h<3 then if h<1 then o=e;else if 1==h then u=z;else a=d;end end else if 5>h then if h>0 then for e=14,66 do if h<4 then b=o[a];break;end;k=o[u];break;end;else b=o[a];end else if 6>h then n(k,b);else h=-2;end end end h=h+1 end l=l+1;e=t[l];else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h~=4 then repeat if 5<h then h=0;while h>-1 do if 2>=h then if h<1 then o=e;else if h==2 then a=d;else u=z;end end else if h>4 then if 5~=h then h=-2;else n(k,b);end else if h<4 then b=o[a];else k=o[u];end end end h=h+1 end break;end;h=0;while h>-1 do if 3>h then if h>0 then if 2==h then a=d;else u=z;end else o=e;end else if h>=5 then if 6==h then h=-2;else n(k,b);end else if 3<h then k=o[u];else b=o[a];end end end h=h+1 end l=l+1;e=t[l];until true;else h=0;while h>-1 do if 3>h then if h>0 then if 2==h then a=d;else u=z;end else o=e;end else if h>=5 then if 6==h then h=-2;else n(k,b);end else if 3<h then k=o[u];else b=o[a];end end end h=h+1 end l=l+1;e=t[l];end end end end end end end else if h>=237 then if 238>=h then if h>233 then for a=20,87 do if 238~=h then local h,r;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];break;end;local h,a;for o=0,7 do if o>=4 then if 6>o then if 1<=o then for r=39,53 do if o~=4 then h=e[z]n[h](n[h+1])l=l+1;e=t[l];break;end;h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];break;end;else h=e[z]n[h](n[h+1])l=l+1;e=t[l];end else if o>=4 then repeat if 7~=o then n[e[z]]=(e[d]~=0);l=l+1;e=t[l];break;end;r[e[d]]=n[e[z]];until true;else n[e[z]]=(e[d]~=0);l=l+1;e=t[l];end end else if o<=1 then if 1~=o then n(e[z],e[d]);l=l+1;e=t[l];else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if o<3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end break;end;else local h,a;for o=0,7 do if o>=4 then if 6>o then if 1<=o then for r=39,53 do if o~=4 then h=e[z]n[h](n[h+1])l=l+1;e=t[l];break;end;h=e[z];a=n[e[d]];n[h+1]=a;n[h]=a[e[f]];l=l+1;e=t[l];break;end;else h=e[z]n[h](n[h+1])l=l+1;e=t[l];end else if o>=4 then repeat if 7~=o then n[e[z]]=(e[d]~=0);l=l+1;e=t[l];break;end;r[e[d]]=n[e[z]];until true;else n[e[z]]=(e[d]~=0);l=l+1;e=t[l];end end else if o<=1 then if 1~=o then n(e[z],e[d]);l=l+1;e=t[l];else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else if o<3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end end end else if h>=240 then if 236<=h then repeat if h>240 then local f,u,o,h,c;for r=0,4 do if r<2 then if-1~=r then for f=30,87 do if 1>r then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if r>=3 then if 3==r then f=e[z]u,o=k(n[f](s(n,f+1,a)))a=o+f-1 h=0;for e=f,a do h=h+1;n[e]=u[h];end;l=l+1;e=t[l];else f=e[z];c=n[f];for e=f+1,a do b.JadeQlgH(c,n[e])end;end else f=e[z]u,o=k(n[f](s(n,f+1,e[d])))a=o+f-1 h=0;for e=f,a do h=h+1;n[e]=u[h];end;l=l+1;e=t[l];end end end break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];until true;else local f,u,o,h,c;for r=0,4 do if r<2 then if-1~=r then for f=30,87 do if 1>r then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if r>=3 then if 3==r then f=e[z]u,o=k(n[f](s(n,f+1,a)))a=o+f-1 h=0;for e=f,a do h=h+1;n[e]=u[h];end;l=l+1;e=t[l];else f=e[z];c=n[f];for e=f+1,a do b.JadeQlgH(c,n[e])end;end else f=e[z]u,o=k(n[f](s(n,f+1,e[d])))a=o+f-1 h=0;for e=f,a do h=h+1;n[e]=u[h];end;l=l+1;e=t[l];end end end end else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];end end else if h<235 then if h~=234 then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))else local r;for h=0,5 do if 2>=h then if 0<h then if 2==h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end else if h<4 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else if 5>h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else n[e[z]][e[d]]=e[f];end end end end end else if h>=234 then for o=45,89 do if h~=235 then if(n[e[z]]<e[f])then l=e[d];else l=l+1;end;break;end;local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);break;end;else if(n[e[z]]<e[f])then l=e[d];else l=l+1;end;end end end end end end else if 193<h then if h<=212 then if h>202 then if h<=207 then if h<205 then if 199<=h then for r=30,68 do if h>203 then local h,o;for r=0,4 do if r<=1 then if-2~=r then repeat if r>0 then h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 3<=r then if 2<=r then repeat if r~=4 then h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;if n[e[z]]then l=l+1;else l=e[d];end;until true;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end else n(e[z],e[d]);l=l+1;e=t[l];end end end break;end;n[e[z]]=n[e[d]]-n[e[f]];break;end;else n[e[z]]=n[e[d]]-n[e[f]];end else if h>=206 then if h~=205 then for a=27,85 do if h~=207 then local r;for h=0,4 do if 1<h then if h<3 then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];else if 4~=h then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];end end else if 1>h then n(e[z],e[d]);l=l+1;e=t[l];else r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end end break;end;local b,a,k;for h=0,9 do if 4<h then if 7<=h then if h>7 then if h==8 then n(e[z],e[d]);l=l+1;e=t[l];else a=e[d];k=n[a]for e=a+1,e[f]do k=k..n[e];end;n[e[z]]=k;end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 5==h then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end else if 1<h then if 3<=h then if h<4 then n[e[z]]=n[e[d]];l=l+1;e=t[l];else b=e[z]n[b](s(n,b+1,e[d]))l=l+1;e=t[l];end else b=e[z];a=n[e[d]];n[b+1]=a;n[b]=a[e[f]];l=l+1;e=t[l];end else if 0~=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];else r[e[d]]=n[e[z]];l=l+1;e=t[l];end end end end break;end;else local a,b,k;for h=0,9 do if 4<h then if 7<=h then if h>7 then if h==8 then n(e[z],e[d]);l=l+1;e=t[l];else b=e[d];k=n[b]for e=b+1,e[f]do k=k..n[e];end;n[e[z]]=k;end else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if 5==h then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end else if 1<h then if 3<=h then if h<4 then n[e[z]]=n[e[d]];l=l+1;e=t[l];else a=e[z]n[a](s(n,a+1,e[d]))l=l+1;e=t[l];end else a=e[z];b=n[e[d]];n[a+1]=b;n[a]=b[e[f]];l=l+1;e=t[l];end else if 0~=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];else r[e[d]]=n[e[z]];l=l+1;e=t[l];end end end end end else local a,u,s,b,k,h;n[e[z]]={};l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if 3>h then if h<1 then a=e;else if h~=-2 then repeat if h<2 then u=z;break;end;s=d;until true;else s=d;end end else if h<5 then if h>=2 then for e=32,93 do if 3<h then k=a[u];break;end;b=a[s];break;end;else b=a[s];end else if h~=1 then repeat if 5<h then h=-2;break;end;n(k,b);until true;else h=-2;end end end h=h+1 end end end else if 210>h then if 204<=h then repeat if h~=208 then n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]+e[f];l=l+1;e=t[l];n[e[z]]=-n[e[d]];break;end;local r;for h=0,6 do if h>2 then if h>=5 then if h>=2 then repeat if 5<h then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h>3 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 0>=h then n(e[z],e[d]);l=l+1;e=t[l];else if h>=-3 then for f=15,85 do if 1~=h then r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end end end end until true;else local r;for h=0,6 do if h>2 then if h>=5 then if h>=2 then repeat if 5<h then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];until true;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end else if h>3 then n[e[z]]=o[e[d]];l=l+1;e=t[l];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end else if 0>=h then n(e[z],e[d]);l=l+1;e=t[l];else if h>=-3 then for f=15,85 do if 1~=h then r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end end end end end else if 211<=h then if 211~=h then local r;for h=0,5 do if h>=3 then if 3>=h then n[e[z]]=o[e[d]];l=l+1;e=t[l];else if h>=3 then repeat if h<5 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;r=e[z]n[r](n[r+1])until true;else r=e[z]n[r](n[r+1])end end else if 0<h then if-2<=h then for r=30,65 do if h~=1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else o[e[d]]=n[e[z]];l=l+1;e=t[l];end end end else if(n[e[z]]<e[f])then l=e[d];else l=l+1;end;end else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);end end end else if h<198 then if h<196 then if h>=192 then for t=22,54 do if 194~=h then local e=e[z]n[e](s(n,e+1,a))break;end;l=e[d];break;end;else local e=e[z]n[e](s(n,e+1,a))end else if h>=195 then repeat if 197~=h then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;local z=e[z];local f=e[f];local t=z+2 local z={n[z](n[z+1],n[t])};for e=1,f do n[t+e]=z[e];end;local z=z[1]if z then n[t]=z l=e[d];else l=l+1;end;until true;else local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end end else if 199>=h then if h~=195 then for r=46,89 do if h<199 then n[e[z]]=n[e[d]][e[f]];break;end;local h;h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]();l=l+1;e=t[l];do return end;break;end;else n[e[z]]=n[e[d]][e[f]];end else if 201<=h then if 202>h then local o;for h=0,6 do if h<=2 then if h<=0 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if h~=-1 then repeat if 2~=h then n(e[z],e[d]);l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];until true;else n(e[z],e[d]);l=l+1;e=t[l];end end else if 4<h then if 4<h then for s=18,77 do if h~=5 then n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];end else if h>1 then repeat if 4~=h then o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];until true;else o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end end end end else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];end else local r,a;for h=0,9 do if 4<h then if 6<h then if h>=8 then if h>8 then n[e[z]]=o[e[d]];else r=e[z];a=n[e[d]];n[r+1]=a;n[r]=a[e[f]];l=l+1;e=t[l];end else n[e[z]]=o[e[d]];l=l+1;e=t[l];end else if h~=2 then for o=35,67 do if 6~=h then n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];break;end;r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]]+n[e[f]];l=l+1;e=t[l];end end else if h>1 then if 3>h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else if 2<h then for r=47,72 do if h<4 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];end end else if-1<=h then for r=39,93 do if 1~=h then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[z]]=o[e[d]];l=l+1;e=t[l];end end end end end end end end else if 222>=h then if 217<h then if 219>=h then if h>=217 then repeat if h<219 then local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);break;end;local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);until true;else local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);end else if h>220 then if h>219 then for s=49,58 do if 221~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);break;end;n[e[z]]=n[e[d]];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);end else local s,k,u,b,a,h;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if h<3 then if 0<h then if 2~=h then k=z;else u=d;end else s=e;end else if h>=5 then if h>3 then repeat if 6>h then n(a,b);break;end;h=-2;until true;else n(a,b);end else if 4~=h then b=s[u];else a=s[k];end end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=0;while h>-1 do if h>=3 then if h<5 then if 1<=h then repeat if 4>h then b=s[u];break;end;a=s[k];until true;else a=s[k];end else if 1~=h then for e=18,54 do if 5~=h then h=-2;break;end;n(a,b);break;end;else h=-2;end end else if h>0 then if 1~=h then u=d;else k=z;end else s=e;end end h=h+1 end l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]+e[f];end end else if 215<=h then if h<=215 then for h=0,4 do if 1>=h then if h~=-3 then for r=43,80 do if 1~=h then n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end else if h<=2 then n[e[z]][e[d]]=e[f];l=l+1;e=t[l];else if 4==h then n[e[z]][e[d]]=e[f];else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];end end end end else if h>=212 then for a=44,62 do if 216<h then local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]-n[e[f]];break;end;else n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]-n[e[f]];end end else if 214~=h then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])else local h;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];do return end;end end end else if 228>h then if 225>h then if 222~=h then repeat if 223<h then n[e[z]]={};break;end;local r,u,a,b,k,h,o;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if 3<=h then if h>=5 then if 2<=h then for e=17,85 do if 6>h then n(k,b);break;end;h=-2;break;end;else n(k,b);end else if-1<=h then for e=21,67 do if 4>h then b=r[a];break;end;k=r[u];break;end;else b=r[a];end end else if h>0 then if 0<=h then for e=25,93 do if h~=1 then a=d;break;end;u=z;break;end;else a=d;end else r=e;end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];until true;else local b,u,a,r,k,h,o;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if 3<=h then if h>=5 then if 2<=h then for e=17,85 do if 6>h then n(k,r);break;end;h=-2;break;end;else n(k,r);end else if-1<=h then for e=21,67 do if 4>h then r=b[a];break;end;k=b[u];break;end;else r=b[a];end end else if h>0 then if 0<=h then for e=25,93 do if h~=1 then a=d;break;end;u=z;break;end;else a=d;end else b=e;end end h=h+1 end l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];end else if 226>h then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])else if 222<h then repeat if h~=227 then local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))break;end;local h;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);until true;else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))end end end else if 230<=h then if 230<h then if h>227 then repeat if h>231 then n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];until true;else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];end else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);end else if 228<h then n[e[z]]={};l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]]-n[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];else local l=e[z]local z,e=k(n[l](s(n,l+1,e[d])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=z[e];end;end end end end end else if 173<h then if h>183 then if h>=189 then if 190<h then if 192>h then local t,f,h,r,s;local l=0;while l>-1 do if 2>=l then if 1<=l then if l~=1 then h=d;else f=z;end else t=e;end else if l>4 then if l>1 then for e=32,80 do if 6~=l then n(s,r);break;end;l=-2;break;end;else l=-2;end else if l~=3 then s=t[f];else r=t[h];end end end l=l+1 end else if h==192 then n[e[z]]=n[e[d]]/n[e[f]];else n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end end else if 186~=h then for o=35,93 do if 189<h then local h;for r=0,4 do if 2<=r then if 2>=r then n(e[z],e[d]);l=l+1;e=t[l];else if r>1 then for o=33,64 do if 3~=r then n[e[z]][e[d]]=n[e[f]];break;end;h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];break;end;else h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end else if 0==r then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];else n(e[z],e[d]);l=l+1;e=t[l];end end end break;end;n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);break;end;else n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);end end else if 186<=h then if h>=187 then if 186<h then for s=19,55 do if h~=187 then n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);break;end;else n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else if h~=181 then repeat if h<185 then local h,o;n[e[z]]=r[e[d]];l=l+1;e=t[l];h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];o=n[e[d]];n[h+1]=o;n[h]=o[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))break;end;n[e[z]]=n[e[d]]*n[e[f]];until true;else n[e[z]]=n[e[d]]*n[e[f]];end end end else if h<179 then if h>=176 then if 176>=h then local z=e[z]local d={n[z](s(n,z+1,a))};local l=0;for e=z,e[f]do l=l+1;n[e]=d[l];end else if h>=175 then repeat if h<178 then local l=e[z]n[l](s(n,l+1,e[d]))break;end;if n[e[z]]then l=l+1;else l=e[d];end;until true;else local l=e[z]n[l](s(n,l+1,e[d]))end end else if 175>h then local h;for r=0,4 do if 2<=r then if r<3 then n[e[z]]=n[e[d]]+e[f];l=l+1;e=t[l];else if 0<r then for f=49,82 do if r~=3 then n[e[z]]={};break;end;o[e[d]]=n[e[z]];l=l+1;e=t[l];break;end;else o[e[d]]=n[e[z]];l=l+1;e=t[l];end end else if r>=-2 then repeat if 0<r then n[e[z]]=o[e[d]];l=l+1;e=t[l];break;end;h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];until true;else h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];end end end else n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];end end else if h<=180 then if h~=176 then for a=19,92 do if h~=179 then local a=_[e[d]];local s;local h={};s=b.SuiKvfEG({},{__index=function(l,e)local e=h[e];return e[1][e[2]];end,__newindex=function(n,e,l)local e=h[e]e[1][e[2]]=l;end;});for z=1,e[f]do l=l+1;local e=t[l];if e[m]==52 then h[z-1]={n,e[d]};else h[z-1]={o,e[d]};end;u[#u+1]=h;end;n[e[z]]=c(a,s,r);break;end;local r;for h=0,4 do if h<2 then if-3<h then for r=41,85 do if h<1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if h<3 then n(e[z],e[d]);l=l+1;e=t[l];else if-1<=h then for o=20,93 do if 3~=h then n[e[z]][e[d]]=n[e[f]];break;end;r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];end end end end break;end;else local r;for h=0,4 do if h<2 then if-3<h then for r=41,85 do if h<1 then n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];break;end;n(e[z],e[d]);l=l+1;e=t[l];break;end;else n(e[z],e[d]);l=l+1;e=t[l];end else if h<3 then n(e[z],e[d]);l=l+1;e=t[l];else if-1<=h then for o=20,93 do if 3~=h then n[e[z]][e[d]]=n[e[f]];break;end;r=e[z]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n[e[z]][e[d]]=n[e[f]];end end end end end else if h<182 then n[e[z]][e[d]]=e[f];else if h<183 then local h;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];r[e[d]]=n[e[z]];else local h,r;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];do return end;end end end end end else if 164<=h then if 168<h then if 170>=h then if 169<h then local h;n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];do return end;else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];end else if h>171 then if 173>h then local s,o,k,b,a,h;n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=0;while h>-1 do if h>2 then if h<=4 then if h>=2 then for e=25,71 do if 4~=h then b=s[k];break;end;a=s[o];break;end;else a=s[o];end else if 1~=h then for e=18,82 do if h~=5 then h=-2;break;end;n(a,b);break;end;else n(a,b);end end else if h>0 then if h~=-1 then for e=49,55 do if h~=1 then k=d;break;end;o=z;break;end;else o=z;end else s=e;end end h=h+1 end l=l+1;e=t[l];n[e[z]]=r[e[d]];else if(n[e[z]]~=e[f])then l=l+1;else l=e[d];end;end else local h,r;h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];h=e[z];r=n[e[d]];n[h+1]=r;n[h]=r[e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end end else if h<166 then if 162<h then for l=30,80 do if 165>h then n[e[z]]=-n[e[d]];break;end;n[e[z]]=n[e[d]]+n[e[f]];break;end;else n[e[z]]=-n[e[d]];end else if h>=167 then if h>167 then local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](n[h+1])l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);else n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else local h;n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]]={};l=l+1;e=t[l];n[e[z]][e[d]]=e[f];l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))end end end else if h<=158 then if 156<h then if 153<h then repeat if 158~=h then n[e[z]]=n[e[d]]+e[f];break;end;local z=e[z];local l=n[e[d]];n[z+1]=l;n[z]=l[e[f]];until true;else local z=e[z];local l=n[e[d]];n[z+1]=l;n[z]=l[e[f]];end else if h>=154 then repeat if h>155 then local a,u,b,k,c,h,o;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=0;while h>-1 do if h<3 then if 0>=h then a=e;else if 2==h then b=d;else u=z;end end else if h<5 then if h>-1 then repeat if h<4 then k=a[b];break;end;c=a[u];until true;else k=a[b];end else if h~=2 then repeat if h<6 then n(c,k);break;end;h=-2;until true;else h=-2;end end end h=h+1 end l=l+1;e=t[l];o=e[z]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];break;end;local l=e[z]local z,e=k(n[l](s(n,l+1,e[d])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=z[e];end;until true;else local o,u,k,b,c,h,a;n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=0;while h>-1 do if h<3 then if 0>=h then o=e;else if 2==h then k=d;else u=z;end end else if h<5 then if h>-1 then repeat if h<4 then b=o[k];break;end;c=o[u];until true;else b=o[k];end else if h~=2 then repeat if h<6 then n(c,b);break;end;h=-2;until true;else h=-2;end end end h=h+1 end l=l+1;e=t[l];a=e[z]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];end end else if h<=160 then if h~=155 then for o=48,76 do if 160~=h then local t=e[z];local d={};for e=1,#u do local e=u[e];for l=0,#e do local l=e[l];local z=l[1];local e=l[2];if z==n and e>=t then d[e]=z[e];l[1]=d;end;end;end;break;end;local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];break;end;else local h;n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end else if h<=161 then local t=e[z];local z={};for e=1,#u do local e=u[e];for l=0,#e do local e=e[l];local d=e[1];local l=e[2];if d==n and l>=t then z[l]=d[l];e[1]=z;end;end;end;else if 158<h then repeat if h~=162 then local e=e[z];local l=n[e];for e=e+1,a do b.JadeQlgH(l,n[e])end;break;end;local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];until true;else local h;n(e[z],e[d]);l=l+1;e=t[l];h=e[z]n[h]=n[h](s(n,h+1,e[d]))l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n[e[z]]=r[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];l=l+1;e=t[l];n[e[z]][e[d]]=n[e[f]];l=l+1;e=t[l];n(e[z],e[d]);l=l+1;e=t[l];n[e[z]]=o[e[d]];l=l+1;e=t[l];n[e[z]]=n[e[d]][e[f]];end end end end end end end end end l=1+l;end;end;return ze end;local z=0xff;local r={};local f=(1);local d='';(function(l)local n=l local t=0x00 local e=0x00 n={(function(f)if t>0x2a then return f end t=t+1 e=(e+0x10cc-f)%0x20 return(e%0x03==0x0 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x65);d='\37';z={function()z()end};d=d..'\100\43';end return true end)'CeJsi'and n[0x2](0x322+f))or(e%0x03==0x1 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xea);end return true end)'BIecM'and n[0x1](f+0xe5))or(e%0x03==0x2 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x3d);end return true end)'IFFVQ'and n[0x3](f+0x349))or f end),(function(h)if t>0x2e then return h end t=t+1 e=(e+0x3f4-h)%0x31 return(e%0x03==0x1 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x1b);z[2]=(z[2]*(ze(function()r()end,s(d))-ze(z[1],s(d))))+1;r[f]={};z=z[2];f=f+z;end return true end)'ZkcgZ'and n[0x1](0x169+h))or(e%0x03==0x2 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x5b);r[f]=te();f=f+z;end return true end)'T_VdA'and n[0x3](h+0x1cb))or(e%0x03==0x0 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x39);d={d..'\58 a',d};r[f]=de();f=f+((not b.KspFEXMP)and 1 or 0);d[1]='\58'..d[1];z[2]=0xff;end return true end)'XaLCt'and n[0x2](h+0x143))or h end),(function(z)if t>0x29 then return z end t=t+1 e=(e+0x1080-z)%0x1b return(e%0x03==0x2 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xd7);end return true end)'MYInd'and n[0x1](0x205+z))or(e%0x03==0x0 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xec);end return true end)'DxAns'and n[0x3](z+0x3df))or(e%0x03==0x1 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x4c);end return true end)'yocYb'and n[0x2](z+0x37c))or z end)}n[0x1](0xb54)end){};local e=c(s(r));return e(...);end return de((function()local l={}local e=0x01;local n;if b.KspFEXMP then n=b.KspFEXMP(de)else n=''end if b.DGHbfwYq(n,b.RjzfuFlD)then e=e+0;else e=e+1;end l[e]=0x02;l[l[e]+0x01]=0x03;return l;end)(),...)end)((function(l,e,n,z,d,t)local t;if l<4 then if l<2 then if l~=0 then do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,d,z,n,e),e(5,d,z,n)end;end else if l==3 then do return e(1),e(4,d,z,n,e),e(5,d,z,n)end;else do return 16777216,65536,256 end;end end else if l<6 then if 4==l then local l=z;local z,d,f=d(2);do return function()local t,h,e,n=e(n,l(l,l),l(l,l)+3);l(4);return(n*z)+(e*d)+(h*f)+t;end;end;else local l=z;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;end else if l>6 then if l>4 then for e=10,70 do if l>7 then do return n(l,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,z,n,l)if l then return e[l]elseif n then return e else e[d]=z end end})end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,z,d,n,l)if l then return e[l]elseif n then return e else e[z]=d end end})end end else do return d[n]end;end end end end),...)
+--discord.gg/boronide, code generated using luamin.js™
+
+
+
+
+local setidentity = syn and syn.set_thread_identity or set_thread_identity or setidentity or setthreadidentity or function()
+end
+setidentity(8) --hope this fking works
+local a, b = {
+	{
+		1,
+		'ModuleScript',
+		{
+			'MainModule'
+		},
+		{
+			{
+				18,
+				'ModuleScript',
+				{
+					'Creator'
+				}
+			},
+			{
+				28,
+				'ModuleScript',
+				{
+					'Icons'
+				}
+			},
+			{
+				47,
+				'ModuleScript',
+				{
+					'Themes'
+				},
+				{
+					{
+						50,
+						'ModuleScript',
+						{
+							'Dark'
+						}
+					},
+					{
+						52,
+						'ModuleScript',
+						{
+							'Light'
+						}
+					},
+					{
+						51,
+						'ModuleScript',
+						{
+							'Darker'
+						}
+					},
+					{
+						53,
+						'ModuleScript',
+						{
+							'Rose'
+						}
+					},
+					{
+						49,
+						'ModuleScript',
+						{
+							'Aqua'
+						}
+					},
+					{
+						48,
+						'ModuleScript',
+						{
+							'Amethyst'
+						}
+					}
+				}
+			},
+			{
+				19,
+				'ModuleScript',
+				{
+					'Elements'
+				},
+				{
+					{
+						21,
+						'ModuleScript',
+						{
+							'Colorpicker'
+						}
+					},
+					{
+						27,
+						'ModuleScript',
+						{
+							'Toggle'
+						}
+					},
+					{
+						23,
+						'ModuleScript',
+						{
+							'Input'
+						}
+					},
+					{
+						20,
+						'ModuleScript',
+						{
+							'Button'
+						}
+					},
+					{
+						25,
+						'ModuleScript',
+						{
+							'Paragraph'
+						}
+					},
+					{
+						22,
+						'ModuleScript',
+						{
+							'Dropdown'
+						}
+					},
+					{
+						26,
+						'ModuleScript',
+						{
+							'Slider'
+						}
+					},
+					{
+						24,
+						'ModuleScript',
+						{
+							'Keybind'
+						}
+					}
+				}
+			},
+			{
+				29,
+				'Folder',
+				{
+					'Packages'
+				},
+				{
+					{
+						30,
+						'ModuleScript',
+						{
+							'Flipper'
+						},
+						{
+							{
+								33,
+								'ModuleScript',
+								{
+									'GroupMotor'
+								}
+							},
+							{
+								46,
+								'ModuleScript',
+								{
+									'isMotor.spec'
+								}
+							},
+							{
+								39,
+								'ModuleScript',
+								{
+									'Signal'
+								}
+							},
+							{
+								40,
+								'ModuleScript',
+								{
+									'Signal.spec'
+								}
+							},
+							{
+								45,
+								'ModuleScript',
+								{
+									'isMotor'
+								}
+							},
+							{
+								36,
+								'ModuleScript',
+								{
+									'Instant.spec'
+								}
+							},
+							{
+								44,
+								'ModuleScript',
+								{
+									'Spring.spec'
+								}
+							},
+							{
+								42,
+								'ModuleScript',
+								{
+									'SingleMotor.spec'
+								}
+							},
+							{
+								38,
+								'ModuleScript',
+								{
+									'Linear.spec'
+								}
+							},
+							{
+								31,
+								'ModuleScript',
+								{
+									'BaseMotor'
+								}
+							},
+							{
+								43,
+								'ModuleScript',
+								{
+									'Spring'
+								}
+							},
+							{
+								35,
+								'ModuleScript',
+								{
+									'Instant'
+								}
+							},
+							{
+								37,
+								'ModuleScript',
+								{
+									'Linear'
+								}
+							},
+							{
+								41,
+								'ModuleScript',
+								{
+									'SingleMotor'
+								}
+							},
+							{
+								34,
+								'ModuleScript',
+								{
+									'GroupMotor.spec'
+								}
+							},
+							{
+								32,
+								'ModuleScript',
+								{
+									'BaseMotor.spec'
+								}
+							}
+						}
+					}
+				}
+			},
+			{
+				2,
+				'ModuleScript',
+				{
+					'Acrylic'
+				},
+				{
+					{
+						3,
+						'ModuleScript',
+						{
+							'AcrylicBlur'
+						}
+					},
+					{
+						5,
+						'ModuleScript',
+						{
+							'CreateAcrylic'
+						}
+					},
+					{
+						6,
+						'ModuleScript',
+						{
+							'Utils'
+						}
+					},
+					{
+						4,
+						'ModuleScript',
+						{
+							'AcrylicPaint'
+						}
+					}
+				}
+			},
+			{
+				7,
+				'Folder',
+				{
+					'Components'
+				},
+				{
+					{
+						9,
+						'ModuleScript',
+						{
+							'Button'
+						}
+					},
+					{
+						12,
+						'ModuleScript',
+						{
+							'Notification'
+						}
+					},
+					{
+						13,
+						'ModuleScript',
+						{
+							'Section'
+						}
+					},
+					{
+						17,
+						'ModuleScript',
+						{
+							'Window'
+						}
+					},
+					{
+						14,
+						'ModuleScript',
+						{
+							'Tab'
+						}
+					},
+					{
+						10,
+						'ModuleScript',
+						{
+							'Dialog'
+						}
+					},
+					{
+						8,
+						'ModuleScript',
+						{
+							'Assets'
+						}
+					},
+					{
+						16,
+						'ModuleScript',
+						{
+							'TitleBar'
+						}
+					},
+					{
+						15,
+						'ModuleScript',
+						{
+							'Textbox'
+						}
+					},
+					{
+						11,
+						'ModuleScript',
+						{
+							'Element'
+						}
+					}
+				}
+			}
+		}
+	}
+}
+local aa = {
+	function()
+		local c, d, e, f, g = b(1)
+		local h, i, j, k, l, m = game:GetService'Lighting', game:GetService'RunService', game:GetService'Players'.LocalPlayer, game:GetService'UserInputService', game:GetService'TweenService', game:GetService'Workspace'.CurrentCamera
+		local n, o = j:GetMouse(), d
+		local p, q, r, s = e(o.Creator), e(o.Elements), e(o.Acrylic), o.Components
+		local t, u, v = e(s.Notification), p.New, protectgui or (syn and syn.protect_gui) or function()
+		end
+		local w = u('ScreenGui', {
+			Parent = i:IsStudio() and j.PlayerGui or j.PlayerGui
+		})
+		v(w)
+		t:Init(w)
+		local x = {
+			Version = '1.1.0',
+			OpenFrames = {},
+			Options = {},
+			Themes = e(o.Themes).Names,
+			Window = nil,
+			WindowFrame = nil,
+			Unloaded = false,
+			Theme = 'Dark',
+			DialogOpen = false,
+			UseAcrylic = false,
+			Acrylic = false,
+			Transparency = true,
+			MinimizeKeybind = nil,
+			MinimizeKey = Enum.KeyCode.LeftControl,
+			GUI = w
+		}
+		function x.SafeCallback(y, z, ...)
+			if not z then
+				return
+			end
+			local A, B = pcall(z, ...)
+			if not A then
+				local C, D = B:find':%d+: '
+				if not D then
+					return x:Notify{
+						Title = 'Interface',
+						Content = 'Callback error',
+						SubContent = B,
+						Duration = 5
+					}
+				end
+				return x:Notify{
+					Title = 'Interface',
+					Content = 'Callback error',
+					SubContent = B:sub(D + 1),
+					Duration = 5
+				}
+			end
+		end
+		function x.Round(y, z, A)
+			if A == 0 then
+				return math.floor(z)
+			end
+			z = tostring(z)
+			return z:find'%.' and tonumber(z:sub(1, z:find'%.' + A)) or z
+		end
+		local y = e(o.Icons).assets
+		function x.GetIcon(z, A)
+			if A ~= nil and y['lucide-' .. A] then
+				return y['lucide-' .. A]
+			end
+			return nil
+		end
+		local z = {}
+		z.__index = z
+		z.__namecall = function(A, B, ...)
+			return z[B](...)
+		end
+		for A, B in ipairs(q) do
+			z['Add' .. B.__type] = function(C, D, E)
+				B.Container = C.Container
+				B.Type = C.Type
+				B.ScrollFrame = C.ScrollFrame
+				B.Library = x
+				return B:New(D, E)
+			end
+		end
+		x.Elements = z
+		function x.CreateWindow(C, D)
+			assert(D.Title, 'Window - Missing Title')
+			if x.Window then
+				print'You cannot create more than one window.'
+				return
+			end
+			x.MinimizeKey = D.MinimizeKey
+			x.UseAcrylic = D.Acrylic
+			if D.Acrylic then
+				r.init()
+			end
+			local E = e(s.Window){
+				Parent = w,
+				Size = D.Size,
+				Title = D.Title,
+				SubTitle = D.SubTitle,
+				TabWidth = D.TabWidth
+			}
+			x.Window = E
+			x:SetTheme(D.Theme)
+			return E
+		end
+		function x.SetTheme(C, D)
+			if x.Window and table.find(x.Themes, D) then
+				x.Theme = D
+				p.UpdateTheme()
+			end
+		end
+		function x.Destroy(C)
+			if x.Window then
+				x.Unloaded = true
+				if x.UseAcrylic then
+					x.Window.AcrylicPaint.Model:Destroy()
+				end
+				p.Disconnect()
+				x.GUI:Destroy()
+			end
+		end
+		function x.ToggleAcrylic(C, D)
+			if x.Window then
+				if x.UseAcrylic then
+					x.Acrylic = D
+					x.Window.AcrylicPaint.Model.Transparency = D and 0.98 or 1
+					if D then
+						r.Enable()
+					else
+						r.Disable()
+					end
+				end
+			end
+		end
+		function x.ToggleTransparency(C, D)
+			if x.Window then
+				x.Window.AcrylicPaint.Frame.Background.BackgroundTransparency = D and 0.35 or 0
+			end
+		end
+		function x.Notify(C, D)
+			return t:New(D)
+		end
+		if getgenv then
+			getgenv().Fluent = x
+		end
+		return x
+	end,
+	function()
+		local c, d, e, f, g = b(2)
+		local h = {
+			AcrylicBlur = e(d.AcrylicBlur),
+			CreateAcrylic = e(d.CreateAcrylic),
+			AcrylicPaint = e(d.AcrylicPaint)
+		}
+		function h.init()
+			local i = Instance.new'DepthOfFieldEffect'
+			i.FarIntensity = 0
+			i.InFocusRadius = 0.1
+			i.NearIntensity = 1
+			local j = {}
+			function h.Enable()
+				for k, l in pairs(j) do
+					l.Enabled = false
+				end
+				i.Parent = game:GetService'Lighting'
+			end
+			function h.Disable()
+				for k, l in pairs(j) do
+					l.Enabled = l.enabled
+				end
+				i.Parent = nil
+			end
+			local k = function()
+				local k = function(k)
+					if k:IsA'DepthOfFieldEffect' then
+						j[k] = {
+							enabled = k.Enabled
+						}
+					end
+				end
+				for l, m in pairs(game:GetService'Lighting':GetChildren()) do
+					k(m)
+				end
+				if game:GetService'Workspace'.CurrentCamera then
+					for n, o in pairs(game:GetService'Workspace'.CurrentCamera:GetChildren()) do
+						k(o)
+					end
+				end
+			end
+			k()
+			h.Enable()
+		end
+		return h
+	end,
+	function()
+		local c, d, e, f, g = b(3)
+		local h, i, j, k = e(d.Parent.Parent.Creator), e(d.Parent.CreateAcrylic), unpack(e(d.Parent.Utils))
+		local l = function(l)
+			local m = {}
+			l = l or 0.001
+			local n, o = {
+				topLeft = Vector2.new(),
+				topRight = Vector2.new(),
+				bottomRight = Vector2.new()
+			}, i()
+			o.Parent = workspace
+			local p, q = function(p, q)
+				n.topLeft = q
+				n.topRight = q + Vector2.new(p.X, 0)
+				n.bottomRight = q + p
+			end, function()
+				local p = game:GetService'Workspace'.CurrentCamera
+				if p then
+					p = p.CFrame
+				end
+				local q = p
+				if not q then
+					q = CFrame.new()
+				end
+				local r, s, t, u = q, n.topLeft, n.topRight, n.bottomRight
+				local v, w, x = j(s, l), j(t, l), j(u, l)
+				local y, z = (w - v).Magnitude, (w - x).Magnitude
+				o.CFrame = CFrame.fromMatrix((v + x) / 2, r.XVector, r.YVector, r.ZVector)
+				o.Mesh.Scale = Vector3.new(y, z, 0)
+			end
+			local r, s = function(r)
+				local s = k()
+				local t, u = r.AbsoluteSize - Vector2.new(s, s), r.AbsolutePosition + Vector2.new(s / 2, s / 2)
+				p(t, u)
+				task.spawn(q)
+			end, function()
+				local r = game:GetService'Workspace'.CurrentCamera
+				if not r then
+					return
+				end
+				table.insert(m, r:GetPropertyChangedSignal'CFrame':Connect(q))
+				table.insert(m, r:GetPropertyChangedSignal'ViewportSize':Connect(q))
+				table.insert(m, r:GetPropertyChangedSignal'FieldOfView':Connect(q))
+				task.spawn(q)
+			end
+			o.Destroying:Connect(function()
+				for t, u in m do
+					pcall(function()
+						u:Disconnect()
+					end)
+				end
+			end)
+			s()
+			return r, o
+		end
+		return function(m)
+			local n, o, p = {}, l(m)
+			local q = h.New('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1)
+			})
+			h.AddSignal(q:GetPropertyChangedSignal'AbsolutePosition', function()
+				o(q)
+			end)
+			h.AddSignal(q:GetPropertyChangedSignal'AbsoluteSize', function()
+				o(q)
+			end)
+			n.AddParent = function(r)
+				h.AddSignal(r:GetPropertyChangedSignal'Visible', function()
+					n.SetVisibility(r.Visible)
+				end)
+			end
+			n.SetVisibility = function(r)
+				p.Transparency = r and 0.98 or 1
+			end
+			n.Frame = q
+			n.Model = p
+			return n
+		end
+	end,
+	function()
+		local c, d, e, f, g = b(4)
+		local h, i = e(d.Parent.Parent.Creator), e(d.Parent.AcrylicBlur)
+		local j = h.New
+		return function(k)
+			local l = {}
+			l.Frame = j('Frame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 0.9,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BorderSizePixel = 0
+			}, {
+				j('ImageLabel', {
+					Image = 'rbxassetid://8992230677',
+					ScaleType = 'Slice',
+					SliceCenter = Rect.new(Vector2.new(99, 99), Vector2.new(99, 99)),
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					Size = UDim2.new(1, 120, 1, 116),
+					Position = UDim2.new(0.5, 0, 0.5, 0),
+					BackgroundTransparency = 1,
+					ImageColor3 = Color3.fromRGB(0, 0, 0),
+					ImageTransparency = 0.7
+				}),
+				j('UICorner', {
+					CornerRadius = UDim.new(0, 8)
+				}),
+				j('Frame', {
+					BackgroundTransparency = 0.45,
+					Size = UDim2.fromScale(1, 1),
+					Name = 'Background',
+					ThemeTag = {
+						BackgroundColor3 = 'AcrylicMain'
+					}
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					})
+				}),
+				j('Frame', {
+					BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+					BackgroundTransparency = 0.4,
+					Size = UDim2.fromScale(1, 1)
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					}),
+					j('UIGradient', {
+						Rotation = 90,
+						ThemeTag = {
+							Color = 'AcrylicGradient'
+						}
+					})
+				}),
+				j('ImageLabel', {
+					Image = 'rbxassetid://9968344105',
+					ImageTransparency = 0.98,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.new(0, 128, 0, 128),
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = 1
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					})
+				}),
+				j('ImageLabel', {
+					Image = 'rbxassetid://9968344227',
+					ImageTransparency = 0.9,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.new(0, 128, 0, 128),
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = 1,
+					ThemeTag = {
+						ImageTransparency = 'AcrylicNoise'
+					}
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					})
+				}),
+				j('Frame', {
+					BackgroundTransparency = 1,
+					Size = UDim2.fromScale(1, 1),
+					ZIndex = 2
+				}, {
+					j('UICorner', {
+						CornerRadius = UDim.new(0, 8)
+					}),
+					j('UIStroke', {
+						Transparency = 0.5,
+						Thickness = 1,
+						ThemeTag = {
+							Color = 'AcrylicBorder'
+						}
+					})
+				})
+			})
+			local m
+			if e(d.Parent.Parent).UseAcrylic then
+				m = i()
+				m.Frame.Parent = l.Frame
+				l.Model = m.Model
+				l.AddParent = m.AddParent
+				l.SetVisibility = m.SetVisibility
+			end
+			return l
+		end
+	end,
+	function()
+		local c, d, e, f, g = b(5)
+		local h = d.Parent.Parent
+		local i = e(h.Creator)
+		local j = function()
+			local j = i.New('Part', {
+				Name = 'Body',
+				Color = Color3.new(0, 0, 0),
+				Material = Enum.Material.Glass,
+				Size = Vector3.new(1, 1, 0),
+				Anchored = true,
+				CanCollide = false,
+				Locked = true,
+				CastShadow = false,
+				Transparency = 0.98
+			}, {
+				i.New('SpecialMesh', {
+					MeshType = Enum.MeshType.Brick,
+					Offset = Vector3.new(0, 0, -1E-6)
+				})
+			})
+			return j
+		end
+		return j
+	end,
+	function()
+		local c, d, e, f, g = b(6)
+		local h, i = function(h, i, j, k, l)
+			return (h - i) * (l - k) / (j - i) + k
+		end, function(h, i)
+			local j = game:GetService'Workspace'.CurrentCamera:ScreenPointToRay(h.X, h.Y)
+			return j.Origin + j.Direction * i
+		end
+		local j = function()
+			local j = game:GetService'Workspace'.CurrentCamera.ViewportSize.Y
+			return h(j, 0, 2560, 8, 56)
+		end
+		return {
+			i,
+			j
+		}
+	end,
+	[8] = function()
+		local c, d, e, f, g = b(8)
+		return {
+			Close = 'rbxassetid://9886659671',
+			Min = 'rbxassetid://9886659276',
+			Max = 'rbxassetid://9886659406',
+			Restore = 'rbxassetid://9886659001'
+		}
+	end,
+	[9] = function()
+		local c, d, e, f, g = b(9)
+		local h = d.Parent.Parent
+		local i, j = e(h.Packages.Flipper), e(h.Creator)
+		local k, l = j.New, i.Spring.new
+		return function(m, n, o)
+			o = o or false
+			local p = {}
+			p.Title = k('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextSize = 14,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Center,
+				TextYAlignment = Enum.TextYAlignment.Center,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1),
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			p.HoverFrame = k('Frame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					BackgroundColor3 = 'Hover'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				})
+			})
+			p.Frame = k('TextButton', {
+				Size = UDim2.new(0, 0, 0, 32),
+				Parent = n,
+				ThemeTag = {
+					BackgroundColor3 = 'DialogButton'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				k('UIStroke', {
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					Transparency = 0.65,
+					ThemeTag = {
+						Color = 'DialogButtonBorder'
+					}
+				}),
+				p.HoverFrame,
+				p.Title
+			})
+			local q, r = j.SpringMotor(1, p.HoverFrame, 'BackgroundTransparency', o)
+			j.AddSignal(p.Frame.MouseEnter, function()
+				r(0.97)
+			end)
+			j.AddSignal(p.Frame.MouseLeave, function()
+				r(1)
+			end)
+			j.AddSignal(p.Frame.MouseButton1Down, function()
+				r(1)
+			end)
+			j.AddSignal(p.Frame.MouseButton1Up, function()
+				r(0.97)
+			end)
+			return p
+		end
+	end,
+	[10] = function()
+		local c, d, e, f, g = b(10)
+		local h, i, j, k = game:GetService'UserInputService', game:GetService'Players'.LocalPlayer:GetMouse(), game:GetService'Workspace'.CurrentCamera, d.Parent.Parent
+		local l, m = e(k.Packages.Flipper), e(k.Creator)
+		local n, o, p, q = l.Spring.new, l.Instant.new, m.New, {
+			Window = nil
+		}
+		function q.Init(r, s)
+			q.Window = s
+			return q
+		end
+		function q.Create(r)
+			local s = {
+				Buttons = 0
+			}
+			s.TintFrame = p('TextButton', {
+				Text = '',
+				Size = UDim2.fromScale(1, 1),
+				BackgroundColor3 = Color3.fromRGB(0, 0, 0),
+				BackgroundTransparency = 1,
+				Parent = q.Window.Root
+			}, {
+				p('UICorner', {
+					CornerRadius = UDim.new(0, 8)
+				})
+			})
+			local t, u = m.SpringMotor(1, s.TintFrame, 'BackgroundTransparency', true)
+			s.ButtonHolder = p('Frame', {
+				Size = UDim2.new(1, -40, 1, -40),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				Position = UDim2.fromScale(0.5, 0.5),
+				BackgroundTransparency = 1
+			}, {
+				p('UIListLayout', {
+					Padding = UDim.new(0, 10),
+					FillDirection = Enum.FillDirection.Horizontal,
+					HorizontalAlignment = Enum.HorizontalAlignment.Center,
+					SortOrder = Enum.SortOrder.LayoutOrder
+				})
+			})
+			s.ButtonHolderFrame = p('Frame', {
+				Size = UDim2.new(1, 0, 0, 70),
+				Position = UDim2.new(0, 0, 1, -70),
+				ThemeTag = {
+					BackgroundColor3 = 'DialogHolder'
+				}
+			}, {
+				p('Frame', {
+					Size = UDim2.new(1, 0, 0, 1),
+					ThemeTag = {
+						BackgroundColor3 = 'DialogHolderLine'
+					}
+				}),
+				s.ButtonHolder
+			})
+			s.Title = p('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+				Text = 'Dialog',
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 22,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				Size = UDim2.new(1, 0, 0, 22),
+				Position = UDim2.fromOffset(20, 25),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			s.Scale = p('UIScale', {
+				Scale = 1
+			})
+			local v, w = m.SpringMotor(1.1, s.Scale, 'Scale')
+			s.Root = p('CanvasGroup', {
+				Size = UDim2.fromOffset(300, 165),
+				AnchorPoint = Vector2.new(0.5, 0.5),
+				Position = UDim2.fromScale(0.5, 0.5),
+				GroupTransparency = 1,
+				Parent = s.TintFrame,
+				ThemeTag = {
+					BackgroundColor3 = 'Dialog'
+				}
+			}, {
+				p('UICorner', {
+					CornerRadius = UDim.new(0, 8)
+				}),
+				p('UIStroke', {
+					Transparency = 0.5,
+					ThemeTag = {
+						Color = 'DialogBorder'
+					}
+				}),
+				s.Scale,
+				s.Title,
+				s.ButtonHolderFrame
+			})
+			local x, y = m.SpringMotor(1, s.Root, 'GroupTransparency')
+			function s.Open(z)
+				e(k).DialogOpen = true
+				s.Scale.Scale = 1.1
+				u(0.75)
+				y(0)
+				w(1)
+			end
+			function s.Close(z)
+				e(k).DialogOpen = false
+				u(1)
+				y(1)
+				w(1.1)
+				s.Root.UIStroke:Destroy()
+				task.wait(0.15)
+				s.TintFrame:Destroy()
+			end
+			function s.Button(z, A, B)
+				s.Buttons = s.Buttons + 1
+				A = A or 'Button'
+				B = B or function()
+				end
+				local C = e(k.Components.Button)('', s.ButtonHolder, true)
+				C.Title.Text = A
+				for D, E in next, s.ButtonHolder:GetChildren() do
+					if E:IsA'TextButton' then
+						E.Size = UDim2.new(1 / s.Buttons, -(((s.Buttons - 1) * 10) / s.Buttons), 0, 32)
+					end
+				end
+				m.AddSignal(C.Frame.MouseButton1Click, function()
+					e(k):SafeCallback(B)
+					pcall(function()
+						s:Close()
+					end)
+				end)
+				return C
+			end
+			return s
+		end
+		return q
+	end,
+	[11] = function()
+		local c, d, e, f, g = b(11)
+		local h = d.Parent.Parent
+		local i, j = e(h.Packages.Flipper), e(h.Creator)
+		local k, l = j.New, i.Spring.new
+		return function(m, n, o, p)
+			local q = {}
+			q.TitleLabel = k('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Medium, Enum.FontStyle.Normal),
+				Text = m,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 13,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				Size = UDim2.new(1, 0, 0, 14),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			q.DescLabel = k('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = n,
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextSize = 12,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 0, 14),
+				ThemeTag = {
+					TextColor3 = 'SubText'
+				}
+			})
+			q.LabelHolder = k('Frame', {
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(10, 0),
+				Size = UDim2.new(1, -28, 0, 0)
+			}, {
+				k('UIListLayout', {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Center
+				}),
+				k('UIPadding', {
+					PaddingBottom = UDim.new(0, 13),
+					PaddingTop = UDim.new(0, 13)
+				}),
+				q.TitleLabel,
+				q.DescLabel
+			})
+			q.Border = k('UIStroke', {
+				Transparency = 0.5,
+				ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+				Color = Color3.fromRGB(0, 0, 0),
+				ThemeTag = {
+					Color = 'ElementBorder'
+				}
+			})
+			q.Frame = k('TextButton', {
+				Size = UDim2.new(1, 0, 0, 0),
+				BackgroundTransparency = 0.89,
+				BackgroundColor3 = Color3.fromRGB(130, 130, 130),
+				Parent = o,
+				AutomaticSize = Enum.AutomaticSize.Y,
+				Text = '',
+				LayoutOrder = 7,
+				ThemeTag = {
+					BackgroundColor3 = 'Element',
+					BackgroundTransparency = 'ElementTransparency'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				q.Border,
+				q.LabelHolder
+			})
+			function q.SetTitle(r, s)
+				q.TitleLabel.Text = s
+			end
+			function q.SetDesc(r, s)
+				if s == nil then
+					s = ''
+				end
+				if s == '' then
+					q.DescLabel.Visible = false
+				else
+					q.DescLabel.Visible = true
+				end
+				q.DescLabel.Text = s
+			end
+			function q.Destroy(r)
+				q.Frame:Destroy()
+			end
+			q:SetTitle(m)
+			q:SetDesc(n)
+			if p then
+				local r, s, t = h.Themes, j.SpringMotor(j.GetThemeProperty'ElementTransparency', q.Frame, 'BackgroundTransparency', false, true)
+				j.AddSignal(q.Frame.MouseEnter, function()
+					t(j.GetThemeProperty'ElementTransparency' - j.GetThemeProperty'HoverChange')
+				end)
+				j.AddSignal(q.Frame.MouseLeave, function()
+					t(j.GetThemeProperty'ElementTransparency')
+				end)
+				j.AddSignal(q.Frame.MouseButton1Down, function()
+					t(j.GetThemeProperty'ElementTransparency' + j.GetThemeProperty'HoverChange')
+				end)
+				j.AddSignal(q.Frame.MouseButton1Up, function()
+					t(j.GetThemeProperty'ElementTransparency' - j.GetThemeProperty'HoverChange')
+				end)
+			end
+			return q
+		end
+	end,
+	[12] = function()
+		local c, d, e, f, g = b(12)
+		local h = d.Parent.Parent
+		local i, j, k = e(h.Packages.Flipper), e(h.Creator), e(h.Acrylic)
+		local l, m, n, o = i.Spring.new, i.Instant.new, j.New, {}
+		function o.Init(p, q)
+			o.Holder = n('Frame', {
+				Position = UDim2.new(1, -30, 1, -30),
+				Size = UDim2.new(0, 310, 1, -30),
+				AnchorPoint = Vector2.new(1, 1),
+				BackgroundTransparency = 1,
+				Parent = q
+			}, {
+				n('UIListLayout', {
+					HorizontalAlignment = Enum.HorizontalAlignment.Center,
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Bottom,
+					Padding = UDim.new(0, 20)
+				})
+			})
+		end
+		function o.New(p, q)
+			q.Title = q.Title or 'Title'
+			q.Content = q.Content or 'Content'
+			q.SubContent = q.SubContent or ''
+			q.Duration = q.Duration or nil
+			q.Buttons = q.Buttons or {}
+			local r = {
+				Closed = false
+			}
+			r.AcrylicPaint = k.AcrylicPaint()
+			r.Title = n('TextLabel', {
+				Position = UDim2.new(0, 14, 0, 17),
+				Text = q.Title,
+				RichText = true,
+				TextColor3 = Color3.fromRGB(255, 255, 255),
+				TextTransparency = 0,
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				TextSize = 13,
+				TextXAlignment = 'Left',
+				TextYAlignment = 'Center',
+				Size = UDim2.new(1, -12, 0, 12),
+				TextWrapped = true,
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			r.ContentLabel = n('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = q.Content,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				AutomaticSize = Enum.AutomaticSize.Y,
+				Size = UDim2.new(1, 0, 0, 14),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				TextWrapped = true,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			r.SubContentLabel = n('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = q.SubContent,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				AutomaticSize = Enum.AutomaticSize.Y,
+				Size = UDim2.new(1, 0, 0, 14),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				TextWrapped = true,
+				ThemeTag = {
+					TextColor3 = 'SubText'
+				}
+			})
+			r.LabelHolder = n('Frame', {
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(14, 40),
+				Size = UDim2.new(1, -28, 0, 0)
+			}, {
+				n('UIListLayout', {
+					SortOrder = Enum.SortOrder.LayoutOrder,
+					VerticalAlignment = Enum.VerticalAlignment.Center,
+					Padding = UDim.new(0, 3)
+				}),
+				r.ContentLabel,
+				r.SubContentLabel
+			})
+			r.CloseButton = n('TextButton', {
+				Text = '',
+				Position = UDim2.new(1, -14, 0, 13),
+				Size = UDim2.fromOffset(20, 20),
+				AnchorPoint = Vector2.new(1, 0),
+				BackgroundTransparency = 1
+			}, {
+				n('ImageLabel', {
+					Image = e(d.Parent.Assets).Close,
+					Size = UDim2.fromOffset(16, 16),
+					Position = UDim2.fromScale(0.5, 0.5),
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					ThemeTag = {
+						ImageColor3 = 'Text'
+					}
+				})
+			})
+			r.Root = n('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 1, 0),
+				Position = UDim2.fromScale(1, 0)
+			}, {
+				r.AcrylicPaint.Frame,
+				r.Title,
+				r.CloseButton,
+				r.LabelHolder
+			})
+			if q.Content == '' then
+				r.ContentLabel.Visible = false
+			end
+			if q.SubContent == '' then
+				r.SubContentLabel.Visible = false
+			end
+			r.Holder = n('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 0, 200),
+				Parent = o.Holder
+			}, {
+				r.Root
+			})
+			local s = i.GroupMotor.new{
+				Scale = 1,
+				Offset = 60
+			}
+			s:onStep(function(t)
+				r.Root.Position = UDim2.new(t.Scale, t.Offset, 0, 0)
+			end)
+			j.AddSignal(r.CloseButton.MouseButton1Click, function()
+				r:Close()
+			end)
+			function r.Open(t)
+				local u = r.LabelHolder.AbsoluteSize.Y
+				r.Holder.Size = UDim2.new(1, 0, 0, 58 + u)
+				s:setGoal{
+					Scale = l(0, {
+						frequency = 5
+					}),
+					Offset = l(0, {
+						frequency = 5
+					})
+				}
+			end
+			function r.Close(t)
+				if not r.Closed then
+					r.Closed = true
+					task.spawn(function()
+						s:setGoal{
+							Scale = l(1, {
+								frequency = 5
+							}),
+							Offset = l(60, {
+								frequency = 5
+							})
+						}
+						task.wait(0.4)
+						if e(h).UseAcrylic then
+							r.AcrylicPaint.Model:Destroy()
+						end
+						r.Holder:Destroy()
+					end)
+				end
+			end
+			r:Open()
+			if q.Duration then
+				task.delay(q.Duration, function()
+					r:Close()
+				end)
+			end
+			return r
+		end
+		return o
+	end,
+	[13] = function()
+		local c, d, e, f, g = b(13)
+		local h = d.Parent.Parent
+		local i = e(h.Creator)
+		local j = i.New
+		return function(k, l)
+			local m = {}
+			m.Layout = j('UIListLayout', {
+				Padding = UDim.new(0, 5)
+			})
+			m.Container = j('Frame', {
+				Size = UDim2.new(1, 0, 0, 26),
+				Position = UDim2.fromOffset(0, 24),
+				BackgroundTransparency = 1
+			}, {
+				m.Layout
+			})
+			m.Root = j('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.new(1, 0, 0, 26),
+				LayoutOrder = 7,
+				Parent = l
+			}, {
+				j('TextLabel', {
+					RichText = true,
+					Text = k,
+					TextTransparency = 0,
+					FontFace = Font.new('rbxassetid://12187365364', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+					TextSize = 18,
+					TextXAlignment = 'Left',
+					TextYAlignment = 'Center',
+					Size = UDim2.new(1, -16, 0, 18),
+					Position = UDim2.fromOffset(0, 2),
+					ThemeTag = {
+						TextColor3 = 'Text'
+					}
+				}),
+				m.Container
+			})
+			i.AddSignal(m.Layout:GetPropertyChangedSignal'AbsoluteContentSize', function()
+				m.Container.Size = UDim2.new(1, 0, 0, m.Layout.AbsoluteContentSize.Y)
+				m.Root.Size = UDim2.new(1, 0, 0, m.Layout.AbsoluteContentSize.Y + 25)
+			end)
+			return m
+		end
+	end,
+	[14] = function()
+		local c, d, e, f, g = b(14)
+		local h = d.Parent.Parent
+		local i, j = e(h.Packages.Flipper), e(h.Creator)
+		local k, l, m, n, o = j.New, i.Spring.new, i.Instant.new, h.Components, {
+			Window = nil,
+			Tabs = {},
+			Containers = {},
+			SelectedTab = 0,
+			TabCount = 0
+		}
+		function o.Init(p, q)
+			o.Window = q
+			return o
+		end
+		function o.GetCurrentTabPos(p)
+			local q, r = o.Window.TabHolder.AbsolutePosition.Y, o.Tabs[o.SelectedTab].Frame.AbsolutePosition.Y
+			return r - q
+		end
+		function o.New(p, q, r, s)
+			local t, u = e(h), o.Window
+			local v = t.Elements
+			o.TabCount = o.TabCount + 1
+			local w, x = o.TabCount, {
+				Selected = false,
+				Name = q,
+				Type = 'Tab'
+			}
+			if t:GetIcon(r) then
+				r = t:GetIcon(r)
+			end
+			if r == '' or nil then
+				r = nil
+			end
+			x.Frame = k('TextButton', {
+				Size = UDim2.new(1, 0, 0, 34),
+				BackgroundTransparency = 1,
+				Parent = s,
+				ThemeTag = {
+					BackgroundColor3 = 'Tab'
+				}
+			}, {
+				k('UICorner', {
+					CornerRadius = UDim.new(0, 6)
+				}),
+				k('TextLabel', {
+					AnchorPoint = Vector2.new(0, 0.5),
+					Position = r and UDim2.new(0, 30, 0.5, 0) or UDim2.new(0, 12, 0.5, 0),
+					Text = q,
+					RichText = true,
+					TextColor3 = Color3.fromRGB(255, 255, 255),
+					TextTransparency = 0,
+					FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+					TextSize = 12,
+					TextXAlignment = 'Left',
+					TextYAlignment = 'Center',
+					Size = UDim2.new(1, -12, 1, 0),
+					BackgroundTransparency = 1,
+					ThemeTag = {
+						TextColor3 = 'Text'
+					}
+				}),
+				k('ImageLabel', {
+					AnchorPoint = Vector2.new(0, 0.5),
+					Size = UDim2.fromOffset(16, 16),
+					Position = UDim2.new(0, 8, 0.5, 0),
+					BackgroundTransparency = 1,
+					Image = r and r or nil,
+					ThemeTag = {
+						ImageColor3 = 'Text'
+					}
+				})
+			})
+			local y = k('UIListLayout', {
+				Padding = UDim.new(0, 5),
+				SortOrder = Enum.SortOrder.LayoutOrder
+			})
+			x.ContainerFrame = k('ScrollingFrame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				Parent = u.ContainerHolder,
+				Visible = false,
+				BottomImage = 'rbxassetid://6889812791',
+				MidImage = 'rbxassetid://6889812721',
+				TopImage = 'rbxassetid://6276641225',
+				ScrollBarImageColor3 = Color3.fromRGB(255, 255, 255),
+				ScrollBarImageTransparency = 0.95,
+				ScrollBarThickness = 3,
+				BorderSizePixel = 0,
+				CanvasSize = UDim2.fromScale(0, 0),
+				ScrollingDirection = Enum.ScrollingDirection.Y
+			}, {
+				y,
+				k('UIPadding', {
+					PaddingRight = UDim.new(0, 10),
+					PaddingLeft = UDim.new(0, 1),
+					PaddingTop = UDim.new(0, 1),
+					PaddingBottom = UDim.new(0, 1)
+				})
+			})
+			j.AddSignal(y:GetPropertyChangedSignal'AbsoluteContentSize', function()
+				x.ContainerFrame.CanvasSize = UDim2.new(0, 0, 0, y.AbsoluteContentSize.Y + 2)
+			end)
+			x.Motor, x.SetTransparency = j.SpringMotor(1, x.Frame, 'BackgroundTransparency')
+			j.AddSignal(x.Frame.MouseEnter, function()
+				x.SetTransparency(x.Selected and 0.85 or 0.89)
+			end)
+			j.AddSignal(x.Frame.MouseLeave, function()
+				x.SetTransparency(x.Selected and 0.89 or 1)
+			end)
+			j.AddSignal(x.Frame.MouseButton1Down, function()
+				x.SetTransparency(0.92)
+			end)
+			j.AddSignal(x.Frame.MouseButton1Up, function()
+				x.SetTransparency(x.Selected and 0.85 or 0.89)
+			end)
+			j.AddSignal(x.Frame.MouseButton1Click, function()
+				o:SelectTab(w)
+			end)
+			o.Containers[w] = x.ContainerFrame
+			o.Tabs[w] = x
+			x.Container = x.ContainerFrame
+			x.ScrollFrame = x.Container
+			function x.AddSection(z, A)
+				local B, C = {
+					Type = 'Section'
+				}, e(n.Section)(A, x.Container)
+				B.Container = C.Container
+				B.ScrollFrame = x.Container
+				setmetatable(B, v)
+				return B
+			end
+			setmetatable(x, v)
+			return x
+		end
+		function o.SelectTab(p, q)
+			local r = o.Window
+			o.SelectedTab = q
+			for s, t in next, o.Tabs do
+				t.SetTransparency(1)
+				t.Selected = false
+			end
+			o.Tabs[q].SetTransparency(0.89)
+			o.Tabs[q].Selected = true
+			r.TabDisplay.Text = o.Tabs[q].Name
+			r.SelectorPosMotor:setGoal(l(o:GetCurrentTabPos(), {
+				frequency = 6
+			}))
+			task.spawn(function()
+				r.ContainerPosMotor:setGoal(l(110, {
+					frequency = 10
+				}))
+				r.ContainerBackMotor:setGoal(l(1, {
+					frequency = 10
+				}))
+				task.wait(0.15)
+				for u, v in next, o.Containers do
+					v.Visible = false
+				end
+				o.Containers[q].Visible = true
+				r.ContainerPosMotor:setGoal(l(94, {
+					frequency = 5
+				}))
+				r.ContainerBackMotor:setGoal(l(0, {
+					frequency = 8
+				}))
+			end)
+		end
+		return o
+	end,
+	[15] = function()
+		local c, d, e, f, g = b(15)
+		local h, i = game:GetService'TextService', d.Parent.Parent
+		local j, k = e(i.Packages.Flipper), e(i.Creator)
+		local l = k.New
+		return function(m, n)
+			n = n or false
+			local o = {}
+			o.Input = l('TextBox', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				TextColor3 = Color3.fromRGB(200, 200, 200),
+				TextSize = 14,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				TextYAlignment = Enum.TextYAlignment.Center,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.Y,
+				BackgroundTransparency = 1,
+				Size = UDim2.fromScale(1, 1),
+				Position = UDim2.fromOffset(10, 0),
+				ThemeTag = {
+					TextColor3 = 'Text',
+					PlaceholderColor3 = 'SubText'
+				}
+			})
+			o.Container = l('Frame', {
+				BackgroundTransparency = 1,
+				ClipsDescendants = true,
+				Position = UDim2.new(0, 6, 0, 0),
+				Size = UDim2.new(1, -12, 1, 0)
+			}, {
+				o.Input
+			})
+			o.Indicator = l('Frame', {
+				Size = UDim2.new(1, -4, 0, 1),
+				Position = UDim2.new(0, 2, 1, 0),
+				AnchorPoint = Vector2.new(0, 1),
+				BackgroundTransparency = n and 0.5 or 0,
+				ThemeTag = {
+					BackgroundColor3 = n and 'InputIndicator' or 'DialogInputLine'
+				}
+			})
+			o.Frame = l('Frame', {
+				Size = UDim2.new(0, 0, 0, 30),
+				BackgroundTransparency = n and 0.9 or 0,
+				Parent = m,
+				ThemeTag = {
+					BackgroundColor3 = n and 'Input' or 'DialogInput'
+				}
+			}, {
+				l('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				l('UIStroke', {
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					Transparency = n and 0.5 or 0.65,
+					ThemeTag = {
+						Color = n and 'InElementBorder' or 'DialogButtonBorder'
+					}
+				}),
+				o.Indicator,
+				o.Container
+			})
+			local p = function()
+				local p, q = 2, o.Container.AbsoluteSize.X
+				if not o.Input:IsFocused() or o.Input.TextBounds.X <= q - 2 * p then
+					o.Input.Position = UDim2.new(0, p, 0, 0)
+				else
+					local r = o.Input.CursorPosition
+					if r ~= -1 then
+						local s = string.sub(o.Input.Text, 1, r - 1)
+						local t = h:GetTextSize(s, o.Input.TextSize, o.Input.Font, Vector2.new(math.huge, math.huge)).X
+						local u = o.Input.Position.X.Offset + t
+						if u < p then
+							o.Input.Position = UDim2.fromOffset(p - t, 0)
+						elseif u > q - p - 1 then
+							o.Input.Position = UDim2.fromOffset(q - t - p - 1, 0)
+						end
+					end
+				end
+			end
+			task.spawn(p)
+			k.AddSignal(o.Input:GetPropertyChangedSignal'Text', p)
+			k.AddSignal(o.Input:GetPropertyChangedSignal'CursorPosition', p)
+			k.AddSignal(o.Input.Focused, function()
+				p()
+				o.Indicator.Size = UDim2.new(1, -2, 0, 2)
+				o.Indicator.Position = UDim2.new(0, 1, 1, 0)
+				o.Indicator.BackgroundTransparency = 0
+				k.OverrideTag(o.Frame, {
+					BackgroundColor3 = n and 'InputFocused' or 'DialogHolder'
+				})
+				k.OverrideTag(o.Indicator, {
+					BackgroundColor3 = 'Accent'
+				})
+			end)
+			k.AddSignal(o.Input.FocusLost, function()
+				p()
+				o.Indicator.Size = UDim2.new(1, -4, 0, 1)
+				o.Indicator.Position = UDim2.new(0, 2, 1, 0)
+				o.Indicator.BackgroundTransparency = 0.5
+				k.OverrideTag(o.Frame, {
+					BackgroundColor3 = n and 'Input' or 'DialogInput'
+				})
+				k.OverrideTag(o.Indicator, {
+					BackgroundColor3 = n and 'InputIndicator' or 'DialogInputLine'
+				})
+			end)
+			return o
+		end
+	end,
+	[16] = function()
+		local c, d, e, f, g = b(16)
+		local h, i = d.Parent.Parent, e(d.Parent.Assets)
+		local j, k = e(h.Creator), e(h.Packages.Flipper)
+		local l, m = j.New, j.AddSignal
+		return function(n)
+			local o, p, q = {}, e(h), function(o, p, q, r)
+				local s = {
+					Callback = r or function()
+					end
+				}
+				s.Frame = l('TextButton', {
+					Size = UDim2.new(0, 34, 1, -8),
+					AnchorPoint = Vector2.new(1, 0),
+					BackgroundTransparency = 1,
+					Parent = q,
+					Position = p,
+					Text = '',
+					ThemeTag = {
+						BackgroundColor3 = 'Text'
+					}
+				}, {
+					l('UICorner', {
+						CornerRadius = UDim.new(0, 7)
+					}),
+					l('ImageLabel', {
+						Image = o,
+						Size = UDim2.fromOffset(16, 16),
+						Position = UDim2.fromScale(0.5, 0.5),
+						AnchorPoint = Vector2.new(0.5, 0.5),
+						BackgroundTransparency = 1,
+						Name = 'Icon',
+						ThemeTag = {
+							ImageColor3 = 'Text'
+						}
+					})
+				})
+				local t, u = j.SpringMotor(1, s.Frame, 'BackgroundTransparency')
+				m(s.Frame.MouseEnter, function()
+					u(0.94)
+				end)
+				m(s.Frame.MouseLeave, function()
+					u(1, true)
+				end)
+				m(s.Frame.MouseButton1Down, function()
+					u(0.96)
+				end)
+				m(s.Frame.MouseButton1Up, function()
+					u(0.94)
+				end)
+				m(s.Frame.MouseButton1Click, s.Callback)
+				s.SetCallback = function(v)
+					s.Callback = v
+				end
+				return s
+			end
+			o.Frame = l('Frame', {
+				Size = UDim2.new(1, 0, 0, 42),
+				BackgroundTransparency = 1,
+				Parent = n.Parent
+			}, {
+				l('Frame', {
+					Size = UDim2.new(1, -16, 1, 0),
+					Position = UDim2.new(0, 16, 0, 0),
+					BackgroundTransparency = 1
+				}, {
+					l('UIListLayout', {
+						Padding = UDim.new(0, 5),
+						FillDirection = Enum.FillDirection.Horizontal,
+						SortOrder = Enum.SortOrder.LayoutOrder
+					}),
+					l('TextLabel', {
+						RichText = true,
+						Text = n.Title,
+						FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+						TextSize = 12,
+						TextXAlignment = 'Left',
+						TextYAlignment = 'Center',
+						Size = UDim2.fromScale(0, 1),
+						AutomaticSize = Enum.AutomaticSize.X,
+						BackgroundTransparency = 1,
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					}),
+					l('TextLabel', {
+						RichText = true,
+						Text = n.SubTitle,
+						TextTransparency = 0.4,
+						FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+						TextSize = 12,
+						TextXAlignment = 'Left',
+						TextYAlignment = 'Center',
+						Size = UDim2.fromScale(0, 1),
+						AutomaticSize = Enum.AutomaticSize.X,
+						BackgroundTransparency = 1,
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					})
+				}),
+				l('Frame', {
+					BackgroundTransparency = 0.5,
+					Size = UDim2.new(1, 0, 0, 1),
+					Position = UDim2.new(0, 0, 1, 0),
+					ThemeTag = {
+						BackgroundColor3 = 'TitleBarLine'
+					}
+				})
+			})
+			o.CloseButton = q(i.Close, UDim2.new(1, -4, 0, 4), o.Frame, function()
+				p.Window:Dialog{
+					Title = 'Close',
+					Content = 'Are you sure you want to unload the interface?',
+					Buttons = {
+						{
+							Title = 'Yes',
+							Callback = function()
+								p:Destroy()
+							end
+						},
+						{
+							Title = 'No'
+						}
+					}
+				}
+			end)
+			o.MaxButton = q(i.Max, UDim2.new(1, -40, 0, 4), o.Frame, function()
+				n.Window.Maximize(not n.Window.Maximized)
+			end)
+			o.MinButton = q(i.Min, UDim2.new(1, -80, 0, 4), o.Frame, function()
+				p.Window:Minimize()
+			end)
+			return o
+		end
+	end,
+	[17] = function()
+		local c, d, e, f, g = b(17)
+		local h, i, j, k = game:GetService'UserInputService', game:GetService'Players'.LocalPlayer:GetMouse(), game:GetService'Workspace'.CurrentCamera, d.Parent.Parent
+		local l, m, n, o, p = e(k.Packages.Flipper), e(k.Creator), e(k.Acrylic), e(d.Parent.Assets), d.Parent
+		local q, r, s = l.Spring.new, l.Instant.new, m.New
+		return function(t)
+			local u, v, w, x, y, z = e(k), {
+				Minimized = false,
+				Maximized = false,
+				Size = t.Size,
+				CurrentPos = 0,
+				Position = UDim2.fromOffset(j.ViewportSize.X / 2 - t.Size.X.Offset / 2, j.ViewportSize.Y / 2 - t.Size.Y.Offset / 2)
+			}, false
+			local A, B = false
+			local C = false
+			v.AcrylicPaint = n.AcrylicPaint()
+			local D, E = s('Frame', {
+				Size = UDim2.fromOffset(4, 0),
+				BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+				Position = UDim2.fromOffset(0, 17),
+				AnchorPoint = Vector2.new(0, 0.5),
+				ThemeTag = {
+					BackgroundColor3 = 'Accent'
+				}
+			}, {
+				s('UICorner', {
+					CornerRadius = UDim.new(0, 2)
+				})
+			}), s('Frame', {
+				Size = UDim2.fromOffset(20, 20),
+				BackgroundTransparency = 1,
+				Position = UDim2.new(1, -20, 1, -20)
+			})
+			v.TabHolder = s('ScrollingFrame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundTransparency = 1,
+				ScrollBarImageTransparency = 1,
+				ScrollBarThickness = 0,
+				BorderSizePixel = 0,
+				CanvasSize = UDim2.fromScale(0, 0),
+				ScrollingDirection = Enum.ScrollingDirection.Y
+			}, {
+				s('UIListLayout', {
+					Padding = UDim.new(0, 4)
+				})
+			})
+			local F = s('Frame', {
+				Size = UDim2.new(0, t.TabWidth, 1, -66),
+				Position = UDim2.new(0, 12, 0, 54),
+				BackgroundTransparency = 1,
+				ClipsDescendants = true
+			}, {
+				v.TabHolder,
+				D
+			})
+			v.TabDisplay = s('TextLabel', {
+				RichText = true,
+				Text = 'Tab',
+				TextTransparency = 0,
+				FontFace = Font.new('rbxassetid://12187365364', Enum.FontWeight.SemiBold, Enum.FontStyle.Normal),
+				TextSize = 28,
+				TextXAlignment = 'Left',
+				TextYAlignment = 'Center',
+				Size = UDim2.new(1, -16, 0, 28),
+				Position = UDim2.fromOffset(t.TabWidth + 26, 56),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			v.ContainerHolder = s('CanvasGroup', {
+				Size = UDim2.new(1, -t.TabWidth - 32, 1, -102),
+				Position = UDim2.fromOffset(t.TabWidth + 26, 90),
+				BackgroundTransparency = 1
+			})
+			v.Root = s('Frame', {
+				BackgroundTransparency = 1,
+				Size = v.Size,
+				Position = v.Position,
+				Parent = t.Parent
+			}, {
+				v.AcrylicPaint.Frame,
+				v.TabDisplay,
+				v.ContainerHolder,
+				F,
+				E
+			})
+			v.TitleBar = e(d.Parent.TitleBar){
+				Title = t.Title,
+				SubTitle = t.SubTitle,
+				Parent = v.Root,
+				Window = v
+			}
+			if e(k).UseAcrylic then
+				v.AcrylicPaint.AddParent(v.Root)
+			end
+			local G, H = l.GroupMotor.new{
+				X = v.Size.X.Offset,
+				Y = v.Size.Y.Offset
+			}, l.GroupMotor.new{
+				X = v.Position.X.Offset,
+				Y = v.Position.Y.Offset
+			}
+			v.SelectorPosMotor = l.SingleMotor.new(17)
+			v.SelectorSizeMotor = l.SingleMotor.new(0)
+			v.ContainerBackMotor = l.SingleMotor.new(0)
+			v.ContainerPosMotor = l.SingleMotor.new(94)
+			G:onStep(function(I)
+				v.Root.Size = UDim2.new(0, I.X, 0, I.Y)
+			end)
+			H:onStep(function(I)
+				v.Root.Position = UDim2.new(0, I.X, 0, I.Y)
+			end)
+			local I, J = 0, 0
+			v.SelectorPosMotor:onStep(function(K)
+				D.Position = UDim2.new(0, 0, 0, K + 17)
+				local L = tick()
+				local M = L - J
+				if I ~= nil then
+					v.SelectorSizeMotor:setGoal(q((math.abs(K - I) / (M * 60)) + 16))
+					I = K
+				end
+				J = L
+			end)
+			v.SelectorSizeMotor:onStep(function(K)
+				D.Size = UDim2.new(0, 4, 0, K)
+			end)
+			v.ContainerBackMotor:onStep(function(K)
+				v.ContainerHolder.GroupTransparency = K
+			end)
+			v.ContainerPosMotor:onStep(function(K)
+				v.ContainerHolder.Position = UDim2.fromOffset(t.TabWidth + 26, K)
+			end)
+			local K, L
+			v.Maximize = function(M, N, O)
+				v.Maximized = M
+				v.TitleBar.MaxButton.Frame.Icon.Image = M and o.Restore or o.Max
+				if M then
+					K = v.Size.X.Offset
+					L = v.Size.Y.Offset
+				end
+				local P, Q = M and j.ViewportSize.X or K, M and j.ViewportSize.Y or L
+				G:setGoal{
+					X = l[O and 'Instant' or 'Spring'].new(P, {
+						frequency = 6
+					}),
+					Y = l[O and 'Instant' or 'Spring'].new(Q, {
+						frequency = 6
+					})
+				}
+				v.Size = UDim2.fromOffset(P, Q)
+				if not N then
+					H:setGoal{
+						X = q(M and 0 or v.Position.X.Offset, {
+							frequency = 6
+						}),
+						Y = q(M and 0 or v.Position.Y.Offset, {
+							frequency = 6
+						})
+					}
+				end
+			end
+			m.AddSignal(v.TitleBar.Frame.InputBegan, function(M)
+				if M.UserInputType == Enum.UserInputType.MouseButton1 or M.UserInputType == Enum.UserInputType.Touch then
+					w = true
+					y = M.Position
+					z = v.Root.Position
+					if v.Maximized then
+						z = UDim2.fromOffset(i.X - (i.X * ((K - 100) / v.Root.AbsoluteSize.X)), i.Y - (i.Y * (L / v.Root.AbsoluteSize.Y)))
+					end
+					M.Changed:Connect(function()
+						if M.UserInputState == Enum.UserInputState.End then
+							w = false
+						end
+					end)
+				end
+			end)
+			m.AddSignal(v.TitleBar.Frame.InputChanged, function(M)
+				if M.UserInputType == Enum.UserInputType.MouseMovement or M.UserInputType == Enum.UserInputType.Touch then
+					x = M
+				end
+			end)
+			m.AddSignal(E.InputBegan, function(M)
+				if M.UserInputType == Enum.UserInputType.MouseButton1 or M.UserInputType == Enum.UserInputType.Touch then
+					A = true
+					B = M.Position
+				end
+			end)
+			m.AddSignal(h.InputChanged, function(M)
+				if M == x and w then
+					local N = M.Position - y
+					v.Position = UDim2.fromOffset(z.X.Offset + N.X, z.Y.Offset + N.Y)
+					H:setGoal{
+						X = r(v.Position.X.Offset),
+						Y = r(v.Position.Y.Offset)
+					}
+					if v.Maximized then
+						v.Maximize(false, true, true)
+					end
+				end
+				if (M.UserInputType == Enum.UserInputType.MouseMovement or M.UserInputType == Enum.UserInputType.Touch) and A then
+					local N, O = M.Position - B, v.Size
+					local P = Vector3.new(O.X.Offset, O.Y.Offset, 0) + Vector3.new(1, 1, 0) * N
+					local Q = Vector2.new(math.clamp(P.X, 470, 2048), math.clamp(P.Y, 380, 2048))
+					G:setGoal{
+						X = l.Instant.new(Q.X),
+						Y = l.Instant.new(Q.Y)
+					}
+				end
+			end)
+			m.AddSignal(h.InputEnded, function(M)
+				if A == true or M.UserInputType == Enum.UserInputType.Touch then
+					A = false
+					v.Size = UDim2.fromOffset(G:getValue().X, G:getValue().Y)
+				end
+			end)
+			m.AddSignal(v.TabHolder.UIListLayout:GetPropertyChangedSignal'AbsoluteContentSize', function()
+				v.TabHolder.CanvasSize = UDim2.new(0, 0, 0, v.TabHolder.UIListLayout.AbsoluteContentSize.Y)
+			end)
+			m.AddSignal(h.InputBegan, function(M)
+				if type(u.MinimizeKeybind) == 'table' and u.MinimizeKeybind.Type == 'Keybind' and not h:GetFocusedTextBox() then
+					if M.KeyCode.Name == u.MinimizeKeybind.Value then
+						v:Minimize()
+					end
+				elseif M.KeyCode == u.MinimizeKey and not h:GetFocusedTextBox() then
+					v:Minimize()
+				end
+			end)
+			function v.Minimize(M)
+				v.Minimized = not v.Minimized
+				v.Root.Visible = not v.Minimized
+				if not C then
+					C = true
+					local N = u.MinimizeKeybind and u.MinimizeKeybind.Value or u.MinimizeKey.Name
+					u:Notify{
+						Title = 'Interface',
+						Content = 'Press ' .. N .. ' to toggle the inteface.',
+						Duration = 6
+					}
+				end
+			end
+			function v.Destroy(M)
+				if e(k).UseAcrylic then
+					v.AcrylicPaint.Model:Destroy()
+				end
+				v.Root:Destroy()
+			end
+			local M = e(p.Dialog):Init(v)
+			function v.Dialog(N, O)
+				local P = M:Create()
+				P.Title.Text = O.Title
+				local Q = s('TextLabel', {
+					FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+					Text = O.Content,
+					TextColor3 = Color3.fromRGB(240, 240, 240),
+					TextSize = 14,
+					TextXAlignment = Enum.TextXAlignment.Left,
+					TextYAlignment = Enum.TextYAlignment.Top,
+					Size = UDim2.new(1, -40, 1, 0),
+					Position = UDim2.fromOffset(20, 60),
+					BackgroundTransparency = 1,
+					Parent = P.Root,
+					ClipsDescendants = false,
+					ThemeTag = {
+						TextColor3 = 'Text'
+					}
+				})
+				s('UISizeConstraint', {
+					MinSize = Vector2.new(300, 165),
+					MaxSize = Vector2.new(620, math.huge),
+					Parent = P.Root
+				})
+				P.Root.Size = UDim2.fromOffset(Q.TextBounds.X + 40, 165)
+				if Q.TextBounds.X + 40 > v.Size.X.Offset - 120 then
+					P.Root.Size = UDim2.fromOffset(v.Size.X.Offset - 120, 165)
+					Q.TextWrapped = true
+					P.Root.Size = UDim2.fromOffset(v.Size.X.Offset - 120, Q.TextBounds.Y + 150)
+				end
+				for R, S in next, O.Buttons do
+					P:Button(S.Title, S.Callback)
+				end
+				P:Open()
+			end
+			local N = e(p.Tab):Init(v)
+			function v.AddTab(O, P)
+				return N:New(P.Title, P.Icon, v.TabHolder)
+			end
+			function v.SelectTab(O, P)
+				N:SelectTab(1)
+			end
+			m.AddSignal(v.TabHolder:GetPropertyChangedSignal'CanvasPosition', function()
+				I = N:GetCurrentTabPos() + 16
+				J = 0
+				v.SelectorPosMotor:setGoal(r(N:GetCurrentTabPos()))
+			end)
+			return v
+		end
+	end,
+	[18] = function()
+		local c, d, e, f, g = b(18)
+		local h = d.Parent
+		local i, j, k = e(h.Themes), e(h.Packages.Flipper), {
+			Registry = {},
+			Signals = {},
+			TransparencyMotors = {},
+			DefaultProperties = {
+				ScreenGui = {
+					ResetOnSpawn = false,
+					ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+				},
+				Frame = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					BorderSizePixel = 0
+				},
+				ScrollingFrame = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					ScrollBarImageColor3 = Color3.new(0, 0, 0)
+				},
+				TextLabel = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					Font = Enum.Font.SourceSans,
+					Text = '',
+					TextColor3 = Color3.new(0, 0, 0),
+					BackgroundTransparency = 1,
+					TextSize = 14
+				},
+				TextButton = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					AutoButtonColor = false,
+					Font = Enum.Font.SourceSans,
+					Text = '',
+					TextColor3 = Color3.new(0, 0, 0),
+					TextSize = 14
+				},
+				TextBox = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					ClearTextOnFocus = false,
+					Font = Enum.Font.SourceSans,
+					Text = '',
+					TextColor3 = Color3.new(0, 0, 0),
+					TextSize = 14
+				},
+				ImageLabel = {
+					BackgroundTransparency = 1,
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					BorderSizePixel = 0
+				},
+				ImageButton = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					AutoButtonColor = false
+				},
+				CanvasGroup = {
+					BackgroundColor3 = Color3.new(1, 1, 1),
+					BorderColor3 = Color3.new(0, 0, 0),
+					BorderSizePixel = 0
+				}
+			}
+		}
+		local l = function(l, m)
+			if m.ThemeTag then
+				k.AddThemeObject(l, m.ThemeTag)
+			end
+		end
+		function k.AddSignal(m, n)
+			table.insert(k.Signals, m:Connect(n))
+		end
+		function k.Disconnect()
+			for m = #k.Signals, 1, -1 do
+				local n = table.remove(k.Signals, m)
+				n:Disconnect()
+			end
+		end
+		function k.GetThemeProperty(m)
+			if i[e(h).Theme][m] then
+				return i[e(h).Theme][m]
+			end
+			return i.Dark[m]
+		end
+		function k.UpdateTheme()
+			for m, n in next, k.Registry do
+				for o, p in next, n.Properties do
+					m[o] = k.GetThemeProperty(p)
+				end
+			end
+			for o, p in next, k.TransparencyMotors do
+				p:setGoal(j.Instant.new(k.GetThemeProperty'ElementTransparency'))
+			end
+		end
+		function k.AddThemeObject(m, n)
+			local o = #k.Registry + 1
+			local p = {
+				Object = m,
+				Properties = n,
+				Idx = o
+			}
+			k.Registry[m] = p
+			k.UpdateTheme()
+			return m
+		end
+		function k.OverrideTag(m, n)
+			k.Registry[m].Properties = n
+			k.UpdateTheme()
+		end
+		function k.New(m, n, o)
+			local p = Instance.new(m)
+			for q, r in next, k.DefaultProperties[m] or {} do
+				p[q] = r
+			end
+			for s, t in next, n or {} do
+				if s ~= 'ThemeTag' then
+					p[s] = t
+				end
+			end
+			for u, v in next, o or {} do
+				v.Parent = p
+			end
+			l(p, n)
+			return p
+		end
+		function k.SpringMotor(m, n, o, p, s)
+			p = p or false
+			s = s or false
+			local t = j.SingleMotor.new(m)
+			t:onStep(function(u)
+				n[o] = u
+			end)
+			if s then
+				table.insert(k.TransparencyMotors, t)
+			end
+			local u = function(u, v)
+				v = v or false
+				if not p then
+					if not v then
+						if o == 'BackgroundTransparency' and e(h).DialogOpen then
+							return
+						end
+					end
+				end
+				t:setGoal(j.Spring.new(u, {
+					frequency = 8
+				}))
+			end
+			return t, u
+		end
+		return k
+	end,
+	[19] = function()
+		local c, d, e, f, g = b(19)
+		local h = {}
+		for i, j in next, d:GetChildren() do
+			table.insert(h, e(j))
+		end
+		return h
+	end,
+	[20] = function()
+		local c, d, e, f, g = b(20)
+		local h = d.Parent.Parent
+		local i = e(h.Creator)
+		local j, k, l = i.New, h.Components, {}
+		l.__index = l
+		l.__type = 'Button'
+		function l.New(m, n)
+			assert(n.Title, 'Button - Missing Title')
+			n.Callback = n.Callback or function()
+			end
+			local o = e(k.Element)(n.Title, n.Description, m.Container, true)
+			local p = j('ImageLabel', {
+				Image = 'rbxassetid://10709791437',
+				Size = UDim2.fromOffset(16, 16),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				BackgroundTransparency = 1,
+				Parent = o.Frame,
+				ThemeTag = {
+					ImageColor3 = 'Text'
+				}
+			})
+			i.AddSignal(o.Frame.MouseButton1Click, function()
+				m.Library:SafeCallback(n.Callback)
+			end)
+			return o
+		end
+		return l
+	end,
+	[21] = function()
+		local c, d, e, f, g = b(21)
+		local h, i, j, k = game:GetService'UserInputService', game:GetService'TouchInputService', game:GetService'RunService', game:GetService'Players'
+		local l, m = j.RenderStepped, k.LocalPlayer
+		local n, o = m:GetMouse(), d.Parent.Parent
+		local p = e(o.Creator)
+		local s, t, u = p.New, o.Components, {}
+		u.__index = u
+		u.__type = 'Colorpicker'
+		function u.New(v, w, x)
+			local y = v.Library
+			assert(x.Title, 'Colorpicker - Missing Title')
+			assert(x.Default, 'AddColorPicker: Missing default value.')
+			local z = {
+				Value = x.Default,
+				Transparency = x.Transparency or 0,
+				Type = 'Colorpicker',
+				Title = type(x.Title) == 'string' and x.Title or 'Colorpicker',
+				Callback = x.Callback or function(z)
+				end
+			}
+			function z.SetHSVFromRGB(A, B)
+				local C, D, E = Color3.toHSV(B)
+				z.Hue = C
+				z.Sat = D
+				z.Vib = E
+			end
+			z:SetHSVFromRGB(z.Value)
+			local A = e(t.Element)(x.Title, x.Description, v.Container, true)
+			z.SetTitle = A.SetTitle
+			z.SetDesc = A.SetDesc
+			local B = s('Frame', {
+				Size = UDim2.fromScale(1, 1),
+				BackgroundColor3 = z.Value,
+				Parent = A.Frame
+			}, {
+				s('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				})
+			})
+			local aa, ab = s('ImageLabel', {
+				Size = UDim2.fromOffset(26, 26),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Parent = A.Frame,
+				Image = 'http://www.roblox.com/asset/?id=14204231522',
+				ImageTransparency = 0.45,
+				ScaleType = Enum.ScaleType.Tile,
+				TileSize = UDim2.fromOffset(40, 40)
+			}, {
+				s('UICorner', {
+					CornerRadius = UDim.new(0, 4)
+				}),
+				B
+			}), function()
+				local C = e(t.Dialog):Create()
+				C.Title.Text = z.Title
+				C.Root.Size = UDim2.fromOffset(430, 330)
+				local D, E, F, G, H, I = z.Hue, z.Sat, z.Vib, z.Transparency, function()
+					local D = e(t.Textbox)()
+					D.Frame.Parent = C.Root
+					D.Frame.Size = UDim2.new(0, 90, 0, 32)
+					return D
+				end, function(D, E)
+					return s('TextLabel', {
+						FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Medium, Enum.FontStyle.Normal),
+						Text = D,
+						TextColor3 = Color3.fromRGB(240, 240, 240),
+						TextSize = 13,
+						TextXAlignment = Enum.TextXAlignment.Left,
+						Size = UDim2.new(1, 0, 0, 32),
+						Position = E,
+						BackgroundTransparency = 1,
+						Parent = C.Root,
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					})
+				end
+				local J, K = function()
+					local J = Color3.fromHSV(D, E, F)
+					return {
+						R = math.floor(J.r * 255),
+						G = math.floor(J.g * 255),
+						B = math.floor(J.b * 255)
+					}
+				end, s('ImageLabel', {
+					Size = UDim2.new(0, 18, 0, 18),
+					ScaleType = Enum.ScaleType.Fit,
+					AnchorPoint = Vector2.new(0.5, 0.5),
+					BackgroundTransparency = 1,
+					Image = 'http://www.roblox.com/asset/?id=4805639000'
+				})
+				local L, M = s('ImageLabel', {
+					Size = UDim2.fromOffset(180, 160),
+					Position = UDim2.fromOffset(20, 55),
+					Image = 'rbxassetid://4155801252',
+					BackgroundColor3 = z.Value,
+					BackgroundTransparency = 0,
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					}),
+					K
+				}), s('Frame', {
+					BackgroundColor3 = z.Value,
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = z.Transparency
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					})
+				})
+				local N, O = s('ImageLabel', {
+					Image = 'http://www.roblox.com/asset/?id=14204231522',
+					ImageTransparency = 0.45,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.fromOffset(40, 40),
+					BackgroundTransparency = 1,
+					Position = UDim2.fromOffset(112, 220),
+					Size = UDim2.fromOffset(88, 24),
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					}),
+					s('UIStroke', {
+						Thickness = 2,
+						Transparency = 0.75
+					}),
+					M
+				}), s('Frame', {
+					BackgroundColor3 = z.Value,
+					Size = UDim2.fromScale(1, 1),
+					BackgroundTransparency = 0
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					})
+				})
+				local P, Q = s('ImageLabel', {
+					Image = 'http://www.roblox.com/asset/?id=14204231522',
+					ImageTransparency = 0.45,
+					ScaleType = Enum.ScaleType.Tile,
+					TileSize = UDim2.fromOffset(40, 40),
+					BackgroundTransparency = 1,
+					Position = UDim2.fromOffset(20, 220),
+					Size = UDim2.fromOffset(88, 24),
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(0, 4)
+					}),
+					s('UIStroke', {
+						Thickness = 2,
+						Transparency = 0.75
+					}),
+					O
+				}), {}
+				for R = 0, 1, 0.1 do
+					table.insert(Q, ColorSequenceKeypoint.new(R, Color3.fromHSV(R, 1, 1)))
+				end
+				local R, S = s('UIGradient', {
+					Color = ColorSequence.new(Q),
+					Rotation = 90
+				}), s('Frame', {
+					Size = UDim2.new(1, 0, 1, -10),
+					Position = UDim2.fromOffset(0, 5),
+					BackgroundTransparency = 1
+				})
+				local T, U, V = s('ImageLabel', {
+					Size = UDim2.fromOffset(14, 14),
+					Image = 'http://www.roblox.com/asset/?id=12266946128',
+					Parent = S,
+					ThemeTag = {
+						ImageColor3 = 'DialogInput'
+					}
+				}), s('Frame', {
+					Size = UDim2.fromOffset(12, 190),
+					Position = UDim2.fromOffset(210, 55),
+					Parent = C.Root
+				}, {
+					s('UICorner', {
+						CornerRadius = UDim.new(1, 0)
+					}),
+					R,
+					S
+				}), H()
+				V.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 55)
+				I('Hex', UDim2.fromOffset(x.Transparency and 360 or 340, 55))
+				local W = H()
+				W.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 95)
+				I('Red', UDim2.fromOffset(x.Transparency and 360 or 340, 95))
+				local X = H()
+				X.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 135)
+				I('Green', UDim2.fromOffset(x.Transparency and 360 or 340, 135))
+				local Y = H()
+				Y.Frame.Position = UDim2.fromOffset(x.Transparency and 260 or 240, 175)
+				I('Blue', UDim2.fromOffset(x.Transparency and 360 or 340, 175))
+				local Z
+				if x.Transparency then
+					Z = H()
+					Z.Frame.Position = UDim2.fromOffset(260, 215)
+					I('Alpha', UDim2.fromOffset(360, 215))
+				end
+				local _, aa, ab
+				if x.Transparency then
+					local ac = s('Frame', {
+						Size = UDim2.new(1, 0, 1, -10),
+						Position = UDim2.fromOffset(0, 5),
+						BackgroundTransparency = 1
+					})
+					aa = s('ImageLabel', {
+						Size = UDim2.fromOffset(14, 14),
+						Image = 'http://www.roblox.com/asset/?id=12266946128',
+						Parent = ac,
+						ThemeTag = {
+							ImageColor3 = 'DialogInput'
+						}
+					})
+					ab = s('Frame', {
+						Size = UDim2.fromScale(1, 1)
+					}, {
+						s('UIGradient', {
+							Transparency = NumberSequence.new{
+								NumberSequenceKeypoint.new(0, 0),
+								NumberSequenceKeypoint.new(1, 1)
+							},
+							Rotation = 270
+						}),
+						s('UICorner', {
+							CornerRadius = UDim.new(1, 0)
+						})
+					})
+					_ = s('Frame', {
+						Size = UDim2.fromOffset(12, 190),
+						Position = UDim2.fromOffset(230, 55),
+						Parent = C.Root,
+						BackgroundTransparency = 1
+					}, {
+						s('UICorner', {
+							CornerRadius = UDim.new(1, 0)
+						}),
+						s('ImageLabel', {
+							Image = 'http://www.roblox.com/asset/?id=14204231522',
+							ImageTransparency = 0.45,
+							ScaleType = Enum.ScaleType.Tile,
+							TileSize = UDim2.fromOffset(40, 40),
+							BackgroundTransparency = 1,
+							Size = UDim2.fromScale(1, 1),
+							Parent = C.Root
+						}, {
+							s('UICorner', {
+								CornerRadius = UDim.new(1, 0)
+							})
+						}),
+						ab,
+						ac
+					})
+				end
+				local ac = function()
+					L.BackgroundColor3 = Color3.fromHSV(D, 1, 1)
+					T.Position = UDim2.new(0, -1, D, -6)
+					K.Position = UDim2.new(E, 0, 1 - F, 0)
+					O.BackgroundColor3 = Color3.fromHSV(D, E, F)
+					V.Input.Text = '#' .. Color3.fromHSV(D, E, F):ToHex()
+					W.Input.Text = J().R
+					X.Input.Text = J().G
+					Y.Input.Text = J().B
+					if x.Transparency then
+						ab.BackgroundColor3 = Color3.fromHSV(D, E, F)
+						O.BackgroundTransparency = G
+						aa.Position = UDim2.new(0, -1, 1 - G, -6)
+						Z.Input.Text = e(o):Round((1 - G) * 100, 0) .. '%'
+					end
+				end
+				p.AddSignal(V.Input.FocusLost, function(ad)
+					if ad then
+						local ae, af = pcall(Color3.fromHex, V.Input.Text)
+						if ae and typeof(af) == 'Color3' then
+							D, E, F = Color3.toHSV(af)
+						end
+					end
+					ac()
+				end)
+				p.AddSignal(W.Input.FocusLost, function(ad)
+					if ad then
+						local ae = J()
+						local af, ag = pcall(Color3.fromRGB, W.Input.Text, ae.G, ae.B)
+						if af and typeof(ag) == 'Color3' then
+							if tonumber(W.Input.Text) <= 255 then
+								D, E, F = Color3.toHSV(ag)
+							end
+						end
+					end
+					ac()
+				end)
+				p.AddSignal(X.Input.FocusLost, function(ad)
+					if ad then
+						local ae = J()
+						local af, ag = pcall(Color3.fromRGB, ae.R, X.Input.Text, ae.B)
+						if af and typeof(ag) == 'Color3' then
+							if tonumber(X.Input.Text) <= 255 then
+								D, E, F = Color3.toHSV(ag)
+							end
+						end
+					end
+					ac()
+				end)
+				p.AddSignal(Y.Input.FocusLost, function(ad)
+					if ad then
+						local ae = J()
+						local af, ag = pcall(Color3.fromRGB, ae.R, ae.G, Y.Input.Text)
+						if af and typeof(ag) == 'Color3' then
+							if tonumber(Y.Input.Text) <= 255 then
+								D, E, F = Color3.toHSV(ag)
+							end
+						end
+					end
+					ac()
+				end)
+				if x.Transparency then
+					p.AddSignal(Z.Input.FocusLost, function(ad)
+						if ad then
+							pcall(function()
+								local ae = tonumber(Z.Input.Text)
+								if ae >= 0 and ae <= 100 then
+									G = 1 - ae * 0.01
+								end
+							end)
+						end
+						ac()
+					end)
+				end
+				p.AddSignal(L.InputBegan, function(ad)
+					if ad.UserInputType == Enum.UserInputType.MouseButton1 or ad.UserInputType == Enum.UserInputType.Touch then
+						while h:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+							local ae = L.AbsolutePosition.X
+							local af = ae + L.AbsoluteSize.X
+							local ag, ah = math.clamp(n.X, ae, af), L.AbsolutePosition.Y
+							local ai = ah + L.AbsoluteSize.Y
+							local aj = math.clamp(n.Y, ah, ai)
+							E = (ag - ae) / (af - ae)
+							F = 1 - ((aj - ah) / (ai - ah))
+							ac()
+							l:Wait()
+						end
+					end
+				end)
+				p.AddSignal(U.InputBegan, function(ad)
+					if ad.UserInputType == Enum.UserInputType.MouseButton1 or ad.UserInputType == Enum.UserInputType.Touch then
+						while h:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+							local ae = U.AbsolutePosition.Y
+							local af = ae + U.AbsoluteSize.Y
+							local ag = math.clamp(n.Y, ae, af)
+							D = ((ag - ae) / (af - ae))
+							ac()
+							l:Wait()
+						end
+					end
+				end)
+				if x.Transparency then
+					p.AddSignal(_.InputBegan, function(ad)
+						if ad.UserInputType == Enum.UserInputType.MouseButton1 then
+							while h:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) do
+								local ae = _.AbsolutePosition.Y
+								local af = ae + _.AbsoluteSize.Y
+								local ag = math.clamp(n.Y, ae, af)
+								G = 1 - ((ag - ae) / (af - ae))
+								ac()
+								l:Wait()
+							end
+						end
+					end)
+				end
+				ac()
+				C:Button('Done', function()
+					z:SetValue({
+						D,
+						E,
+						F
+					}, G)
+				end)
+				C:Button'Cancel'
+				C:Open()
+			end
+			function z.Display(ac)
+				z.Value = Color3.fromHSV(z.Hue, z.Sat, z.Vib)
+				B.BackgroundColor3 = z.Value
+				B.BackgroundTransparency = z.Transparency
+				u.Library:SafeCallback(z.Callback, z.Value)
+				u.Library:SafeCallback(z.Changed, z.Value)
+			end
+			function z.SetValue(ac, ad, ae)
+				local af = Color3.fromHSV(ad[1], ad[2], ad[3])
+				z.Transparency = ae or 0
+				z:SetHSVFromRGB(af)
+				z:Display()
+			end
+			function z.SetValueRGB(ac, ad, ae)
+				z.Transparency = ae or 0
+				z:SetHSVFromRGB(ad)
+				z:Display()
+			end
+			function z.OnChanged(ac, ad)
+				z.Changed = ad
+				ad(z.Value)
+			end
+			function z.Destroy(ac)
+				A:Destroy()
+				y.Options[w] = nil
+			end
+			p.AddSignal(A.Frame.MouseButton1Click, function()
+				ab()
+			end)
+			z:Display()
+			y.Options[w] = z
+			return z
+		end
+		return u
+	end,
+	[22] = function()
+		local aa, ab, ac, ad, ae = b(22)
+		local af, ag, ah, ai, aj = game:GetService'TweenService', game:GetService'UserInputService', game:GetService'Players'.LocalPlayer:GetMouse(), game:GetService'Workspace'.CurrentCamera, ab.Parent.Parent
+		local c, d = ac(aj.Creator), ac(aj.Packages.Flipper)
+		local e, f, g = c.New, aj.Components, {}
+		g.__index = g
+		g.__type = 'Dropdown'
+		function g.New(h, i, j)
+			local k, l, m = h.Library, {
+				Values = j.Values,
+				Value = j.Default,
+				Multi = j.Multi,
+				Buttons = {},
+				Opened = false,
+				Type = 'Dropdown',
+				Callback = j.Callback or function()
+				end
+			}, ac(f.Element)(j.Title, j.Description, h.Container, false)
+			m.DescLabel.Size = UDim2.new(1, -170, 0, 14)
+			l.SetTitle = m.SetTitle
+			l.SetDesc = m.SetDesc
+			local n, o = e('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+				Text = 'Value',
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 13,
+				TextXAlignment = Enum.TextXAlignment.Left,
+				Size = UDim2.new(1, -30, 0, 14),
+				Position = UDim2.new(0, 8, 0.5, 0),
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				TextTruncate = Enum.TextTruncate.AtEnd,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			}), e('ImageLabel', {
+				Image = 'rbxassetid://10709790948',
+				Size = UDim2.fromOffset(16, 16),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -8, 0.5, 0),
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					ImageColor3 = 'SubText'
+				}
+			})
+			local p, s = e('TextButton', {
+				Size = UDim2.fromOffset(160, 30),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				BackgroundTransparency = 0.9,
+				Parent = m.Frame,
+				ThemeTag = {
+					BackgroundColor3 = 'DropdownFrame'
+				}
+			}, {
+				e('UICorner', {
+					CornerRadius = UDim.new(0, 5)
+				}),
+				e('UIStroke', {
+					Transparency = 0.5,
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					ThemeTag = {
+						Color = 'InElementBorder'
+					}
+				}),
+				o,
+				n
+			}), e('UIListLayout', {
+				Padding = UDim.new(0, 3)
+			})
+			local t = e('ScrollingFrame', {
+				Size = UDim2.new(1, -5, 1, -10),
+				Position = UDim2.fromOffset(5, 5),
+				BackgroundTransparency = 1,
+				BottomImage = 'rbxassetid://6889812791',
+				MidImage = 'rbxassetid://6889812721',
+				TopImage = 'rbxassetid://6276641225',
+				ScrollBarImageColor3 = Color3.fromRGB(255, 255, 255),
+				ScrollBarImageTransparency = 0.95,
+				ScrollBarThickness = 4,
+				BorderSizePixel = 0,
+				CanvasSize = UDim2.fromScale(0, 0)
+			}, {
+				s
+			})
+			local u = e('Frame', {
+				Size = UDim2.fromScale(1, 0.6),
+				ThemeTag = {
+					BackgroundColor3 = 'DropdownHolder'
+				}
+			}, {
+				t,
+				e('UICorner', {
+					CornerRadius = UDim.new(0, 7)
+				}),
+				e('UIStroke', {
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					ThemeTag = {
+						Color = 'DropdownBorder'
+					}
+				}),
+				e('ImageLabel', {
+					BackgroundTransparency = 1,
+					Image = 'http://www.roblox.com/asset/?id=5554236805',
+					ScaleType = Enum.ScaleType.Slice,
+					SliceCenter = Rect.new(23, 23, 277, 277),
+					Size = UDim2.fromScale(1, 1) + UDim2.fromOffset(30, 30),
+					Position = UDim2.fromOffset(-15, -15),
+					ImageColor3 = Color3.fromRGB(0, 0, 0),
+					ImageTransparency = 0.1
+				})
+			})
+			local v = e('Frame', {
+				BackgroundTransparency = 1,
+				Size = UDim2.fromOffset(170, 300),
+				Parent = h.Library.GUI,
+				Visible = false
+			}, {
+				u,
+				e('UISizeConstraint', {
+					MinSize = Vector2.new(170, 0)
+				})
+			})
+			table.insert(k.OpenFrames, v)
+			local w, x = function()
+				local w = 0
+				if ai.ViewportSize.Y - p.AbsolutePosition.Y < v.AbsoluteSize.Y - 5 then
+					w = v.AbsoluteSize.Y - 5 - (ai.ViewportSize.Y - p.AbsolutePosition.Y) + 40
+				end
+				v.Position = UDim2.fromOffset(p.AbsolutePosition.X - 1, p.AbsolutePosition.Y - 5 - w)
+			end, 0
+			local y, z = function()
+				if #l.Values > 10 then
+					v.Size = UDim2.fromOffset(x, 392)
+				else
+					v.Size = UDim2.fromOffset(x, s.AbsoluteContentSize.Y + 10)
+				end
+			end, function()
+				t.CanvasSize = UDim2.fromOffset(0, s.AbsoluteContentSize.Y)
+			end
+			w()
+			y()
+			c.AddSignal(p:GetPropertyChangedSignal'AbsolutePosition', w)
+			c.AddSignal(p.MouseButton1Click, function()
+				l:Open()
+			end)
+			c.AddSignal(ag.InputBegan, function(A)
+				if A.UserInputType == Enum.UserInputType.MouseButton1 or A.UserInputType == Enum.UserInputType.Touch then
+					local B, C = u.AbsolutePosition, u.AbsoluteSize
+					if ah.X < B.X or ah.X > B.X + C.X or ah.Y < (B.Y - 20 - 1) or ah.Y > B.Y + C.Y then
+						l:Close()
+					end
+				end
+			end)
+			local A = h.ScrollFrame
+			function l.Open(B)
+				l.Opened = true
+				A.ScrollingEnabled = false
+				v.Visible = true
+				af:Create(u, TweenInfo.new(0.2, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), {
+					Size = UDim2.fromScale(1, 1)
+				}):Play()
+			end
+			function l.Close(B)
+				l.Opened = false
+				A.ScrollingEnabled = true
+				u.Size = UDim2.fromScale(1, 0.6)
+				v.Visible = false
+			end
+			function l.Display(B)
+				local C, D = l.Values, ''
+				if j.Multi then
+					for E, F in next, C do
+						if l.Value[F] then
+							D = D .. F .. ', '
+						end
+					end
+					D = D:sub(1, #D - 2)
+				else
+					D = l.Value or ''
+				end
+				n.Text = (D == '' and '--' or D)
+			end
+			function l.GetActiveValues(B)
+				if j.Multi then
+					local C = {}
+					for D, E in next, l.Value do
+						table.insert(C, D)
+					end
+					return C
+				else
+					return l.Value and 1 or 0
+				end
+			end
+			function l.BuildDropdownList(B)
+				local C, D = l.Values, {}
+				for E, F in next, t:GetChildren() do
+					if not F:IsA'UIListLayout' then
+						F:Destroy()
+					end
+				end
+				local G = 0
+				for H, I in next, C do
+					local J = {}
+					G = G + 1
+					local K, L = e('Frame', {
+						Size = UDim2.fromOffset(4, 14),
+						BackgroundColor3 = Color3.fromRGB(76, 194, 255),
+						Position = UDim2.fromOffset(-1, 16),
+						AnchorPoint = Vector2.new(0, 0.5),
+						ThemeTag = {
+							BackgroundColor3 = 'Accent'
+						}
+					}, {
+						e('UICorner', {
+							CornerRadius = UDim.new(0, 2)
+						})
+					}), e('TextLabel', {
+						FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+						Text = I,
+						TextColor3 = Color3.fromRGB(200, 200, 200),
+						TextSize = 13,
+						TextXAlignment = Enum.TextXAlignment.Left,
+						BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+						AutomaticSize = Enum.AutomaticSize.Y,
+						BackgroundTransparency = 1,
+						Size = UDim2.fromScale(1, 1),
+						Position = UDim2.fromOffset(10, 0),
+						Name = 'ButtonLabel',
+						ThemeTag = {
+							TextColor3 = 'Text'
+						}
+					})
+					local M, N = (e('TextButton', {
+						Size = UDim2.new(1, -5, 0, 32),
+						BackgroundTransparency = 1,
+						ZIndex = 23,
+						Text = '',
+						Parent = t,
+						ThemeTag = {
+							BackgroundColor3 = 'DropdownOption'
+						}
+					}, {
+						K,
+						L,
+						e('UICorner', {
+							CornerRadius = UDim.new(0, 6)
+						})
+					}))
+					if j.Multi then
+						N = l.Value[I]
+					else
+						N = l.Value == I
+					end
+					local O, P = c.SpringMotor(1, M, 'BackgroundTransparency')
+					local Q, R = c.SpringMotor(1, K, 'BackgroundTransparency')
+					local S = d.SingleMotor.new(6)
+					S:onStep(function(T)
+						K.Size = UDim2.new(0, 4, 0, T)
+					end)
+					c.AddSignal(M.MouseEnter, function()
+						P(N and 0.85 or 0.89)
+					end)
+					c.AddSignal(M.MouseLeave, function()
+						P(N and 0.89 or 1)
+					end)
+					c.AddSignal(M.MouseButton1Down, function()
+						P(0.92)
+					end)
+					c.AddSignal(M.MouseButton1Up, function()
+						P(N and 0.85 or 0.89)
+					end)
+					function J.UpdateButton(T)
+						if j.Multi then
+							N = l.Value[I]
+							if N then
+								P(0.89)
+							end
+						else
+							N = l.Value == I
+							P(N and 0.89 or 1)
+						end
+						S:setGoal(d.Spring.new(N and 14 or 6, {
+							frequency = 6
+						}))
+						R(N and 0 or 1)
+					end
+					L.InputBegan:Connect(function(T)
+						if T.UserInputType == Enum.UserInputType.MouseButton1 or T.UserInputType == Enum.UserInputType.Touch then
+							local U = not N
+							if l:GetActiveValues() == 1 and not U and not j.AllowNull then
+							else
+								if j.Multi then
+									N = U
+									l.Value[I] = N and true or nil
+								else
+									N = U
+									l.Value = N and I or nil
+									for V, W in next, D do
+										W:UpdateButton()
+									end
+								end
+								J:UpdateButton()
+								l:Display()
+								k:SafeCallback(l.Callback, l.Value)
+								k:SafeCallback(l.Changed, l.Value)
+							end
+						end
+					end)
+					J:UpdateButton()
+					l:Display()
+					D[M] = J
+				end
+				x = 0
+				for J, K in next, D do
+					if J.ButtonLabel then
+						if J.ButtonLabel.TextBounds.X > x then
+							x = J.ButtonLabel.TextBounds.X
+						end
+					end
+				end
+				x = x + 30
+				z()
+				y()
+			end
+			function l.SetValues(B, C)
+				if C then
+					l.Values = C
+				end
+				l:BuildDropdownList()
+			end
+			function l.OnChanged(B, C)
+				l.Changed = C
+				C(l.Value)
+			end
+			function l.SetValue(B, C)
+				if l.Multi then
+					local D = {}
+					for E, F in next, C do
+						if table.find(l.Values, E) then
+							D[E] = true
+						end
+					end
+					l.Value = D
+				else
+					if not C then
+						l.Value = nil
+					elseif table.find(l.Values, C) then
+						l.Value = C
+					end
+				end
+				l:BuildDropdownList()
+				k:SafeCallback(l.Callback, l.Value)
+				k:SafeCallback(l.Changed, l.Value)
+			end
+			function l.Destroy(B)
+				m:Destroy()
+				k.Options[i] = nil
+			end
+			l:BuildDropdownList()
+			l:Display()
+			local B = {}
+			if type(j.Default) == 'string' then
+				local C = table.find(l.Values, j.Default)
+				if C then
+					table.insert(B, C)
+				end
+			elseif type(j.Default) == 'table' then
+				for C, D in next, j.Default do
+					local E = table.find(l.Values, D)
+					if E then
+						table.insert(B, E)
+					end
+				end
+			elseif type(j.Default) == 'number' and l.Values[j.Default] ~= nil then
+				table.insert(B, j.Default)
+			end
+			if next(B) then
+				for C = 1, #B do
+					local D = B[C]
+					if j.Multi then
+						l.Value[l.Values[D]] = true
+					else
+						l.Value = l.Values[D]
+					end
+					if not j.Multi then
+						break
+					end
+				end
+				l:BuildDropdownList()
+				l:Display()
+			end
+			k.Options[i] = l
+			return l
+		end
+		return g
+	end,
+	[23] = function()
+		local aa, ab, ac, ad, ae = b(23)
+		local af = ab.Parent.Parent
+		local ag = ac(af.Creator)
+		local ah, ai, aj, c = ag.New, ag.AddSignal, af.Components, {}
+		c.__index = c
+		c.__type = 'Input'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'Input - Missing Title')
+			f.Callback = f.Callback or function()
+			end
+			local h, i = {
+				Value = f.Default or '',
+				Numeric = f.Numeric or false,
+				Finished = f.Finished or false,
+				Callback = f.Callback or function(h)
+				end,
+				Type = 'Input'
+			}, ac(aj.Element)(f.Title, f.Description, d.Container, false)
+			h.SetTitle = i.SetTitle
+			h.SetDesc = i.SetDesc
+			local j = ac(aj.Textbox)(i.Frame, true)
+			j.Frame.Position = UDim2.new(1, -10, 0.5, 0)
+			j.Frame.AnchorPoint = Vector2.new(1, 0.5)
+			j.Frame.Size = UDim2.fromOffset(160, 30)
+			j.Input.Text = f.Default or ''
+			j.Input.PlaceholderText = f.Placeholder or ''
+			local k = j.Input
+			function h.SetValue(l, m)
+				if f.MaxLength and #m > f.MaxLength then
+					m = m:sub(1, f.MaxLength)
+				end
+				if h.Numeric then
+					if (not tonumber(m)) and m:len() > 0 then
+						m = h.Value
+					end
+				end
+				h.Value = m
+				k.Text = m
+				g:SafeCallback(h.Callback, h.Value)
+				g:SafeCallback(h.Changed, h.Value)
+			end
+			if h.Finished then
+				ai(k.FocusLost, function(l)
+					if not l then
+						return
+					end
+					h:SetValue(k.Text)
+				end)
+			else
+				ai(k:GetPropertyChangedSignal'Text', function()
+					h:SetValue(k.Text)
+				end)
+			end
+			function h.OnChanged(l, m)
+				h.Changed = m
+				m(h.Value)
+			end
+			function h.Destroy(l)
+				i:Destroy()
+				g.Options[e] = nil
+			end
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[24] = function()
+		local aa, ab, ac, ad, ae = b(24)
+		local af, ag = game:GetService'UserInputService', ab.Parent.Parent
+		local ah = ac(ag.Creator)
+		local ai, aj, c = ah.New, ag.Components, {}
+		c.__index = c
+		c.__type = 'Keybind'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'KeyBind - Missing Title')
+			assert(f.Default, 'KeyBind - Missing default value.')
+			local h, i, j = {
+				Value = f.Default,
+				Toggled = false,
+				Mode = f.Mode or 'Toggle',
+				Type = 'Keybind',
+				Callback = f.Callback or function(h)
+				end,
+				ChangedCallback = f.ChangedCallback or function(h)
+				end
+			}, false, ac(aj.Element)(f.Title, f.Description, d.Container, true)
+			h.SetTitle = j.SetTitle
+			h.SetDesc = j.SetDesc
+			local k = ai('TextLabel', {
+				FontFace = Font.new('rbxasset://fonts/families/GothamSSm.json', Enum.FontWeight.Regular, Enum.FontStyle.Normal),
+				Text = f.Default,
+				TextColor3 = Color3.fromRGB(240, 240, 240),
+				TextSize = 13,
+				TextXAlignment = Enum.TextXAlignment.Center,
+				Size = UDim2.new(0, 0, 0, 14),
+				Position = UDim2.new(0, 0, 0.5, 0),
+				AnchorPoint = Vector2.new(0, 0.5),
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				AutomaticSize = Enum.AutomaticSize.X,
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					TextColor3 = 'Text'
+				}
+			})
+			local l = ai('TextButton', {
+				Size = UDim2.fromOffset(0, 30),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				BackgroundTransparency = 0.9,
+				Parent = j.Frame,
+				AutomaticSize = Enum.AutomaticSize.X,
+				ThemeTag = {
+					BackgroundColor3 = 'Keybind'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(0, 5)
+				}),
+				ai('UIPadding', {
+					PaddingLeft = UDim.new(0, 8),
+					PaddingRight = UDim.new(0, 8)
+				}),
+				ai('UIStroke', {
+					Transparency = 0.5,
+					ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+					ThemeTag = {
+						Color = 'InElementBorder'
+					}
+				}),
+				k
+			})
+			function h.GetState(m)
+				if af:GetFocusedTextBox() and h.Mode ~= 'Always' then
+					return false
+				end
+				if h.Mode == 'Always' then
+					return true
+				elseif h.Mode == 'Hold' then
+					if h.Value == 'None' then
+						return false
+					end
+					local n = h.Value
+					if n == 'MouseLeft' or n == 'MouseRight' then
+						return n == 'MouseLeft' and af:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) or n == 'MouseRight' and af:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
+					else
+						return af:IsKeyDown(Enum.KeyCode[h.Value])
+					end
+				else
+					return h.Toggled
+				end
+			end
+			function h.SetValue(m, n, o)
+				n = n or h.Key
+				o = o or h.Mode
+				k.Text = n
+				h.Value = n
+				h.Mode = o
+			end
+			function h.OnClick(m, n)
+				h.Clicked = n
+			end
+			function h.OnChanged(m, n)
+				h.Changed = n
+				n(h.Value)
+			end
+			function h.DoClick(m)
+				g:SafeCallback(h.Callback, h.Toggled)
+				g:SafeCallback(h.Clicked, h.Toggled)
+			end
+			function h.Destroy(m)
+				j:Destroy()
+				g.Options[e] = nil
+			end
+			ah.AddSignal(l.InputBegan, function(m)
+				if m.UserInputType == Enum.UserInputType.MouseButton1 or m.UserInputType == Enum.UserInputType.Touch then
+					i = true
+					k.Text = '...'
+					wait(0.2)
+					local n
+					n = af.InputBegan:Connect(function(o)
+						local p
+						if o.UserInputType == Enum.UserInputType.Keyboard then
+							p = o.KeyCode.Name
+						elseif o.UserInputType == Enum.UserInputType.MouseButton1 then
+							p = 'MouseLeft'
+						elseif o.UserInputType == Enum.UserInputType.MouseButton2 then
+							p = 'MouseRight'
+						end
+						local s
+						s = af.InputEnded:Connect(function(t)
+							if t.KeyCode.Name == p or p == 'MouseLeft' and t.UserInputType == Enum.UserInputType.MouseButton1 or p == 'MouseRight' and t.UserInputType == Enum.UserInputType.MouseButton2 then
+								i = false
+								k.Text = p
+								h.Value = p
+								g:SafeCallback(h.ChangedCallback, t.KeyCode or t.UserInputType)
+								g:SafeCallback(h.Changed, t.KeyCode or t.UserInputType)
+								n:Disconnect()
+								s:Disconnect()
+							end
+						end)
+					end)
+				end
+			end)
+			ah.AddSignal(af.InputBegan, function(m)
+				if not i and not af:GetFocusedTextBox() then
+					if h.Mode == 'Toggle' then
+						local n = h.Value
+						if n == 'MouseLeft' or n == 'MouseRight' then
+							if n == 'MouseLeft' and m.UserInputType == Enum.UserInputType.MouseButton1 or n == 'MouseRight' and m.UserInputType == Enum.UserInputType.MouseButton2 then
+								h.Toggled = not h.Toggled
+								h:DoClick()
+							end
+						elseif m.UserInputType == Enum.UserInputType.Keyboard then
+							if m.KeyCode.Name == n then
+								h.Toggled = not h.Toggled
+								h:DoClick()
+							end
+						end
+					end
+				end
+			end)
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[25] = function()
+		local aa, ab, ac, ad, ae = b(25)
+		local af = ab.Parent.Parent
+		local ag, ah, ai, aj = af.Components, ac(af.Packages.Flipper), ac(af.Creator), {}
+		aj.__index = aj
+		aj.__type = 'Paragraph'
+		function aj.New(c, d)
+			assert(d.Title, 'Paragraph - Missing Title')
+			d.Content = d.Content or ''
+			local e = ac(ag.Element)(d.Title, d.Content, aj.Container, false)
+			e.Frame.BackgroundTransparency = 0.92
+			e.Border.Transparency = 0.6
+			return e
+		end
+		return aj
+	end,
+	[26] = function()
+		local aa, ab, ac, ad, ae = b(26)
+		local af, ag = game:GetService'UserInputService', ab.Parent.Parent
+		local ah = ac(ag.Creator)
+		local ai, aj, c = ah.New, ag.Components, {}
+		c.__index = c
+		c.__type = 'Slider'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'Slider - Missing Title.')
+			assert(f.Default, 'Slider - Missing default value.')
+			assert(f.Min, 'Slider - Missing minimum value.')
+			assert(f.Max, 'Slider - Missing maximum value.')
+			assert(f.Rounding, 'Slider - Missing rounding value.')
+			local h, i, j = {
+				Value = nil,
+				Min = f.Min,
+				Max = f.Max,
+				Rounding = f.Rounding,
+				Callback = f.Callback or function(h)
+				end,
+				Type = 'Slider'
+			}, false, ac(aj.Element)(f.Title, f.Description, d.Container, false)
+			j.DescLabel.Size = UDim2.new(1, -170, 0, 14)
+			h.SetTitle = j.SetTitle
+			h.SetDesc = j.SetDesc
+			local k = ai('ImageLabel', {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Position = UDim2.new(0, -7, 0.5, 0),
+				Size = UDim2.fromOffset(14, 14),
+				Image = 'http://www.roblox.com/asset/?id=12266946128',
+				ThemeTag = {
+					ImageColor3 = 'Accent'
+				}
+			})
+			local l, m, n = ai('Frame', {
+				BackgroundTransparency = 1,
+				Position = UDim2.fromOffset(7, 0),
+				Size = UDim2.new(1, -14, 1, 0)
+			}, {
+				k
+			}), ai('Frame', {
+				Size = UDim2.new(0, 0, 1, 0),
+				ThemeTag = {
+					BackgroundColor3 = 'Accent'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(1, 0)
+				})
+			}), ai('TextLabel', {
+				FontFace = Font.new'rbxasset://fonts/families/GothamSSm.json',
+				Text = 'Value',
+				TextSize = 12,
+				TextWrapped = true,
+				TextXAlignment = Enum.TextXAlignment.Right,
+				BackgroundColor3 = Color3.fromRGB(255, 255, 255),
+				BackgroundTransparency = 1,
+				Size = UDim2.new(0, 100, 0, 14),
+				Position = UDim2.new(0, -4, 0.5, 0),
+				AnchorPoint = Vector2.new(1, 0.5),
+				ThemeTag = {
+					TextColor3 = 'SubText'
+				}
+			})
+			local o = ai('Frame', {
+				Size = UDim2.new(1, 0, 0, 4),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				BackgroundTransparency = 0.4,
+				Parent = j.Frame,
+				ThemeTag = {
+					BackgroundColor3 = 'SliderRail'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(1, 0)
+				}),
+				ai('UISizeConstraint', {
+					MaxSize = Vector2.new(150, math.huge)
+				}),
+				n,
+				m,
+				l
+			})
+			ah.AddSignal(k.InputBegan, function(p)
+				if p.UserInputType == Enum.UserInputType.MouseButton1 or p.UserInputType == Enum.UserInputType.Touch then
+					i = true
+				end
+			end)
+			ah.AddSignal(k.InputEnded, function(p)
+				if p.UserInputType == Enum.UserInputType.MouseButton1 or p.UserInputType == Enum.UserInputType.Touch then
+					i = false
+				end
+			end)
+			ah.AddSignal(af.InputChanged, function(p)
+				if i and (p.UserInputType == Enum.UserInputType.MouseMovement or p.UserInputType == Enum.UserInputType.Touch) then
+					local s = math.clamp((p.Position.X - l.AbsolutePosition.X) / l.AbsoluteSize.X, 0, 1)
+					h:SetValue(h.Min + ((h.Max - h.Min) * s))
+				end
+			end)
+			function h.OnChanged(p, s)
+				h.Changed = s
+				s(h.Value)
+			end
+			function h.SetValue(p, s)
+				p.Value = g:Round(math.clamp(s, h.Min, h.Max), h.Rounding)
+				k.Position = UDim2.new((p.Value - h.Min) / (h.Max - h.Min), -7, 0.5, 0)
+				m.Size = UDim2.fromScale((p.Value - h.Min) / (h.Max - h.Min), 1)
+				n.Text = tostring(p.Value)
+				g:SafeCallback(h.Callback, p.Value)
+				g:SafeCallback(h.Changed, p.Value)
+			end
+			function h.Destroy(p)
+				j:Destroy()
+				g.Options[e] = nil
+			end
+			h:SetValue(f.Default)
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[27] = function()
+		local aa, ab, ac, ad, ae = b(27)
+		local af, ag = game:GetService'TweenService', ab.Parent.Parent
+		local ah = ac(ag.Creator)
+		local ai, aj, c = ah.New, ag.Components, {}
+		c.__index = c
+		c.__type = 'Toggle'
+		function c.New(d, e, f)
+			local g = d.Library
+			assert(f.Title, 'Toggle - Missing Title')
+			local h, i = {
+				Value = f.Default or false,
+				Callback = f.Callback or function(h)
+				end,
+				Type = 'Toggle'
+			}, ac(aj.Element)(f.Title, f.Description, d.Container, true)
+			i.DescLabel.Size = UDim2.new(1, -54, 0, 14)
+			h.SetTitle = i.SetTitle
+			h.SetDesc = i.SetDesc
+			local j, k = ai('ImageLabel', {
+				AnchorPoint = Vector2.new(0, 0.5),
+				Size = UDim2.fromOffset(14, 14),
+				Position = UDim2.new(0, 2, 0.5, 0),
+				Image = 'http://www.roblox.com/asset/?id=12266946128',
+				ImageTransparency = 0.5,
+				ThemeTag = {
+					ImageColor3 = 'ToggleSlider'
+				}
+			}), ai('UIStroke', {
+				Transparency = 0.5,
+				ThemeTag = {
+					Color = 'ToggleSlider'
+				}
+			})
+			local l = ai('Frame', {
+				Size = UDim2.fromOffset(36, 18),
+				AnchorPoint = Vector2.new(1, 0.5),
+				Position = UDim2.new(1, -10, 0.5, 0),
+				Parent = i.Frame,
+				BackgroundTransparency = 1,
+				ThemeTag = {
+					BackgroundColor3 = 'Accent'
+				}
+			}, {
+				ai('UICorner', {
+					CornerRadius = UDim.new(0, 9)
+				}),
+				k,
+				j
+			})
+			function h.OnChanged(m, n)
+				h.Changed = n
+				n(h.Value)
+			end
+			function h.SetValue(m, n)
+				n = not not n
+				h.Value = n
+				ah.OverrideTag(k, {
+					Color = h.Value and 'Accent' or 'ToggleSlider'
+				})
+				ah.OverrideTag(j, {
+					ImageColor3 = h.Value and 'ToggleToggled' or 'ToggleSlider'
+				})
+				af:Create(j, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+					Position = UDim2.new(0, h.Value and 19 or 2, 0.5, 0)
+				}):Play()
+				af:Create(l, TweenInfo.new(0.25, Enum.EasingStyle.Quint, Enum.EasingDirection.Out), {
+					BackgroundTransparency = h.Value and 0 or 1
+				}):Play()
+				j.ImageTransparency = h.Value and 0 or 0.5
+				g:SafeCallback(h.Callback, h.Value)
+				g:SafeCallback(h.Changed, h.Value)
+			end
+			function h.Destroy(m)
+				i:Destroy()
+				g.Options[e] = nil
+			end
+			ah.AddSignal(i.Frame.MouseButton1Click, function()
+				h:SetValue(not h.Value)
+			end)
+			h:SetValue(h.Value)
+			g.Options[e] = h
+			return h
+		end
+		return c
+	end,
+	[28] = function()
+		local aa, ab, ac, ad, ae = b(28)
+		return {
+			assets = {['lucide-accessibility'] = 'rbxassetid://10709751939',['lucide-activity'] = 'rbxassetid://10709752035',['lucide-air-vent'] = 'rbxassetid://10709752131',['lucide-airplay'] = 'rbxassetid://10709752254',['lucide-alarm-check'] = 'rbxassetid://10709752405',['lucide-alarm-clock'] = 'rbxassetid://10709752630',['lucide-alarm-clock-off'] = 'rbxassetid://10709752508',['lucide-alarm-minus'] = 'rbxassetid://10709752732',['lucide-alarm-plus'] = 'rbxassetid://10709752825',['lucide-album'] = 'rbxassetid://10709752906',['lucide-alert-circle'] = 'rbxassetid://10709752996',['lucide-alert-octagon'] = 'rbxassetid://10709753064',['lucide-alert-triangle'] = 'rbxassetid://10709753149',['lucide-align-center'] = 'rbxassetid://10709753570',['lucide-align-center-horizontal'] = 'rbxassetid://10709753272',['lucide-align-center-vertical'] = 'rbxassetid://10709753421',['lucide-align-end-horizontal'] = 'rbxassetid://10709753692',['lucide-align-end-vertical'] = 'rbxassetid://10709753808',['lucide-align-horizontal-distribute-center'] = 'rbxassetid://10747779791',['lucide-align-horizontal-distribute-end'] = 'rbxassetid://10747784534',['lucide-align-horizontal-distribute-start'] = 'rbxassetid://10709754118',['lucide-align-horizontal-justify-center'] = 'rbxassetid://10709754204',['lucide-align-horizontal-justify-end'] = 'rbxassetid://10709754317',['lucide-align-horizontal-justify-start'] = 'rbxassetid://10709754436',['lucide-align-horizontal-space-around'] = 'rbxassetid://10709754590',['lucide-align-horizontal-space-between'] = 'rbxassetid://10709754749',['lucide-align-justify'] = 'rbxassetid://10709759610',['lucide-align-left'] = 'rbxassetid://10709759764',['lucide-align-right'] = 'rbxassetid://10709759895',['lucide-align-start-horizontal'] = 'rbxassetid://10709760051',['lucide-align-start-vertical'] = 'rbxassetid://10709760244',['lucide-align-vertical-distribute-center'] = 'rbxassetid://10709760351',['lucide-align-vertical-distribute-end'] = 'rbxassetid://10709760434',['lucide-align-vertical-distribute-start'] = 'rbxassetid://10709760612',['lucide-align-vertical-justify-center'] = 'rbxassetid://10709760814',['lucide-align-vertical-justify-end'] = 'rbxassetid://10709761003',['lucide-align-vertical-justify-start'] = 'rbxassetid://10709761176',['lucide-align-vertical-space-around'] = 'rbxassetid://10709761324',['lucide-align-vertical-space-between'] = 'rbxassetid://10709761434',['lucide-anchor'] = 'rbxassetid://10709761530',['lucide-angry'] = 'rbxassetid://10709761629',['lucide-annoyed'] = 'rbxassetid://10709761722',['lucide-aperture'] = 'rbxassetid://10709761813',['lucide-apple'] = 'rbxassetid://10709761889',['lucide-archive'] = 'rbxassetid://10709762233',['lucide-archive-restore'] = 'rbxassetid://10709762058',['lucide-armchair'] = 'rbxassetid://10709762327',['lucide-arrow-big-down'] = 'rbxassetid://10747796644',['lucide-arrow-big-left'] = 'rbxassetid://10709762574',['lucide-arrow-big-right'] = 'rbxassetid://10709762727',['lucide-arrow-big-up'] = 'rbxassetid://10709762879',['lucide-arrow-down'] = 'rbxassetid://10709767827',['lucide-arrow-down-circle'] = 'rbxassetid://10709763034',['lucide-arrow-down-left'] = 'rbxassetid://10709767656',['lucide-arrow-down-right'] = 'rbxassetid://10709767750',['lucide-arrow-left'] = 'rbxassetid://10709768114',['lucide-arrow-left-circle'] = 'rbxassetid://10709767936',['lucide-arrow-left-right'] = 'rbxassetid://10709768019',['lucide-arrow-right'] = 'rbxassetid://10709768347',['lucide-arrow-right-circle'] = 'rbxassetid://10709768226',['lucide-arrow-up'] = 'rbxassetid://10709768939',['lucide-arrow-up-circle'] = 'rbxassetid://10709768432',['lucide-arrow-up-down'] = 'rbxassetid://10709768538',['lucide-arrow-up-left'] = 'rbxassetid://10709768661',['lucide-arrow-up-right'] = 'rbxassetid://10709768787',['lucide-asterisk'] = 'rbxassetid://10709769095',['lucide-at-sign'] = 'rbxassetid://10709769286',['lucide-award'] = 'rbxassetid://10709769406',['lucide-axe'] = 'rbxassetid://10709769508',['lucide-axis-3d'] = 'rbxassetid://10709769598',['lucide-baby'] = 'rbxassetid://10709769732',['lucide-backpack'] = 'rbxassetid://10709769841',['lucide-baggage-claim'] = 'rbxassetid://10709769935',['lucide-banana'] = 'rbxassetid://10709770005',['lucide-banknote'] = 'rbxassetid://10709770178',['lucide-bar-chart'] = 'rbxassetid://10709773755',['lucide-bar-chart-2'] = 'rbxassetid://10709770317',['lucide-bar-chart-3'] = 'rbxassetid://10709770431',['lucide-bar-chart-4'] = 'rbxassetid://10709770560',['lucide-bar-chart-horizontal'] = 'rbxassetid://10709773669',['lucide-barcode'] = 'rbxassetid://10747360675',['lucide-baseline'] = 'rbxassetid://10709773863',['lucide-bath'] = 'rbxassetid://10709773963',['lucide-battery'] = 'rbxassetid://10709774640',['lucide-battery-charging'] = 'rbxassetid://10709774068',['lucide-battery-full'] = 'rbxassetid://10709774206',['lucide-battery-low'] = 'rbxassetid://10709774370',['lucide-battery-medium'] = 'rbxassetid://10709774513',['lucide-beaker'] = 'rbxassetid://10709774756',['lucide-bed'] = 'rbxassetid://10709775036',['lucide-bed-double'] = 'rbxassetid://10709774864',['lucide-bed-single'] = 'rbxassetid://10709774968',['lucide-beer'] = 'rbxassetid://10709775167',['lucide-bell'] = 'rbxassetid://10709775704',['lucide-bell-minus'] = 'rbxassetid://10709775241',['lucide-bell-off'] = 'rbxassetid://10709775320',['lucide-bell-plus'] = 'rbxassetid://10709775448',['lucide-bell-ring'] = 'rbxassetid://10709775560',['lucide-bike'] = 'rbxassetid://10709775894',['lucide-binary'] = 'rbxassetid://10709776050',['lucide-bitcoin'] = 'rbxassetid://10709776126',['lucide-bluetooth'] = 'rbxassetid://10709776655',['lucide-bluetooth-connected'] = 'rbxassetid://10709776240',['lucide-bluetooth-off'] = 'rbxassetid://10709776344',['lucide-bluetooth-searching'] = 'rbxassetid://10709776501',['lucide-bold'] = 'rbxassetid://10747813908',['lucide-bomb'] = 'rbxassetid://10709781460',['lucide-bone'] = 'rbxassetid://10709781605',['lucide-book'] = 'rbxassetid://10709781824',['lucide-book-open'] = 'rbxassetid://10709781717',['lucide-bookmark'] = 'rbxassetid://10709782154',['lucide-bookmark-minus'] = 'rbxassetid://10709781919',['lucide-bookmark-plus'] = 'rbxassetid://10709782044',['lucide-bot'] = 'rbxassetid://10709782230',['lucide-box'] = 'rbxassetid://10709782497',['lucide-box-select'] = 'rbxassetid://10709782342',['lucide-boxes'] = 'rbxassetid://10709782582',['lucide-briefcase'] = 'rbxassetid://10709782662',['lucide-brush'] = 'rbxassetid://10709782758',['lucide-bug'] = 'rbxassetid://10709782845',['lucide-building'] = 'rbxassetid://10709783051',['lucide-building-2'] = 'rbxassetid://10709782939',['lucide-bus'] = 'rbxassetid://10709783137',['lucide-cake'] = 'rbxassetid://10709783217',['lucide-calculator'] = 'rbxassetid://10709783311',['lucide-calendar'] = 'rbxassetid://10709789505',['lucide-calendar-check'] = 'rbxassetid://10709783474',['lucide-calendar-check-2'] = 'rbxassetid://10709783392',['lucide-calendar-clock'] = 'rbxassetid://10709783577',['lucide-calendar-days'] = 'rbxassetid://10709783673',['lucide-calendar-heart'] = 'rbxassetid://10709783835',['lucide-calendar-minus'] = 'rbxassetid://10709783959',['lucide-calendar-off'] = 'rbxassetid://10709788784',['lucide-calendar-plus'] = 'rbxassetid://10709788937',['lucide-calendar-range'] = 'rbxassetid://10709789053',['lucide-calendar-search'] = 'rbxassetid://10709789200',['lucide-calendar-x'] = 'rbxassetid://10709789407',['lucide-calendar-x-2'] = 'rbxassetid://10709789329',['lucide-camera'] = 'rbxassetid://10709789686',['lucide-camera-off'] = 'rbxassetid://10747822677',['lucide-car'] = 'rbxassetid://10709789810',['lucide-carrot'] = 'rbxassetid://10709789960',['lucide-cast'] = 'rbxassetid://10709790097',['lucide-charge'] = 'rbxassetid://10709790202',['lucide-check'] = 'rbxassetid://10709790644',['lucide-check-circle'] = 'rbxassetid://10709790387',['lucide-check-circle-2'] = 'rbxassetid://10709790298',['lucide-check-square'] = 'rbxassetid://10709790537',['lucide-chef-hat'] = 'rbxassetid://10709790757',['lucide-cherry'] = 'rbxassetid://10709790875',['lucide-chevron-down'] = 'rbxassetid://10709790948',['lucide-chevron-first'] = 'rbxassetid://10709791015',['lucide-chevron-last'] = 'rbxassetid://10709791130',['lucide-chevron-left'] = 'rbxassetid://10709791281',['lucide-chevron-right'] = 'rbxassetid://10709791437',['lucide-chevron-up'] = 'rbxassetid://10709791523',['lucide-chevrons-down'] = 'rbxassetid://10709796864',['lucide-chevrons-down-up'] = 'rbxassetid://10709791632',['lucide-chevrons-left'] = 'rbxassetid://10709797151',['lucide-chevrons-left-right'] = 'rbxassetid://10709797006',['lucide-chevrons-right'] = 'rbxassetid://10709797382',['lucide-chevrons-right-left'] = 'rbxassetid://10709797274',['lucide-chevrons-up'] = 'rbxassetid://10709797622',['lucide-chevrons-up-down'] = 'rbxassetid://10709797508',['lucide-chrome'] = 'rbxassetid://10709797725',['lucide-circle'] = 'rbxassetid://10709798174',['lucide-circle-dot'] = 'rbxassetid://10709797837',['lucide-circle-ellipsis'] = 'rbxassetid://10709797985',['lucide-circle-slashed'] = 'rbxassetid://10709798100',['lucide-citrus'] = 'rbxassetid://10709798276',['lucide-clapperboard'] = 'rbxassetid://10709798350',['lucide-clipboard'] = 'rbxassetid://10709799288',['lucide-clipboard-check'] = 'rbxassetid://10709798443',['lucide-clipboard-copy'] = 'rbxassetid://10709798574',['lucide-clipboard-edit'] = 'rbxassetid://10709798682',['lucide-clipboard-list'] = 'rbxassetid://10709798792',['lucide-clipboard-signature'] = 'rbxassetid://10709798890',['lucide-clipboard-type'] = 'rbxassetid://10709798999',['lucide-clipboard-x'] = 'rbxassetid://10709799124',['lucide-clock'] = 'rbxassetid://10709805144',['lucide-clock-1'] = 'rbxassetid://10709799535',['lucide-clock-10'] = 'rbxassetid://10709799718',['lucide-clock-11'] = 'rbxassetid://10709799818',['lucide-clock-12'] = 'rbxassetid://10709799962',['lucide-clock-2'] = 'rbxassetid://10709803876',['lucide-clock-3'] = 'rbxassetid://10709803989',['lucide-clock-4'] = 'rbxassetid://10709804164',['lucide-clock-5'] = 'rbxassetid://10709804291',['lucide-clock-6'] = 'rbxassetid://10709804435',['lucide-clock-7'] = 'rbxassetid://10709804599',['lucide-clock-8'] = 'rbxassetid://10709804784',['lucide-clock-9'] = 'rbxassetid://10709804996',['lucide-cloud'] = 'rbxassetid://10709806740',['lucide-cloud-cog'] = 'rbxassetid://10709805262',['lucide-cloud-drizzle'] = 'rbxassetid://10709805371',['lucide-cloud-fog'] = 'rbxassetid://10709805477',['lucide-cloud-hail'] = 'rbxassetid://10709805596',['lucide-cloud-lightning'] = 'rbxassetid://10709805727',['lucide-cloud-moon'] = 'rbxassetid://10709805942',['lucide-cloud-moon-rain'] = 'rbxassetid://10709805838',['lucide-cloud-off'] = 'rbxassetid://10709806060',['lucide-cloud-rain'] = 'rbxassetid://10709806277',['lucide-cloud-rain-wind'] = 'rbxassetid://10709806166',['lucide-cloud-snow'] = 'rbxassetid://10709806374',['lucide-cloud-sun'] = 'rbxassetid://10709806631',['lucide-cloud-sun-rain'] = 'rbxassetid://10709806475',['lucide-cloudy'] = 'rbxassetid://10709806859',['lucide-clover'] = 'rbxassetid://10709806995',['lucide-code'] = 'rbxassetid://10709810463',['lucide-code-2'] = 'rbxassetid://10709807111',['lucide-codepen'] = 'rbxassetid://10709810534',['lucide-codesandbox'] = 'rbxassetid://10709810676',['lucide-coffee'] = 'rbxassetid://10709810814',['lucide-cog'] = 'rbxassetid://10709810948',['lucide-coins'] = 'rbxassetid://10709811110',['lucide-columns'] = 'rbxassetid://10709811261',['lucide-command'] = 'rbxassetid://10709811365',['lucide-compass'] = 'rbxassetid://10709811445',['lucide-component'] = 'rbxassetid://10709811595',['lucide-concierge-bell'] = 'rbxassetid://10709811706',['lucide-connection'] = 'rbxassetid://10747361219',['lucide-contact'] = 'rbxassetid://10709811834',['lucide-contrast'] = 'rbxassetid://10709811939',['lucide-cookie'] = 'rbxassetid://10709812067',['lucide-copy'] = 'rbxassetid://10709812159',['lucide-copyleft'] = 'rbxassetid://10709812251',['lucide-copyright'] = 'rbxassetid://10709812311',['lucide-corner-down-left'] = 'rbxassetid://10709812396',['lucide-corner-down-right'] = 'rbxassetid://10709812485',['lucide-corner-left-down'] = 'rbxassetid://10709812632',['lucide-corner-left-up'] = 'rbxassetid://10709812784',['lucide-corner-right-down'] = 'rbxassetid://10709812939',['lucide-corner-right-up'] = 'rbxassetid://10709813094',['lucide-corner-up-left'] = 'rbxassetid://10709813185',['lucide-corner-up-right'] = 'rbxassetid://10709813281',['lucide-cpu'] = 'rbxassetid://10709813383',['lucide-croissant'] = 'rbxassetid://10709818125',['lucide-crop'] = 'rbxassetid://10709818245',['lucide-cross'] = 'rbxassetid://10709818399',['lucide-crosshair'] = 'rbxassetid://10709818534',['lucide-crown'] = 'rbxassetid://10709818626',['lucide-cup-soda'] = 'rbxassetid://10709818763',['lucide-curly-braces'] = 'rbxassetid://10709818847',['lucide-currency'] = 'rbxassetid://10709818931',['lucide-database'] = 'rbxassetid://10709818996',['lucide-delete'] = 'rbxassetid://10709819059',['lucide-diamond'] = 'rbxassetid://10709819149',['lucide-dice-1'] = 'rbxassetid://10709819266',['lucide-dice-2'] = 'rbxassetid://10709819361',['lucide-dice-3'] = 'rbxassetid://10709819508',['lucide-dice-4'] = 'rbxassetid://10709819670',['lucide-dice-5'] = 'rbxassetid://10709819801',['lucide-dice-6'] = 'rbxassetid://10709819896',['lucide-dices'] = 'rbxassetid://10723343321',['lucide-diff'] = 'rbxassetid://10723343416',['lucide-disc'] = 'rbxassetid://10723343537',['lucide-divide'] = 'rbxassetid://10723343805',['lucide-divide-circle'] = 'rbxassetid://10723343636',['lucide-divide-square'] = 'rbxassetid://10723343737',['lucide-dollar-sign'] = 'rbxassetid://10723343958',['lucide-download'] = 'rbxassetid://10723344270',['lucide-download-cloud'] = 'rbxassetid://10723344088',['lucide-droplet'] = 'rbxassetid://10723344432',['lucide-droplets'] = 'rbxassetid://10734883356',['lucide-drumstick'] = 'rbxassetid://10723344737',['lucide-edit'] = 'rbxassetid://10734883598',['lucide-edit-2'] = 'rbxassetid://10723344885',['lucide-edit-3'] = 'rbxassetid://10723345088',['lucide-egg'] = 'rbxassetid://10723345518',['lucide-egg-fried'] = 'rbxassetid://10723345347',['lucide-electricity'] = 'rbxassetid://10723345749',['lucide-electricity-off'] = 'rbxassetid://10723345643',['lucide-equal'] = 'rbxassetid://10723345990',['lucide-equal-not'] = 'rbxassetid://10723345866',['lucide-eraser'] = 'rbxassetid://10723346158',['lucide-euro'] = 'rbxassetid://10723346372',['lucide-expand'] = 'rbxassetid://10723346553',['lucide-external-link'] = 'rbxassetid://10723346684',['lucide-eye'] = 'rbxassetid://10723346959',['lucide-eye-off'] = 'rbxassetid://10723346871',['lucide-factory'] = 'rbxassetid://10723347051',['lucide-fan'] = 'rbxassetid://10723354359',['lucide-fast-forward'] = 'rbxassetid://10723354521',['lucide-feather'] = 'rbxassetid://10723354671',['lucide-figma'] = 'rbxassetid://10723354801',['lucide-file'] = 'rbxassetid://10723374641',['lucide-file-archive'] = 'rbxassetid://10723354921',['lucide-file-audio'] = 'rbxassetid://10723355148',['lucide-file-audio-2'] = 'rbxassetid://10723355026',['lucide-file-axis-3d'] = 'rbxassetid://10723355272',['lucide-file-badge'] = 'rbxassetid://10723355622',['lucide-file-badge-2'] = 'rbxassetid://10723355451',['lucide-file-bar-chart'] = 'rbxassetid://10723355887',['lucide-file-bar-chart-2'] = 'rbxassetid://10723355746',['lucide-file-box'] = 'rbxassetid://10723355989',['lucide-file-check'] = 'rbxassetid://10723356210',['lucide-file-check-2'] = 'rbxassetid://10723356100',['lucide-file-clock'] = 'rbxassetid://10723356329',['lucide-file-code'] = 'rbxassetid://10723356507',['lucide-file-cog'] = 'rbxassetid://10723356830',['lucide-file-cog-2'] = 'rbxassetid://10723356676',['lucide-file-diff'] = 'rbxassetid://10723357039',['lucide-file-digit'] = 'rbxassetid://10723357151',['lucide-file-down'] = 'rbxassetid://10723357322',['lucide-file-edit'] = 'rbxassetid://10723357495',['lucide-file-heart'] = 'rbxassetid://10723357637',['lucide-file-image'] = 'rbxassetid://10723357790',['lucide-file-input'] = 'rbxassetid://10723357933',['lucide-file-json'] = 'rbxassetid://10723364435',['lucide-file-json-2'] = 'rbxassetid://10723364361',['lucide-file-key'] = 'rbxassetid://10723364605',['lucide-file-key-2'] = 'rbxassetid://10723364515',['lucide-file-line-chart'] = 'rbxassetid://10723364725',['lucide-file-lock'] = 'rbxassetid://10723364957',['lucide-file-lock-2'] = 'rbxassetid://10723364861',['lucide-file-minus'] = 'rbxassetid://10723365254',['lucide-file-minus-2'] = 'rbxassetid://10723365086',['lucide-file-output'] = 'rbxassetid://10723365457',['lucide-file-pie-chart'] = 'rbxassetid://10723365598',['lucide-file-plus'] = 'rbxassetid://10723365877',['lucide-file-plus-2'] = 'rbxassetid://10723365766',['lucide-file-question'] = 'rbxassetid://10723365987',['lucide-file-scan'] = 'rbxassetid://10723366167',['lucide-file-search'] = 'rbxassetid://10723366550',['lucide-file-search-2'] = 'rbxassetid://10723366340',['lucide-file-signature'] = 'rbxassetid://10723366741',['lucide-file-spreadsheet'] = 'rbxassetid://10723366962',['lucide-file-symlink'] = 'rbxassetid://10723367098',['lucide-file-terminal'] = 'rbxassetid://10723367244',['lucide-file-text'] = 'rbxassetid://10723367380',['lucide-file-type'] = 'rbxassetid://10723367606',['lucide-file-type-2'] = 'rbxassetid://10723367509',['lucide-file-up'] = 'rbxassetid://10723367734',['lucide-file-video'] = 'rbxassetid://10723373884',['lucide-file-video-2'] = 'rbxassetid://10723367834',['lucide-file-volume'] = 'rbxassetid://10723374172',['lucide-file-volume-2'] = 'rbxassetid://10723374030',['lucide-file-warning'] = 'rbxassetid://10723374276',['lucide-file-x'] = 'rbxassetid://10723374544',['lucide-file-x-2'] = 'rbxassetid://10723374378',['lucide-files'] = 'rbxassetid://10723374759',['lucide-film'] = 'rbxassetid://10723374981',['lucide-filter'] = 'rbxassetid://10723375128',['lucide-fingerprint'] = 'rbxassetid://10723375250',['lucide-flag'] = 'rbxassetid://10723375890',['lucide-flag-off'] = 'rbxassetid://10723375443',['lucide-flag-triangle-left'] = 'rbxassetid://10723375608',['lucide-flag-triangle-right'] = 'rbxassetid://10723375727',['lucide-flame'] = 'rbxassetid://10723376114',['lucide-flashlight'] = 'rbxassetid://10723376471',['lucide-flashlight-off'] = 'rbxassetid://10723376365',['lucide-flask-conical'] = 'rbxassetid://10734883986',['lucide-flask-round'] = 'rbxassetid://10723376614',['lucide-flip-horizontal'] = 'rbxassetid://10723376884',['lucide-flip-horizontal-2'] = 'rbxassetid://10723376745',['lucide-flip-vertical'] = 'rbxassetid://10723377138',['lucide-flip-vertical-2'] = 'rbxassetid://10723377026',['lucide-flower'] = 'rbxassetid://10747830374',['lucide-flower-2'] = 'rbxassetid://10723377305',['lucide-focus'] = 'rbxassetid://10723377537',['lucide-folder'] = 'rbxassetid://10723387563',['lucide-folder-archive'] = 'rbxassetid://10723384478',['lucide-folder-check'] = 'rbxassetid://10723384605',['lucide-folder-clock'] = 'rbxassetid://10723384731',['lucide-folder-closed'] = 'rbxassetid://10723384893',['lucide-folder-cog'] = 'rbxassetid://10723385213',['lucide-folder-cog-2'] = 'rbxassetid://10723385036',['lucide-folder-down'] = 'rbxassetid://10723385338',['lucide-folder-edit'] = 'rbxassetid://10723385445',['lucide-folder-heart'] = 'rbxassetid://10723385545',['lucide-folder-input'] = 'rbxassetid://10723385721',['lucide-folder-key'] = 'rbxassetid://10723385848',['lucide-folder-lock'] = 'rbxassetid://10723386005',['lucide-folder-minus'] = 'rbxassetid://10723386127',['lucide-folder-open'] = 'rbxassetid://10723386277',['lucide-folder-output'] = 'rbxassetid://10723386386',['lucide-folder-plus'] = 'rbxassetid://10723386531',['lucide-folder-search'] = 'rbxassetid://10723386787',['lucide-folder-search-2'] = 'rbxassetid://10723386674',['lucide-folder-symlink'] = 'rbxassetid://10723386930',['lucide-folder-tree'] = 'rbxassetid://10723387085',['lucide-folder-up'] = 'rbxassetid://10723387265',['lucide-folder-x'] = 'rbxassetid://10723387448',['lucide-folders'] = 'rbxassetid://10723387721',['lucide-form-input'] = 'rbxassetid://10723387841',['lucide-forward'] = 'rbxassetid://10723388016',['lucide-frame'] = 'rbxassetid://10723394389',['lucide-framer'] = 'rbxassetid://10723394565',['lucide-frown'] = 'rbxassetid://10723394681',['lucide-fuel'] = 'rbxassetid://10723394846',['lucide-function-square'] = 'rbxassetid://10723395041',['lucide-gamepad'] = 'rbxassetid://10723395457',['lucide-gamepad-2'] = 'rbxassetid://10723395215',['lucide-gauge'] = 'rbxassetid://10723395708',['lucide-gavel'] = 'rbxassetid://10723395896',['lucide-gem'] = 'rbxassetid://10723396000',['lucide-ghost'] = 'rbxassetid://10723396107',['lucide-gift'] = 'rbxassetid://10723396402',['lucide-gift-card'] = 'rbxassetid://10723396225',['lucide-git-branch'] = 'rbxassetid://10723396676',['lucide-git-branch-plus'] = 'rbxassetid://10723396542',['lucide-git-commit'] = 'rbxassetid://10723396812',['lucide-git-compare'] = 'rbxassetid://10723396954',['lucide-git-fork'] = 'rbxassetid://10723397049',['lucide-git-merge'] = 'rbxassetid://10723397165',['lucide-git-pull-request'] = 'rbxassetid://10723397431',['lucide-git-pull-request-closed'] = 'rbxassetid://10723397268',['lucide-git-pull-request-draft'] = 'rbxassetid://10734884302',['lucide-glass'] = 'rbxassetid://10723397788',['lucide-glass-2'] = 'rbxassetid://10723397529',['lucide-glass-water'] = 'rbxassetid://10723397678',['lucide-glasses'] = 'rbxassetid://10723397895',['lucide-globe'] = 'rbxassetid://10723404337',['lucide-globe-2'] = 'rbxassetid://10723398002',['lucide-grab'] = 'rbxassetid://10723404472',['lucide-graduation-cap'] = 'rbxassetid://10723404691',['lucide-grape'] = 'rbxassetid://10723404822',['lucide-grid'] = 'rbxassetid://10723404936',['lucide-grip-horizontal'] = 'rbxassetid://10723405089',['lucide-grip-vertical'] = 'rbxassetid://10723405236',['lucide-hammer'] = 'rbxassetid://10723405360',['lucide-hand'] = 'rbxassetid://10723405649',['lucide-hand-metal'] = 'rbxassetid://10723405508',['lucide-hard-drive'] = 'rbxassetid://10723405749',['lucide-hard-hat'] = 'rbxassetid://10723405859',['lucide-hash'] = 'rbxassetid://10723405975',['lucide-haze'] = 'rbxassetid://10723406078',['lucide-headphones'] = 'rbxassetid://10723406165',['lucide-heart'] = 'rbxassetid://10723406885',['lucide-heart-crack'] = 'rbxassetid://10723406299',['lucide-heart-handshake'] = 'rbxassetid://10723406480',['lucide-heart-off'] = 'rbxassetid://10723406662',['lucide-heart-pulse'] = 'rbxassetid://10723406795',['lucide-help-circle'] = 'rbxassetid://10723406988',['lucide-hexagon'] = 'rbxassetid://10723407092',['lucide-highlighter'] = 'rbxassetid://10723407192',['lucide-history'] = 'rbxassetid://10723407335',['lucide-home'] = 'rbxassetid://10723407389',['lucide-hourglass'] = 'rbxassetid://10723407498',['lucide-ice-cream'] = 'rbxassetid://10723414308',['lucide-image'] = 'rbxassetid://10723415040',['lucide-image-minus'] = 'rbxassetid://10723414487',['lucide-image-off'] = 'rbxassetid://10723414677',['lucide-image-plus'] = 'rbxassetid://10723414827',['lucide-import'] = 'rbxassetid://10723415205',['lucide-inbox'] = 'rbxassetid://10723415335',['lucide-indent'] = 'rbxassetid://10723415494',['lucide-indian-rupee'] = 'rbxassetid://10723415642',['lucide-infinity'] = 'rbxassetid://10723415766',['lucide-info'] = 'rbxassetid://10723415903',['lucide-inspect'] = 'rbxassetid://10723416057',['lucide-italic'] = 'rbxassetid://10723416195',['lucide-japanese-yen'] = 'rbxassetid://10723416363',['lucide-joystick'] = 'rbxassetid://10723416527',['lucide-key'] = 'rbxassetid://10723416652',['lucide-keyboard'] = 'rbxassetid://10723416765',['lucide-lamp'] = 'rbxassetid://10723417513',['lucide-lamp-ceiling'] = 'rbxassetid://10723416922',['lucide-lamp-desk'] = 'rbxassetid://10723417016',['lucide-lamp-floor'] = 'rbxassetid://10723417131',['lucide-lamp-wall-down'] = 'rbxassetid://10723417240',['lucide-lamp-wall-up'] = 'rbxassetid://10723417356',['lucide-landmark'] = 'rbxassetid://10723417608',['lucide-languages'] = 'rbxassetid://10723417703',['lucide-laptop'] = 'rbxassetid://10723423881',['lucide-laptop-2'] = 'rbxassetid://10723417797',['lucide-lasso'] = 'rbxassetid://10723424235',['lucide-lasso-select'] = 'rbxassetid://10723424058',['lucide-laugh'] = 'rbxassetid://10723424372',['lucide-layers'] = 'rbxassetid://10723424505',['lucide-layout'] = 'rbxassetid://10723425376',['lucide-layout-dashboard'] = 'rbxassetid://10723424646',['lucide-layout-grid'] = 'rbxassetid://10723424838',['lucide-layout-list'] = 'rbxassetid://10723424963',['lucide-layout-template'] = 'rbxassetid://10723425187',['lucide-leaf'] = 'rbxassetid://10723425539',['lucide-library'] = 'rbxassetid://10723425615',['lucide-life-buoy'] = 'rbxassetid://10723425685',['lucide-lightbulb'] = 'rbxassetid://10723425852',['lucide-lightbulb-off'] = 'rbxassetid://10723425762',['lucide-line-chart'] = 'rbxassetid://10723426393',['lucide-link'] = 'rbxassetid://10723426722',['lucide-link-2'] = 'rbxassetid://10723426595',['lucide-link-2-off'] = 'rbxassetid://10723426513',['lucide-list'] = 'rbxassetid://10723433811',['lucide-list-checks'] = 'rbxassetid://10734884548',['lucide-list-end'] = 'rbxassetid://10723426886',['lucide-list-minus'] = 'rbxassetid://10723426986',['lucide-list-music'] = 'rbxassetid://10723427081',['lucide-list-ordered'] = 'rbxassetid://10723427199',['lucide-list-plus'] = 'rbxassetid://10723427334',['lucide-list-start'] = 'rbxassetid://10723427494',['lucide-list-video'] = 'rbxassetid://10723427619',['lucide-list-x'] = 'rbxassetid://10723433655',['lucide-loader'] = 'rbxassetid://10723434070',['lucide-loader-2'] = 'rbxassetid://10723433935',['lucide-locate'] = 'rbxassetid://10723434557',['lucide-locate-fixed'] = 'rbxassetid://10723434236',['lucide-locate-off'] = 'rbxassetid://10723434379',['lucide-lock'] = 'rbxassetid://10723434711',['lucide-log-in'] = 'rbxassetid://10723434830',['lucide-log-out'] = 'rbxassetid://10723434906',['lucide-luggage'] = 'rbxassetid://10723434993',['lucide-magnet'] = 'rbxassetid://10723435069',['lucide-mail'] = 'rbxassetid://10734885430',['lucide-mail-check'] = 'rbxassetid://10723435182',['lucide-mail-minus'] = 'rbxassetid://10723435261',['lucide-mail-open'] = 'rbxassetid://10723435342',['lucide-mail-plus'] = 'rbxassetid://10723435443',['lucide-mail-question'] = 'rbxassetid://10723435515',['lucide-mail-search'] = 'rbxassetid://10734884739',['lucide-mail-warning'] = 'rbxassetid://10734885015',['lucide-mail-x'] = 'rbxassetid://10734885247',['lucide-mails'] = 'rbxassetid://10734885614',['lucide-map'] = 'rbxassetid://10734886202',['lucide-map-pin'] = 'rbxassetid://10734886004',['lucide-map-pin-off'] = 'rbxassetid://10734885803',['lucide-maximize'] = 'rbxassetid://10734886735',['lucide-maximize-2'] = 'rbxassetid://10734886496',['lucide-medal'] = 'rbxassetid://10734887072',['lucide-megaphone'] = 'rbxassetid://10734887454',['lucide-megaphone-off'] = 'rbxassetid://10734887311',['lucide-meh'] = 'rbxassetid://10734887603',['lucide-menu'] = 'rbxassetid://10734887784',['lucide-message-circle'] = 'rbxassetid://10734888000',['lucide-message-square'] = 'rbxassetid://10734888228',['lucide-mic'] = 'rbxassetid://10734888864',['lucide-mic-2'] = 'rbxassetid://10734888430',['lucide-mic-off'] = 'rbxassetid://10734888646',['lucide-microscope'] = 'rbxassetid://10734889106',['lucide-microwave'] = 'rbxassetid://10734895076',['lucide-milestone'] = 'rbxassetid://10734895310',['lucide-minimize'] = 'rbxassetid://10734895698',['lucide-minimize-2'] = 'rbxassetid://10734895530',['lucide-minus'] = 'rbxassetid://10734896206',['lucide-minus-circle'] = 'rbxassetid://10734895856',['lucide-minus-square'] = 'rbxassetid://10734896029',['lucide-monitor'] = 'rbxassetid://10734896881',['lucide-monitor-off'] = 'rbxassetid://10734896360',['lucide-monitor-speaker'] = 'rbxassetid://10734896512',['lucide-moon'] = 'rbxassetid://10734897102',['lucide-more-horizontal'] = 'rbxassetid://10734897250',['lucide-more-vertical'] = 'rbxassetid://10734897387',['lucide-mountain'] = 'rbxassetid://10734897956',['lucide-mountain-snow'] = 'rbxassetid://10734897665',['lucide-mouse'] = 'rbxassetid://10734898592',['lucide-mouse-pointer'] = 'rbxassetid://10734898476',['lucide-mouse-pointer-2'] = 'rbxassetid://10734898194',['lucide-mouse-pointer-click'] = 'rbxassetid://10734898355',['lucide-move'] = 'rbxassetid://10734900011',['lucide-move-3d'] = 'rbxassetid://10734898756',['lucide-move-diagonal'] = 'rbxassetid://10734899164',['lucide-move-diagonal-2'] = 'rbxassetid://10734898934',['lucide-move-horizontal'] = 'rbxassetid://10734899414',['lucide-move-vertical'] = 'rbxassetid://10734899821',['lucide-music'] = 'rbxassetid://10734905958',['lucide-music-2'] = 'rbxassetid://10734900215',['lucide-music-3'] = 'rbxassetid://10734905665',['lucide-music-4'] = 'rbxassetid://10734905823',['lucide-navigation'] = 'rbxassetid://10734906744',['lucide-navigation-2'] = 'rbxassetid://10734906332',['lucide-navigation-2-off'] = 'rbxassetid://10734906144',['lucide-navigation-off'] = 'rbxassetid://10734906580',['lucide-network'] = 'rbxassetid://10734906975',['lucide-newspaper'] = 'rbxassetid://10734907168',['lucide-octagon'] = 'rbxassetid://10734907361',['lucide-option'] = 'rbxassetid://10734907649',['lucide-outdent'] = 'rbxassetid://10734907933',['lucide-package'] = 'rbxassetid://10734909540',['lucide-package-2'] = 'rbxassetid://10734908151',['lucide-package-check'] = 'rbxassetid://10734908384',['lucide-package-minus'] = 'rbxassetid://10734908626',['lucide-package-open'] = 'rbxassetid://10734908793',['lucide-package-plus'] = 'rbxassetid://10734909016',['lucide-package-search'] = 'rbxassetid://10734909196',['lucide-package-x'] = 'rbxassetid://10734909375',['lucide-paint-bucket'] = 'rbxassetid://10734909847',['lucide-paintbrush'] = 'rbxassetid://10734910187',['lucide-paintbrush-2'] = 'rbxassetid://10734910030',['lucide-palette'] = 'rbxassetid://10734910430',['lucide-palmtree'] = 'rbxassetid://10734910680',['lucide-paperclip'] = 'rbxassetid://10734910927',['lucide-party-popper'] = 'rbxassetid://10734918735',['lucide-pause'] = 'rbxassetid://10734919336',['lucide-pause-circle'] = 'rbxassetid://10735024209',['lucide-pause-octagon'] = 'rbxassetid://10734919143',['lucide-pen-tool'] = 'rbxassetid://10734919503',['lucide-pencil'] = 'rbxassetid://10734919691',['lucide-percent'] = 'rbxassetid://10734919919',['lucide-person-standing'] = 'rbxassetid://10734920149',['lucide-phone'] = 'rbxassetid://10734921524',['lucide-phone-call'] = 'rbxassetid://10734920305',['lucide-phone-forwarded'] = 'rbxassetid://10734920508',['lucide-phone-incoming'] = 'rbxassetid://10734920694',['lucide-phone-missed'] = 'rbxassetid://10734920845',['lucide-phone-off'] = 'rbxassetid://10734921077',['lucide-phone-outgoing'] = 'rbxassetid://10734921288',['lucide-pie-chart'] = 'rbxassetid://10734921727',['lucide-piggy-bank'] = 'rbxassetid://10734921935',['lucide-pin'] = 'rbxassetid://10734922324',['lucide-pin-off'] = 'rbxassetid://10734922180',['lucide-pipette'] = 'rbxassetid://10734922497',['lucide-pizza'] = 'rbxassetid://10734922774',['lucide-plane'] = 'rbxassetid://10734922971',['lucide-play'] = 'rbxassetid://10734923549',['lucide-play-circle'] = 'rbxassetid://10734923214',['lucide-plus'] = 'rbxassetid://10734924532',['lucide-plus-circle'] = 'rbxassetid://10734923868',['lucide-plus-square'] = 'rbxassetid://10734924219',['lucide-podcast'] = 'rbxassetid://10734929553',['lucide-pointer'] = 'rbxassetid://10734929723',['lucide-pound-sterling'] = 'rbxassetid://10734929981',['lucide-power'] = 'rbxassetid://10734930466',['lucide-power-off'] = 'rbxassetid://10734930257',['lucide-printer'] = 'rbxassetid://10734930632',['lucide-puzzle'] = 'rbxassetid://10734930886',['lucide-quote'] = 'rbxassetid://10734931234',['lucide-radio'] = 'rbxassetid://10734931596',['lucide-radio-receiver'] = 'rbxassetid://10734931402',['lucide-rectangle-horizontal'] = 'rbxassetid://10734931777',['lucide-rectangle-vertical'] = 'rbxassetid://10734932081',['lucide-recycle'] = 'rbxassetid://10734932295',['lucide-redo'] = 'rbxassetid://10734932822',['lucide-redo-2'] = 'rbxassetid://10734932586',['lucide-refresh-ccw'] = 'rbxassetid://10734933056',['lucide-refresh-cw'] = 'rbxassetid://10734933222',['lucide-refrigerator'] = 'rbxassetid://10734933465',['lucide-regex'] = 'rbxassetid://10734933655',['lucide-repeat'] = 'rbxassetid://10734933966',['lucide-repeat-1'] = 'rbxassetid://10734933826',['lucide-reply'] = 'rbxassetid://10734934252',['lucide-reply-all'] = 'rbxassetid://10734934132',['lucide-rewind'] = 'rbxassetid://10734934347',['lucide-rocket'] = 'rbxassetid://10734934585',['lucide-rocking-chair'] = 'rbxassetid://10734939942',['lucide-rotate-3d'] = 'rbxassetid://10734940107',['lucide-rotate-ccw'] = 'rbxassetid://10734940376',['lucide-rotate-cw'] = 'rbxassetid://10734940654',['lucide-rss'] = 'rbxassetid://10734940825',['lucide-ruler'] = 'rbxassetid://10734941018',['lucide-russian-ruble'] = 'rbxassetid://10734941199',['lucide-sailboat'] = 'rbxassetid://10734941354',['lucide-save'] = 'rbxassetid://10734941499',['lucide-scale'] = 'rbxassetid://10734941912',['lucide-scale-3d'] = 'rbxassetid://10734941739',['lucide-scaling'] = 'rbxassetid://10734942072',['lucide-scan'] = 'rbxassetid://10734942565',['lucide-scan-face'] = 'rbxassetid://10734942198',['lucide-scan-line'] = 'rbxassetid://10734942351',['lucide-scissors'] = 'rbxassetid://10734942778',['lucide-screen-share'] = 'rbxassetid://10734943193',['lucide-screen-share-off'] = 'rbxassetid://10734942967',['lucide-scroll'] = 'rbxassetid://10734943448',['lucide-search'] = 'rbxassetid://10734943674',['lucide-send'] = 'rbxassetid://10734943902',['lucide-separator-horizontal'] = 'rbxassetid://10734944115',['lucide-separator-vertical'] = 'rbxassetid://10734944326',['lucide-server'] = 'rbxassetid://10734949856',['lucide-server-cog'] = 'rbxassetid://10734944444',['lucide-server-crash'] = 'rbxassetid://10734944554',['lucide-server-off'] = 'rbxassetid://10734944668',['lucide-settings'] = 'rbxassetid://10734950309',['lucide-settings-2'] = 'rbxassetid://10734950020',['lucide-share'] = 'rbxassetid://10734950813',['lucide-share-2'] = 'rbxassetid://10734950553',['lucide-sheet'] = 'rbxassetid://10734951038',['lucide-shield'] = 'rbxassetid://10734951847',['lucide-shield-alert'] = 'rbxassetid://10734951173',['lucide-shield-check'] = 'rbxassetid://10734951367',['lucide-shield-close'] = 'rbxassetid://10734951535',['lucide-shield-off'] = 'rbxassetid://10734951684',['lucide-shirt'] = 'rbxassetid://10734952036',['lucide-shopping-bag'] = 'rbxassetid://10734952273',['lucide-shopping-cart'] = 'rbxassetid://10734952479',['lucide-shovel'] = 'rbxassetid://10734952773',['lucide-shower-head'] = 'rbxassetid://10734952942',['lucide-shrink'] = 'rbxassetid://10734953073',['lucide-shrub'] = 'rbxassetid://10734953241',['lucide-shuffle'] = 'rbxassetid://10734953451',['lucide-sidebar'] = 'rbxassetid://10734954301',['lucide-sidebar-close'] = 'rbxassetid://10734953715',['lucide-sidebar-open'] = 'rbxassetid://10734954000',['lucide-sigma'] = 'rbxassetid://10734954538',['lucide-signal'] = 'rbxassetid://10734961133',['lucide-signal-high'] = 'rbxassetid://10734954807',['lucide-signal-low'] = 'rbxassetid://10734955080',['lucide-signal-medium'] = 'rbxassetid://10734955336',['lucide-signal-zero'] = 'rbxassetid://10734960878',['lucide-siren'] = 'rbxassetid://10734961284',['lucide-skip-back'] = 'rbxassetid://10734961526',['lucide-skip-forward'] = 'rbxassetid://10734961809',['lucide-skull'] = 'rbxassetid://10734962068',['lucide-slack'] = 'rbxassetid://10734962339',['lucide-slash'] = 'rbxassetid://10734962600',['lucide-slice'] = 'rbxassetid://10734963024',['lucide-sliders'] = 'rbxassetid://10734963400',['lucide-sliders-horizontal'] = 'rbxassetid://10734963191',['lucide-smartphone'] = 'rbxassetid://10734963940',['lucide-smartphone-charging'] = 'rbxassetid://10734963671',['lucide-smile'] = 'rbxassetid://10734964441',['lucide-smile-plus'] = 'rbxassetid://10734964188',['lucide-snowflake'] = 'rbxassetid://10734964600',['lucide-sofa'] = 'rbxassetid://10734964852',['lucide-sort-asc'] = 'rbxassetid://10734965115',['lucide-sort-desc'] = 'rbxassetid://10734965287',['lucide-speaker'] = 'rbxassetid://10734965419',['lucide-sprout'] = 'rbxassetid://10734965572',['lucide-square'] = 'rbxassetid://10734965702',['lucide-star'] = 'rbxassetid://10734966248',['lucide-star-half'] = 'rbxassetid://10734965897',['lucide-star-off'] = 'rbxassetid://10734966097',['lucide-stethoscope'] = 'rbxassetid://10734966384',['lucide-sticker'] = 'rbxassetid://10734972234',['lucide-sticky-note'] = 'rbxassetid://10734972463',['lucide-stop-circle'] = 'rbxassetid://10734972621',['lucide-stretch-horizontal'] = 'rbxassetid://10734972862',['lucide-stretch-vertical'] = 'rbxassetid://10734973130',['lucide-strikethrough'] = 'rbxassetid://10734973290',['lucide-subscript'] = 'rbxassetid://10734973457',['lucide-sun'] = 'rbxassetid://10734974297',['lucide-sun-dim'] = 'rbxassetid://10734973645',['lucide-sun-medium'] = 'rbxassetid://10734973778',['lucide-sun-moon'] = 'rbxassetid://10734973999',['lucide-sun-snow'] = 'rbxassetid://10734974130',['lucide-sunrise'] = 'rbxassetid://10734974522',['lucide-sunset'] = 'rbxassetid://10734974689',['lucide-superscript'] = 'rbxassetid://10734974850',['lucide-swiss-franc'] = 'rbxassetid://10734975024',['lucide-switch-camera'] = 'rbxassetid://10734975214',['lucide-sword'] = 'rbxassetid://10734975486',['lucide-swords'] = 'rbxassetid://10734975692',['lucide-syringe'] = 'rbxassetid://10734975932',['lucide-table'] = 'rbxassetid://10734976230',['lucide-table-2'] = 'rbxassetid://10734976097',['lucide-tablet'] = 'rbxassetid://10734976394',['lucide-tag'] = 'rbxassetid://10734976528',['lucide-tags'] = 'rbxassetid://10734976739',['lucide-target'] = 'rbxassetid://10734977012',['lucide-tent'] = 'rbxassetid://10734981750',['lucide-terminal'] = 'rbxassetid://10734982144',['lucide-terminal-square'] = 'rbxassetid://10734981995',['lucide-text-cursor'] = 'rbxassetid://10734982395',['lucide-text-cursor-input'] = 'rbxassetid://10734982297',['lucide-thermometer'] = 'rbxassetid://10734983134',['lucide-thermometer-snowflake'] = 'rbxassetid://10734982571',['lucide-thermometer-sun'] = 'rbxassetid://10734982771',['lucide-thumbs-down'] = 'rbxassetid://10734983359',['lucide-thumbs-up'] = 'rbxassetid://10734983629',['lucide-ticket'] = 'rbxassetid://10734983868',['lucide-timer'] = 'rbxassetid://10734984606',['lucide-timer-off'] = 'rbxassetid://10734984138',['lucide-timer-reset'] = 'rbxassetid://10734984355',['lucide-toggle-left'] = 'rbxassetid://10734984834',['lucide-toggle-right'] = 'rbxassetid://10734985040',['lucide-tornado'] = 'rbxassetid://10734985247',['lucide-toy-brick'] = 'rbxassetid://10747361919',['lucide-train'] = 'rbxassetid://10747362105',['lucide-trash'] = 'rbxassetid://10747362393',['lucide-trash-2'] = 'rbxassetid://10747362241',['lucide-tree-deciduous'] = 'rbxassetid://10747362534',['lucide-tree-pine'] = 'rbxassetid://10747362748',['lucide-trees'] = 'rbxassetid://10747363016',['lucide-trending-down'] = 'rbxassetid://10747363205',['lucide-trending-up'] = 'rbxassetid://10747363465',['lucide-triangle'] = 'rbxassetid://10747363621',['lucide-trophy'] = 'rbxassetid://10747363809',['lucide-truck'] = 'rbxassetid://10747364031',['lucide-tv'] = 'rbxassetid://10747364593',['lucide-tv-2'] = 'rbxassetid://10747364302',['lucide-type'] = 'rbxassetid://10747364761',['lucide-umbrella'] = 'rbxassetid://10747364971',['lucide-underline'] = 'rbxassetid://10747365191',['lucide-undo'] = 'rbxassetid://10747365484',['lucide-undo-2'] = 'rbxassetid://10747365359',['lucide-unlink'] = 'rbxassetid://10747365771',['lucide-unlink-2'] = 'rbxassetid://10747397871',['lucide-unlock'] = 'rbxassetid://10747366027',['lucide-upload'] = 'rbxassetid://10747366434',['lucide-upload-cloud'] = 'rbxassetid://10747366266',['lucide-usb'] = 'rbxassetid://10747366606',['lucide-user'] = 'rbxassetid://10747373176',['lucide-user-check'] = 'rbxassetid://10747371901',['lucide-user-cog'] = 'rbxassetid://10747372167',['lucide-user-minus'] = 'rbxassetid://10747372346',['lucide-user-plus'] = 'rbxassetid://10747372702',['lucide-user-x'] = 'rbxassetid://10747372992',['lucide-users'] = 'rbxassetid://10747373426',['lucide-utensils'] = 'rbxassetid://10747373821',['lucide-utensils-crossed'] = 'rbxassetid://10747373629',['lucide-venetian-mask'] = 'rbxassetid://10747374003',['lucide-verified'] = 'rbxassetid://10747374131',['lucide-vibrate'] = 'rbxassetid://10747374489',['lucide-vibrate-off'] = 'rbxassetid://10747374269',['lucide-video'] = 'rbxassetid://10747374938',['lucide-video-off'] = 'rbxassetid://10747374721',['lucide-view'] = 'rbxassetid://10747375132',['lucide-voicemail'] = 'rbxassetid://10747375281',['lucide-volume'] = 'rbxassetid://10747376008',['lucide-volume-1'] = 'rbxassetid://10747375450',['lucide-volume-2'] = 'rbxassetid://10747375679',['lucide-volume-x'] = 'rbxassetid://10747375880',['lucide-wallet'] = 'rbxassetid://10747376205',['lucide-wand'] = 'rbxassetid://10747376565',['lucide-wand-2'] = 'rbxassetid://10747376349',['lucide-watch'] = 'rbxassetid://10747376722',['lucide-waves'] = 'rbxassetid://10747376931',['lucide-webcam'] = 'rbxassetid://10747381992',['lucide-wifi'] = 'rbxassetid://10747382504',['lucide-wifi-off'] = 'rbxassetid://10747382268',['lucide-wind'] = 'rbxassetid://10747382750',['lucide-wrap-text'] = 'rbxassetid://10747383065',['lucide-wrench'] = 'rbxassetid://10747383470',['lucide-x'] = 'rbxassetid://10747384394',['lucide-x-circle'] = 'rbxassetid://10747383819',['lucide-x-octagon'] = 'rbxassetid://10747384037',['lucide-x-square'] = 'rbxassetid://10747384217',['lucide-zoom-in'] = 'rbxassetid://10747384552',['lucide-zoom-out'] = 'rbxassetid://10747384679'}
+		}
+	end,
+	[30] = function()
+		local aa, ab, ac, ad, ae = b(30)
+		local af = {
+			SingleMotor = ac(ab.SingleMotor),
+			GroupMotor = ac(ab.GroupMotor),
+			Instant = ac(ab.Instant),
+			Linear = ac(ab.Linear),
+			Spring = ac(ab.Spring),
+			isMotor = ac(ab.isMotor)
+		}
+		return af
+	end,
+	[31] = function()
+		local aa, ab, ac, ad, ae = b(31)
+		local af, ag, ah, ai = game:GetService'RunService', ac(ab.Parent.Signal), function()
+		end, {}
+		ai.__index = ai
+		function ai.new()
+			return setmetatable({
+				_onStep = ag.new(),
+				_onStart = ag.new(),
+				_onComplete = ag.new()
+			}, ai)
+		end
+		function ai.onStep(aj, c)
+			return aj._onStep:connect(c)
+		end
+		function ai.onStart(aj, c)
+			return aj._onStart:connect(c)
+		end
+		function ai.onComplete(aj, c)
+			return aj._onComplete:connect(c)
+		end
+		function ai.start(aj)
+			if not aj._connection then
+				aj._connection = af.RenderStepped:Connect(function(c)
+					aj:step(c)
+				end)
+			end
+		end
+		function ai.stop(aj)
+			if aj._connection then
+				aj._connection:Disconnect()
+				aj._connection = nil
+			end
+		end
+		ai.destroy = ai.stop
+		ai.step = ah
+		ai.getValue = ah
+		ai.setGoal = ah
+		function ai.__tostring(aj)
+			return 'Motor'
+		end
+		return ai
+	end,
+	[32] = function()
+		local aa, ab, ac, ad, ae = b(32)
+		return function()
+			local af, ag = game:GetService'RunService', ac(ab.Parent.BaseMotor)
+			describe('connection management', function()
+				local ah = ag.new()
+				it('should hook up connections on :start()', function()
+					ah:start()
+					expect(typeof(ah._connection)).to.equal'RBXScriptConnection'
+				end)
+				it('should remove connections on :stop() or :destroy()', function()
+					ah:stop()
+					expect(ah._connection).to.equal(nil)
+				end)
+			end)
+			it('should call :step() with deltaTime', function()
+				local ah, ai = (ag.new())
+				function ah.step(aj, ...)
+					ai = {
+						...
+					}
+					ah:stop()
+				end
+				ah:start()
+				local aj = af.RenderStepped:Wait()
+				af.RenderStepped:Wait()
+				expect(ai).to.be.ok()
+				expect(ai[1]).to.equal(aj)
+			end)
+		end
+	end,
+	[33] = function()
+		local aa, ab, ac, ad, ae = b(33)
+		local af, ag, ah = ac(ab.Parent.BaseMotor), ac(ab.Parent.SingleMotor), ac(ab.Parent.isMotor)
+		local ai = setmetatable({}, af)
+		ai.__index = ai
+		local aj = function(aj)
+			if ah(aj) then
+				return aj
+			end
+			local c = typeof(aj)
+			if c == 'number' then
+				return ag.new(aj, false)
+			elseif c == 'table' then
+				return ai.new(aj, false)
+			end
+			error(('Unable to convert %q to motor; type %s is unsupported'):format(aj, c), 2)
+		end
+		function ai.new(c, d)
+			assert(c, 'Missing argument #1: initialValues')
+			assert(typeof(c) == 'table', 'initialValues must be a table!')
+			assert(not c.step, [[initialValues contains disallowed property "step". Did you mean to put a table of values here?]])
+			local e = setmetatable(af.new(), ai)
+			if d ~= nil then
+				e._useImplicitConnections = d
+			else
+				e._useImplicitConnections = true
+			end
+			e._complete = true
+			e._motors = {}
+			for f, g in pairs(c) do
+				e._motors[f] = aj(g)
+			end
+			return e
+		end
+		function ai.step(c, d)
+			if c._complete then
+				return true
+			end
+			local e = true
+			for f, g in pairs(c._motors) do
+				local h = g:step(d)
+				if not h then
+					e = false
+				end
+			end
+			c._onStep:fire(c:getValue())
+			if e then
+				if c._useImplicitConnections then
+					c:stop()
+				end
+				c._complete = true
+				c._onComplete:fire()
+			end
+			return e
+		end
+		function ai.setGoal(c, d)
+			assert(not d.step, [[goals contains disallowed property "step". Did you mean to put a table of goals here?]])
+			c._complete = false
+			c._onStart:fire()
+			for e, f in pairs(d) do
+				local g = assert(c._motors[e], ('Unknown motor for key %s'):format(e))
+				g:setGoal(f)
+			end
+			if c._useImplicitConnections then
+				c:start()
+			end
+		end
+		function ai.getValue(c)
+			local d = {}
+			for e, f in pairs(c._motors) do
+				d[e] = f:getValue()
+			end
+			return d
+		end
+		function ai.__tostring(c)
+			return 'Motor(Group)'
+		end
+		return ai
+	end,
+	[34] = function()
+		local aa, ab, ac, ad, ae = b(34)
+		return function()
+			local af, ag, ah = ac(ab.Parent.GroupMotor), ac(ab.Parent.Instant), ac(ab.Parent.Spring)
+			it('should complete when all child motors are complete', function()
+				local ai = af.new({
+					A = 1,
+					B = 2
+				}, false)
+				expect(ai._complete).to.equal(true)
+				ai:setGoal{
+					A = ag.new(3),
+					B = ah.new(4, {
+						frequency = 7.5,
+						dampingRatio = 1
+					})
+				}
+				expect(ai._complete).to.equal(false)
+				ai:step(1.6666666666666665E-2)
+				expect(ai._complete).to.equal(false)
+				for aj = 1, 30 do
+					ai:step(1.6666666666666665E-2)
+				end
+				expect(ai._complete).to.equal(true)
+			end)
+			it('should start when the goal is set', function()
+				local ai, aj = af.new({
+					A = 0
+				}, false), false
+				ai:onStart(function()
+					aj = not aj
+				end)
+				ai:setGoal{
+					A = ag.new(1)
+				}
+				expect(aj).to.equal(true)
+				ai:setGoal{
+					A = ag.new(1)
+				}
+				expect(aj).to.equal(false)
+			end)
+			it('should properly return all values', function()
+				local ai = af.new({
+					A = 1,
+					B = 2
+				}, false)
+				local aj = ai:getValue()
+				expect(aj.A).to.equal(1)
+				expect(aj.B).to.equal(2)
+			end)
+			it('should error when a goal is given to GroupMotor.new', function()
+				local ai = pcall(function()
+					af.new(ag.new(0))
+				end)
+				expect(ai).to.equal(false)
+			end)
+			it([[should error when a single goal is provided to GroupMotor:step]], function()
+				local ai = pcall(function()
+					af.new{
+						a = 1
+					}:setGoal(ag.new(0))
+				end)
+				expect(ai).to.equal(false)
+			end)
+		end
+	end,
+	[35] = function()
+		local aa, ab, ac, ad, ae = b(35)
+		local af = {}
+		af.__index = af
+		function af.new(ag)
+			return setmetatable({
+				_targetValue = ag
+			}, af)
+		end
+		function af.step(ag)
+			return {
+				complete = true,
+				value = ag._targetValue
+			}
+		end
+		return af
+	end,
+	[36] = function()
+		local aa, ab, ac, ad, ae = b(36)
+		return function()
+			local af = ac(ab.Parent.Instant)
+			it('should return a completed state with the provided value', function()
+				local ag = af.new(1.23)
+				local ah = ag:step(0.1, {
+					value = 0,
+					complete = false
+				})
+				expect(ah.complete).to.equal(true)
+				expect(ah.value).to.equal(1.23)
+			end)
+		end
+	end,
+	[37] = function()
+		local aa, ab, ac, ad, ae = b(37)
+		local af = {}
+		af.__index = af
+		function af.new(ag, ah)
+			assert(ag, 'Missing argument #1: targetValue')
+			ah = ah or {}
+			return setmetatable({
+				_targetValue = ag,
+				_velocity = ah.velocity or 1
+			}, af)
+		end
+		function af.step(ag, ah, ai)
+			local aj, c, d = ah.value, ag._velocity, ag._targetValue
+			local e = ai * c
+			local f = e >= math.abs(d - aj)
+			aj = aj + e * (d > aj and 1 or -1)
+			if f then
+				aj = ag._targetValue
+				c = 0
+			end
+			return {
+				complete = f,
+				value = aj,
+				velocity = c
+			}
+		end
+		return af
+	end,
+	[38] = function()
+		local aa, ab, ac, ad, ae = b(38)
+		return function()
+			local af, ag = ac(ab.Parent.SingleMotor), ac(ab.Parent.Linear)
+			describe('completed state', function()
+				local ah, ai = af.new(0, false), ag.new(1, {
+					velocity = 1
+				})
+				ah:setGoal(ai)
+				for aj = 1, 60 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should complete', function()
+					expect(ah._state.complete).to.equal(true)
+				end)
+				it('should be exactly the goal value when completed', function()
+					expect(ah._state.value).to.equal(1)
+				end)
+			end)
+			describe('uncompleted state', function()
+				local ah, ai = af.new(0, false), ag.new(1, {
+					velocity = 1
+				})
+				ah:setGoal(ai)
+				for aj = 1, 59 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should be uncomplete', function()
+					expect(ah._state.complete).to.equal(false)
+				end)
+			end)
+			describe('negative velocity', function()
+				local ah, ai = af.new(1, false), ag.new(0, {
+					velocity = 1
+				})
+				ah:setGoal(ai)
+				for aj = 1, 60 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should complete', function()
+					expect(ah._state.complete).to.equal(true)
+				end)
+				it('should be exactly the goal value when completed', function()
+					expect(ah._state.value).to.equal(0)
+				end)
+			end)
+		end
+	end,
+	[39] = function()
+		local aa, ab, ac, ad, ae = b(39)
+		local af = {}
+		af.__index = af
+		function af.new(ag, ah)
+			return setmetatable({
+				signal = ag,
+				connected = true,
+				_handler = ah
+			}, af)
+		end
+		function af.disconnect(ag)
+			if ag.connected then
+				ag.connected = false
+				for ah, ai in pairs(ag.signal._connections) do
+					if ai == ag then
+						table.remove(ag.signal._connections, ah)
+						return
+					end
+				end
+			end
+		end
+		local ag = {}
+		ag.__index = ag
+		function ag.new()
+			return setmetatable({
+				_connections = {},
+				_threads = {}
+			}, ag)
+		end
+		function ag.fire(ah, ...)
+			for ai, aj in pairs(ah._connections) do
+				aj._handler(...)
+			end
+			for c, d in pairs(ah._threads) do
+				coroutine.resume(d, ...)
+			end
+			ah._threads = {}
+		end
+		function ag.connect(ah, aj)
+			local c = af.new(ah, aj)
+			table.insert(ah._connections, c)
+			return c
+		end
+		function ag.wait(ah)
+			table.insert(ah._threads, coroutine.running())
+			return coroutine.yield()
+		end
+		return ag
+	end,
+	[40] = function()
+		local aa, ab, ac, ad, ae = b(40)
+		return function()
+			local af = ac(ab.Parent.Signal)
+			it('should invoke all connections, instantly', function()
+				local ag, ah, aj = (af.new())
+				ag:connect(function(c)
+					ah = c
+				end)
+				ag:connect(function(c)
+					aj = c
+				end)
+				ag:fire'hello'
+				expect(ah).to.equal'hello'
+				expect(aj).to.equal'hello'
+			end)
+			it('should return values when :wait() is called', function()
+				local ag = af.new()
+				spawn(function()
+					ag:fire(123, 'hello')
+				end)
+				local ah, aj = ag:wait()
+				expect(ah).to.equal(123)
+				expect(aj).to.equal'hello'
+			end)
+			it('should properly handle disconnections', function()
+				local ag, ah = af.new(), false
+				local aj = ag:connect(function()
+					ah = true
+				end)
+				aj:disconnect()
+				ag:fire()
+				expect(ah).to.equal(false)
+			end)
+		end
+	end,
+	[41] = function()
+		local aa, ab, ac, ad, ae = b(41)
+		local af = ac(ab.Parent.BaseMotor)
+		local ag = setmetatable({}, af)
+		ag.__index = ag
+		function ag.new(ah, aj)
+			assert(ah, 'Missing argument #1: initialValue')
+			assert(typeof(ah) == 'number', 'initialValue must be a number!')
+			local c = setmetatable(af.new(), ag)
+			if aj ~= nil then
+				c._useImplicitConnections = aj
+			else
+				c._useImplicitConnections = true
+			end
+			c._goal = nil
+			c._state = {
+				complete = true,
+				value = ah
+			}
+			return c
+		end
+		function ag.step(ah, aj)
+			if ah._state.complete then
+				return true
+			end
+			local c = ah._goal:step(ah._state, aj)
+			ah._state = c
+			ah._onStep:fire(c.value)
+			if c.complete then
+				if ah._useImplicitConnections then
+					ah:stop()
+				end
+				ah._onComplete:fire()
+			end
+			return c.complete
+		end
+		function ag.getValue(ah)
+			return ah._state.value
+		end
+		function ag.setGoal(ah, aj)
+			ah._state.complete = false
+			ah._goal = aj
+			ah._onStart:fire()
+			if ah._useImplicitConnections then
+				ah:start()
+			end
+		end
+		function ag.__tostring(ah)
+			return 'Motor(Single)'
+		end
+		return ag
+	end,
+	[42] = function()
+		local aa, ab, ac, ad, ae = b(42)
+		return function()
+			local af, ag = ac(ab.Parent.SingleMotor), ac(ab.Parent.Instant)
+			it('should assign new state on step', function()
+				local ah = af.new(0, false)
+				ah:setGoal(ag.new(5))
+				ah:step(1.6666666666666665E-2)
+				expect(ah._state.complete).to.equal(true)
+				expect(ah._state.value).to.equal(5)
+			end)
+			it([[should invoke onComplete listeners when the goal is completed]], function()
+				local ah, aj = af.new(0, false), false
+				ah:onComplete(function()
+					aj = true
+				end)
+				ah:setGoal(ag.new(5))
+				ah:step(1.6666666666666665E-2)
+				expect(aj).to.equal(true)
+			end)
+			it('should start when the goal is set', function()
+				local ah, aj = af.new(0, false), false
+				ah:onStart(function()
+					aj = not aj
+				end)
+				ah:setGoal(ag.new(5))
+				expect(aj).to.equal(true)
+				ah:setGoal(ag.new(5))
+				expect(aj).to.equal(false)
+			end)
+		end
+	end,
+	[43] = function()
+		local aa, ab, ac, ad, ae = b(43)
+		local af, ag, ah, aj = 0.001, 0.001, 0.0001, {}
+		aj.__index = aj
+		function aj.new(c, d)
+			assert(c, 'Missing argument #1: targetValue')
+			d = d or {}
+			return setmetatable({
+				_targetValue = c,
+				_frequency = d.frequency or 4,
+				_dampingRatio = d.dampingRatio or 1
+			}, aj)
+		end
+		function aj.step(c, d, e)
+			local f, g, h, i, j = c._dampingRatio, c._frequency * 2 * math.pi, c._targetValue, d.value, d.velocity or 0
+			local k, l, m, n = i - h, (math.exp(-f * g * e))
+			if f == 1 then
+				m = (k * (1 + g * e) + j * e) * l + h
+				n = (j * (1 - g * e) - k * (g * g * e)) * l
+			elseif f < 1 then
+				local o = math.sqrt(1 - f * f)
+				local p, s, t = math.cos(g * o * e), (math.sin(g * o * e))
+				if o > ah then
+					t = s / o
+				else
+					local u = e * g
+					t = u + ((u * u) * (o * o) * (o * o) / 20 - o * o) * (u * u * u) / 6
+				end
+				local u
+				if g * o > ah then
+					u = s / (g * o)
+				else
+					local v = g * o
+					u = e + ((e * e) * (v * v) * (v * v) / 20 - v * v) * (e * e * e) / 6
+				end
+				m = (k * (p + f * t) + j * u) * l + h
+				n = (j * (p - t * f) - k * (t * g)) * l
+			else
+				local o = math.sqrt(f * f - 1)
+				local p, s = -g * (f - o), -g * (f + o)
+				local t = (j - k * p) / (2 * g * o)
+				local u = k - t
+				local v, w = u * math.exp(p * e), t * math.exp(s * e)
+				m = v + w + h
+				n = v * p + w * s
+			end
+			local o = math.abs(n) < af and math.abs(m - h) < ag
+			return {
+				complete = o,
+				value = o and h or m,
+				velocity = n
+			}
+		end
+		return aj
+	end,
+	[44] = function()
+		local aa, ab, ac, ad, ae = b(44)
+		return function()
+			local af, ag = ac(ab.Parent.SingleMotor), ac(ab.Parent.Spring)
+			describe('completed state', function()
+				local ah, aj = af.new(0, false), ag.new(1, {
+					frequency = 2,
+					dampingRatio = 0.75
+				})
+				ah:setGoal(aj)
+				for c = 1, 100 do
+					ah:step(1.6666666666666665E-2)
+				end
+				it('should complete', function()
+					expect(ah._state.complete).to.equal(true)
+				end)
+				it('should be exactly the goal value when completed', function()
+					expect(ah._state.value).to.equal(1)
+				end)
+			end)
+			it('should inherit velocity', function()
+				local ah = af.new(0, false)
+				ah._state = {
+					complete = false,
+					value = 0,
+					velocity = -5
+				}
+				local aj = ag.new(1, {
+					frequency = 2,
+					dampingRatio = 1
+				})
+				ah:setGoal(aj)
+				ah:step(1.6666666666666665E-2)
+				expect(ah._state.velocity < 0).to.equal(true)
+			end)
+		end
+	end,
+	[45] = function()
+		local aa, ab, ac, ad, ae = b(45)
+		local af = function(af)
+			local ag = tostring(af):match'^Motor%((.+)%)$'
+			if ag then
+				return true, ag
+			else
+				return false
+			end
+		end
+		return af
+	end,
+	[46] = function()
+		local aa, ab, ac, ad, ae = b(46)
+		return function()
+			local af, ag, ah = ac(ab.Parent.isMotor), ac(ab.Parent.SingleMotor), ac(ab.Parent.GroupMotor)
+			local aj, c = ag.new(0), ah.new{}
+			it('should properly detect motors', function()
+				expect(af(aj)).to.equal(true)
+				expect(af(c)).to.equal(true)
+			end)
+			it("shouldn't detect things that aren't motors", function()
+				expect(af{}).to.equal(false)
+			end)
+			it('should return the proper motor type', function()
+				local d, e = af(aj)
+				local f, g = af(c)
+				expect(e).to.equal'Single'
+				expect(g).to.equal'Group'
+			end)
+		end
+	end,
+	[47] = function()
+		local aa, ab, ac, ad, ae = b(47)
+		local af = {
+			Names = {
+				'Dark',
+				'Darker',
+				'Light',
+				'Aqua',
+				'Amethyst',
+				'Rose'
+			}
+		}
+		for ag, ah in next, ab:GetChildren() do
+			local aj = ac(ah)
+			af[aj.Name] = aj
+		end
+		return af
+	end,
+	[48] = function()
+		local aa, ab, ac, ad, ae = b(48)
+		return {
+			Name = 'Amethyst',
+			Accent = Color3.fromRGB(97, 62, 167),
+			AcrylicMain = Color3.fromRGB(20, 20, 20),
+			AcrylicBorder = Color3.fromRGB(110, 90, 130),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(85, 57, 139), Color3.fromRGB(40, 25, 65)),
+			AcrylicNoise = 0.92,
+			TitleBarLine = Color3.fromRGB(95, 75, 110),
+			Tab = Color3.fromRGB(160, 140, 180),
+			Element = Color3.fromRGB(140, 120, 160),
+			ElementBorder = Color3.fromRGB(60, 50, 70),
+			InElementBorder = Color3.fromRGB(100, 90, 110),
+			ElementTransparency = 0.87,
+			ToggleSlider = Color3.fromRGB(140, 120, 160),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(140, 120, 160),
+			DropdownFrame = Color3.fromRGB(170, 160, 200),
+			DropdownHolder = Color3.fromRGB(60, 45, 80),
+			DropdownBorder = Color3.fromRGB(50, 40, 65),
+			DropdownOption = Color3.fromRGB(140, 120, 160),
+			Keybind = Color3.fromRGB(140, 120, 160),
+			Input = Color3.fromRGB(140, 120, 160),
+			InputFocused = Color3.fromRGB(20, 10, 30),
+			InputIndicator = Color3.fromRGB(170, 150, 190),
+			Dialog = Color3.fromRGB(60, 45, 80),
+			DialogHolder = Color3.fromRGB(45, 30, 65),
+			DialogHolderLine = Color3.fromRGB(40, 25, 60),
+			DialogButton = Color3.fromRGB(60, 45, 80),
+			DialogButtonBorder = Color3.fromRGB(95, 80, 110),
+			DialogBorder = Color3.fromRGB(85, 70, 100),
+			DialogInput = Color3.fromRGB(70, 55, 85),
+			DialogInputLine = Color3.fromRGB(175, 160, 190),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(140, 120, 160),
+			HoverChange = 0.04
+		}
+	end,
+	[49] = function()
+		local aa, ab, ac, ad, ae = b(49)
+		return {
+			Name = 'Aqua',
+			Accent = Color3.fromRGB(60, 165, 165),
+			AcrylicMain = Color3.fromRGB(20, 20, 20),
+			AcrylicBorder = Color3.fromRGB(50, 100, 100),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(60, 140, 140), Color3.fromRGB(40, 80, 80)),
+			AcrylicNoise = 0.92,
+			TitleBarLine = Color3.fromRGB(60, 120, 120),
+			Tab = Color3.fromRGB(140, 180, 180),
+			Element = Color3.fromRGB(110, 160, 160),
+			ElementBorder = Color3.fromRGB(40, 70, 70),
+			InElementBorder = Color3.fromRGB(80, 110, 110),
+			ElementTransparency = 0.84,
+			ToggleSlider = Color3.fromRGB(110, 160, 160),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(110, 160, 160),
+			DropdownFrame = Color3.fromRGB(160, 200, 200),
+			DropdownHolder = Color3.fromRGB(40, 80, 80),
+			DropdownBorder = Color3.fromRGB(40, 65, 65),
+			DropdownOption = Color3.fromRGB(110, 160, 160),
+			Keybind = Color3.fromRGB(110, 160, 160),
+			Input = Color3.fromRGB(110, 160, 160),
+			InputFocused = Color3.fromRGB(20, 10, 30),
+			InputIndicator = Color3.fromRGB(130, 170, 170),
+			Dialog = Color3.fromRGB(40, 80, 80),
+			DialogHolder = Color3.fromRGB(30, 60, 60),
+			DialogHolderLine = Color3.fromRGB(25, 50, 50),
+			DialogButton = Color3.fromRGB(40, 80, 80),
+			DialogButtonBorder = Color3.fromRGB(80, 110, 110),
+			DialogBorder = Color3.fromRGB(50, 100, 100),
+			DialogInput = Color3.fromRGB(45, 90, 90),
+			DialogInputLine = Color3.fromRGB(130, 170, 170),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(110, 160, 160),
+			HoverChange = 0.04
+		}
+	end,
+	[50] = function()
+		local aa, ab, ac, ad, ae = b(50)
+		return {
+			Name = 'Dark',
+			Accent = Color3.fromRGB(96, 205, 255),
+			AcrylicMain = Color3.fromRGB(60, 60, 60),
+			AcrylicBorder = Color3.fromRGB(90, 90, 90),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(40, 40, 40), Color3.fromRGB(40, 40, 40)),
+			AcrylicNoise = 0.9,
+			TitleBarLine = Color3.fromRGB(75, 75, 75),
+			Tab = Color3.fromRGB(120, 120, 120),
+			Element = Color3.fromRGB(120, 120, 120),
+			ElementBorder = Color3.fromRGB(35, 35, 35),
+			InElementBorder = Color3.fromRGB(90, 90, 90),
+			ElementTransparency = 0.87,
+			ToggleSlider = Color3.fromRGB(120, 120, 120),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(120, 120, 120),
+			DropdownFrame = Color3.fromRGB(160, 160, 160),
+			DropdownHolder = Color3.fromRGB(45, 45, 45),
+			DropdownBorder = Color3.fromRGB(35, 35, 35),
+			DropdownOption = Color3.fromRGB(120, 120, 120),
+			Keybind = Color3.fromRGB(120, 120, 120),
+			Input = Color3.fromRGB(160, 160, 160),
+			InputFocused = Color3.fromRGB(10, 10, 10),
+			InputIndicator = Color3.fromRGB(150, 150, 150),
+			Dialog = Color3.fromRGB(45, 45, 45),
+			DialogHolder = Color3.fromRGB(35, 35, 35),
+			DialogHolderLine = Color3.fromRGB(30, 30, 30),
+			DialogButton = Color3.fromRGB(45, 45, 45),
+			DialogButtonBorder = Color3.fromRGB(80, 80, 80),
+			DialogBorder = Color3.fromRGB(70, 70, 70),
+			DialogInput = Color3.fromRGB(55, 55, 55),
+			DialogInputLine = Color3.fromRGB(160, 160, 160),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(120, 120, 120),
+			HoverChange = 0.07
+		}
+	end,
+	[51] = function()
+		local aa, ab, ac, ad, ae = b(51)
+		return {
+			Name = 'Darker',
+			Accent = Color3.fromRGB(72, 138, 182),
+			AcrylicMain = Color3.fromRGB(30, 30, 30),
+			AcrylicBorder = Color3.fromRGB(60, 60, 60),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(25, 25, 25), Color3.fromRGB(15, 15, 15)),
+			AcrylicNoise = 0.94,
+			TitleBarLine = Color3.fromRGB(65, 65, 65),
+			Tab = Color3.fromRGB(100, 100, 100),
+			Element = Color3.fromRGB(70, 70, 70),
+			ElementBorder = Color3.fromRGB(25, 25, 25),
+			InElementBorder = Color3.fromRGB(55, 55, 55),
+			ElementTransparency = 0.82,
+			DropdownFrame = Color3.fromRGB(120, 120, 120),
+			DropdownHolder = Color3.fromRGB(35, 35, 35),
+			DropdownBorder = Color3.fromRGB(25, 25, 25),
+			Dialog = Color3.fromRGB(35, 35, 35),
+			DialogHolder = Color3.fromRGB(25, 25, 25),
+			DialogHolderLine = Color3.fromRGB(20, 20, 20),
+			DialogButton = Color3.fromRGB(35, 35, 35),
+			DialogButtonBorder = Color3.fromRGB(55, 55, 55),
+			DialogBorder = Color3.fromRGB(50, 50, 50),
+			DialogInput = Color3.fromRGB(45, 45, 45),
+			DialogInputLine = Color3.fromRGB(120, 120, 120)
+		}
+	end,
+	[52] = function()
+		local aa, ab, ac, ad, ae = b(52)
+		return {
+			Name = 'Light',
+			Accent = Color3.fromRGB(0, 103, 192),
+			AcrylicMain = Color3.fromRGB(200, 200, 200),
+			AcrylicBorder = Color3.fromRGB(120, 120, 120),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(255, 255, 255), Color3.fromRGB(255, 255, 255)),
+			AcrylicNoise = 0.96,
+			TitleBarLine = Color3.fromRGB(160, 160, 160),
+			Tab = Color3.fromRGB(90, 90, 90),
+			Element = Color3.fromRGB(255, 255, 255),
+			ElementBorder = Color3.fromRGB(180, 180, 180),
+			InElementBorder = Color3.fromRGB(150, 150, 150),
+			ElementTransparency = 0.65,
+			ToggleSlider = Color3.fromRGB(40, 40, 40),
+			ToggleToggled = Color3.fromRGB(255, 255, 255),
+			SliderRail = Color3.fromRGB(40, 40, 40),
+			DropdownFrame = Color3.fromRGB(200, 200, 200),
+			DropdownHolder = Color3.fromRGB(240, 240, 240),
+			DropdownBorder = Color3.fromRGB(200, 200, 200),
+			DropdownOption = Color3.fromRGB(150, 150, 150),
+			Keybind = Color3.fromRGB(120, 120, 120),
+			Input = Color3.fromRGB(200, 200, 200),
+			InputFocused = Color3.fromRGB(100, 100, 100),
+			InputIndicator = Color3.fromRGB(80, 80, 80),
+			Dialog = Color3.fromRGB(255, 255, 255),
+			DialogHolder = Color3.fromRGB(240, 240, 240),
+			DialogHolderLine = Color3.fromRGB(228, 228, 228),
+			DialogButton = Color3.fromRGB(255, 255, 255),
+			DialogButtonBorder = Color3.fromRGB(190, 190, 190),
+			DialogBorder = Color3.fromRGB(140, 140, 140),
+			DialogInput = Color3.fromRGB(250, 250, 250),
+			DialogInputLine = Color3.fromRGB(160, 160, 160),
+			Text = Color3.fromRGB(0, 0, 0),
+			SubText = Color3.fromRGB(40, 40, 40),
+			Hover = Color3.fromRGB(50, 50, 50),
+			HoverChange = 0.16
+		}
+	end,
+	[53] = function()
+		local aa, ab, ac, ad, ae = b(53)
+		return {
+			Name = 'Rose',
+			Accent = Color3.fromRGB(180, 55, 90),
+			AcrylicMain = Color3.fromRGB(40, 40, 40),
+			AcrylicBorder = Color3.fromRGB(130, 90, 110),
+			AcrylicGradient = ColorSequence.new(Color3.fromRGB(190, 60, 135), Color3.fromRGB(165, 50, 70)),
+			AcrylicNoise = 0.92,
+			TitleBarLine = Color3.fromRGB(140, 85, 105),
+			Tab = Color3.fromRGB(180, 140, 160),
+			Element = Color3.fromRGB(200, 120, 170),
+			ElementBorder = Color3.fromRGB(110, 70, 85),
+			InElementBorder = Color3.fromRGB(120, 90, 90),
+			ElementTransparency = 0.86,
+			ToggleSlider = Color3.fromRGB(200, 120, 170),
+			ToggleToggled = Color3.fromRGB(0, 0, 0),
+			SliderRail = Color3.fromRGB(200, 120, 170),
+			DropdownFrame = Color3.fromRGB(200, 160, 180),
+			DropdownHolder = Color3.fromRGB(120, 50, 75),
+			DropdownBorder = Color3.fromRGB(90, 40, 55),
+			DropdownOption = Color3.fromRGB(200, 120, 170),
+			Keybind = Color3.fromRGB(200, 120, 170),
+			Input = Color3.fromRGB(200, 120, 170),
+			InputFocused = Color3.fromRGB(20, 10, 30),
+			InputIndicator = Color3.fromRGB(170, 150, 190),
+			Dialog = Color3.fromRGB(120, 50, 75),
+			DialogHolder = Color3.fromRGB(95, 40, 60),
+			DialogHolderLine = Color3.fromRGB(90, 35, 55),
+			DialogButton = Color3.fromRGB(120, 50, 75),
+			DialogButtonBorder = Color3.fromRGB(155, 90, 115),
+			DialogBorder = Color3.fromRGB(100, 70, 90),
+			DialogInput = Color3.fromRGB(135, 55, 80),
+			DialogInputLine = Color3.fromRGB(190, 160, 180),
+			Text = Color3.fromRGB(240, 240, 240),
+			SubText = Color3.fromRGB(170, 170, 170),
+			Hover = Color3.fromRGB(200, 120, 170),
+			HoverChange = 0.04
+		}
+	end
+}
+do
+	local ab, ac, ad, ae, af, ag, ah, aj, c, e, f, g, h, i, j, k = task, setmetatable, error, newproxy, getmetatable, next, table, unpack, coroutine, script, type, require, pcall, getfenv, setfenv, rawget
+	local l, m, n, o, p, s, t, u, v, w, x = ah.insert, ah.remove, ah.freeze or function(l)
+		return l
+	end, ab and ab.defer or function(l, ...)
+		local m = c.create(l)
+		c.resume(m, ...)
+		return m
+	end, '0.0.0-venv', {}, {}, {}, {}, {}, {}
+	local y, z = {
+		GetChildren = function(y)
+			local z, A = x[y], {}
+			for B in ag, z do
+				l(A, B)
+			end
+			return A
+		end,
+		FindFirstChild = function(y, z)
+			if not z then
+				ad('Argument 1 missing or nil', 2)
+			end
+			for A in ag, x[y] do
+				if A.Name == z then
+					return A
+				end
+			end
+			return
+		end,
+		GetFullName = function(y)
+			local z, A = y.Name, y.Parent
+			while A do
+				z = A.Name .. '.' .. z
+				A = A.Parent
+			end
+			return 'VirtualEnv.' .. z
+		end
+	}, {}
+	for A, B in ag, y do
+		z[A] = function(C, ...)
+			if not x[C] then
+				ad("Expected ':' not '.' calling member function " .. A, 1)
+			end
+			return B(C, ...)
+		end
+	end
+	local C = function(C, D, E)
+		local F, G, H, I, J = ac({}, {
+			__mode = 'k'
+		}), function(F)
+			ad(F .. ' is not a valid (virtual) member of ' .. C .. ' "' .. D .. '"', 1)
+		end, function(F)
+			ad('Unable to assign (virtual) property ' .. F .. '. Property is read only', 1)
+		end, (ae(true))
+		local K = af(I)
+		K.__index = function(L, M)
+			if M == 'ClassName' then
+				return C
+			elseif M == 'Name' then
+				return D
+			elseif M == 'Parent' then
+				return E
+			elseif C == 'StringValue' and M == 'Value' then
+				return J
+			else
+				local N = z[M]
+				if N then
+					return N
+				end
+			end
+			for N in ag, F do
+				if N.Name == M then
+					return N
+				end
+			end
+			G(M)
+		end
+		K.__newindex = function(L, M, N)
+			if M == 'ClassName' then
+				H(M)
+			elseif M == 'Name' then
+				D = N
+			elseif M == 'Parent' then
+				if N == I then
+					return
+				end
+				if E ~= nil then
+					x[E][I] = nil
+				end
+				E = N
+				if N ~= nil then
+					x[N][I] = true
+				end
+			elseif C == 'StringValue' and M == 'Value' then
+				J = N
+			else
+				G(M)
+			end
+		end
+		K.__tostring = function()
+			return D
+		end
+		x[I] = F
+		if E ~= nil then
+			x[E][I] = true
+		end
+		return I
+	end
+	local function D(E, F)
+		local G, H, I, J = E[1], E[2], E[3], E[4]
+		local K = m(I, 1)
+		local L = C(H, K, F)
+		s[G] = L
+		if I then
+			for M, N in ag, I do
+				L[M] = N
+			end
+		end
+		if J then
+			for M, N in ag, J do
+				D(N, L)
+			end
+		end
+		return L
+	end
+	local E = {}
+	for F, G in ag, a do
+		l(E, D(G))
+	end
+	for H, I in ag, aa do
+		local J = s[H]
+		t[J] = I
+		local K = J.ClassName
+		if K == 'LocalScript' or K == 'Script' then
+			l(v, J)
+		end
+	end
+	local J = function(J)
+		local K, L = J.ClassName, u[J]
+		if L and K == 'ModuleScript' then
+			return aj(L)
+		end
+		local M = t[J]
+		if not M then
+			return
+		end
+		if K == 'LocalScript' or K == 'Script' then
+			M()
+			return
+		else
+			local N = {
+				M()
+			}
+			u[J] = N
+			return aj(N)
+		end
+	end
+	function b(K)
+		local L = s[K]
+		local M = t[L]
+		if not M then
+			return
+		end
+		local N, O, P, Q, R, S, T = false, n{
+			Version = p,
+			Script = e,
+			Shared = w,
+			GetScript = function()
+				return e
+			end,
+			GetShared = function()
+				return w
+			end
+		}, L, function(N, ...)
+			if x[N] and N.ClassName == 'ModuleScript' and t[N] then
+				return J(N)
+			end
+			return g(N, ...)
+		end
+		local U, V = function(U, ...)
+			if not N then
+				T()
+			end
+			if f(U) == 'number' and U >= 0 then
+				if U == 0 then
+					return S
+				else
+					U = U + 1
+					local V, W = h(i, U)
+					if V and W == R then
+						return S
+					end
+				end
+			end
+			return i(U, ...)
+		end, function(U, V, ...)
+			if not N then
+				T()
+			end
+			if f(U) == 'number' and U >= 0 then
+				if U == 0 then
+					return j(S, V)
+				else
+					U = U + 1
+					local W, X = h(i, U)
+					if W and X == R then
+						return j(S, V)
+					end
+				end
+			end
+			return j(U, V, ...)
+		end
+		function T()
+			R = i(0)
+			local W = {
+				maui = O,
+				script = P,
+				require = Q,
+				getfenv = U,
+				setfenv = V
+			}
+			S = ac({}, {
+				__index = function(X, Y)
+					local Z = k(S, Y)
+					if Z ~= nil then
+						return Z
+					end
+					local _ = W[Y]
+					if _ ~= nil then
+						return _
+					end
+					return R[Y]
+				end
+			})
+			j(M, S)
+			N = true
+		end
+		return O, P, Q, U, V
+	end
+	for K, L in ag, v do
+		o(J, L)
+	end
+	do
+		local M
+		for N, O in ag, E do
+			if O.ClassName == 'ModuleScript' and O.Name == 'MainModule' then
+				M = O
+				break
+			end
+		end
+		if M then
+			return J(M)
+		end
+	end
+end
