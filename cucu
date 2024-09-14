@@ -11,6 +11,16 @@ getgenv().Setting = {
     ["Collect Chest"] = {
         LimitChest = 0
     },
+    BossSniper = {
+        SelectedBoss = "1"
+    },
+    GetFruit = {
+        Enable = false
+    },
+    Fruit = {
+        AutoStore = false,
+        EnableSnipeFruit = false,
+    },
 
 }
 repeat wait()
@@ -109,7 +119,7 @@ local UiIntilize = {
             Mode = "Dropdown",
             Title = "Select Boss To Snipe",
             Multi = true, 
-            Table = AllBoss[tostring(game.PlaceId)],
+            Table = {"1", "2"},
             Default = getgenv().Setting.BossSniper.SelectedBoss or {},
             OnChange = function(state)
                 local Values = {}
