@@ -333,7 +333,6 @@ function bypass(Pos)
         repeat
             task.wait()
             tween:Cancel()
-            plr.Character:FindFirstChild("Nigger"):Destroy()
             game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):ChangeState(15)
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = GetBypassCFrame(Pos)
         until game.Players.LocalPlayer.Character.PrimaryPart.CFrame == GetBypassCFrame(Pos) or canthop == true
@@ -352,57 +351,41 @@ function bypass(Pos)
 end
 
 canthop = false
-function to(TargetCFrame)
-    pcall(function()
-        local dit = (TargetCFrame.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
-        local tweenservice = game:GetService("TweenService")
-        local inf = TweenInfo.new(dit / 185, Enum.EasingStyle.Linear)
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, TargetCFrame.Y, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
-        tween = tweenservice:Create(workspace.Nigger, inf ,{CFrame = TargetCFrame})
-        for i, v in next, game.Players.LocalPlayer.Character:GetDescendants() do
-            if v:IsA("BasePart") then
-                v.CanCollide = false
-            end
+function to(buda)
+    local dist = (buda.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+    local tweenservice = game:GetService("TweenService")
+    local info = TweenInfo.new(dist / 325, Enum.EasingStyle.Linear)
+    tween = tweenservice:Create(plr.Character.HumanoidRootPart, info, {CFrame = buda})
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, buda.Y, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
+    if dist <= 200 then
+        tween:Cancel()
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = buda
+    end
+    if not game.Players.LocalPlayer.Character.Head:FindFirstChild("cac") then
+        local buu = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character.Head)
+        buu.Velocity = Vector3.new(0, 0, 0)
+        buu.P = 1500
+        buu.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+        buu.Name = "cac"
+    end
+    for i, v in pairs(plr.Character:GetDescendants()) do
+        if v:IsA("BasePart") then
+            v.CanCollide = false
         end
-        if not plr.Character:FindFirstChild("Nigger") then
-            local Part = Instance.new("Part", plr.Character)
-            Part.Name = "Nigger"
-            Part.CanCollide = true
-            Part.Transparency = 1
-            Part.Size = Vector3.new(10, 1, 10)
-            Part.Anchored = true
-            Part:GetPropertyChangedSignal("CFrame"):Connect(function()
-                task.wait(0.01)
-                if (plr.Character.HumanoidRootPart.Position - Part.Position).Magnitude <= 200 then
-                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame * CFrame.new(0, 2, 0)
-                else
-                    Part.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
-                end
-            end)
-        end
-        if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character:FindFirstChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
-            plr.Character:FindFirstChild("Nigger"):Destroy()
-        end
-        if dit <= 250 then
-            tween:Cancel()
-            plr.Character:FindFirstChild("Nigger").CFrame = TargetCFrame
-        end
-        if plr.Character.Humanoid.Sit == true then
-            plr.Character.Humanoid.Sit = false
-        end
-        if dist >= 2500 and GetPortal(TargetCFrame) then
-            plr.Character:FindFirstChild("Nigger"):Destroy()
-            args = {"requestEntrance", GetPortal(TargetCFrame)}
-            game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
-            task.wait(.5)
-        end
-        if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
-            plr.Character:FindFirstChild("Nigger"):Destroy()
-            return bypass(TargetCFrame)
-        end
-        tween:Play()
-    end)
-end 
+    end
+    if plr.Character.Humanoid.Sit == true then
+        plr.Character.Humanoid.Sit = false
+    end
+    if dist >= 2500 and GetPortal(buda) then
+        args = {"requestEntrance", GetPortal(buda)}
+        game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
+        task.wait(.5)
+    end
+    if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(buda).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
+        return bypass(buda)
+    end
+    tween:Play()
+end
 
 function HopSivi() 
     function bQ(v)
@@ -448,61 +431,59 @@ function FireRemotes(number, ...)
 end
 
 function GaySec()
-    while task.wait() do
-        if Hop == true then
-            HopSivi()
-        else
-            if plr:FindFirstChild("PlayerGui") and plr.PlayerGui:FindFirstChild("ScreenGui") and plr.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") then
+    pcall(function()
+        while task.wait() do
+            if Hop == true then
+                HopSivi()
             else
-                game:service("VirtualUser"):CaptureController()
-                game:service("VirtualUser"):SetKeyDown("0x65")
-                game:service("VirtualUser"):SetKeyUp("0x65")
-                wait(.3)
-            end 
-            BigHitbox()
-            NoStun()
-            plr.Character:SetAttribute("DashLength", 100)
-            if not enemy or not enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
-                FindNewEnemy()
-            end
-            if elapsed == 0 or elapsed == nil then elapsed = os.time() end 
-            if (elapsed and elapsed ~= 0 and os.time() - elapsed > 10 and not getsenv(game.ReplicatedStorage.GuideModule)["_G"]["InCombat"]) then
-                FindNewEnemy()
-            end
-            if elapsed and elapsed ~= 0 and os.time() - elapsed > 10 and enemy.Character and enemy.Character:GetAttribute("InCombat") == false then 
-                FindNewEnemy() 
-            end
-            if Config["Settings"]["Camera Mode"]["Specated"] then 
-                workspace.CurrentCamera.CameraSubject = enemy.Character 
-            else 
-                workspace.CurrentCamera.CameraSubject = plr.Character 
-            end 
-            if Config["Settings"]["Camera Mode"]["Lock"] == true then
-                game.Workspace.CurrentCamera.CFrame = CFrame.new(game.Workspace.CurrentCamera.CFrame.Position, enemy.Character.HumanoidRootPart.Position)
-            end
-            if plr.PlayerGui.Main.PvpDisabled.Visible then
-                FireRemotes(1, "EnablePvp")
-            end 
-            if plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1] then
-                to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(math.random(9999, 99999), math.random(9999, 99999), math.random(9999, 99999)))
-            elseif ((plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1]) or (not Config["Settings"]["Panic Mode"][1])) then 
-                if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude > 300 then
-                    to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0))
+                if plr:FindFirstChild("PlayerGui") and plr.PlayerGui:FindFirstChild("ScreenGui") and plr.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") then
                 else
-                    if GetSkillsByWeapon() then
-                        spawn(function()
-                            local concac = GetSkillsByWeapon()
-                            EquipTool(concac[1])
-                            SendKey(concac[2], concac[2][4])
-                        end)
-                        spawn(to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(((math.random(1, 2) == 1 and 0) or 15), ((math.random(4, 9) == 4 and 14) or 15), ((math.random(1, 2) == 1 and 0) or 15))))
+                    game:service("VirtualUser"):CaptureController()
+                    game:service("VirtualUser"):SetKeyDown("0x65")
+                    game:service("VirtualUser"):SetKeyUp("0x65")
+                    wait(.3)
+                end 
+                BigHitbox()
+                NoStun()
+                plr.Character:SetAttribute("DashLength", 100)
+                if not enemy or not enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
+                    FindNewEnemy()
+                end
+                if Config["Settings"]["Camera Mode"]["Specated"] then 
+                    workspace.CurrentCamera.CameraSubject = enemy.Character 
+                else 
+                    workspace.CurrentCamera.CameraSubject = plr.Character 
+                end 
+                if Config["Settings"]["Camera Mode"]["Lock"] == true then
+                    game.Workspace.CurrentCamera.CFrame = CFrame.new(game.Workspace.CurrentCamera.CFrame.Position, enemy.Character.HumanoidRootPart.Position)
+                end
+                if plr.PlayerGui.Main.PvpDisabled.Visible then
+                    FireRemotes(1, "EnablePvp")
+                end 
+                if plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1] then
+                    to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(math.random(9999, 99999), math.random(9999, 99999), math.random(9999, 99999)))
+                elseif ((plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1]) or (not Config["Settings"]["Panic Mode"][1])) then 
+                    if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude > 300 then
+                        to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0))
                     else
-                        spawn(to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(((math.random(1, 2) == 1 and 0) or 15), ((math.random(15, 22) == 4 and 14) or 15), ((math.random(1, 2) == 1 and 0) or 15))))
+                        if GetSkillsByWeapon() then
+                            spawn(function()
+                                local concac = GetSkillsByWeapon()
+                                EquipTool(concac[1])
+                                SendKey(concac[2], concac[2][4])
+                            end)
+                            spawn(to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(7, 12, 4)))
+                        else
+                            if enemy.Character.Humanoid.Health >= 3000 then
+                                game:GetService("VirtualUser"):CaptureController()
+                                game:GetService("VirtualUser"):Button1Down(Vector2.new(0,1,0,1))
+                            end
+                            spawn(to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(7, 12, 4)))
+                        end
                     end
                 end
             end
         end
-    end
+    end)
 end
-if not a then warn(b) return GaySec() end
 GaySec()
