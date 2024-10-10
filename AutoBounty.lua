@@ -172,7 +172,7 @@ function GetEnemy()
         if v.Name ~= game.Players.LocalPlayer.Name and v.Character and v.Parent then
             if v.Character.Humanoid.Health > 0 and v.Character:FindFirstChild("HumanoidRootPart") then
                 for a, b in next, Config["Settings"]["Fruit Skip"] do
-                    if v.Data.Fruit.Value ~= b then
+                    if v.Data.DevilFruit.Value ~= b then
                         if v.Character.Humanoid.Sit == false and v.Data.Race.Value ~= "Mink" and v.Data.Race.Value ~= "Cyborg" then
                             if not table.find(cucac, v) and not table.find(enemytable, v) then
                                 table.insert(cucac, v)
@@ -193,7 +193,7 @@ function FindNewEnemy()
             for i, a in next, NPCBypass do
                 if v:DistanceFromCharacter(a.p) <= 2500 then
                     if (v.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude < dist then
-                        targetselected = v.Character
+                        targetselected = v
                         dist = (v.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude
                     end
                 end
@@ -333,6 +333,7 @@ function bypass(Pos)
         repeat
             task.wait()
             tween:Cancel()
+            plr.Character:FindFirstChild("Nigger"):Destroy()
             game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):ChangeState(15)
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = GetBypassCFrame(Pos)
         until game.Players.LocalPlayer.Character.PrimaryPart.CFrame == GetBypassCFrame(Pos) or canthop == true
@@ -351,15 +352,6 @@ function bypass(Pos)
 end
 
 canthop = false
-if not workspace:FindFirstChild("Nigger") then
-    local Part = Instance.new("Part", workspace)
-    Part.Name = "Nigger"
-    Part.CanCollide = true
-    Part.Transparency = 1
-    Part.Size = Vector3.new(10, 1, 10)
-    Part.Anchored = true
-end
-
 function to(TargetCFrame)
     local dit = (TargetCFrame.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
     local tweenservice = game:GetService("TweenService")
@@ -371,16 +363,24 @@ function to(TargetCFrame)
             v.CanCollide = false
         end
     end
-    if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (workspace:FindFirstChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
-        workspace:FindFirstChild("Nigger").CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+    if not plr.Character:FindFirstChild("Nigger") then
+        local Part = Instance.new("Part", plr.Character)
+        Part.Name = "Nigger"
+        Part.CanCollide = true
+        Part.Transparency = 1
+        Part.Size = Vector3.new(10, 1, 10)
+        Part.Anchored = true
+    end
+    if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character.Nigger.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
+        plr.Character:FindFirstChild("Nigger"):Destroy()
     end
     if dit <= 250 then
         tween:Cancel()
-        workspace:FindFirstChild("Nigger").CFrame = TargetCFrame
+        plr.Character.Nigger.CFrame = TargetCFrame
     end
-    workspace:FindFirstChild("Nigger"):GetPropertyChangedSignal("CFrame"):Connect(function()
+    plr.Character.Nigger:GetPropertyChangedSignal("CFrame"):Connect(function()
         task.wait(0.01)
-        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = workspace:FindFirstChild("Nigger").CFrame * CFrame.new(0, 2, 0)
+        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = plr.Character.Nigger.CFrame * CFrame.new(0, 2, 0)
     end)
     if plr.Character.Humanoid.Sit == true then
         plr.Character.Humanoid.Sit = false
