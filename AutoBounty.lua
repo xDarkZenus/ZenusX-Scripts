@@ -431,54 +431,57 @@ function FireRemotes(number, ...)
 end
 
 function GaySec()
-    while task.wait() do
-        if Hop == true then
-            HopSivi()
-        else
-            if plr:FindFirstChild("PlayerGui") and plr.PlayerGui:FindFirstChild("ScreenGui") and plr.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") then
+    pcall(function()
+        while task.wait() do
+            if Hop == true then
+                HopSivi()
             else
-                game:service("VirtualUser"):CaptureController()
-                game:service("VirtualUser"):SetKeyDown("0x65")
-                game:service("VirtualUser"):SetKeyUp("0x65")
-                wait(.3)
-            end 
-            BigHitbox()
-            NoStun()
-            plr.Character:SetAttribute("DashLength", 100)
-            if not enemy or not enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
-                FindNewEnemy()
-            end
-            if Config["Settings"]["Camera Mode"]["Specated"] then 
-                workspace.CurrentCamera.CameraSubject = enemy.Character 
-            else 
-                workspace.CurrentCamera.CameraSubject = plr.Character 
-            end 
-            if Config["Settings"]["Camera Mode"]["Lock"] == true then
-                game.Workspace.CurrentCamera.CFrame = CFrame.new(game.Workspace.CurrentCamera.CFrame.Position, enemy.Character.HumanoidRootPart.Position)
-            end
-            if plr.PlayerGui.Main.PvpDisabled.Visible then
-                FireRemotes(1, "EnablePvp")
-            end 
-            if plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1] then
-                to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(math.random(9999, 99999), math.random(9999, 99999), math.random(9999, 99999)))
-            elseif ((plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1]) or (not Config["Settings"]["Panic Mode"][1])) then 
-                if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude > 300 then
-                    to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0))
+                if plr:FindFirstChild("PlayerGui") and plr.PlayerGui:FindFirstChild("ScreenGui") and plr.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") then
                 else
-                    if GetSkillsByWeapon() then
-                        spawn(function()
+                    game:service("VirtualUser"):CaptureController()
+                    game:service("VirtualUser"):SetKeyDown("0x65")
+                    game:service("VirtualUser"):SetKeyUp("0x65")
+                    wait(.3)
+                end 
+                BigHitbox()
+                NoStun()
+                plr.Character:SetAttribute("DashLength", 100)
+                if not enemy or not enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
+                    FindNewEnemy()
+                end
+                if Config["Settings"]["Camera Mode"]["Specated"] then 
+                    workspace.CurrentCamera.CameraSubject = enemy.Character 
+                else 
+                    workspace.CurrentCamera.CameraSubject = plr.Character 
+                end 
+                if Config["Settings"]["Camera Mode"]["Lock"] == true then
+                    game.Workspace.CurrentCamera.CFrame = CFrame.new(game.Workspace.CurrentCamera.CFrame.Position, enemy.Character.HumanoidRootPart.Position)
+                end
+                if plr.PlayerGui.Main.PvpDisabled.Visible then
+                    FireRemotes(1, "EnablePvp")
+                end 
+                if plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1] then
+                    to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(math.random(9999, 99999), math.random(9999, 99999), math.random(9999, 99999)))
+                elseif ((plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1]) or (not Config["Settings"]["Panic Mode"][1])) then 
+                    if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude > 300 then
+                        to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0))
+                    else
+                        if GetSkillsByWeapon() then
                             local concac = GetSkillsByWeapon()
                             EquipTool(concac[1])
                             SendKey(concac[2], concac[2][4])
-                        end)
-                        spawn(to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(((math.random(1, 2) == 1 and 0) or 15), ((math.random(4, 9) == 4 and 14) or 15), ((math.random(1, 2) == 1 and 0) or 15))))
-                    else
-                        spawn(to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(((math.random(1, 2) == 1 and 0) or 15), ((math.random(15, 22) == 4 and 14) or 15), ((math.random(1, 2) == 1 and 0) or 15))))
+                            to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(7, 12, 4))
+                        else
+                            if enemy.Character.Humanoid.Health >= 3000 then
+                                game:GetService("VirtualUser"):CaptureController()
+                                game:GetService("VirtualUser"):Button1Down(Vector2.new(0,1,0,1))
+                            end
+                            to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(7, 12, 4))
+                        end
                     end
                 end
             end
         end
-    end
+    end)
 end
-if not a then warn(b) return GaySec() end
 GaySec()
