@@ -373,7 +373,11 @@ function to(TargetCFrame)
             Part.Anchored = true
             Part:GetPropertyChangedSignal("CFrame"):Connect(function()
                 task.wait(0.01)
-                game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame * CFrame.new(0, 2, 0)
+                if (plr.Character.HumanoidRootPart.Position - Part.Position).Magnitude <= 200 then
+                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame * CFrame.new(0, 2, 0)
+                else
+                    Part.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+                end
             end)
         end
         if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character:FindFirstChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
