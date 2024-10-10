@@ -193,7 +193,7 @@ function FindNewEnemy()
             for i, a in next, NPCBypass do
                 if v:DistanceFromCharacter(a.p) <= 2500 then
                     if (v.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude < dist then
-                        targetselected = v.Character
+                        targetselected = v
                         dist = (v.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude
                     end
                 end
@@ -333,6 +333,7 @@ function bypass(Pos)
         repeat
             task.wait()
             tween:Cancel()
+            plr.Character:FindFirstChild("Nigger"):Destroy()
             game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):ChangeState(15)
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = GetBypassCFrame(Pos)
         until game.Players.LocalPlayer.Character.PrimaryPart.CFrame == GetBypassCFrame(Pos) or canthop == true
@@ -351,49 +352,52 @@ function bypass(Pos)
 end
 
 canthop = false
-if not workspace:FindFirstChild("Nigger") then
-    local Part = Instance.new("Part", workspace)
-    Part.Name = "Nigger"
-    Part.CanCollide = true
-    Part.Transparency = 1
-    Part.Size = Vector3.new(10, 1, 10)
-    Part.Anchored = true
-end
-
 function to(TargetCFrame)
-    local dit = (TargetCFrame.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
-    local tweenservice = game:GetService("TweenService")
-    local inf = TweenInfo.new(dit / 185, Enum.EasingStyle.Linear)
-    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, TargetCFrame.Y, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
-    tween = tweenservice:Create(workspace.Nigger, inf ,{CFrame = TargetCFrame})
-    for i, v in next, game.Players.LocalPlayer.Character:GetDescendants() do
-        if v:IsA("BasePart") then
-            v.CanCollide = false
+    pcall(function()
+        local dit = (TargetCFrame.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+        local tweenservice = game:GetService("TweenService")
+        local inf = TweenInfo.new(dit / 185, Enum.EasingStyle.Linear)
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, TargetCFrame.Y, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
+        tween = tweenservice:Create(workspace.Nigger, inf ,{CFrame = TargetCFrame})
+        for i, v in next, game.Players.LocalPlayer.Character:GetDescendants() do
+            if v:IsA("BasePart") then
+                v.CanCollide = false
+            end
         end
-    end
-    if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (workspace:FindFirstChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
-        workspace:FindFirstChild("Nigger").CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
-    end
-    if dit <= 250 then
-        tween:Cancel()
-        workspace:FindFirstChild("Nigger").CFrame = TargetCFrame
-    end
-    workspace:FindFirstChild("Nigger"):GetPropertyChangedSignal("CFrame"):Connect(function()
-        task.wait(0.01)
-        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = workspace:FindFirstChild("Nigger").CFrame * CFrame.new(0, 2, 0)
+        if not plr.Character:FindFirstChild("Nigger") then
+            local Part = Instance.new("Part", plr.Character)
+            Part.Name = "Nigger"
+            Part.CanCollide = true
+            Part.Transparency = 1
+            Part.Size = Vector3.new(10, 1, 10)
+            Part.Anchored = true
+            Part:GetPropertyChangedSignal("CFrame"):Connect(function()
+                task.wait(0.01)
+                game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame * CFrame.new(0, 2, 0)
+            end)
+        end
+        if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character:FindFirstChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
+            plr.Character:FindFirstChild("Nigger"):Destroy()
+        end
+        if dit <= 250 then
+            tween:Cancel()
+            plr.Character:FindFirstChild("Nigger").CFrame = TargetCFrame
+        end
+        if plr.Character.Humanoid.Sit == true then
+            plr.Character.Humanoid.Sit = false
+        end
+        if dist >= 2500 and GetPortal(TargetCFrame) then
+            plr.Character:FindFirstChild("Nigger"):Destroy()
+            args = {"requestEntrance", GetPortal(TargetCFrame)}
+            game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
+            task.wait(.5)
+        end
+        if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
+            plr.Character:FindFirstChild("Nigger"):Destroy()
+            return bypass(TargetCFrame)
+        end
+        tween:Play()
     end)
-    if plr.Character.Humanoid.Sit == true then
-        plr.Character.Humanoid.Sit = false
-    end
-    if dist >= 2500 and GetPortal(TargetCFrame) then
-        args = {"requestEntrance", GetPortal(TargetCFrame)}
-        game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
-        task.wait(.5)
-    end
-    if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
-        return bypass(TargetCFrame)
-    end
-    tween:Play()
 end 
 
 function HopSivi() 
@@ -454,7 +458,7 @@ function GaySec()
             BigHitbox()
             NoStun()
             plr.Character:SetAttribute("DashLength", 100)
-            if not enemy or enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
+            if not enemy or not enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
                 FindNewEnemy()
             end
             if elapsed == 0 or elapsed == nil then elapsed = os.time() end 
