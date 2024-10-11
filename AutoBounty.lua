@@ -351,16 +351,25 @@ function bypass(Pos)
 end
 
 canthop = false
-function to(buda)
-    local dist = (buda.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+
+function to(TargetCFrame)
+    local dit = (TargetCFrame.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
     local tweenservice = game:GetService("TweenService")
-    local info = TweenInfo.new(dist / 325, Enum.EasingStyle.Linear)
-    tween = tweenservice:Create(plr.Character.HumanoidRootPart, info, {CFrame = buda})
-    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, buda.Y, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
-    if dist <= 200 then
-        tween:Cancel()
-        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = buda
+    local inf = TweenInfo.new(dit / 185, Enum.EasingStyle.Linear)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X, TargetCFrame.Y, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
+    if not plr.Character:FindFirstChild("Nigger") then
+        local Part = Instance.new("Part", plr.Character)
+        Part.Name = "Nigger"
+        Part.CanCollide = false
+        Part.Transparency = 1
+        Part.Size = Vector3.new(10, 1, 10)
+        Part.Anchored = true
+        Part:GetPropertyChangedSignal("CFrame"):Connect(function()
+            task.wait(0.01)
+            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame * CFrame.new(0, 2, 0)
+        end)
     end
+    tween = tweenservice:Create(plr.Character.Nigger, inf ,{CFrame = TargetCFrame})
     if not game.Players.LocalPlayer.Character.Head:FindFirstChild("cac") then
         local buu = Instance.new("BodyVelocity", game.Players.LocalPlayer.Character.Head)
         buu.Velocity = Vector3.new(0, 0, 0)
@@ -376,16 +385,21 @@ function to(buda)
     if plr.Character.Humanoid.Sit == true then
         plr.Character.Humanoid.Sit = false
     end
-    if dist >= 2500 and GetPortal(buda) then
-        args = {"requestEntrance", GetPortal(buda)}
+    if dist >= 2500 and GetPortal(TargetCFrame) then
+        args = {"requestEntrance", GetPortal(TargetCFrame)}
         game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
         task.wait(.5)
     end
-    if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(buda).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
-        return bypass(buda)
+    if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
+        return bypass(TargetCFrame)
+    end
+    while wait() do
+        if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character.Nigger.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
+            plr.Character.Nigger.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+        end
     end
     tween:Play()
-end
+end 
 
 function HopSivi() 
     function bQ(v)
@@ -454,6 +468,9 @@ function GaySec()
                 else 
                     workspace.CurrentCamera.CameraSubject = plr.Character 
                 end 
+                if plr.PlayerGui.Main.BottomHUDList.SafeZone.Visible and enemy:DistanceFromCharacter(plr.Character.Head.Position) <= 100 then
+                    FindNewEnemy()
+                end
                 if Config["Settings"]["Camera Mode"]["Lock"] == true then
                     game.Workspace.CurrentCamera.CFrame = CFrame.new(game.Workspace.CurrentCamera.CFrame.Position, enemy.Character.HumanoidRootPart.Position)
                 end
