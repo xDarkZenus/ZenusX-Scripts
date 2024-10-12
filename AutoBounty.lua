@@ -333,6 +333,9 @@ function bypass(Pos)
         repeat
             task.wait()
             tween:Cancel()
+            if plr.Character:FindFirstChild("Nigger") then
+                plr.Character:FindFirstChild("Nigger").CFrame = Pos
+            end
             game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):ChangeState(15)
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = GetBypassCFrame(Pos)
         until game.Players.LocalPlayer.Character.PrimaryPart.CFrame == GetBypassCFrame(Pos) or canthop == true
@@ -363,6 +366,7 @@ function to(TargetCFrame)
         Part.CanCollide = false
         Part.Transparency = 1
         Part.Size = Vector3.new(10, 1, 10)
+        Part.CFrame = plr.Character.HumanoidRootPart.CFrame
         Part.Anchored = true
         Part:GetPropertyChangedSignal("CFrame"):Connect(function()
             task.wait(0.01)
@@ -388,18 +392,24 @@ function to(TargetCFrame)
     if dist >= 2500 and GetPortal(TargetCFrame) then
         args = {"requestEntrance", GetPortal(TargetCFrame)}
         game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
+        plr.Character:FindFirstChild("Nigger").CFrame = plr.Character.HumanoidRootPart.CFrame
         task.wait(.5)
     end
     if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
         return bypass(TargetCFrame)
     end
-    while wait() do
-        if game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character.Nigger.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
-            plr.Character.Nigger.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
-        end
-    end
     tween:Play()
 end 
+
+spawn(function()
+    while wait() do
+        while wait() do
+            if game:GetService("Players").LocalPlayer.Character and game:GetService("Players").LocalPlayer.Character:FindFirstChild("Humanoid") and game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character:WaitForChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
+                plr.Character:FindFirstChild("Nigger"):Destroy()
+            end
+        end
+    end
+end)
 
 function HopSivi() 
     function bQ(v)
