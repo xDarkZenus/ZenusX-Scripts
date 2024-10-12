@@ -399,9 +399,9 @@ function to(TargetCFrame)
     if plr.Character.Humanoid.Sit == true then
         plr.Character.Humanoid.Sit = false
     end
-    if (GetPortal(TargetCFrame) - TargetCFrame.Position).Magnitude < dist and (GetPortal(TargetCFrame) - TargetCFrame.Position).Magnitude > 500 then
+    if dist > 2500 and Portal then
         print("requestEntrance")
-        return requestEntrance(Portal)
+        requestEntrance(Portal)
     end
     if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
         print("Bypass")
@@ -416,8 +416,10 @@ end
 spawn(function()
     while wait() do
         while wait() do
-            if plr.Character:WaitForChild("Humanoid").Health <= 0 or (plr.Character:WaitForChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
-                plr.Character:FindFirstChild("Nigger"):Destroy()
+            if plr.Character:WaitForChild("Humanoid").Health <= 0 or plr.Character:FindFirstChild("Nigger") and (plr.Character.Nigger.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
+                if plr.Character:FindFirstChild("Nigger") then
+                    plr.Character:FindFirstChild("Nigger"):Destroy()
+                end
             end
         end
     end
@@ -467,7 +469,6 @@ function FireRemotes(number, ...)
 end
 
 function GaySec()
-    pcall(function()
         while task.wait() do
             if Hop == true then
                 HopSivi()
@@ -529,6 +530,5 @@ function GaySec()
                 end
             end
         end
-    end)
-end
+    end
 GaySec()
