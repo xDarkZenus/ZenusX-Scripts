@@ -157,6 +157,7 @@ function GetSkillsByWeapon()
 end
 
 function SendKey(nah, ilose)
+    if ilose == nil then ilose = 0.1 end
     pcall(function()
         set_thread_identity(8) 
         game:service("VirtualInputManager"):SendKeyEvent(true, nah, false, game)
@@ -462,6 +463,12 @@ function FireRemotes(number, ...)
     return game:GetService("ReplicatedStorage").Remotes[arg]:InvokeServer(unpack({...}))
 end
 
+function EnableV4()
+    if plr.Character and plr.Character:FindFirstChild("RaceTransformed") and plr.Character:FindFirstChild("RaceEnergy") and plr.Character.RaceEnergy.Value >= 1 and not plr.Character.RaceTransformed.Value then
+        SendKey("Y", 0)
+    end
+end
+
 function GaySec()
     a, b = pcall(function()
         while task.wait() do
@@ -477,6 +484,7 @@ function GaySec()
                 end 
                 BigHitbox()
                 NoStun()
+                EnableV4()
                 plr.Character:SetAttribute("DashLength", 100)
                 if not enemy or not enemy.Parent or enemy.Character.Humanoid.Health <= 0 or not enemy.Character.Head then
                     FindNewEnemy()
@@ -502,7 +510,7 @@ function GaySec()
                     FireRemotes(1, "EnablePvp")
                 end 
                 if plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1] then
-                    plr.Character.HumanoidRootPart.CFrame = enemy.Character.HumanoidRootPart.CFrame * CFrame.new(math.random(9999, 99999), math.random(9999, 99999), math.random(9999, 99999))
+                    plr.Character.HumanoidRootPart.CFrame = enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, math.random(9999, 99999), 0)
                 elseif ((plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1]) or (not Config["Settings"]["Panic Mode"][1])) then 
                     if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude >= 150 then
                         to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0))
