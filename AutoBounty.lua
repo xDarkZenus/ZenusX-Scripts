@@ -17,7 +17,7 @@ if not Config or Config == nil then
                 "Nigger-Nigger"
             },
             ["Camera Mode"] = {
-                ["Specated"] = false,
+                ["Specated"] = true,
                 ["Lock"] = true
             },
             ["Ultra Gun Gay Mode"] = {
@@ -172,7 +172,7 @@ function GetEnemy()
         if v.Name ~= game.Players.LocalPlayer.Name and v.Character and v.Parent then
             if v.Character.Humanoid.Health > 0 and v.Character:FindFirstChild("HumanoidRootPart") then
                 for a, b in next, Config["Settings"]["Fruit Skip"] do
-                    if v.Data.DevilFruit.Value ~= b then
+                    if v.Data.DevilFruit.Value ~= tostring(v) then
                         if v.Character.Humanoid.Sit == false and v.Data.Race.Value ~= "Mink" and v.Data.Race.Value ~= "Cyborg" then
                             if not table.find(cucac, v) and not table.find(enemytable, v) then
                                 table.insert(cucac, v)
@@ -207,6 +207,29 @@ function FindNewEnemy()
         Hop = true
     end
 end
+
+local FPS = Instance.new("ScreenGui")
+local CountFPS = Instance.new("TextLabel")
+FPS.Name = "FPS"
+FPS.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+CountFPS.Name = "CountFPS"
+CountFPS.Parent = FPS
+CountFPS.AnchorPoint = Vector2.new(0, 1)
+CountFPS.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CountFPS.BackgroundTransparency = 1.000
+CountFPS.BorderColor3 = Color3.fromRGB(0, 0, 0)
+CountFPS.BorderSizePixel = 0
+CountFPS.Position = UDim2.new(0.667487681, 0, 0.276422769, 0)
+CountFPS.Size = UDim2.new(0, 200, 0, 50)
+CountFPS.Font = Enum.Font.Unknown
+CountFPS.Text = "FPS : 60"
+CountFPS.TextColor3 = Color3.fromRGB(255, 255, 255)
+CountFPS.TextSize = 17.000
+game:GetService("RunService").RenderStepped:Connect(function(deltaTime)
+    local fps = math.floor(1 / deltaTime)
+    CountFPS.Text = "FPS : " .. fps
+end)
+
 
 spawn(function()
     local gg = getrawmetatable(game)
@@ -469,6 +492,7 @@ function FireRemotes(number, ...)
 end
 
 function GaySec()
+    pcall(function()
         while task.wait() do
             if Hop == true then
                 HopSivi()
@@ -530,5 +554,6 @@ function GaySec()
                 end
             end
         end
-    end
+    end)
+end
 GaySec()
