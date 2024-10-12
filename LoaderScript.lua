@@ -333,6 +333,9 @@ function bypass(Pos)
         repeat
             task.wait()
             tween:Cancel()
+            if plr.Character:FindFirstChild("Nigger") then
+                plr.Character:FindFirstChild("Nigger").CFrame = Pos
+            end
             game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):ChangeState(15)
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = GetBypassCFrame(Pos)
         until game.Players.LocalPlayer.Character.PrimaryPart.CFrame == GetBypassCFrame(Pos) or canthop == true
@@ -363,10 +366,11 @@ function to(TargetCFrame)
         Part.CanCollide = false
         Part.Transparency = 1
         Part.Size = Vector3.new(10, 1, 10)
+        Part.CFrame = plr.Character.HumanoidRootPart.CFrame
         Part.Anchored = true
         Part:GetPropertyChangedSignal("CFrame"):Connect(function()
             task.wait(0.01)
-            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame * CFrame.new(0, 2, 0)
+            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Part.CFrame
         end)
     end
     tween = tweenservice:Create(plr.Character.Nigger, inf ,{CFrame = TargetCFrame})
@@ -388,6 +392,7 @@ function to(TargetCFrame)
     if dist >= 2500 and GetPortal(TargetCFrame) then
         args = {"requestEntrance", GetPortal(TargetCFrame)}
         game.ReplicatedStorage.Remotes.CommF_:InvokeServer(unpack(args))
+        plr.Character:FindFirstChild("Nigger").CFrame = plr.Character.HumanoidRootPart.CFrame
         task.wait(.5)
     end
     if dist > 2500 and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - GetBypassCFrame(TargetCFrame).Position).Magnitude > 2500 and not CheckInComBat() and canthop == false then
@@ -399,8 +404,8 @@ end
 spawn(function()
     while wait() do
         while wait() do
-            if game:GetService("Players").LocalPlayer.Character and game:GetService("Players").LocalPlayer.Character:FindFirstChild("Humanoid") and game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character.Nigger.Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
-                plr.Character.Nigger.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+            if game:GetService("Players").LocalPlayer.Character and game:GetService("Players").LocalPlayer.Character:FindFirstChild("Humanoid") and game:GetService("Players").LocalPlayer.Character.Humanoid.Health <= 0 or (plr.Character:WaitForChild("Nigger").Position - game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position).Magnitude >= 200 then
+                plr.Character:FindFirstChild("Nigger"):Destroy()
             end
         end
     end
@@ -473,6 +478,9 @@ function GaySec()
                 else 
                     workspace.CurrentCamera.CameraSubject = plr.Character 
                 end 
+                if not plr.Character:FindFirstChild("HasBuso") then
+                    FireRemotes(1, "Buso")
+                end
                 if plr.PlayerGui.Main.BottomHUDList.SafeZone.Visible and enemy:DistanceFromCharacter(plr.Character.Head.Position) <= 100 then
                     FindNewEnemy()
                 end
@@ -485,7 +493,7 @@ function GaySec()
                 if plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health < Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1] then
                     to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(math.random(9999, 99999), math.random(9999, 99999), math.random(9999, 99999)))
                 elseif ((plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][2] and plr.Character.Humanoid.Health > Config["Settings"]["Panic Mode"][3] and Config["Settings"]["Panic Mode"][1]) or (not Config["Settings"]["Panic Mode"][1])) then 
-                    if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude > 300 then
+                    if (enemy.Character.HumanoidRootPart.Position - plr.Character.HumanoidRootPart.Position).Magnitude > 100 then
                         to(enemy.Character.HumanoidRootPart.CFrame * CFrame.new(0, 25, 0))
                     else
                         if GetSkillsByWeapon() then
